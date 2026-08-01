@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1940421008319791416",
+    "created_at": "2025-07-02T14:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T15:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940421008319791416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1657679843205730304",
+          "start": 14,
+          "username": "yeye828282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940421008319791416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们又和好了我们永远是好姐妹@yeye828282 （塑料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1940421008319791416",
+        "created_at": "2025-07-02T14:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940421008319791416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1657679843205730304",
+              "start": 14,
+              "username": "yeye828282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940421008319791416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们又和好了我们永远是好姐妹@yeye828282 （塑料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5508,
+          "following_count": 947,
+          "like_count": 14409,
+          "listed_count": 10,
+          "media_count": 749,
+          "tweet_count": 11323
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T09:30:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yorusama82",
+                "end": 23,
+                "expanded_url": "https://t.me/yorusama82",
+                "start": 0,
+                "url": "https://t.co/jc9poYWLlR"
+              }
+            ]
+          }
+        },
+        "id": "1657679843205730304",
+        "location": "我想去死啊",
+        "name": "КроКровожадный т",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930285563711762438/JV1uF0he_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 463,
+          "like_count": 2867,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/jc9poYWLlR",
+        "username": "yeye828282",
+        "verified": false
+      }
+    ]
+  }
+}

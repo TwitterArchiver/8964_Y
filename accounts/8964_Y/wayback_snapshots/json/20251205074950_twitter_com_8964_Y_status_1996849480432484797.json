@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1996427479201014180",
+    "created_at": "2025-12-05T07:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T08:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996849480432484797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996849480432484797",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996427479201014180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak 这些人好唐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996427455125659648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S8MWKaIAADGgV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996427455230525440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S8MWjaQAAebEU.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996427455108980736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S8MWGboAAJW8L.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1996427479201014180",
+        "created_at": "2025-12-05T07:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996849480432484797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996849480432484797",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996427479201014180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak 这些人好唐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996427455125659648",
+            "3_1996427455230525440",
+            "3_1996427455108980736"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "1996427479201014180",
+        "created_at": "2025-12-04T03:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T04:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996427479201014180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDskE4TJwM",
+              "end": 97,
+              "expanded_url": "https://x.com/TvTbreak/status/1996427479201014180/photo/1",
+              "media_key": "3_1996427455125659648",
+              "start": 74,
+              "url": "https://t.co/vDskE4TJwM"
+            },
+            {
+              "display_url": "pic.x.com/vDskE4TJwM",
+              "end": 97,
+              "expanded_url": "https://x.com/TvTbreak/status/1996427479201014180/photo/1",
+              "media_key": "3_1996427455230525440",
+              "start": 74,
+              "url": "https://t.co/vDskE4TJwM"
+            },
+            {
+              "display_url": "pic.x.com/vDskE4TJwM",
+              "end": 97,
+              "expanded_url": "https://x.com/TvTbreak/status/1996427479201014180/photo/1",
+              "media_key": "3_1996427455108980736",
+              "start": 74,
+              "url": "https://t.co/vDskE4TJwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996427479201014180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 50464,
+          "like_count": 296,
+          "quote_count": 5,
+          "reply_count": 66,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这些起号的能不能滚远点啊？先是那个什么下蛋的咯咯哒，紧接着私信里来了个找妈妈的小鸡，评论区又莫名其妙来个曼波，你曼波你爸个雷霆啊。蠢人多作怪。滚。 https://t.co/vDskE4TJwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5864,
+          "following_count": 834,
+          "like_count": 17484,
+          "listed_count": 17,
+          "media_count": 942,
+          "tweet_count": 13834
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "不加联系方式",
+        "id": "1883157644711796736",
+        "location": "请埋葬我所有的痛和悲",
+        "name": "死非絕命",
+        "pinned_tweet_id": "1974349235505279243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996080136278736896/2dDzgCMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6039,
+          "following_count": 150,
+          "like_count": 8700,
+          "listed_count": 22,
+          "media_count": 147,
+          "tweet_count": 3742
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

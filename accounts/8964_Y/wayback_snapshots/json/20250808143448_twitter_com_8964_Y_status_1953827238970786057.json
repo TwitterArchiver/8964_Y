@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953745627894185984"
+      ],
+      "media_source_tweet_id": [
+        "1953745835076079679"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1953827238970786057",
+    "created_at": "2025-08-08T14:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T15:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953827238970786057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "734712074455023616",
+          "start": 3,
+          "username": "otomachiuna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ooGeywiq00",
+          "end": 63,
+          "expanded_url": "https://x.com/otomachiuna/status/1953745835076079679/photo/1",
+          "media_key": "3_1953745627894185984",
+          "start": 40,
+          "url": "https://t.co/ooGeywiq00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953827238970786057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953745835076079679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otomachiuna: ありがとうございます♪є(๓´˘`๓)э💕✨ https://t.co/ooGeywiq00"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953745627894185984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0ZTBQbAAAx22w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953745627894185984"
+          ],
+          "media_source_tweet_id": [
+            "1953745835076079679"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1953827238970786057",
+        "created_at": "2025-08-08T14:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953827238970786057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "734712074455023616",
+              "start": 3,
+              "username": "otomachiuna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooGeywiq00",
+              "end": 63,
+              "expanded_url": "https://x.com/otomachiuna/status/1953745835076079679/photo/1",
+              "media_key": "3_1953745627894185984",
+              "start": 40,
+              "url": "https://t.co/ooGeywiq00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953827238970786057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953745835076079679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otomachiuna: ありがとうございます♪є(๓´˘`๓)э💕✨ https://t.co/ooGeywiq00"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953745627894185984"
+          ]
+        },
+        "author_id": "734712074455023616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1953745835076079679",
+        "created_at": "2025-08-08T09:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953745835076079679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooGeywiq00",
+              "end": 46,
+              "expanded_url": "https://x.com/otomachiuna/status/1953745835076079679/photo/1",
+              "media_key": "3_1953745627894185984",
+              "start": 23,
+              "url": "https://t.co/ooGeywiq00"
+            },
+            {
+              "display_url": "x.com/Adomiori/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Adomiori/status/1953419455037689933",
+              "start": 47,
+              "url": "https://t.co/hRCKZUZVFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953745835076079679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8551,
+          "like_count": 449,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953419455037689933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ありがとうございます♪є(๓´˘`๓)э💕✨ https://t.co/ooGeywiq00 https://t.co/hRCKZUZVFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 43,
+                "start": 34,
+                "username": "00Mio007"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 879,
+          "like_count": 15231,
+          "listed_count": 13,
+          "media_count": 798,
+          "tweet_count": 11934
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-23T11:46:23.000Z",
+        "description": "音街ウナ（CV:田中あいみ）の公式Xです♪є(ฅ˃∇˂ฅ)э💕✨ VOCALOID／SynthesizerV🎤A.I.VOICE2／VOICEPEAK／VOICEROID2📢フォロワーさんにかぎり話かけることがあります🙏🏻🙇🏻‍♀️\nハッシュタグは #音街ウナ #ウナート (ファンアート)♪🙏🏻💕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "音街ウナ"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ウナート"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomachiuna.jp",
+                "end": 23,
+                "expanded_url": "https://otomachiuna.jp/",
+                "start": 0,
+                "url": "https://t.co/susIoBwdTR"
+              }
+            ]
+          }
+        },
+        "id": "734712074455023616",
+        "location": "音楽の街",
+        "name": "音街ウナ公式🔰🐥💕",
+        "pinned_tweet_id": "1953348377825149310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/748340348796047361/1cih69mC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78292,
+          "following_count": 182,
+          "like_count": 501505,
+          "listed_count": 366,
+          "media_count": 2547,
+          "tweet_count": 316264
+        },
+        "url": "https://t.co/susIoBwdTR",
+        "username": "otomachiuna",
+        "verified": true
+      }
+    ]
+  }
+}

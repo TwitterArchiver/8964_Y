@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001965629092569088"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2001613893404348727",
+    "created_at": "2025-12-19T10:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T11:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001965638043218382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976192704884375552",
+          "start": 0,
+          "username": "TheFirst7j"
+        },
+        {
+          "end": 24,
+          "id": "1528005407469346818",
+          "start": 12,
+          "username": "K1raK1ra818"
+        },
+        {
+          "end": 39,
+          "id": "1836052039857786881",
+          "start": 25,
+          "username": "yasai11kueyo7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qEs2mnXEVQ",
+          "end": 72,
+          "expanded_url": "https://x.com/8964_Y/status/2001965638043218382/photo/1",
+          "media_key": "3_2001965629092569088",
+          "start": 49,
+          "url": "https://t.co/qEs2mnXEVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001965638043218382",
+    "in_reply_to_user_id": "1976192704884375552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001791052731355316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheFirst7j @K1raK1ra818 @yasai11kueyo7 还有什么想说的吗 https://t.co/qEs2mnXEVQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2001965629092569088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hpIf6aoAAcJNv.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001965629092569088"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2001613893404348727",
+        "created_at": "2025-12-19T10:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001965638043218382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976192704884375552",
+              "start": 0,
+              "username": "TheFirst7j"
+            },
+            {
+              "end": 24,
+              "id": "1528005407469346818",
+              "start": 12,
+              "username": "K1raK1ra818"
+            },
+            {
+              "end": 39,
+              "id": "1836052039857786881",
+              "start": 25,
+              "username": "yasai11kueyo7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEs2mnXEVQ",
+              "end": 72,
+              "expanded_url": "https://x.com/8964_Y/status/2001965638043218382/photo/1",
+              "media_key": "3_2001965629092569088",
+              "start": 49,
+              "url": "https://t.co/qEs2mnXEVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001965638043218382",
+        "in_reply_to_user_id": "1976192704884375552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001791052731355316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheFirst7j @K1raK1ra818 @yasai11kueyo7 还有什么想说的吗 https://t.co/qEs2mnXEVQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976192704884375552",
+        "conversation_id": "2001613893404348727",
+        "created_at": "2025-12-18T23:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T00:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001791052731355316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            },
+            {
+              "end": 27,
+              "id": "1836052039857786881",
+              "start": 13,
+              "username": "yasai11kueyo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001791052731355316",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001736358671585603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 @yasai11kueyo7 僕わざと、あなた自身も"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5825,
+          "following_count": 833,
+          "like_count": 17635,
+          "listed_count": 19,
+          "media_count": 950,
+          "tweet_count": 13988
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T07:48:31.000Z",
+        "description": "皆さんよろしくお願いします🥹💞",
+        "id": "1976192704884375552",
+        "location": "Kashiba-shi, Nara",
+        "name": "ナナチ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976193193877417984/lD51iXgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "TheFirst7j",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "病み垢。同類會回fo。來自火星。 寵物：@anacciluno_ch",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "anacciluno_ch"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "2000525650302521484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000211132230127616/XRMLJy6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 524,
+          "like_count": 7644,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1177
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T14:39:23.000Z",
+        "description": "カワイイだけじゃダメですね おしとやかさも必要ね @love_ura4ka171",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "love_ura4ka171"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yasai._.kueyo…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@yasai._.kueyo7?_t=ZS-8wKINtWxNFA&_r=1",
+                "start": 0,
+                "url": "https://t.co/wx8Q1rSBWm"
+              }
+            ]
+          }
+        },
+        "id": "1836052039857786881",
+        "location": "ド田舎住在日本語警察ツイ廃元カルト宗教自称量産型障害者女",
+        "name": "七浦🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974428550020362241/43z4p6hT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3702,
+          "following_count": 50,
+          "like_count": 189772,
+          "listed_count": 13,
+          "media_count": 178,
+          "tweet_count": 11343
+        },
+        "url": "https://t.co/wx8Q1rSBWm",
+        "username": "yasai11kueyo7",
+        "verified": false
+      }
+    ]
+  }
+}

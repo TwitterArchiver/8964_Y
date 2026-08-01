@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068055004724760576"
+      ],
+      "media_source_tweet_id": [
+        "2068055006876434436"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068261589204205880",
+    "created_at": "2026-06-20T09:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068261589204205880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041590739692326912",
+          "start": 3,
+          "username": "rojariadna67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UJX4bqUkmw",
+          "end": 41,
+          "expanded_url": "https://x.com/rojariadna67/status/2068055006876434436/photo/1",
+          "media_key": "3_2068055004724760576",
+          "start": 18,
+          "url": "https://t.co/UJX4bqUkmw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068261589204205880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068055006876434436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rojariadna67: https://t.co/UJX4bqUkmw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2068055004724760576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLM1EdyWkAA1Mmr.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068055004724760576"
+          ],
+          "media_source_tweet_id": [
+            "2068055006876434436"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068261589204205880",
+        "created_at": "2026-06-20T09:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068261589204205880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041590739692326912",
+              "start": 3,
+              "username": "rojariadna67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJX4bqUkmw",
+              "end": 41,
+              "expanded_url": "https://x.com/rojariadna67/status/2068055006876434436/photo/1",
+              "media_key": "3_2068055004724760576",
+              "start": 18,
+              "url": "https://t.co/UJX4bqUkmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068261589204205880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068055006876434436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rojariadna67: https://t.co/UJX4bqUkmw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068055004724760576"
+          ]
+        },
+        "author_id": "2041590739692326912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068055006876434436",
+        "created_at": "2026-06-19T19:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068055006876434436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJX4bqUkmw",
+              "end": 23,
+              "expanded_url": "https://x.com/rojariadna67/status/2068055006876434436/photo/1",
+              "media_key": "3_2068055004724760576",
+              "start": 0,
+              "url": "https://t.co/UJX4bqUkmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068055006876434436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 4639,
+          "like_count": 286,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UJX4bqUkmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6623,
+          "following_count": 743,
+          "like_count": 24234,
+          "listed_count": 19,
+          "media_count": 1140,
+          "tweet_count": 16588
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T18:56:10.000Z",
+        "description": "🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️",
+        "id": "2041590739692326912",
+        "name": "Ariadna🏳️‍⚧️",
+        "pinned_tweet_id": "2061412236271226896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061804534125481984/Amzo2qVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 901,
+          "like_count": 8709,
+          "listed_count": 11,
+          "media_count": 669,
+          "tweet_count": 3840
+        },
+        "url": "",
+        "username": "rojariadna67",
+        "verified": true
+      }
+    ]
+  }
+}

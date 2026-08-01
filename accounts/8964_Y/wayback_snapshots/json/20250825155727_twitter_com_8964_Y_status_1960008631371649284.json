@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1960008631371649284",
+    "created_at": "2025-08-25T15:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T16:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960008631371649284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rachelport9321…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/rachelport9321/status/1960007067311493549",
+          "start": 4,
+          "url": "https://t.co/wEoeQERcQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960008631371649284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960007067311493549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天 https://t.co/wEoeQERcQd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1960008631371649284",
+        "created_at": "2025-08-25T15:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T16:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960008631371649284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rachelport9321…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/rachelport9321/status/1960007067311493549",
+              "start": 4,
+              "url": "https://t.co/wEoeQERcQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960008631371649284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960007067311493549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天 https://t.co/wEoeQERcQd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826046056141828096",
+        "conversation_id": "1960007067311493549",
+        "created_at": "2025-08-25T15:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T16:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960007067311493549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960007067311493549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "退网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 876,
+          "like_count": 15533,
+          "listed_count": 17,
+          "media_count": 822,
+          "tweet_count": 12118
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T23:58:09.000Z",
+        "description": "三国/史同，讨厌洁癖同人女，",
+        "id": "1826046056141828096",
+        "location": "he/them",
+        "name": "我是谁并不重要",
+        "pinned_tweet_id": "1953038172419399719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949772309805563904/idWVEBaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 368,
+          "like_count": 11255,
+          "listed_count": 1,
+          "media_count": 609,
+          "tweet_count": 4546
+        },
+        "username": "RachelPort9321",
+        "verified": false
+      }
+    ]
+  }
+}

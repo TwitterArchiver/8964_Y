@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980291064276582400"
+      ],
+      "media_source_tweet_id": [
+        "1980291066893861305"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1980303810783580231",
+    "created_at": "2025-10-20T16:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T17:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980303810783580231"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 85,
+          "normalized_text": "Dandadan214",
+          "probability": 0.8606,
+          "start": 75,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 74,
+          "tag": "Dandadan214"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1423142710601453569",
+          "start": 3,
+          "username": "OmarRei41969377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7rxIWht9g",
+          "end": 110,
+          "expanded_url": "https://x.com/OmarRei41969377/status/1980291066893861305/photo/1",
+          "media_key": "3_1980291064276582400",
+          "start": 87,
+          "url": "https://t.co/J7rxIWht9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980303810783580231",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980291066893861305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OmarRei41969377: Even starting from 0 they are so cute and SILLY! 💖☺️ #Dandadan214 https://t.co/J7rxIWht9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980291064276582400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3toOx4WAAAH44x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980291064276582400"
+          ],
+          "media_source_tweet_id": [
+            "1980291066893861305"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1980303810783580231",
+        "created_at": "2025-10-20T16:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T17:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980303810783580231"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "Dandadan214",
+              "probability": 0.8606,
+              "start": 75,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 74,
+              "tag": "Dandadan214"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1423142710601453569",
+              "start": 3,
+              "username": "OmarRei41969377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7rxIWht9g",
+              "end": 110,
+              "expanded_url": "https://x.com/OmarRei41969377/status/1980291066893861305/photo/1",
+              "media_key": "3_1980291064276582400",
+              "start": 87,
+              "url": "https://t.co/J7rxIWht9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980303810783580231",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980291066893861305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OmarRei41969377: Even starting from 0 they are so cute and SILLY! 💖☺️ #Dandadan214 https://t.co/J7rxIWht9g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980291064276582400"
+          ]
+        },
+        "author_id": "1423142710601453569",
+        "conversation_id": "1980291066893861305",
+        "created_at": "2025-10-20T15:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980291066893861305"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "Dandadan214",
+              "probability": 0.8933,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "Dandadan214"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7rxIWht9g",
+              "end": 89,
+              "expanded_url": "https://x.com/OmarRei41969377/status/1980291066893861305/photo/1",
+              "media_key": "3_1980291064276582400",
+              "start": 66,
+              "url": "https://t.co/J7rxIWht9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980291066893861305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 803,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Even starting from 0 they are so cute and SILLY! 💖☺️ #Dandadan214 https://t.co/J7rxIWht9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 883,
+          "like_count": 16343,
+          "listed_count": 17,
+          "media_count": 896,
+          "tweet_count": 13110
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T04:44:15.000Z",
+        "description": "- Amo Dandadan y Jujutsu Kaisen \n- Subo y reposteo cualquier cosa sobre estos 2 \n-🥇Fan N°1 de Momo x Okarun 💞",
+        "id": "1423142710601453569",
+        "location": "Fabrica de Momos",
+        "name": "Momo X Okarun 💞👽👻",
+        "pinned_tweet_id": "1956032919463432297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956036364052373507/vg87JEwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9099,
+          "following_count": 408,
+          "like_count": 27455,
+          "listed_count": 13,
+          "media_count": 3010,
+          "tweet_count": 14798
+        },
+        "username": "OmarRei41969377",
+        "verified": false
+      }
+    ]
+  }
+}

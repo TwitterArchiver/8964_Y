@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1933879573391036730",
+    "created_at": "2025-06-14T15:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933912628633723259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933912628633723259",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933879573391036730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 特别有特点的脸！看一眼就能记住很久"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933879564406784000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaFN7ragAA7R4D.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1933879573391036730",
+        "created_at": "2025-06-14T15:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933912628633723259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933912628633723259",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933879573391036730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 特别有特点的脸！看一眼就能记住很久"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933879564406784000"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "1933879573391036730",
+        "created_at": "2025-06-14T13:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933879573391036730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8f41pftP0V",
+              "end": 31,
+              "expanded_url": "https://x.com/YUSU_01/status/1933879573391036730/photo/1",
+              "media_key": "3_1933879564406784000",
+              "start": 8,
+              "url": "https://t.co/8f41pftP0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933879573391036730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎样才能有雷味 https://t.co/8f41pftP0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5510,
+          "following_count": 937,
+          "like_count": 13658,
+          "listed_count": 8,
+          "media_count": 724,
+          "tweet_count": 10729
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1924566411499995364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916446496532373504/f5Wggw6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7123,
+          "following_count": 39,
+          "like_count": 10685,
+          "listed_count": 3,
+          "media_count": 1231,
+          "tweet_count": 15227
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

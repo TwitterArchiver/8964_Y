@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2004174825343144452",
+    "created_at": "2025-12-26T10:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T11:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004495853776748856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004495853776748856",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004174825343144452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004174787225309184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BCWbRb0AAunN9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004174787208531969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BCWbNb0AEpUqP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2004174825343144452",
+        "created_at": "2025-12-26T10:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T11:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004495853776748856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004495853776748856",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004174825343144452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004174787225309184",
+            "3_2004174787208531969"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2004174825343144452",
+        "created_at": "2025-12-25T12:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004174825343144452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YBSWLerHK",
+              "end": 43,
+              "expanded_url": "https://x.com/CleverFf050755/status/2004174825343144452/photo/1",
+              "media_key": "3_2004174787225309184",
+              "start": 20,
+              "url": "https://t.co/2YBSWLerHK"
+            },
+            {
+              "display_url": "pic.x.com/2YBSWLerHK",
+              "end": 43,
+              "expanded_url": "https://x.com/CleverFf050755/status/2004174825343144452/photo/1",
+              "media_key": "3_2004174787208531969",
+              "start": 20,
+              "url": "https://t.co/2YBSWLerHK"
+            },
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Manglesuki/status/1996632430036635741",
+              "start": 44,
+              "url": "https://t.co/JbCppIlXXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004174825343144452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 31322,
+          "like_count": 209,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知不觉一个月了，烧了点普瑞巴林给他吃 https://t.co/2YBSWLerHK https://t.co/JbCppIlXXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 834,
+          "like_count": 17754,
+          "listed_count": 19,
+          "media_count": 959,
+          "tweet_count": 14032
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 222,
+          "like_count": 144,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

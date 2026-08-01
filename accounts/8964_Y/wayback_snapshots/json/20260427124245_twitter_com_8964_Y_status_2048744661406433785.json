@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2048726934440600035",
+    "created_at": "2026-04-27T12:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048744661406433785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048744661406433785",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048726934440600035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 第一眼看成了巧克力蛋糕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048726815456542720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6KLx0awAAxT3L.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 113403,
+        "height": 1280,
+        "media_key": "13_2048726815464976384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048726815464976384/img/jIeH-l50eaSqkaOn.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048726815464976384/vid/avc1/320x568/-SUa7vOju-y350ov.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048726815464976384/vid/avc1/480x852/IYMlMkgI4c99dThR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048726815464976384/vid/avc1/720x1280/s_icncZn7ME6__2N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048726815464976384/pl/pbtUMcGm70vB4_u6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2048726934440600035",
+        "created_at": "2026-04-27T12:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048744661406433785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048744661406433785",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048726934440600035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 第一眼看成了巧克力蛋糕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048726815456542720",
+            "13_2048726815464976384"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048726934440600035",
+        "created_at": "2026-04-27T11:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048726934440600035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVnuHk8RlL",
+              "end": 32,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2048726934440600035/video/1",
+              "media_key": "3_2048726815456542720",
+              "start": 9,
+              "url": "https://t.co/mVnuHk8RlL"
+            },
+            {
+              "display_url": "pic.x.com/mVnuHk8RlL",
+              "end": 32,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2048726934440600035/video/1",
+              "media_key": "13_2048726815464976384",
+              "start": 9,
+              "url": "https://t.co/mVnuHk8RlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048726934440600035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个盘面太好看了 https://t.co/mVnuHk8RlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7  只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6233,
+          "following_count": 737,
+          "like_count": 22849,
+          "listed_count": 19,
+          "media_count": 1084,
+          "tweet_count": 16049
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030935804856737792/9BMfJW1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 256,
+          "like_count": 54839,
+          "listed_count": 2,
+          "media_count": 1037,
+          "tweet_count": 7874
+        },
+        "username": "jueduizhengyi_A",
+        "verified": false
+      }
+    ]
+  }
+}

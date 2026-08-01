@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2077691524339716322",
+    "created_at": "2026-07-17T09:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078052651003199880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013241191953993728",
+          "start": 0,
+          "username": "lunuice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078052651003199880",
+    "in_reply_to_user_id": "2013241191953993728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077691524339716322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lunuice 为啥都说喜欢她以前的风格可是我觉得都没好看过啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 1280,
+        "media_key": "13_2077691466835689472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077691466835689472/img/Kr_dZ4Vjgyf7SJc2.jpg",
+        "public_metrics": {
+          "view_count": 15144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077691466835689472/vid/avc1/320x570/lxmxOBXE1mDPy836.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077691466835689472/vid/avc1/480x854/Rou2hBlIRKD5gjn4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077691466835689472/vid/avc1/718x1280/I59WU9bmy9uYjVYg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077691466835689472/pl/-snfvhVLPntRGpIm.m3u8?v=cfc"
+          }
+        ],
+        "width": 718
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2077691466839994368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVxYYnbsAA7W9p.jpg",
+        "width": 810
+      },
+      {
+        "height": 1822,
+        "media_key": "3_2077691466831507456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVxYYlaMAA3Yo0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1686,
+        "media_key": "3_2077691466823163904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVxYYja4AAay_7.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2077691524339716322",
+        "created_at": "2026-07-17T09:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078052651003199880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013241191953993728",
+              "start": 0,
+              "username": "lunuice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078052651003199880",
+        "in_reply_to_user_id": "2013241191953993728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077691524339716322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunuice 为啥都说喜欢她以前的风格可是我觉得都没好看过啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077691466835689472",
+            "3_2077691466839994368",
+            "3_2077691466831507456",
+            "3_2077691466823163904"
+          ]
+        },
+        "author_id": "2013241191953993728",
+        "conversation_id": "2077691524339716322",
+        "created_at": "2026-07-16T09:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077691524339716322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33kKs5p3Zl",
+              "end": 29,
+              "expanded_url": "https://x.com/lunuice/status/2077691524339716322/video/1",
+              "media_key": "13_2077691466835689472",
+              "start": 6,
+              "url": "https://t.co/33kKs5p3Zl"
+            },
+            {
+              "display_url": "pic.x.com/33kKs5p3Zl",
+              "end": 29,
+              "expanded_url": "https://x.com/lunuice/status/2077691524339716322/video/1",
+              "media_key": "3_2077691466839994368",
+              "start": 6,
+              "url": "https://t.co/33kKs5p3Zl"
+            },
+            {
+              "display_url": "pic.x.com/33kKs5p3Zl",
+              "end": 29,
+              "expanded_url": "https://x.com/lunuice/status/2077691524339716322/video/1",
+              "media_key": "3_2077691466831507456",
+              "start": 6,
+              "url": "https://t.co/33kKs5p3Zl"
+            },
+            {
+              "display_url": "pic.x.com/33kKs5p3Zl",
+              "end": 29,
+              "expanded_url": "https://x.com/lunuice/status/2077691524339716322/video/1",
+              "media_key": "3_2077691466823163904",
+              "start": 6,
+              "url": "https://t.co/33kKs5p3Zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077691524339716322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 39889,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "早期无机酱 https://t.co/33kKs5p3Zl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2076670418442658059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6677,
+          "following_count": 752,
+          "like_count": 24998,
+          "listed_count": 19,
+          "media_count": 1174,
+          "tweet_count": 16932
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T13:24:48.000Z",
+        "description": "",
+        "id": "2013241191953993728",
+        "name": "七秒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035381302275514368/q1BGDTdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 36,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "lunuice",
+        "verified": false
+      }
+    ]
+  }
+}

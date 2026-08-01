@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1896555637640921587",
+    "created_at": "2025-03-03T16:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T17:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896598477351862350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873373956159553536",
+          "start": 0,
+          "username": "Sakua0066003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896598477351862350",
+    "in_reply_to_user_id": "1873373956159553536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896555637640921587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakua0066003 我被开了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1896555629684125696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHrS_wW8AAv1Ju.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1896555637640921587",
+        "created_at": "2025-03-03T16:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896598477351862350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873373956159553536",
+              "start": 0,
+              "username": "Sakua0066003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896598477351862350",
+        "in_reply_to_user_id": "1873373956159553536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896555637640921587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakua0066003 我被开了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896555629684125696"
+          ]
+        },
+        "author_id": "1873373956159553536",
+        "conversation_id": "1896555637640921587",
+        "created_at": "2025-03-03T13:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896555637640921587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzT839nV0M",
+              "end": 30,
+              "expanded_url": "https://x.com/Sakua0066003/status/1896555637640921587/photo/1",
+              "media_key": "3_1896555629684125696",
+              "start": 7,
+              "url": "https://t.co/FzT839nV0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896555637640921587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样可怜 https://t.co/FzT839nV0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4782,
+          "following_count": 892,
+          "like_count": 9791,
+          "listed_count": 4,
+          "media_count": 509,
+          "tweet_count": 7574
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T14:22:27.000Z",
+        "description": "这里是莉莉/さくや的个人频道～ 问问题先看置顶 可爱的女孩子们欢迎互fo！五月开始接线下  不过门不要问线下",
+        "id": "1873373956159553536",
+        "location": "乐园",
+        "name": "就算很痛很痛也没有关系_",
+        "pinned_tweet_id": "1895945835680305598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895949703050829824/POFPm32G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 210,
+          "like_count": 2863,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 421
+        },
+        "username": "Sakua0066003",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1980572397670658054",
+    "created_at": "2025-10-22T09:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T10:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980932795976556936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534519518948564992",
+          "start": 0,
+          "username": "anchundan58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980932795976556936",
+    "in_reply_to_user_id": "1534519518948564992",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980572397670658054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anchundan58 14"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1980572384181489664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xoFwMWEAAWpe5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1980572397670658054",
+        "created_at": "2025-10-22T09:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980932795976556936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534519518948564992",
+              "start": 0,
+              "username": "anchundan58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980932795976556936",
+        "in_reply_to_user_id": "1534519518948564992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980572397670658054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anchundan58 14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980572384181489664"
+          ]
+        },
+        "author_id": "1534519518948564992",
+        "conversation_id": "1980572397670658054",
+        "created_at": "2025-10-21T09:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980572397670658054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrRCNY24Vy",
+              "end": 30,
+              "expanded_url": "https://x.com/anchundan58/status/1980572397670658054/photo/1",
+              "media_key": "3_1980572384181489664",
+              "start": 7,
+              "url": "https://t.co/RrRCNY24Vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980572397670658054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 28892,
+          "like_count": 242,
+          "quote_count": 1,
+          "reply_count": 141,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "柚子选美大赛 https://t.co/RrRCNY24Vy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5739,
+          "following_count": 883,
+          "like_count": 16351,
+          "listed_count": 17,
+          "media_count": 896,
+          "tweet_count": 13122
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T12:55:50.000Z",
+        "description": "谢谢你们喜欢我｜不接推广｜有老公 只喜欢我老公｜ 匿名➡️ https://t.co/d50EqDdnuW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anchundan58",
+                "end": 53,
+                "expanded_url": "https://ngl.link/anchundan58",
+                "start": 30,
+                "url": "https://t.co/d50EqDdnuW"
+              }
+            ]
+          }
+        },
+        "id": "1534519518948564992",
+        "name": "KY",
+        "pinned_tweet_id": "1921850673773048201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912361264409464832/mbEMtWlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 165,
+          "like_count": 856,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 739
+        },
+        "username": "anchundan58",
+        "verified": false
+      }
+    ]
+  }
+}

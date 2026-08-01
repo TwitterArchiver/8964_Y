@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2046356709237809560",
+    "created_at": "2026-04-21T10:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046541500977455449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046541500977455449",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046356709237809560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 为什么这个还是OT C？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_2046356697812516864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYekxjbQAAUDg_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2046356709237809560",
+        "created_at": "2026-04-21T10:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046541500977455449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046541500977455449",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046356709237809560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 为什么这个还是OT C？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046356697812516864"
+          ]
+        },
+        "author_id": "1194283796314509312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046356709237809560",
+        "created_at": "2026-04-20T22:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046356709237809560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqeUG3q0Tz",
+              "end": 63,
+              "expanded_url": "https://x.com/gana0w0/status/2046356709237809560/photo/1",
+              "media_key": "3_2046356697812516864",
+              "start": 40,
+              "url": "https://t.co/OqeUG3q0Tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046356709237809560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10976,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药这么难买了那本身就需要这些药的人咋办  我家里有老英雄是因为我和我弟都有哮喘 https://t.co/OqeUG3q0Tz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7  只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6169,
+          "following_count": 737,
+          "like_count": 22721,
+          "listed_count": 19,
+          "media_count": 1079,
+          "tweet_count": 15972
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "自用🪜 https://t.co/ySp7utCzxL\n防走丢@ganaqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "ganaqwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 27,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=axvMQjmh",
+                "start": 4,
+                "url": "https://t.co/ySp7utCzxL"
+              }
+            ]
+          }
+        },
+        "id": "1194283796314509312",
+        "name": "gana",
+        "pinned_tweet_id": "1729047749205893284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042639893378273280/vPmJfapa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66302,
+          "following_count": 63,
+          "like_count": 9871,
+          "listed_count": 196,
+          "media_count": 1542,
+          "tweet_count": 6666
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

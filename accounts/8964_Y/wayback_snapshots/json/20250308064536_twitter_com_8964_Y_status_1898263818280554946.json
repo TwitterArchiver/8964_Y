@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1898261982652043265"
+      ],
+      "media_source_tweet_id": [
+        "1898262293294788853"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1898263818280554946",
+    "created_at": "2025-03-08T06:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T07:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898263818280554946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724279773470535680",
+          "start": 3,
+          "username": "Sakuradied"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZEW66P7fnc",
+          "end": 51,
+          "expanded_url": "https://x.com/Sakuradied/status/1898262293294788853/video/1",
+          "media_key": "7_1898261982652043265",
+          "start": 28,
+          "url": "https://t.co/ZEW66P7fnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898263818280554946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898262293294788853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakuradied: 我不行了我真的特别难受 https://t.co/ZEW66P7fnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19481,
+        "height": 1280,
+        "media_key": "7_1898261982652043265",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1898261982652043265/pu/img/W-fpDwg4Ua_4WrxI.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898261982652043265/pu/vid/avc1/320x568/8XjBB3TqdUpx4M-n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898261982652043265/pu/vid/avc1/480x852/tR1VeFpZZAs0zIOI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898261982652043265/pu/vid/avc1/720x1280/ztJU7na_Uqem2sx7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1898261982652043265/pu/pl/XAK_fzeqMadi1T0n.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898261982652043265"
+          ],
+          "media_source_tweet_id": [
+            "1898262293294788853"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898263818280554946",
+        "created_at": "2025-03-08T06:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T07:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898263818280554946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1724279773470535680",
+              "start": 3,
+              "username": "Sakuradied"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEW66P7fnc",
+              "end": 51,
+              "expanded_url": "https://x.com/Sakuradied/status/1898262293294788853/video/1",
+              "media_key": "7_1898261982652043265",
+              "start": 28,
+              "url": "https://t.co/ZEW66P7fnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898263818280554946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898262293294788853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakuradied: 我不行了我真的特别难受 https://t.co/ZEW66P7fnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898261982652043265"
+          ]
+        },
+        "author_id": "1724279773470535680",
+        "conversation_id": "1898262293294788853",
+        "created_at": "2025-03-08T06:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T07:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898262293294788853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEW66P7fnc",
+              "end": 35,
+              "expanded_url": "https://x.com/Sakuradied/status/1898262293294788853/video/1",
+              "media_key": "7_1898261982652043265",
+              "start": 12,
+              "url": "https://t.co/ZEW66P7fnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898262293294788853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了我真的特别难受 https://t.co/ZEW66P7fnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4854,
+          "following_count": 912,
+          "like_count": 10144,
+          "listed_count": 5,
+          "media_count": 525,
+          "tweet_count": 7854
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T04:15:17.000Z",
+        "description": "被我媽打壓我已從良 这是我的日记本",
+        "id": "1724279773470535680",
+        "location": "NewYork",
+        "name": "柊夢愛✍✍✍",
+        "pinned_tweet_id": "1889570821905002877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831024018465660929/1_SNA6NI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 698,
+          "like_count": 5193,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 3434
+        },
+        "username": "Sakuradied",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968726586347372546"
+      ],
+      "media_source_tweet_id": [
+        "1968726615233364192"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1969263448908271947",
+    "created_at": "2025-09-20T04:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969263448908271947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966173444414095360",
+          "start": 3,
+          "username": "Tinaaaa9444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgM8jZEgcW",
+          "end": 48,
+          "expanded_url": "https://x.com/Tinaaaa9444/status/1968726615233364192/photo/1",
+          "media_key": "3_1968726586347372546",
+          "start": 25,
+          "url": "https://t.co/hgM8jZEgcW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969263448908271947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968726615233364192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tinaaaa9444: 说点漂亮话好吗 https://t.co/hgM8jZEgcW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_1968726586347372546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1JSZkcaQAIs7gj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968726586347372546"
+          ],
+          "media_source_tweet_id": [
+            "1968726615233364192"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1969263448908271947",
+        "created_at": "2025-09-20T04:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969263448908271947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966173444414095360",
+              "start": 3,
+              "username": "Tinaaaa9444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgM8jZEgcW",
+              "end": 48,
+              "expanded_url": "https://x.com/Tinaaaa9444/status/1968726615233364192/photo/1",
+              "media_key": "3_1968726586347372546",
+              "start": 25,
+              "url": "https://t.co/hgM8jZEgcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969263448908271947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968726615233364192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tinaaaa9444: 说点漂亮话好吗 https://t.co/hgM8jZEgcW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968726586347372546"
+          ]
+        },
+        "author_id": "1966173444414095360",
+        "conversation_id": "1968726615233364192",
+        "created_at": "2025-09-18T17:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968726615233364192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgM8jZEgcW",
+              "end": 31,
+              "expanded_url": "https://x.com/Tinaaaa9444/status/1968726615233364192/photo/1",
+              "media_key": "3_1968726586347372546",
+              "start": 8,
+              "url": "https://t.co/hgM8jZEgcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968726615233364192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11909,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说点漂亮话好吗 https://t.co/hgM8jZEgcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5781,
+          "following_count": 883,
+          "like_count": 16202,
+          "listed_count": 18,
+          "media_count": 859,
+          "tweet_count": 12702
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1967194551761920065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966329153311092736/bVclxmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 58,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 241
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

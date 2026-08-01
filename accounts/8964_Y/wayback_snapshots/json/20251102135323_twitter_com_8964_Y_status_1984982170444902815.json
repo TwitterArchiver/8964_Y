@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1984889572363477210",
+    "created_at": "2025-11-02T13:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T14:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984982170444902815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908917186028347392",
+          "start": 0,
+          "username": "xyqwqov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984982170444902815",
+    "in_reply_to_user_id": "1908917186028347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984981205973139875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyqwqov 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1984889572363477210",
+        "created_at": "2025-11-02T13:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984982170444902815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908917186028347392",
+              "start": 0,
+              "username": "xyqwqov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984982170444902815",
+        "in_reply_to_user_id": "1908917186028347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984981205973139875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyqwqov 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908917186028347392",
+        "conversation_id": "1984889572363477210",
+        "created_at": "2025-11-02T13:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984981205973139875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984981205973139875",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984889572363477210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 🌚🌚都上推了 还这样搞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5770,
+          "following_count": 890,
+          "like_count": 16588,
+          "listed_count": 17,
+          "media_count": 910,
+          "tweet_count": 13277
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T16:18:29.000Z",
+        "description": "🚪99",
+        "id": "1908917186028347392",
+        "location": "苏州",
+        "name": "蓝莓味爆珠^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983320720454365190/zZYnrwgw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 12,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 138
+        },
+        "username": "xyqwqov",
+        "verified": false
+      }
+    ]
+  }
+}

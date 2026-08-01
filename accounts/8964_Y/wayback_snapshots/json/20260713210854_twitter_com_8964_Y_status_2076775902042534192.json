@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2076710899969335717",
+    "created_at": "2026-07-13T21:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T22:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076775902042534192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1750848549217329152",
+          "start": 0,
+          "username": "youiiiovo"
+        },
+        {
+          "end": 20,
+          "id": "1464339172773224454",
+          "start": 11,
+          "username": "LXR10ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076775902042534192",
+    "in_reply_to_user_id": "1750848549217329152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076733826559336793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youiiiovo @LXR10ouo 真的太帅了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2076710899969335717",
+        "created_at": "2026-07-13T21:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076775902042534192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1750848549217329152",
+              "start": 0,
+              "username": "youiiiovo"
+            },
+            {
+              "end": 20,
+              "id": "1464339172773224454",
+              "start": 11,
+              "username": "LXR10ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076775902042534192",
+        "in_reply_to_user_id": "1750848549217329152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076733826559336793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youiiiovo @LXR10ouo 真的太帅了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750848549217329152",
+        "conversation_id": "2076710899969335717",
+        "created_at": "2026-07-13T18:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076733826559336793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464339172773224454",
+              "start": 0,
+              "username": "LXR10ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076733826559336793",
+        "in_reply_to_user_id": "1464339172773224454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076715310376505840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXR10ouo 😤已严肃攻击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6673,
+          "following_count": 748,
+          "like_count": 24844,
+          "listed_count": 19,
+          "media_count": 1171,
+          "tweet_count": 16892
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T11:50:05.000Z",
+        "description": "",
+        "id": "1750848549217329152",
+        "name": "你们全都死妈啦",
+        "pinned_tweet_id": "2076418225299222752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076102363841187840/7itwvexi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 20,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "youiiiovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T21:04:15.000Z",
+        "description": "",
+        "id": "1464339172773224454",
+        "location": "Florida, USA",
+        "name": "Sky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076716063090487296/vcPAh5j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "LXR10ouo",
+        "verified": false
+      }
+    ]
+  }
+}

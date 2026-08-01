@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2075854696837988578",
+    "created_at": "2026-07-11T14:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075951264350028097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861378449509863424",
+          "start": 0,
+          "username": "twilightvespera"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075951264350028097",
+    "in_reply_to_user_id": "1861378449509863424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075936774237683832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twilightvespera 冷暖色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2075854696837988578",
+        "created_at": "2026-07-11T14:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075951264350028097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861378449509863424",
+              "start": 0,
+              "username": "twilightvespera"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075951264350028097",
+        "in_reply_to_user_id": "1861378449509863424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075936774237683832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twilightvespera 冷暖色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861378449509863424",
+        "conversation_id": "2075854696837988578",
+        "created_at": "2026-07-11T13:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075936774237683832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075936774237683832",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075854696837988578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y what color is it?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6661,
+          "following_count": 747,
+          "like_count": 24653,
+          "listed_count": 19,
+          "media_count": 1168,
+          "tweet_count": 16865
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-26T11:56:33.000Z",
+        "description": "psychisch kranker Arzt\nbestie: @TranAnh52568",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "TranAnh52568"
+              }
+            ]
+          }
+        },
+        "id": "1861378449509863424",
+        "name": "Vespera",
+        "pinned_tweet_id": "1877968691494531486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069394706908459009/6OZeRDt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 445,
+          "like_count": 23425,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 4637
+        },
+        "url": "",
+        "username": "twilightvespera",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995877475948351488"
+      ],
+      "media_source_tweet_id": [
+        "1995877600431165587"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1995880547584016475",
+    "created_at": "2025-12-02T15:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995880547584016475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1017004951841587202",
+          "start": 3,
+          "username": "Nhim_Art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9c3rQVNobb",
+          "end": 48,
+          "expanded_url": "https://x.com/Nhim_Art/status/1995877600431165587/photo/1",
+          "media_key": "3_1995877475948351488",
+          "start": 25,
+          "url": "https://t.co/9c3rQVNobb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995880547584016475",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995877600431165587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nhim_Art: Art Class. https://t.co/9c3rQVNobb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2067,
+        "media_key": "3_1995877475948351488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LH_WEa0AA51yk.jpg",
+        "width": 1708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995877475948351488"
+          ],
+          "media_source_tweet_id": [
+            "1995877600431165587"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1995880547584016475",
+        "created_at": "2025-12-02T15:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995880547584016475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1017004951841587202",
+              "start": 3,
+              "username": "Nhim_Art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9c3rQVNobb",
+              "end": 48,
+              "expanded_url": "https://x.com/Nhim_Art/status/1995877600431165587/photo/1",
+              "media_key": "3_1995877475948351488",
+              "start": 25,
+              "url": "https://t.co/9c3rQVNobb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995880547584016475",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995877600431165587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nhim_Art: Art Class. https://t.co/9c3rQVNobb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995877475948351488"
+          ]
+        },
+        "author_id": "1017004951841587202",
+        "conversation_id": "1995877600431165587",
+        "created_at": "2025-12-02T15:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995877600431165587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9c3rQVNobb",
+              "end": 34,
+              "expanded_url": "https://x.com/Nhim_Art/status/1995877600431165587/photo/1",
+              "media_key": "3_1995877475948351488",
+              "start": 11,
+              "url": "https://t.co/9c3rQVNobb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995877600431165587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 2254,
+          "like_count": 637,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "Art Class. https://t.co/9c3rQVNobb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 834,
+          "like_count": 17458,
+          "listed_count": 17,
+          "media_count": 940,
+          "tweet_count": 13811
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-11T11:17:30.000Z",
+        "description": "Draw manga | Mangadex https://t.co/bucQTvOqMF | Reddit https://t.co/rRU1Dsyc4Y | Pixiv https://t.co/S4tj2Rri03 | Discord@ nhimart",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/mwner6dp",
+                "end": 45,
+                "expanded_url": "https://tinyurl.com/mwner6dp",
+                "start": 22,
+                "url": "https://t.co/bucQTvOqMF"
+              },
+              {
+                "display_url": "tinyurl.com/532tdwu3",
+                "end": 78,
+                "expanded_url": "https://tinyurl.com/532tdwu3",
+                "start": 55,
+                "url": "https://t.co/rRU1Dsyc4Y"
+              },
+              {
+                "display_url": "tinyurl.com/5ysupsn3",
+                "end": 110,
+                "expanded_url": "https://tinyurl.com/5ysupsn3",
+                "start": 87,
+                "url": "https://t.co/S4tj2Rri03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mangadex.org/title/3e11f43e…",
+                "end": 23,
+                "expanded_url": "https://mangadex.org/title/3e11f43e-3d91-47c8-a2ad-e2f23d36ad4c/mimi",
+                "start": 0,
+                "url": "https://t.co/rKkbPYS7dz"
+              }
+            ]
+          }
+        },
+        "id": "1017004951841587202",
+        "name": "Nhim",
+        "pinned_tweet_id": "1990807637689323741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1017007816593190913/z3IFFg4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160884,
+          "following_count": 0,
+          "like_count": 12094,
+          "listed_count": 321,
+          "media_count": 887,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/rKkbPYS7dz",
+        "username": "Nhim_Art",
+        "verified": true
+      }
+    ]
+  }
+}

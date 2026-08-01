@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2054862797453058546",
+    "created_at": "2026-05-15T04:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055149071380414589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751595389562822657",
+          "start": 0,
+          "username": "ijia522218"
+        },
+        {
+          "end": 22,
+          "id": "2003149753148932096",
+          "start": 12,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055149071380414589",
+    "in_reply_to_user_id": "1751595389562822657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054862797453058546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijia522218 @Ruruko_oo 敢说就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2054862797453058546",
+        "created_at": "2026-05-15T04:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055149071380414589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751595389562822657",
+              "start": 0,
+              "username": "ijia522218"
+            },
+            {
+              "end": 22,
+              "id": "2003149753148932096",
+              "start": 12,
+              "username": "Ruruko_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055149071380414589",
+        "in_reply_to_user_id": "1751595389562822657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054862797453058546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijia522218 @Ruruko_oo 敢说就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751595389562822657",
+        "conversation_id": "2054862797453058546",
+        "created_at": "2026-05-14T09:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054862797453058546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054862797453058546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2619,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "当初od不外扩的初衷除了外扩会被晶盯着外还有道德上的共同认知，od始终不是好事不会传播给别人。\n现在这半年来抖音一群大毒枭管传不传播给别人呢管你们其他oder有没有药吃呢，反正吃了就发个抖音让大家看看牛逼不牛逼😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6263,
+          "following_count": 733,
+          "like_count": 23207,
+          "listed_count": 19,
+          "media_count": 1106,
+          "tweet_count": 16216
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/日本語がとても下手です/点赞就是想和你互动/非常好脾气~",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2052273263284494785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 234,
+          "like_count": 1469,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 640
+        },
+        "username": "ijia522218",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "安静的私密账号 gekki 08 \n纯绿🚪80/120/520/1314不线下不非绿 前世：@gekkifxxkearth｜od｜PCOS｜重症不安障害｜双極性障害｜リスカ｜bpd｜DN🖊️🌙｜这里是我能说说话的地方。想看黄色请取关。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2050506905555185983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055115841033973760/Od6dFJuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 263,
+          "like_count": 3463,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1657
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

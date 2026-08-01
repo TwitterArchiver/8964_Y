@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1928629163314835621",
+    "created_at": "2025-05-31T02:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T03:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928642874066821610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724279773470535680",
+          "start": 0,
+          "username": "beijing_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928642874066821610",
+    "in_reply_to_user_id": "1724279773470535680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928629163314835621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beijing_8964_ 哦不"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1928629163314835621].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928629163314835621",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1928629163314835621"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1928629163314835621",
+        "created_at": "2025-05-31T02:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T03:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928642874066821610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1724279773470535680",
+              "start": 0,
+              "username": "beijing_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928642874066821610",
+        "in_reply_to_user_id": "1724279773470535680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928629163314835621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beijing_8964_ 哦不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5490,
+          "following_count": 933,
+          "like_count": 13269,
+          "listed_count": 8,
+          "media_count": 698,
+          "tweet_count": 10366
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T04:15:17.000Z",
+        "description": "I've never seen one like that before",
+        "id": "1724279773470535680",
+        "location": "NewYork",
+        "name": "北京天安门8964",
+        "pinned_tweet_id": "1928629163314835621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928450132720357376/5yCdkpff_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 660,
+          "like_count": 5856,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 3317
+        },
+        "username": "beijing_8964_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1977123120105574758",
+    "created_at": "2025-10-12T10:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977323780965048425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "947056964034371585",
+          "start": 0,
+          "username": "CarlosC64497929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977323780965048425",
+    "in_reply_to_user_id": "947056964034371585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977123120105574758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlosC64497929 好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977123116481683456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Am_8saoAAPDeM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1977123120105574758",
+        "created_at": "2025-10-12T10:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977323780965048425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "947056964034371585",
+              "start": 0,
+              "username": "CarlosC64497929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977323780965048425",
+        "in_reply_to_user_id": "947056964034371585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977123120105574758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlosC64497929 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977123116481683456"
+          ]
+        },
+        "author_id": "947056964034371585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977123120105574758",
+        "created_at": "2025-10-11T21:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T22:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977123120105574758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrrL3TbbGD",
+              "end": 46,
+              "expanded_url": "https://x.com/CarlosC64497929/status/1977123120105574758/photo/1",
+              "media_key": "3_1977123116481683456",
+              "start": 23,
+              "url": "https://t.co/rrrL3TbbGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977123120105574758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1954,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是萬聖節的關係，超市出現長得很奇妙的南瓜 https://t.co/rrrL3TbbGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5732,
+          "following_count": 880,
+          "like_count": 16243,
+          "listed_count": 18,
+          "media_count": 887,
+          "tweet_count": 12994
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-30T10:49:10.000Z",
+        "description": "喜歡玩土、木頭、畫筆，偶爾寫日記，嘗試放一些創作歡迎討論與交流\n\n目前在人生的旅途有點迷路，還不知道自己最後會去哪裡，但是至少不要停下腳步",
+        "id": "947056964034371585",
+        "name": "Carlos Che",
+        "pinned_tweet_id": "1275737590172282880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/947106329503477760/wXizo5rN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1793,
+          "like_count": 171787,
+          "listed_count": 7,
+          "media_count": 1856,
+          "tweet_count": 5905
+        },
+        "username": "CarlosC64497929",
+        "verified": false
+      }
+    ]
+  }
+}

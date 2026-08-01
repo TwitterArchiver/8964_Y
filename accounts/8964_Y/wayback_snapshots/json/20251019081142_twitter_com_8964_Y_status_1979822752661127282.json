@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1979631688272785555",
+    "created_at": "2025-10-19T08:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T09:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979822752661127282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1297736984186757121",
+          "start": 0,
+          "username": "Luka9637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979822752661127282",
+    "in_reply_to_user_id": "1297736984186757121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979631688272785555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luka9637 厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979631685248458752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kQh3lXoAACofG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979631685181358080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kQh3VXwAAnXOf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979631684556394496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kQh1AXkAAndWo.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1979631688272785555",
+        "created_at": "2025-10-19T08:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T09:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979822752661127282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1297736984186757121",
+              "start": 0,
+              "username": "Luka9637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979822752661127282",
+        "in_reply_to_user_id": "1297736984186757121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979631688272785555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luka9637 厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979631685248458752",
+            "3_1979631685181358080",
+            "3_1979631684556394496"
+          ]
+        },
+        "author_id": "1297736984186757121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979631688272785555",
+        "created_at": "2025-10-18T19:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979631688272785555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBkQ7GZzhz",
+              "end": 32,
+              "expanded_url": "https://x.com/Luka9637/status/1979631688272785555/photo/1",
+              "media_key": "3_1979631685248458752",
+              "start": 9,
+              "url": "https://t.co/dBkQ7GZzhz"
+            },
+            {
+              "display_url": "pic.x.com/dBkQ7GZzhz",
+              "end": 32,
+              "expanded_url": "https://x.com/Luka9637/status/1979631688272785555/photo/1",
+              "media_key": "3_1979631685181358080",
+              "start": 9,
+              "url": "https://t.co/dBkQ7GZzhz"
+            },
+            {
+              "display_url": "pic.x.com/dBkQ7GZzhz",
+              "end": 32,
+              "expanded_url": "https://x.com/Luka9637/status/1979631688272785555/photo/1",
+              "media_key": "3_1979631684556394496",
+              "start": 9,
+              "url": "https://t.co/dBkQ7GZzhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979631688272785555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天打的一点成绩 https://t.co/dBkQ7GZzhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 883,
+          "like_count": 16338,
+          "listed_count": 17,
+          "media_count": 896,
+          "tweet_count": 13103
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T03:26:35.000Z",
+        "description": "If the surrounding is a luminous color, my existence might be thin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/luka9637",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/luka9637",
+                "start": 0,
+                "url": "https://t.co/FYQ9gVCkiV"
+              }
+            ]
+          }
+        },
+        "id": "1297736984186757121",
+        "location": "任何地方",
+        "name": "Luka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919019167367221248/p5CwNPRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 200,
+          "like_count": 3605,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/FYQ9gVCkiV",
+        "username": "Luka9637",
+        "verified": false
+      }
+    ]
+  }
+}

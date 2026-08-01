@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028859406369353728"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2028859414254604698",
+    "created_at": "2026-03-03T15:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T16:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028859414254604698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VaMZy2a8wN",
+          "end": 31,
+          "expanded_url": "https://x.com/8964_Y/status/2028859414254604698/photo/1",
+          "media_key": "3_2028859406369353728",
+          "start": 8,
+          "url": "https://t.co/VaMZy2a8wN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028859414254604698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的新玩偶你好 https://t.co/VaMZy2a8wN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2028859406369353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf04Xfa8AAyrmY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028859406369353728"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2028859414254604698",
+        "created_at": "2026-03-03T15:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028859414254604698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VaMZy2a8wN",
+              "end": 31,
+              "expanded_url": "https://x.com/8964_Y/status/2028859414254604698/photo/1",
+              "media_key": "3_2028859406369353728",
+              "start": 8,
+              "url": "https://t.co/VaMZy2a8wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028859414254604698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的新玩偶你好 https://t.co/VaMZy2a8wN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会国信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪520谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6284,
+          "following_count": 739,
+          "like_count": 20720,
+          "listed_count": 19,
+          "media_count": 1020,
+          "tweet_count": 15038
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

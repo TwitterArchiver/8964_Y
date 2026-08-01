@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1963270642188599558",
+    "created_at": "2025-09-03T16:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T17:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963276828669616130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641809327815290880",
+          "start": 0,
+          "username": "kotonami999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963276828669616130",
+    "in_reply_to_user_id": "1641809327815290880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963270642188599558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotonami999 没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1963270642188599558",
+        "created_at": "2025-09-03T16:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963276828669616130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641809327815290880",
+              "start": 0,
+              "username": "kotonami999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963276828669616130",
+        "in_reply_to_user_id": "1641809327815290880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963270642188599558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotonami999 没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641809327815290880",
+        "conversation_id": "1963270642188599558",
+        "created_at": "2025-09-03T15:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T16:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963270642188599558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963270642188599558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人能杀了我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5738,
+          "following_count": 881,
+          "like_count": 15766,
+          "listed_count": 18,
+          "media_count": 835,
+          "tweet_count": 12340
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:27:22.000Z",
+        "description": "嗯",
+        "id": "1641809327815290880",
+        "location": "666999",
+        "name": "kotonami",
+        "pinned_tweet_id": "1652263287458000896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873907158766804992/vzHvYX6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 240,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 292
+        },
+        "username": "kotonami999",
+        "verified": false
+      }
+    ]
+  }
+}

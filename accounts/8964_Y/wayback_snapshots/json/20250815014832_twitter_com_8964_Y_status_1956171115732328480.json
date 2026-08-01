@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956107566364106752"
+      ],
+      "media_source_tweet_id": [
+        "1956107582021755357"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1956171115732328480",
+    "created_at": "2025-08-15T01:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T02:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956171115732328480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "duoduofuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u8wKAYouCT",
+          "end": 38,
+          "expanded_url": "https://x.com/duoduofuo/status/1956107582021755357/photo/1",
+          "media_key": "3_1956107566364106752",
+          "start": 15,
+          "url": "https://t.co/u8wKAYouCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956171115732328480",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956107582021755357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duoduofuo: https://t.co/u8wKAYouCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956107566364106752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyV9d7uWIAAmfde.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956107566364106752"
+          ],
+          "media_source_tweet_id": [
+            "1956107582021755357"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1956171115732328480",
+        "created_at": "2025-08-15T01:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956171115732328480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "duoduofuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8wKAYouCT",
+              "end": 38,
+              "expanded_url": "https://x.com/duoduofuo/status/1956107582021755357/photo/1",
+              "media_key": "3_1956107566364106752",
+              "start": 15,
+              "url": "https://t.co/u8wKAYouCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956171115732328480",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956107582021755357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duoduofuo: https://t.co/u8wKAYouCT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956107566364106752"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1956107582021755357",
+        "created_at": "2025-08-14T21:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T22:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956107582021755357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8wKAYouCT",
+              "end": 23,
+              "expanded_url": "https://x.com/duoduofuo/status/1956107582021755357/photo/1",
+              "media_key": "3_1956107566364106752",
+              "start": 0,
+              "url": "https://t.co/u8wKAYouCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956107582021755357",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u8wKAYouCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5779,
+          "following_count": 880,
+          "like_count": 15345,
+          "listed_count": 13,
+          "media_count": 806,
+          "tweet_count": 12008
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "时行扛200斤麦子十里路不换肩",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952790804960776193/34jAYwCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 247,
+          "like_count": 29663,
+          "listed_count": 14,
+          "media_count": 174,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "duoduofuo",
+        "verified": false
+      }
+    ]
+  }
+}

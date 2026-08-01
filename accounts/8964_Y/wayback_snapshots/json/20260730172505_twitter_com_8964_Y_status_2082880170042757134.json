@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082766488470216704",
+        "3_2082766488411484161"
+      ],
+      "media_source_tweet_id": [
+        "2082766498620395781",
+        "2082766498620395781"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2082880170042757134",
+    "created_at": "2026-07-30T17:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082880170042757134"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "メンヘラ"
+        },
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "地雷系女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2003149753148932096",
+          "start": 3,
+          "username": "Ruruko_oo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yHIX2hykCc",
+          "end": 58,
+          "expanded_url": "https://x.com/Ruruko_oo/status/2082766498620395781/photo/1",
+          "media_key": "3_2082766488470216704",
+          "start": 35,
+          "url": "https://t.co/yHIX2hykCc"
+        },
+        {
+          "display_url": "pic.x.com/yHIX2hykCc",
+          "end": 58,
+          "expanded_url": "https://x.com/Ruruko_oo/status/2082766498620395781/photo/1",
+          "media_key": "3_2082766488411484161",
+          "start": 35,
+          "url": "https://t.co/yHIX2hykCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082880170042757134",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082766498620395781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruruko_oo: #自撮り界隈 #メンヘラ #地雷系女子 https://t.co/yHIX2hykCc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1809,
+        "media_key": "3_2082766488470216704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5Fhda4AALT2b.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2082766488411484161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5FhPasAECgNm.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082766488470216704",
+            "3_2082766488411484161"
+          ]
+        },
+        "author_id": "2003149753148932096",
+        "conversation_id": "2082766498620395781",
+        "created_at": "2026-07-30T09:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082766498620395781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHIX2hykCc",
+              "end": 43,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2082766498620395781/photo/1",
+              "media_key": "3_2082766488470216704",
+              "start": 20,
+              "url": "https://t.co/yHIX2hykCc"
+            },
+            {
+              "display_url": "pic.x.com/yHIX2hykCc",
+              "end": 43,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2082766498620395781/photo/1",
+              "media_key": "3_2082766488411484161",
+              "start": 20,
+              "url": "https://t.co/yHIX2hykCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082766498620395781",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #メンヘラ #地雷系女子 https://t.co/yHIX2hykCc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082766488470216704",
+            "3_2082766488411484161"
+          ],
+          "media_source_tweet_id": [
+            "2082766498620395781",
+            "2082766498620395781"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2082880170042757134",
+        "created_at": "2026-07-30T17:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082880170042757134"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "地雷系女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2003149753148932096",
+              "start": 3,
+              "username": "Ruruko_oo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHIX2hykCc",
+              "end": 58,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2082766498620395781/photo/1",
+              "media_key": "3_2082766488470216704",
+              "start": 35,
+              "url": "https://t.co/yHIX2hykCc"
+            },
+            {
+              "display_url": "pic.x.com/yHIX2hykCc",
+              "end": 58,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2082766498620395781/photo/1",
+              "media_key": "3_2082766488411484161",
+              "start": 35,
+              "url": "https://t.co/yHIX2hykCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082880170042757134",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082766498620395781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruruko_oo: #自撮り界隈 #メンヘラ #地雷系女子 https://t.co/yHIX2hykCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6723,
+          "following_count": 742,
+          "like_count": 25366,
+          "listed_count": 20,
+          "media_count": 1191,
+          "tweet_count": 17112
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "gekki /Ruruko 08 \n色情暴力爱好者，不喜欢你就会移除粉丝\n前世：@gekkifxxkearth｜od｜PCOS｜重症不安障害｜双極性障害｜リスカ｜bpd｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2045430848695185599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069791126731796480/pSelP6XS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 304,
+          "like_count": 4755,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 2334
+        },
+        "url": "",
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

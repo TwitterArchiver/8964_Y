@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1988587870932897952",
+    "created_at": "2025-11-12T14:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988622460191646188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798389435157147648",
+          "start": 0,
+          "username": "yanliang234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988622460191646188",
+    "in_reply_to_user_id": "1798389435157147648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988587870932897952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanliang234 我玩"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1988587870932897952].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1988587870932897952",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1988587870932897952"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1988587870932897952",
+        "created_at": "2025-11-12T14:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988622460191646188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798389435157147648",
+              "start": 0,
+              "username": "yanliang234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988622460191646188",
+        "in_reply_to_user_id": "1798389435157147648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988587870932897952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanliang234 我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 867,
+          "like_count": 16917,
+          "listed_count": 17,
+          "media_count": 917,
+          "tweet_count": 13510
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T16:20:37.000Z",
+        "description": "I'll be your 1up boy Ι海面：@yanliang456  Ι\n自用蜂鸟链接 https://t.co/3vNgbJ16qa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "yanliang456"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://www.sachlife.com/#/register?code=thocsLxJ",
+                "start": 48,
+                "url": "https://t.co/3vNgbJ16qa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.79754901",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.79754901",
+                "start": 0,
+                "url": "https://t.co/AeTYWvnVOf"
+              }
+            ]
+          }
+        },
+        "id": "1798389435157147648",
+        "location": "于是猪小水开始期待（匿名↓）",
+        "name": "水",
+        "pinned_tweet_id": "1958121758516777429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929538124985901056/yqGmoBZd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 216,
+          "like_count": 5873,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 4233
+        },
+        "url": "https://t.co/AeTYWvnVOf",
+        "username": "yanliang234",
+        "verified": false
+      }
+    ]
+  }
+}

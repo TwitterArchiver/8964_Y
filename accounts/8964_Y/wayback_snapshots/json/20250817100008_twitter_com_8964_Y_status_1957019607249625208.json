@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1956910390979313664"
+      ],
+      "media_source_tweet_id": [
+        "1956910482603868432"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1957019607249625208",
+    "created_at": "2025-08-17T10:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T11:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957019607249625208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1771176588505182208",
+          "start": 3,
+          "username": "jaslyn994071"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eVxhipdwmO",
+          "end": 112,
+          "expanded_url": "https://x.com/jaslyn994071/status/1956910482603868432/video/1",
+          "media_key": "13_1956910390979313664",
+          "start": 89,
+          "url": "https://t.co/eVxhipdwmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957019607249625208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956910482603868432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaslyn994071: I want to make more fire punch edits. Pls give me song recommendations https://t.co/eVxhipdwmO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957019607249625208].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957019607249625208",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957019607249625208"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43333,
+        "height": 720,
+        "media_key": "13_1956910390979313664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956910390979313664/img/rAGwncKSoYNH1LYm.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956910390979313664/vid/avc1/320x320/ccv4xA30x_pI2V0e.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956910390979313664/vid/avc1/540x540/Nfjxa3aXQRPy1gHZ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956910390979313664/vid/avc1/720x720/OEdCKMW5lDca5upK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956910390979313664/pl/dwwWc8I3018uysTI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956910390979313664"
+          ]
+        },
+        "author_id": "1771176588505182208",
+        "conversation_id": "1956910482603868432",
+        "created_at": "2025-08-17T02:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T03:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956910482603868432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVxhipdwmO",
+              "end": 94,
+              "expanded_url": "https://x.com/jaslyn994071/status/1956910482603868432/video/1",
+              "media_key": "13_1956910390979313664",
+              "start": 71,
+              "url": "https://t.co/eVxhipdwmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956910482603868432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 148,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "I want to make more fire punch edits. Pls give me song recommendations https://t.co/eVxhipdwmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 879,
+          "like_count": 15400,
+          "listed_count": 13,
+          "media_count": 807,
+          "tweet_count": 12032
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T14:06:39.000Z",
+        "description": "",
+        "id": "1771176588505182208",
+        "name": "Jaslyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940916716927651840/Jjxae2o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 509,
+          "like_count": 15716,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 15515
+        },
+        "username": "jaslyn994071",
+        "verified": false
+      }
+    ]
+  }
+}

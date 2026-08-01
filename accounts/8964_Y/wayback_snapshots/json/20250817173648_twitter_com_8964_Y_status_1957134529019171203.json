@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957113491212636160",
+        "3_1957113491749584897"
+      ],
+      "media_source_tweet_id": [
+        "1957113503913017634",
+        "1957113503913017634"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1957134529019171203",
+    "created_at": "2025-08-17T17:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T18:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957134529019171203"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "axel",
+          "probability": 0.6599,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4331045174",
+          "start": 3,
+          "username": "axelstool"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t3FHVWrjXK",
+          "end": 92,
+          "expanded_url": "https://x.com/axelstool/status/1957113503913017634/photo/1",
+          "media_key": "3_1957113491212636160",
+          "start": 69,
+          "url": "https://t.co/t3FHVWrjXK"
+        },
+        {
+          "display_url": "pic.x.com/t3FHVWrjXK",
+          "end": 92,
+          "expanded_url": "https://x.com/axelstool/status/1957113503913017634/photo/1",
+          "media_key": "3_1957113491749584897",
+          "start": 69,
+          "url": "https://t.co/t3FHVWrjXK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957134529019171203",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957113503913017634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axelstool: Hi im axel, I like to discover different artstyles ✌️ https://t.co/t3FHVWrjXK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1957113491212636160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykQWdzakAAhq7T.jpg",
+        "width": 960
+      },
+      {
+        "height": 1178,
+        "media_key": "3_1957113491749584897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykQWfzbwAEqVQC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957113491212636160",
+            "3_1957113491749584897"
+          ],
+          "media_source_tweet_id": [
+            "1957113503913017634",
+            "1957113503913017634"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1957134529019171203",
+        "created_at": "2025-08-17T17:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957134529019171203"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "axel",
+              "probability": 0.6599,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4331045174",
+              "start": 3,
+              "username": "axelstool"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3FHVWrjXK",
+              "end": 92,
+              "expanded_url": "https://x.com/axelstool/status/1957113503913017634/photo/1",
+              "media_key": "3_1957113491212636160",
+              "start": 69,
+              "url": "https://t.co/t3FHVWrjXK"
+            },
+            {
+              "display_url": "pic.x.com/t3FHVWrjXK",
+              "end": 92,
+              "expanded_url": "https://x.com/axelstool/status/1957113503913017634/photo/1",
+              "media_key": "3_1957113491749584897",
+              "start": 69,
+              "url": "https://t.co/t3FHVWrjXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957134529019171203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957113503913017634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axelstool: Hi im axel, I like to discover different artstyles ✌️ https://t.co/t3FHVWrjXK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957113491212636160",
+            "3_1957113491749584897"
+          ]
+        },
+        "author_id": "4331045174",
+        "conversation_id": "1957113503913017634",
+        "created_at": "2025-08-17T16:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T17:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957113503913017634"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "axel",
+              "probability": 0.6788,
+              "start": 6,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3FHVWrjXK",
+              "end": 77,
+              "expanded_url": "https://x.com/axelstool/status/1957113503913017634/photo/1",
+              "media_key": "3_1957113491212636160",
+              "start": 54,
+              "url": "https://t.co/t3FHVWrjXK"
+            },
+            {
+              "display_url": "pic.x.com/t3FHVWrjXK",
+              "end": 77,
+              "expanded_url": "https://x.com/axelstool/status/1957113503913017634/photo/1",
+              "media_key": "3_1957113491749584897",
+              "start": 54,
+              "url": "https://t.co/t3FHVWrjXK"
+            },
+            {
+              "display_url": "x.com/Dino_illus/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Dino_illus/status/1956489945884786919",
+              "start": 78,
+              "url": "https://t.co/vPn282nR7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957113503913017634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 4462,
+          "like_count": 398,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956489945884786919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hi im axel, I like to discover different artstyles ✌️ https://t.co/t3FHVWrjXK https://t.co/vPn282nR7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5779,
+          "following_count": 880,
+          "like_count": 15402,
+          "listed_count": 13,
+          "media_count": 808,
+          "tweet_count": 12034
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-23T06:15:18.000Z",
+        "description": "Fan-artist with anime style  |  DM or VGen for comms!\nKo-fi: https://t.co/DRDyOLpSje\nBluesky: https://t.co/Usbxa0X0mh\nEmail: axelstool@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/axelsteel",
+                "end": 84,
+                "expanded_url": "http://ko-fi.com/axelsteel",
+                "start": 61,
+                "url": "https://t.co/DRDyOLpSje"
+              },
+              {
+                "display_url": "axelsteel.bsky.social",
+                "end": 117,
+                "expanded_url": "https://axelsteel.bsky.social",
+                "start": 94,
+                "url": "https://t.co/Usbxa0X0mh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/axelstool",
+                "end": 23,
+                "expanded_url": "https://vgen.co/axelstool",
+                "start": 0,
+                "url": "https://t.co/Ljeu2kSpL9"
+              }
+            ]
+          }
+        },
+        "id": "4331045174",
+        "location": "im somewhat of n artist myself",
+        "name": "Axelsteel",
+        "pinned_tweet_id": "1957113503913017634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788620617677504512/4FF8OkWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5170,
+          "following_count": 936,
+          "like_count": 11767,
+          "listed_count": 33,
+          "media_count": 514,
+          "tweet_count": 4252
+        },
+        "url": "https://t.co/Ljeu2kSpL9",
+        "username": "axelstool",
+        "verified": false
+      }
+    ]
+  }
+}

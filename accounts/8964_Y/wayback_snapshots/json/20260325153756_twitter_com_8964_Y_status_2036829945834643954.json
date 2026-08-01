@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2036828606824083850",
+    "created_at": "2026-03-25T15:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036829945834643954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425706149060308994",
+          "start": 0,
+          "username": "Hitman_T800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036829945834643954",
+    "in_reply_to_user_id": "1425706149060308994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036829584658977275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitman_T800 超可爱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2036828606824083850",
+        "created_at": "2026-03-25T15:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036829945834643954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425706149060308994",
+              "start": 0,
+              "username": "Hitman_T800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036829945834643954",
+        "in_reply_to_user_id": "1425706149060308994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036829584658977275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitman_T800 超可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425706149060308994",
+        "conversation_id": "2036828606824083850",
+        "created_at": "2026-03-25T15:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036829584658977275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036829584658977275",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036828606824083850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y (*/ω＼*)可爱的捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2030257063566414125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 741,
+          "like_count": 21863,
+          "listed_count": 20,
+          "media_count": 1049,
+          "tweet_count": 15533
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T06:30:25.000Z",
+        "description": "普通人的碎碎念/男的/视奸bot",
+        "id": "1425706149060308994",
+        "name": "仿生人T800",
+        "pinned_tweet_id": "1905188226819854730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993362668347170816/31pbj8ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 670,
+          "like_count": 58585,
+          "listed_count": 3,
+          "media_count": 647,
+          "tweet_count": 8894
+        },
+        "username": "Hitman_T800",
+        "verified": false
+      }
+    ]
+  }
+}

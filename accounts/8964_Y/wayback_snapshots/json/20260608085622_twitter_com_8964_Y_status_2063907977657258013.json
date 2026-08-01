@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2063806313935868350",
+    "created_at": "2026-06-08T08:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063907977657258013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910085836420558848",
+          "start": 0,
+          "username": "tsuinoshiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063907977657258013",
+    "in_reply_to_user_id": "1910085836420558848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063806313935868350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@tsuinoshiro 很漂亮哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063806297733263360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQc5K2a8AAT7Ci.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2063806313935868350",
+        "created_at": "2026-06-08T08:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063907977657258013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910085836420558848",
+              "start": 0,
+              "username": "tsuinoshiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063907977657258013",
+        "in_reply_to_user_id": "1910085836420558848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063806313935868350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@tsuinoshiro 很漂亮哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063806297733263360"
+          ]
+        },
+        "author_id": "1910085836420558848",
+        "conversation_id": "2063806313935868350",
+        "created_at": "2026-06-08T02:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063806313935868350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbKDIAIXLq",
+              "end": 23,
+              "expanded_url": "https://x.com/tsuinoshiro/status/2063806313935868350/photo/1",
+              "media_key": "3_2063806297733263360",
+              "start": 0,
+              "url": "https://t.co/DbKDIAIXLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063806313935868350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/DbKDIAIXLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2060367314638581995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6222,
+          "following_count": 731,
+          "like_count": 23867,
+          "listed_count": 19,
+          "media_count": 1123,
+          "tweet_count": 16467
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "这里有什么？",
+        "id": "1910085836420558848",
+        "name": "诅咒是纯白色",
+        "pinned_tweet_id": "2041532152857440448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548430106374144/roXELH4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 430,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2219
+        },
+        "username": "tsuinoshiro",
+        "verified": false
+      }
+    ]
+  }
+}

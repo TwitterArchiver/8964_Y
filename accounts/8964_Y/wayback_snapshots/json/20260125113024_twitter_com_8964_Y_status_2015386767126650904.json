@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015386757517418496"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2015386767126650904",
+    "created_at": "2026-01-25T11:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015386767126650904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vwAfn68ysI",
+          "end": 23,
+          "expanded_url": "https://x.com/8964_Y/status/2015386767126650904/photo/1",
+          "media_key": "3_2015386757517418496",
+          "start": 0,
+          "url": "https://t.co/vwAfn68ysI"
+        },
+        {
+          "display_url": "x.com/namako14s/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/namako14s/status/2010291344447508788",
+          "start": 24,
+          "url": "https://t.co/to47S3yqV0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015386767126650904",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010291344447508788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/vwAfn68ysI https://t.co/to47S3yqV0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2015386757517418496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gXk_baIAA813u.jpg",
+        "width": 576
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2010289532680515584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-X7rdMbsAAYvDb.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015386757517418496"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2015386767126650904",
+        "created_at": "2026-01-25T11:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015386767126650904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwAfn68ysI",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/2015386767126650904/photo/1",
+              "media_key": "3_2015386757517418496",
+              "start": 0,
+              "url": "https://t.co/vwAfn68ysI"
+            },
+            {
+              "display_url": "x.com/namako14s/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/namako14s/status/2010291344447508788",
+              "start": 24,
+              "url": "https://t.co/to47S3yqV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015386767126650904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010291344447508788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vwAfn68ysI https://t.co/to47S3yqV0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010289532680515584"
+          ]
+        },
+        "author_id": "3185705815",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2010291344447508788",
+        "created_at": "2026-01-11T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010291344447508788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpHAlawgmK",
+              "end": 52,
+              "expanded_url": "https://x.com/namako14s/status/2010291344447508788/photo/1",
+              "media_key": "3_2010289532680515584",
+              "start": 29,
+              "url": "https://t.co/PpHAlawgmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010291344447508788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2521,
+          "impression_count": 299899,
+          "like_count": 32348,
+          "quote_count": 34,
+          "reply_count": 15,
+          "retweet_count": 2780
+        },
+        "reply_settings": "everyone",
+        "text": "新しい戦い方\n#チェンソーマン #chainsawman https://t.co/PpHAlawgmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5834,
+          "following_count": 833,
+          "like_count": 18318,
+          "listed_count": 19,
+          "media_count": 974,
+          "tweet_count": 14290
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-04T23:30:37.000Z",
+        "description": "Chainsaw Man　 FanArt　絵を描いてます。　イラストの依頼はpixivにてお受けしてます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11292446",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11292446",
+                "start": 0,
+                "url": "https://t.co/N4e8mE78sM"
+              }
+            ]
+          }
+        },
+        "id": "3185705815",
+        "location": "日本",
+        "name": "力名一久 (K.Rikina)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760907620158988288/1E2DhN2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4813,
+          "following_count": 149,
+          "like_count": 3054,
+          "listed_count": 22,
+          "media_count": 318,
+          "tweet_count": 7402
+        },
+        "url": "https://t.co/N4e8mE78sM",
+        "username": "namako14s",
+        "verified": false
+      }
+    ]
+  }
+}

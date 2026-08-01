@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2006625783176171825",
+    "created_at": "2026-01-01T07:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006625783176171825"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "地雷系"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "量産型"
+        },
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "量産型と繋がりたい"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "自撮り"
+        },
+        {
+          "end": 69,
+          "start": 63,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 87,
+          "start": 70,
+          "tag": "雰囲気嫌いじゃないよって人いいね"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "メンヘラ"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "病み垢"
+        },
+        {
+          "end": 111,
+          "start": 100,
+          "tag": "病み垢さん繋がりたい"
+        },
+        {
+          "end": 127,
+          "start": 113,
+          "tag": "自撮り界隈さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1707375521015967744",
+          "start": 3,
+          "username": "Kas1isabitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006625783176171825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006516898201268705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kas1isabitch: 私が可愛い、？　#地雷系\n#量産型\n#地雷系と繋がりたい\n#量産型と繋がりたい\n#自撮り\n#自撮り界隈\n#雰囲気嫌いじゃないよって人いいね \n#メンヘラ\n#病み垢\n#病み垢さん繋がりたい\n #自撮り界隈さんと繋がりたい https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2006516892425732096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iUe5DbQAAvIPz.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2006516892429889536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iUe5EasAA1VzX.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2006625783176171825",
+        "created_at": "2026-01-01T07:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006625783176171825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "地雷系"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "量産型"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "量産型と繋がりたい"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "自撮り"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 87,
+              "start": 70,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "病み垢"
+            },
+            {
+              "end": 111,
+              "start": 100,
+              "tag": "病み垢さん繋がりたい"
+            },
+            {
+              "end": 127,
+              "start": 113,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1707375521015967744",
+              "start": 3,
+              "username": "Kas1isabitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006625783176171825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006516898201268705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kas1isabitch: 私が可愛い、？　#地雷系\n#量産型\n#地雷系と繋がりたい\n#量産型と繋がりたい\n#自撮り\n#自撮り界隈\n#雰囲気嫌いじゃないよって人いいね \n#メンヘラ\n#病み垢\n#病み垢さん繋がりたい\n #自撮り界隈さんと繋がりたい https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006516892425732096",
+            "3_2006516892429889536"
+          ]
+        },
+        "author_id": "1707375521015967744",
+        "conversation_id": "2006516898201268705",
+        "created_at": "2026-01-01T00:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T01:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006516898201268705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "地雷系"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "量産型"
+            },
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "量産型と繋がりたい"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "自撮り"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 69,
+              "start": 52,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "病み垢"
+            },
+            {
+              "end": 93,
+              "start": 82,
+              "tag": "病み垢さん繋がりたい"
+            },
+            {
+              "end": 109,
+              "start": 95,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEVQlssc6p",
+              "end": 133,
+              "expanded_url": "https://x.com/Kas1isabitch/status/2006516898201268705/photo/1",
+              "media_key": "3_2006516892425732096",
+              "start": 110,
+              "url": "https://t.co/mEVQlssc6p"
+            },
+            {
+              "display_url": "pic.x.com/mEVQlssc6p",
+              "end": 133,
+              "expanded_url": "https://x.com/Kas1isabitch/status/2006516898201268705/photo/1",
+              "media_key": "3_2006516892429889536",
+              "start": 110,
+              "url": "https://t.co/mEVQlssc6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006516898201268705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "私が可愛い、？　#地雷系\n#量産型\n#地雷系と繋がりたい\n#量産型と繋がりたい\n#自撮り\n#自撮り界隈\n#雰囲気嫌いじゃないよって人いいね \n#メンヘラ\n#病み垢\n#病み垢さん繋がりたい\n #自撮り界隈さんと繋がりたい https://t.co/mEVQlssc6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不要靠近我我性格超级差有很大的问题很古怪的人滚滚滚｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5870,
+          "following_count": 836,
+          "like_count": 18014,
+          "listed_count": 19,
+          "media_count": 968,
+          "tweet_count": 14140
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T12:44:00.000Z",
+        "description": "我是kas1 08年17岁 /ENG/中文ok精神崩溃中 地雷系大好き！ デスノート激推中（՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷̥᷅⸝⸝՞)｜🖋️🌙｜ 🚪80/120/520/1314纯绿无福利 只想看想看的东西。关心我请先给我打钱",
+        "id": "1707375521015967744",
+        "location": "只属于KIKI的星球",
+        "name": "对不起",
+        "pinned_tweet_id": "1861824869215904226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928905303237808128/vQBBbeTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 270,
+          "like_count": 7652,
+          "listed_count": 2,
+          "media_count": 1265,
+          "tweet_count": 7332
+        },
+        "username": "Kas1isabitch",
+        "verified": false
+      }
+    ]
+  }
+}

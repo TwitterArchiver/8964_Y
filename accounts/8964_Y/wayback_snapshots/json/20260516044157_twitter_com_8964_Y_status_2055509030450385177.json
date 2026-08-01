@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2055502894686929130",
+    "created_at": "2026-05-16T04:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055509030450385177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040423313231740928",
+          "start": 0,
+          "username": "Misaki11137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055509030450385177",
+    "in_reply_to_user_id": "2040423313231740928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055502894686929130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaki11137 冒失猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2055502894686929130",
+        "created_at": "2026-05-16T04:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055509030450385177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040423313231740928",
+              "start": 0,
+              "username": "Misaki11137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055509030450385177",
+        "in_reply_to_user_id": "2040423313231740928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055502894686929130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki11137 冒失猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040423313231740928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2055502894686929130",
+        "created_at": "2026-05-16T04:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055502894686929130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055502894686929130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于找了四天我的ipad我终于找到了，我又可以刷推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 733,
+          "like_count": 23282,
+          "listed_count": 19,
+          "media_count": 1107,
+          "tweet_count": 16241
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T13:38:07.000Z",
+        "description": "三崎，已经累了，这是第十个号了88/188🚪是一条🐟，放过我这个可怜无辜的精神病小女孩吧 世界上最喜欢的妈咪 @8964_Y ❤️ 广州南昌，接线下，出各种蝴蝶标本装饰，好吃的阿片",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "2040423313231740928",
+        "name": "三崎（永远漂泊版）",
+        "pinned_tweet_id": "2053872517002183000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040426683560529921/zC8v7pqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 290,
+          "like_count": 2344,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 650
+        },
+        "username": "Misaki11137",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1994316680449937728",
+    "created_at": "2025-11-29T10:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994711052169454024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910304469021265920",
+          "start": 0,
+          "username": "waLJU0p7ny84316"
+        },
+        {
+          "end": 27,
+          "id": "1975500696427581440",
+          "start": 17,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994711052169454024",
+    "in_reply_to_user_id": "1910304469021265920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994600095309074820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waLJU0p7ny84316 @TReverie_ 这特么是想去旅游！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1994316680449937728",
+        "created_at": "2025-11-29T10:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994711052169454024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910304469021265920",
+              "start": 0,
+              "username": "waLJU0p7ny84316"
+            },
+            {
+              "end": 27,
+              "id": "1975500696427581440",
+              "start": 17,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994711052169454024",
+        "in_reply_to_user_id": "1910304469021265920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994600095309074820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waLJU0p7ny84316 @TReverie_ 这特么是想去旅游！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910304469021265920",
+        "conversation_id": "1994316680449937728",
+        "created_at": "2025-11-29T02:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994600095309074820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994600095309074820",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1067,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994316680449937728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ 其实二战以后，那些西方国家都受到经济危机，一蹶不振，然后是当领导我们建设新家园的，西方逐渐没落，我们积攒的五千年文化发扬光大了，现在美国只是被我们控制的傀儡，哪些新闻只是为了给老美一个面子的，只要一声令下，我马上坐船登录美国作战（我是串子）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 835,
+          "like_count": 17371,
+          "listed_count": 17,
+          "media_count": 939,
+          "tweet_count": 13771
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T12:11:00.000Z",
+        "description": "支持民主复兴，制度改革，要开放",
+        "id": "1910304469021265920",
+        "location": "Los Angeles, CA",
+        "name": "影大人对我最好了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977575570734247936/8duHKtAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 241,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 143
+        },
+        "username": "waLJU0p7ny84316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "包蜜😋 | 情绪超级不稳，喜欢三天两头切换状态 | 反共的我看到一个fo一个 | Blue Archive | 反支性，支持脱支 | Stand up for yourself",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987433052960923712/V6mQbiI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 626,
+          "like_count": 8049,
+          "listed_count": 9,
+          "media_count": 587,
+          "tweet_count": 2447
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

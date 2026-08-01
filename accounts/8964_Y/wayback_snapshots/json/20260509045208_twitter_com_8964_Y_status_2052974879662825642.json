@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2052789576331350157",
+    "created_at": "2026-05-09T04:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052974879662825642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572217722876080129",
+          "start": 0,
+          "username": "KurokawaRirika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052974879662825642",
+    "in_reply_to_user_id": "1572217722876080129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052789576331350157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KurokawaRirika 非常可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052789557876412421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz5Ogva0AUzhfL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2052789576331350157",
+        "created_at": "2026-05-09T04:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052974879662825642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572217722876080129",
+              "start": 0,
+              "username": "KurokawaRirika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052974879662825642",
+        "in_reply_to_user_id": "1572217722876080129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052789576331350157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KurokawaRirika 非常可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052789557876412421"
+          ]
+        },
+        "author_id": "1572217722876080129",
+        "conversation_id": "2052789576331350157",
+        "created_at": "2026-05-08T16:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052789576331350157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niRxzQr3z4",
+              "end": 29,
+              "expanded_url": "https://x.com/KurokawaRirika/status/2052789576331350157/photo/1",
+              "media_key": "3_2052789557876412421",
+              "start": 6,
+              "url": "https://t.co/niRxzQr3z4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052789576331350157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可爱吗！ https://t.co/niRxzQr3z4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6265,
+          "following_count": 738,
+          "like_count": 23069,
+          "listed_count": 20,
+          "media_count": 1101,
+          "tweet_count": 16158
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:37:37.000Z",
+        "description": "我是黒川りりか可以叫我莉莉\n我是来自冥王星北部的神秘外星人，来到地球做卧底观察人类\n广州/165g54kg/不过门不回复任何私信哟！/血图/自拍/废话/餐券妹欢迎互转互fo！",
+        "id": "1572217722876080129",
+        "location": "天国",
+        "name": "Ririka💀暗渊真视教团教主",
+        "pinned_tweet_id": "2030980503332164064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052791241461612544/t5XZZCbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 118,
+          "like_count": 1396,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 320
+        },
+        "username": "KurokawaRirika",
+        "verified": false
+      }
+    ]
+  }
+}

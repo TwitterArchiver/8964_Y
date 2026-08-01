@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1920698794351415663",
+    "created_at": "2025-05-09T05:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T06:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920706740313583949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920706740313583949",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920698794351415663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 不是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_1920698787086962689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqexXtzXkAEVK7s.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1920698794351415663",
+        "created_at": "2025-05-09T05:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T06:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920706740313583949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920706740313583949",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920698794351415663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 不是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920698787086962689"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1920698794351415663",
+        "created_at": "2025-05-09T04:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920698794351415663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/36K59mfWHh",
+              "end": 23,
+              "expanded_url": "https://x.com/kansj68531/status/1920698794351415663/photo/1",
+              "media_key": "3_1920698787086962689",
+              "start": 0,
+              "url": "https://t.co/36K59mfWHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920698794351415663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/36K59mfWHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5462,
+          "following_count": 980,
+          "like_count": 12814,
+          "listed_count": 8,
+          "media_count": 658,
+          "tweet_count": 9860
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "药圈第一个地雷女科普系博主，会回复用药咨询，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4826,
+          "following_count": 63,
+          "like_count": 413,
+          "listed_count": 10,
+          "media_count": 14,
+          "tweet_count": 40
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

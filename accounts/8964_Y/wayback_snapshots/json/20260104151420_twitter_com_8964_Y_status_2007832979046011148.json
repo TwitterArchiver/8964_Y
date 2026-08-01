@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007728162155986944"
+      ],
+      "media_source_tweet_id": [
+        "2007728167042363763"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2007832979046011148",
+    "created_at": "2026-01-04T15:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T16:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007832979046011148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979503278502367233",
+          "start": 3,
+          "username": "10l4pa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AEwIMxGIvo",
+          "end": 43,
+          "expanded_url": "https://x.com/10l4pa/status/2007728167042363763/photo/1",
+          "media_key": "3_2007728162155986944",
+          "start": 20,
+          "url": "https://t.co/AEwIMxGIvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007832979046011148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007728167042363763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10l4pa: 撮んなよばか！ https://t.co/AEwIMxGIvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "散歩の邪魔 - いよわ\n一部本家トレス",
+        "height": 1128,
+        "media_key": "3_2007728162155986944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ziIEbbAAApEUl.jpg",
+        "width": 2011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007728162155986944"
+          ],
+          "media_source_tweet_id": [
+            "2007728167042363763"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2007832979046011148",
+        "created_at": "2026-01-04T15:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007832979046011148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979503278502367233",
+              "start": 3,
+              "username": "10l4pa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEwIMxGIvo",
+              "end": 43,
+              "expanded_url": "https://x.com/10l4pa/status/2007728167042363763/photo/1",
+              "media_key": "3_2007728162155986944",
+              "start": 20,
+              "url": "https://t.co/AEwIMxGIvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007832979046011148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007728167042363763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10l4pa: 撮んなよばか！ https://t.co/AEwIMxGIvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007728162155986944"
+          ]
+        },
+        "author_id": "1979503278502367233",
+        "conversation_id": "2007728167042363763",
+        "created_at": "2026-01-04T08:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007728167042363763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEwIMxGIvo",
+              "end": 31,
+              "expanded_url": "https://x.com/10l4pa/status/2007728167042363763/photo/1",
+              "media_key": "3_2007728162155986944",
+              "start": 8,
+              "url": "https://t.co/AEwIMxGIvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007728167042363763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 25749,
+          "like_count": 2830,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "撮んなよばか！ https://t.co/AEwIMxGIvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不要靠近我我性格超级差有很大的问题很古怪的人滚滚滚｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 833,
+          "like_count": 17998,
+          "listed_count": 19,
+          "media_count": 968,
+          "tweet_count": 14145
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T11:02:21.000Z",
+        "description": "カプ厨の悪魔 3L見る描く 🦋https://t.co/VYhjLlh11x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/10l4pa…",
+                "end": 38,
+                "expanded_url": "https://bsky.app/profile/10l4pa.bsky.social",
+                "start": 15,
+                "url": "https://t.co/VYhjLlh11x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/3b6pw9aic…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/3b6pw9aicrviazos/",
+                "start": 0,
+                "url": "https://t.co/izpJthTrm0"
+              }
+            ]
+          }
+        },
+        "id": "1979503278502367233",
+        "location": "🗝@104no_pan",
+        "name": "ムキムキムチャーハンEX",
+        "pinned_tweet_id": "2003876083003986122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993285445690834947/aQsYTt9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 70,
+          "like_count": 3699,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/izpJthTrm0",
+        "username": "10l4pa",
+        "verified": false
+      }
+    ]
+  }
+}

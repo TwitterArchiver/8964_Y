@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024530319118848000"
+      ],
+      "media_source_tweet_id": [
+        "2024530328069513587"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2024802176862978352",
+    "created_at": "2026-02-20T11:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024802176862978352"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 47,
+          "tag": "chainsawman229"
+        },
+        {
+          "end": 70,
+          "start": 63,
+          "tag": "csm229"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1456476113862119426",
+          "start": 3,
+          "username": "samsan_08"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsBBXC6oNK",
+          "end": 94,
+          "expanded_url": "https://x.com/samsan_08/status/2024530328069513587/photo/1",
+          "media_key": "3_2024530319118848000",
+          "start": 71,
+          "url": "https://t.co/tsBBXC6oNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024802176862978352",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1464
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024530328069513587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samsan_08: Asa Yoru Moment in Anime style\n\n#chainsawman229 #csm229 https://t.co/tsBBXC6oNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024530319118848000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiTmUwWUAACI_a.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024530319118848000"
+          ],
+          "media_source_tweet_id": [
+            "2024530328069513587"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2024802176862978352",
+        "created_at": "2026-02-20T11:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024802176862978352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 47,
+              "tag": "chainsawman229"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "csm229"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1456476113862119426",
+              "start": 3,
+              "username": "samsan_08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsBBXC6oNK",
+              "end": 94,
+              "expanded_url": "https://x.com/samsan_08/status/2024530328069513587/photo/1",
+              "media_key": "3_2024530319118848000",
+              "start": 71,
+              "url": "https://t.co/tsBBXC6oNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024802176862978352",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1464
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024530328069513587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @samsan_08: Asa Yoru Moment in Anime style\n\n#chainsawman229 #csm229 https://t.co/tsBBXC6oNK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024530319118848000"
+          ]
+        },
+        "author_id": "1456476113862119426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2024530328069513587",
+        "created_at": "2026-02-19T17:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024530328069513587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 32,
+              "tag": "chainsawman229"
+            },
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "csm229"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsBBXC6oNK",
+              "end": 79,
+              "expanded_url": "https://x.com/samsan_08/status/2024530328069513587/photo/1",
+              "media_key": "3_2024530319118848000",
+              "start": 56,
+              "url": "https://t.co/tsBBXC6oNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024530328069513587",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1223,
+          "impression_count": 109822,
+          "like_count": 14254,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 1464
+        },
+        "reply_settings": "everyone",
+        "text": "Asa Yoru Moment in Anime style\n\n#chainsawman229 #csm229 https://t.co/tsBBXC6oNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "QY_art7"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5880,
+          "following_count": 734,
+          "like_count": 19971,
+          "listed_count": 19,
+          "media_count": 1007,
+          "tweet_count": 14784
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T04:19:14.000Z",
+        "description": "19 | 🇻🇪esp/eng\n\nDibujante y animador",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sam_sann",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sam_sann",
+                "start": 0,
+                "url": "https://t.co/J5f8T45aqj"
+              }
+            ]
+          }
+        },
+        "id": "1456476113862119426",
+        "name": "samsann | comms open",
+        "pinned_tweet_id": "2015160617171071172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015162203742097408/gaZYQKrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 667,
+          "like_count": 135999,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 962
+        },
+        "url": "https://t.co/J5f8T45aqj",
+        "username": "samsan_08",
+        "verified": false
+      }
+    ]
+  }
+}

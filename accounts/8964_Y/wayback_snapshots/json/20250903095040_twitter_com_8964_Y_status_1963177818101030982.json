@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1962910077377282308",
+    "created_at": "2025-09-03T09:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963177818101030982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963177818101030982",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962910077377282308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1962910077377282308",
+        "created_at": "2025-09-03T09:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963177818101030982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963177818101030982",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962910077377282308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345332631429287936",
+        "conversation_id": "1962910077377282308",
+        "created_at": "2025-09-02T16:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962910077377282308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962910077377282308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 989,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我19歲生日快樂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 881,
+          "like_count": 15758,
+          "listed_count": 18,
+          "media_count": 833,
+          "tweet_count": 12327
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n重鬱/中焦/ADD/解離/恐慌/自殺未遂\n爸爸活無限期中止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/omoegg",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/omoegg",
+                "start": 0,
+                "url": "https://t.co/gR297pV0hN"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "Taipei City, Taiwan",
+        "name": "？（回推ver.)",
+        "pinned_tweet_id": "1933432968779083785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922830309684543489/dL8hFayq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 830,
+          "like_count": 48970,
+          "listed_count": 8,
+          "media_count": 536,
+          "tweet_count": 2496
+        },
+        "url": "https://t.co/gR297pV0hN",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

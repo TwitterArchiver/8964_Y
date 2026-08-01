@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1947603327560122392",
+    "created_at": "2025-07-22T10:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T11:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947606974578950200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896059136758161408",
+          "start": 0,
+          "username": "kawaiizeroo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947606974578950200",
+    "in_reply_to_user_id": "1896059136758161408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947605026870071532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiizeroo 无语了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1947603327560122392",
+        "created_at": "2025-07-22T10:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947606974578950200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896059136758161408",
+              "start": 0,
+              "username": "kawaiizeroo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947606974578950200",
+        "in_reply_to_user_id": "1896059136758161408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947605026870071532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiizeroo 无语了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896059136758161408",
+        "conversation_id": "1947603327560122392",
+        "created_at": "2025-07-22T10:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947605026870071532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947605026870071532",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947603327560122392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 就这样圈米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5768,
+          "following_count": 942,
+          "like_count": 15119,
+          "listed_count": 12,
+          "media_count": 778,
+          "tweet_count": 11747
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:45:09.000Z",
+        "description": "06 163 95♡sub ♑enfp忧郁症✩︎‧₊相信的心是魔法♡求溺爱♡过门不退/有🚪199/520/1314/5200♡验证已过✨私信只回复口令🧧咨询请付费52♡乱发拉黑🚫这个是自己在用的很好用的梯梯https://t.co/RuGOsIm43W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=qm4fsJuG",
+                "start": 103,
+                "url": "https://t.co/RuGOsIm43W"
+              }
+            ]
+          }
+        },
+        "id": "1896059136758161408",
+        "location": "江浙沪(具体到市20r",
+        "name": "AAA淳朴的农民",
+        "pinned_tweet_id": "1942500175903351068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945077319925948416/SpJND0lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 71,
+          "like_count": 3323,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 2190
+        },
+        "username": "kawaiizeroo",
+        "verified": false
+      }
+    ]
+  }
+}

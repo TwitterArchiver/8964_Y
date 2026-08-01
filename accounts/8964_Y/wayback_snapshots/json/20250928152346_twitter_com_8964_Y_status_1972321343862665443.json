@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1972321343862665443",
+    "created_at": "2025-09-28T15:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T16:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972321343862665443"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1972321343862665443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说把你当日本人整的是不是想多了，日本最低时薪是你的三倍，基本全球免签，你办个签证恨不得往上查三代，资料摞得比你穿内增高还高，结果给你拒签了，你又说把你当日本人整"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1972321343862665443",
+        "created_at": "2025-09-28T15:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972321343862665443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972321343862665443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说把你当日本人整的是不是想多了，日本最低时薪是你的三倍，基本全球免签，你办个签证恨不得往上查三代，资料摞得比你穿内增高还高，结果给你拒签了，你又说把你当日本人整"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜｜🚪100/188/288/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 878,
+          "like_count": 16038,
+          "listed_count": 18,
+          "media_count": 866,
+          "tweet_count": 12749
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

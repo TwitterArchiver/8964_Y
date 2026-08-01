@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1977495651090043097",
+    "created_at": "2025-10-12T22:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977495651090043097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/leeanzelo/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/leeanzelo/status/1977302209433055552",
+          "start": 13,
+          "url": "https://t.co/3DL654ltaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977495651090043097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977302209433055552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以防你们不知道我在说什么 https://t.co/3DL654ltaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1977302198427283456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DJ347bcAASfdg.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1977495651090043097",
+        "created_at": "2025-10-12T22:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977495651090043097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leeanzelo/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/leeanzelo/status/1977302209433055552",
+              "start": 13,
+              "url": "https://t.co/3DL654ltaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977495651090043097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977302209433055552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以防你们不知道我在说什么 https://t.co/3DL654ltaT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977302198427283456"
+          ]
+        },
+        "author_id": "741628257158598657",
+        "conversation_id": "1977302209433055552",
+        "created_at": "2025-10-12T09:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977302209433055552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rNiLmFuAq",
+              "end": 23,
+              "expanded_url": "https://x.com/LeeAnZelo/status/1977302209433055552/photo/1",
+              "media_key": "3_1977302198427283456",
+              "start": 0,
+              "url": "https://t.co/5rNiLmFuAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977302209433055552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 65810,
+          "like_count": 2162,
+          "quote_count": 18,
+          "reply_count": 29,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5rNiLmFuAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜没门槛不扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5726,
+          "following_count": 881,
+          "like_count": 16268,
+          "listed_count": 18,
+          "media_count": 887,
+          "tweet_count": 13007
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-11T13:48:50.000Z",
+        "description": "▸徵助手模型師+meme助手ing\n▸345↑ #Vtuber #Live2D 模型師\n▸線上課程 #LeeAnZelosClass\n▸個人網站 https://t.co/RCN1KElFhb | 公司網站 https://t.co/uEY24wy4bf \n▸節目 #Live2DQAQ #我話你拆 #2024年末VT模型評鑑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 39,
+                "start": 32,
+                "tag": "Live2D"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "tag": "LeeAnZelosClass"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "tag": "Live2DQAQ"
+              },
+              {
+                "end": 149,
+                "start": 144,
+                "tag": "我話你拆"
+              },
+              {
+                "end": 163,
+                "start": 150,
+                "tag": "2024年末VT模型評鑑"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zeloan.net",
+                "end": 96,
+                "expanded_url": "https://www.zeloan.net",
+                "start": 73,
+                "url": "https://t.co/RCN1KElFhb"
+              },
+              {
+                "display_url": "leeanzelo.com",
+                "end": 127,
+                "expanded_url": "https://leeanzelo.com",
+                "start": 104,
+                "url": "https://t.co/uEY24wy4bf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clibo.tw/users/leeanzelo",
+                "end": 23,
+                "expanded_url": "https://clibo.tw/users/leeanzelo",
+                "start": 0,
+                "url": "https://t.co/emd6aGqwNv"
+              }
+            ]
+          }
+        },
+        "id": "741628257158598657",
+        "location": "中文😃 | English🤏 | meme🧡",
+        "name": "李安瑟羅Zelo🌻 Live2D rigger (OPEN)",
+        "pinned_tweet_id": "1975573176404128186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430564665340305415/0pbCZTvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 692,
+          "like_count": 6480,
+          "listed_count": 36,
+          "media_count": 1441,
+          "tweet_count": 7047
+        },
+        "url": "https://t.co/emd6aGqwNv",
+        "username": "LeeAnZelo",
+        "verified": true
+      }
+    ]
+  }
+}

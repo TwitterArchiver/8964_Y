@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1941556938673930441",
+    "created_at": "2025-07-05T18:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T19:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941571251480428760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941571251480428760",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941557350940409959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG 这种以前在bcy很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1941556938673930441",
+        "created_at": "2025-07-05T18:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T19:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941571251480428760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941571251480428760",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941557350940409959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG 这种以前在bcy很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818315659673210880",
+        "conversation_id": "1941556938673930441",
+        "created_at": "2025-07-05T17:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941557350940409959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941557350940409959",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941556938673930441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 以前碰到有个装美国华人的，要我帮忙注册QQ和抖音💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5512,
+          "following_count": 943,
+          "like_count": 14487,
+          "listed_count": 10,
+          "media_count": 757,
+          "tweet_count": 11392
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/LGBT正当权益🏳️‍🌈/反建制🌹/🚫极端主义🚫」淡推鉴政减少中\n逃生舱：@Nek1BOOM 欢迎互fo😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "Nek1BOOM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neki.work",
+                "end": 23,
+                "expanded_url": "http://neki.work",
+                "start": 0,
+                "url": "https://t.co/n61PuIvjOU"
+              }
+            ]
+          }
+        },
+        "id": "1818315659673210880",
+        "location": "Dawntown NightCity, California",
+        "name": "Nek1🇳🇴🦌☕✨",
+        "pinned_tweet_id": "1937896890210898229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940612208703975424/xaikKDDr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 1084,
+          "like_count": 23538,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/n61PuIvjOU",
+        "username": "NeK1GG",
+        "verified": false
+      }
+    ]
+  }
+}

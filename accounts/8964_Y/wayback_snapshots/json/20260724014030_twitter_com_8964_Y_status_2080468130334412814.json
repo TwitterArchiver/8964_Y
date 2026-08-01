@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2080224186572894284",
+    "created_at": "2026-07-24T01:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080468130334412814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937925047458664449",
+          "start": 0,
+          "username": "WiaAir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080468130334412814",
+    "in_reply_to_user_id": "1937925047458664449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080372678003679366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WiaAir 苹果手机可以玩\n这个游戏难度有点高，需要解密什么的\n宝贝可以去b站看海轩大总统的解说！虽然只有五季，他还会总结人物关系什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2080224186572894284",
+        "created_at": "2026-07-24T01:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080468130334412814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937925047458664449",
+              "start": 0,
+              "username": "WiaAir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080468130334412814",
+        "in_reply_to_user_id": "1937925047458664449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080372678003679366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WiaAir 苹果手机可以玩\n这个游戏难度有点高，需要解密什么的\n宝贝可以去b站看海轩大总统的解说！虽然只有五季，他还会总结人物关系什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937925047458664449",
+        "conversation_id": "2080224186572894284",
+        "created_at": "2026-07-23T19:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080372678003679366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080372678003679366",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080224186572894284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 被种草了！想问问是在哪里玩的steam吗还是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11｜🚪200好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6715,
+          "following_count": 742,
+          "like_count": 25155,
+          "listed_count": 19,
+          "media_count": 1185,
+          "tweet_count": 17019
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-25T17:26:44.000Z",
+        "description": "叫我小寒就好！/女/自伤🔪/od💊/烟酒👌/精神状态不稳定/文艺比/消肿比/纯血铜仁钕/交友大欢迎/LGBTQ+全肯定\n1.0：@AirWiaAir\n🦋指路：ChillyWinter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "AirWiaAir"
+              }
+            ]
+          }
+        },
+        "id": "1937925047458664449",
+        "name": "小寒2.00000",
+        "pinned_tweet_id": "2068356273662500966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061314473768718337/LusnPfoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 126,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "WiaAir",
+        "verified": false
+      }
+    ]
+  }
+}

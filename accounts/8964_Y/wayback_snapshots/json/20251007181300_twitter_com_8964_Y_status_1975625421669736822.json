@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975347038406541312"
+      ],
+      "media_source_tweet_id": [
+        "1975347044765343995"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1975625421669736822",
+    "created_at": "2025-10-07T18:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T19:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975625421669736822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813298011411202050",
+          "start": 3,
+          "username": "violetkura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OER58lvRTO",
+          "end": 98,
+          "expanded_url": "https://x.com/violetkura/status/1975347044765343995/photo/1",
+          "media_key": "3_1975347038406541312",
+          "start": 75,
+          "url": "https://t.co/OER58lvRTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975625421669736822",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975347044765343995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @violetkura: oh boy oh boy i can’t wait for a new csm chapter tomorrow! https://t.co/OER58lvRTO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_1975347038406541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nXqmRXgAA6Tpc.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975347038406541312"
+          ],
+          "media_source_tweet_id": [
+            "1975347044765343995"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1975625421669736822",
+        "created_at": "2025-10-07T18:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975625421669736822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813298011411202050",
+              "start": 3,
+              "username": "violetkura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OER58lvRTO",
+              "end": 98,
+              "expanded_url": "https://x.com/violetkura/status/1975347044765343995/photo/1",
+              "media_key": "3_1975347038406541312",
+              "start": 75,
+              "url": "https://t.co/OER58lvRTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975625421669736822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975347044765343995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @violetkura: oh boy oh boy i can’t wait for a new csm chapter tomorrow! https://t.co/OER58lvRTO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975347038406541312"
+          ]
+        },
+        "author_id": "1813298011411202050",
+        "conversation_id": "1975347044765343995",
+        "created_at": "2025-10-06T23:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975347044765343995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OER58lvRTO",
+              "end": 82,
+              "expanded_url": "https://x.com/violetkura/status/1975347044765343995/photo/1",
+              "media_key": "3_1975347038406541312",
+              "start": 59,
+              "url": "https://t.co/OER58lvRTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975347044765343995",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 15565,
+          "like_count": 1477,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "oh boy oh boy i can’t wait for a new csm chapter tomorrow! https://t.co/OER58lvRTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 876,
+          "like_count": 16174,
+          "listed_count": 18,
+          "media_count": 881,
+          "tweet_count": 12921
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T19:42:32.000Z",
+        "description": "meats and cheeses always pleases (priv: @periwinkleasa)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "periwinkleasa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "violetkura.straw.page",
+                "end": 23,
+                "expanded_url": "https://violetkura.straw.page",
+                "start": 0,
+                "url": "https://t.co/dq040oZh02"
+              }
+            ]
+          }
+        },
+        "id": "1813298011411202050",
+        "location": "23 | 🇮🇪🍉",
+        "name": "lucy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915807672055521281/yh1fjELg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 376,
+          "like_count": 11954,
+          "listed_count": 5,
+          "media_count": 621,
+          "tweet_count": 4523
+        },
+        "url": "https://t.co/dq040oZh02",
+        "username": "violetkura",
+        "verified": false
+      }
+    ]
+  }
+}

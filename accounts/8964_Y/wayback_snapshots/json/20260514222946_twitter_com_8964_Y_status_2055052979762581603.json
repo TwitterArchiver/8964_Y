@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2053148215567085595",
+    "created_at": "2026-05-14T22:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T23:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055052979762581603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "868521221842927616",
+          "start": 0,
+          "username": "footjobdelisi"
+        },
+        {
+          "end": 28,
+          "id": "1688996125707993088",
+          "start": 15,
+          "username": "kahvessilver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055052979762581603",
+    "in_reply_to_user_id": "868521221842927616",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054993412005240928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@footjobdelisi @kahvessilver ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2053148215567085595",
+        "created_at": "2026-05-14T22:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055052979762581603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "868521221842927616",
+              "start": 0,
+              "username": "footjobdelisi"
+            },
+            {
+              "end": 28,
+              "id": "1688996125707993088",
+              "start": 15,
+              "username": "kahvessilver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055052979762581603",
+        "in_reply_to_user_id": "868521221842927616",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054993412005240928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@footjobdelisi @kahvessilver ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "868521221842927616",
+        "conversation_id": "2053148215567085595",
+        "created_at": "2026-05-14T18:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054993412005240928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 21,
+              "id": "1688996125707993088",
+              "start": 8,
+              "username": "kahvessilver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054993412005240928",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053148215567085595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @kahvessilver sizin cocuklar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 733,
+          "like_count": 23205,
+          "listed_count": 19,
+          "media_count": 1106,
+          "tweet_count": 16215
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-27T17:36:10.000Z",
+        "description": "atatürk nato havacılık fenerbahçe",
+        "id": "868521221842927616",
+        "location": "sirkiye",
+        "name": "kayan yıldız 🇩🇪",
+        "pinned_tweet_id": "1947990688034947319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050287562699259904/LR4zAzcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 288,
+          "like_count": 106547,
+          "listed_count": 1,
+          "media_count": 1682,
+          "tweet_count": 12240
+        },
+        "username": "footjobdelisi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T19:30:41.000Z",
+        "description": "She/her\nTurk-Dutch\n✝️🇳🇱🇹🇷\npriv: @kahvesieg\n#Narsist #SensitiveFascist #NukeRojava",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "Narsist"
+              },
+              {
+                "end": 69,
+                "start": 52,
+                "tag": "SensitiveFascist"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "tag": "NukeRojava"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "kahvesieg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "istedigimolacak.com",
+                "end": 23,
+                "expanded_url": "https://istedigimolacak.com",
+                "start": 0,
+                "url": "https://t.co/tB756peYSl"
+              }
+            ]
+          }
+        },
+        "id": "1688996125707993088",
+        "location": "Vereenigde Oost-Indische🇳🇱",
+        "name": "kahvé 🇹🇷",
+        "pinned_tweet_id": "2031089096353841629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032590117735428096/q8jbHzrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 783,
+          "like_count": 78297,
+          "listed_count": 3,
+          "media_count": 3485,
+          "tweet_count": 19468
+        },
+        "url": "https://t.co/tB756peYSl",
+        "username": "kahvessilver",
+        "verified": true
+      }
+    ]
+  }
+}

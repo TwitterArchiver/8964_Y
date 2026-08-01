@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2014997413765972408",
+    "created_at": "2026-01-24T17:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T18:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015117088411844844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792011763875184640",
+          "start": 0,
+          "username": "lnmng5262080968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015117088411844844",
+    "in_reply_to_user_id": "1792011763875184640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014997413765972408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnmng5262080968 什么瓜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014997394702700544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a1dF6XkAAJUNn.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014997394698489856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a1dF5XUAAOfLj.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014997394560331776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a1dFYbMAAabbw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014997394556133376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a1dFXbIAAgC8c.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2014997413765972408",
+        "created_at": "2026-01-24T17:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015117088411844844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015117088411844844",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014997413765972408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 什么瓜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014997394702700544",
+            "3_2014997394698489856",
+            "3_2014997394560331776",
+            "3_2014997394556133376"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014997413765972408",
+        "created_at": "2026-01-24T09:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014997413765972408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASXc4zkuZu",
+              "end": 36,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2014997413765972408/photo/1",
+              "media_key": "3_2014997394702700544",
+              "start": 13,
+              "url": "https://t.co/ASXc4zkuZu"
+            },
+            {
+              "display_url": "pic.x.com/ASXc4zkuZu",
+              "end": 36,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2014997413765972408/photo/1",
+              "media_key": "3_2014997394698489856",
+              "start": 13,
+              "url": "https://t.co/ASXc4zkuZu"
+            },
+            {
+              "display_url": "pic.x.com/ASXc4zkuZu",
+              "end": 36,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2014997413765972408/photo/1",
+              "media_key": "3_2014997394560331776",
+              "start": 13,
+              "url": "https://t.co/ASXc4zkuZu"
+            },
+            {
+              "display_url": "pic.x.com/ASXc4zkuZu",
+              "end": 36,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2014997413765972408/photo/1",
+              "media_key": "3_2014997394556133376",
+              "start": 13,
+              "url": "https://t.co/ASXc4zkuZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014997413765972408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3319,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剑死了谁帮我骂这个贱人😂 https://t.co/ASXc4zkuZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5839,
+          "following_count": 834,
+          "like_count": 18314,
+          "listed_count": 19,
+          "media_count": 972,
+          "tweet_count": 14286
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 299,
+          "like_count": 15170,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5292
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

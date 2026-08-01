@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2078560749191139820",
+    "created_at": "2026-07-20T04:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079068307249140093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1850556241644589056",
+          "start": 0,
+          "username": "owoxin1"
+        },
+        {
+          "end": 17,
+          "id": "1889034144270913537",
+          "start": 9,
+          "username": "ZHIZ404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079068307249140093",
+    "in_reply_to_user_id": "1850556241644589056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078560749191139820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owoxin1 @ZHIZ404 我他妈笑得快死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2251324,
+        "height": 1280,
+        "media_key": "13_2078449433440911360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078449433440911360/img/vrpI68ZqvGAKhDFq.jpg",
+        "public_metrics": {
+          "view_count": 602460
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078449433440911360/vid/avc1/320x568/3i-PYpdOB29_-1yi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078449433440911360/vid/avc1/480x852/MXhuSb8qqbh60HXu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078449433440911360/vid/avc1/720x1280/OYDSq7-m31Uhqyge.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078449433440911360/pl/4bYA8QnSP83bDpyU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2078560749191139820",
+        "created_at": "2026-07-20T04:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079068307249140093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1850556241644589056",
+              "start": 0,
+              "username": "owoxin1"
+            },
+            {
+              "end": 17,
+              "id": "1889034144270913537",
+              "start": 9,
+              "username": "ZHIZ404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079068307249140093",
+        "in_reply_to_user_id": "1850556241644589056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078560749191139820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owoxin1 @ZHIZ404 我他妈笑得快死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078449433440911360"
+          ],
+          "media_source_tweet_id": [
+            "2078450041480700116"
+          ]
+        },
+        "author_id": "1850556241644589056",
+        "conversation_id": "2078560749191139820",
+        "created_at": "2026-07-18T19:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078560749191139820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFqKX39gB4",
+              "end": 31,
+              "expanded_url": "https://x.com/qhsyzlkdye6928/status/2078450041480700116/video/1",
+              "media_key": "13_2078449433440911360",
+              "start": 8,
+              "url": "https://t.co/YFqKX39gB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078560749191139820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 26056,
+          "like_count": 591,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈的笑晕了 https://t.co/YFqKX39gB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11｜🚪200好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6685,
+          "following_count": 745,
+          "like_count": 25061,
+          "listed_count": 19,
+          "media_count": 1180,
+          "tweet_count": 16985
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-27T15:12:55.000Z",
+        "description": "私信骚扰我全家死完。\n我爱发啥就发啥(=^ェ^=)",
+        "id": "1850556241644589056",
+        "location": "京冀津",
+        "name": "小兜宝",
+        "pinned_tweet_id": "2077990834662682766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982030953816944640/9W7Uk70V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9726,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "owoxin1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T19:30:28.000Z",
+        "description": "什么都想做想的很多，爱尝试 \n闵浩哥很可爱 什么都发\n4 Switch 声控\n日记本\n不要输给自己",
+        "id": "1889034144270913537",
+        "location": "有梦的地方",
+        "name": "知知",
+        "pinned_tweet_id": "2061420850449121306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051951175965278209/ZqSpkwki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 1407,
+          "like_count": 15741,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 4518
+        },
+        "url": "",
+        "username": "ZHIZ404",
+        "verified": false
+      }
+    ]
+  }
+}

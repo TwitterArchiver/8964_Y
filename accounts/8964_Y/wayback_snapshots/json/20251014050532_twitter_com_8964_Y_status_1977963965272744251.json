@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963337070350331904"
+      ],
+      "media_source_tweet_id": [
+        "1963337075551613267"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1977963965272744251",
+    "created_at": "2025-10-14T05:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T06:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977963965272744251"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "America",
+          "probability": 0.8885,
+          "start": 20,
+          "type": "Place"
+        },
+        {
+          "end": 88,
+          "normalized_text": "America",
+          "probability": 0.9204,
+          "start": 82,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1698752369834729472",
+          "start": 3,
+          "username": "WarDevil_Yoru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ZVESP1pgQ",
+          "end": 115,
+          "expanded_url": "https://x.com/WarDevil_Yoru/status/1963337075551613267/photo/1",
+          "media_key": "3_1963337070350331904",
+          "start": 92,
+          "url": "https://t.co/6ZVESP1pgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977963965272744251",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963337075551613267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @WarDevil_Yoru: “America made me powerful… terrifying… and attractive! Thanks, America!” https://t.co/6ZVESP1pgQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1977963965272744251].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1977963965272744251",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977963965272744251"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963337070350331904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz8sqcyWcAAMz6h.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963337070350331904"
+          ]
+        },
+        "author_id": "1698752369834729472",
+        "conversation_id": "1963337075551613267",
+        "created_at": "2025-09-03T20:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T21:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963337075551613267"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "America",
+              "probability": 0.9013,
+              "start": 1,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "America",
+              "probability": 0.9126,
+              "start": 63,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZVESP1pgQ",
+              "end": 96,
+              "expanded_url": "https://x.com/WarDevil_Yoru/status/1963337075551613267/photo/1",
+              "media_key": "3_1963337070350331904",
+              "start": 73,
+              "url": "https://t.co/6ZVESP1pgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963337075551613267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 18983,
+          "like_count": 842,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 80
+        },
+        "reply_settings": "following",
+        "text": "“America made me powerful… terrifying… and attractive! Thanks, America!” https://t.co/6ZVESP1pgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜没门槛不扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5726,
+          "following_count": 882,
+          "like_count": 16240,
+          "listed_count": 18,
+          "media_count": 888,
+          "tweet_count": 13027
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T17:38:31.000Z",
+        "description": "Twitter nicknamed me IRL Yoru. Basically Yoru if she had tattoos and collected machetes. ♡ Yoru cosplayer ♡ occasional Osaragi cosplayer ♡ ✧INTP✧ ✧3w4✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/toothfairymoney",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/toothfairymoney",
+                "start": 0,
+                "url": "https://t.co/hAdc9uuxRJ"
+              }
+            ]
+          }
+        },
+        "id": "1698752369834729472",
+        "name": "・❥・War Devil ・❥・",
+        "pinned_tweet_id": "1963337075551613267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973042924129746944/oan3Ciqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 1805,
+          "like_count": 34260,
+          "listed_count": 12,
+          "media_count": 1784,
+          "tweet_count": 14812
+        },
+        "url": "https://t.co/hAdc9uuxRJ",
+        "username": "WarDevil_Yoru",
+        "verified": true
+      }
+    ]
+  }
+}

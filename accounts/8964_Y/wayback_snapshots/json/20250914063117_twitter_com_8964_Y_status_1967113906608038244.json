@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1966525521690313092",
+    "created_at": "2025-09-14T06:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T07:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967113906608038244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781011160705437698",
+          "start": 0,
+          "username": "hngxi568409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967113906608038244",
+    "in_reply_to_user_id": "1781011160705437698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967108717251576026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hngxi568409 cos的时候也很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1966525521690313092",
+        "created_at": "2025-09-14T06:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T07:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967113906608038244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781011160705437698",
+              "start": 0,
+              "username": "hngxi568409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967113906608038244",
+        "in_reply_to_user_id": "1781011160705437698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967108717251576026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hngxi568409 cos的时候也很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781011160705437698",
+        "conversation_id": "1966525521690313092",
+        "created_at": "2025-09-14T06:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T07:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967108717251576026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967108717251576026",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966525521690313092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 感觉比cos的时候还可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 885,
+          "like_count": 16172,
+          "listed_count": 18,
+          "media_count": 852,
+          "tweet_count": 12638
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T17:25:47.000Z",
+        "description": "",
+        "id": "1781011160705437698",
+        "name": "亿只屑猫",
+        "pinned_tweet_id": "1865768796927221972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913091597627240448/yLd1mzd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 112,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 488
+        },
+        "username": "hngxi568409",
+        "verified": false
+      }
+    ]
+  }
+}

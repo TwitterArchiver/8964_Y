@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1987108443287879904",
+    "created_at": "2025-11-08T18:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T19:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987224335027929406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1232167269309935616",
+          "start": 0,
+          "username": "xjp_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987224335027929406",
+    "in_reply_to_user_id": "1232167269309935616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987221010840744002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjp_8964 没有说左手很干净的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1987108443287879904",
+        "created_at": "2025-11-08T18:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T19:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987224335027929406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1232167269309935616",
+              "start": 0,
+              "username": "xjp_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987224335027929406",
+        "in_reply_to_user_id": "1232167269309935616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987221010840744002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjp_8964 没有说左手很干净的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232167269309935616",
+        "conversation_id": "1987108443287879904",
+        "created_at": "2025-11-08T18:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T19:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987221010840744002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987221010840744002",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987108443287879904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 谁懂这张图片在中推圈里的含金量😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 863,
+          "like_count": 16836,
+          "listed_count": 17,
+          "media_count": 917,
+          "tweet_count": 13440
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-25T04:55:56.000Z",
+        "description": "明天去给你上坟",
+        "id": "1232167269309935616",
+        "name": "道元",
+        "pinned_tweet_id": "1580525964131373056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637657423954739200/WirNSu-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 399,
+          "like_count": 5868,
+          "listed_count": 10,
+          "media_count": 232,
+          "tweet_count": 2964
+        },
+        "username": "xjp_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985964432275750915"
+      ],
+      "media_source_tweet_id": [
+        "1985964441318670852"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1986099476038373796",
+    "created_at": "2025-11-05T15:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T16:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986099476038373796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936789334684041216",
+          "start": 3,
+          "username": "H061207Wjh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cWtNckuib6",
+          "end": 59,
+          "expanded_url": "https://x.com/H061207Wjh/status/1985964441318670852/photo/1",
+          "media_key": "3_1985964432275750915",
+          "start": 36,
+          "url": "https://t.co/cWtNckuib6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986099476038373796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985964441318670852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @H061207Wjh: 请找出以下药品中不应该出现在b站的药品 https://t.co/cWtNckuib6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1985964432275750915",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-QIQpbQAMIYy-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985964432275750915"
+          ],
+          "media_source_tweet_id": [
+            "1985964441318670852"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1986099476038373796",
+        "created_at": "2025-11-05T15:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986099476038373796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936789334684041216",
+              "start": 3,
+              "username": "H061207Wjh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWtNckuib6",
+              "end": 59,
+              "expanded_url": "https://x.com/H061207Wjh/status/1985964441318670852/photo/1",
+              "media_key": "3_1985964432275750915",
+              "start": 36,
+              "url": "https://t.co/cWtNckuib6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986099476038373796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985964441318670852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @H061207Wjh: 请找出以下药品中不应该出现在b站的药品 https://t.co/cWtNckuib6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985964432275750915"
+          ]
+        },
+        "author_id": "1936789334684041216",
+        "conversation_id": "1985964441318670852",
+        "created_at": "2025-11-05T06:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985964441318670852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWtNckuib6",
+              "end": 43,
+              "expanded_url": "https://x.com/H061207Wjh/status/1985964441318670852/photo/1",
+              "media_key": "3_1985964432275750915",
+              "start": 20,
+              "url": "https://t.co/cWtNckuib6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985964441318670852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12713,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "请找出以下药品中不应该出现在b站的药品 https://t.co/cWtNckuib6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5820,
+          "following_count": 888,
+          "like_count": 16646,
+          "listed_count": 17,
+          "media_count": 912,
+          "tweet_count": 13331
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T14:12:40.000Z",
+        "description": "药物百科Mediwiki编辑组成员          \n一个平平无奇的地雷妹                \n国家三级心理咨询师 \n有各种心理，药理，精神类问题都可以找我                    \n偏好：od/键政/心理学/精神病学/药理学\n＃向往共产主义＃\n☞一个共产主义左派，不是网左！\n感觉好累………",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/OvX1FmmGAV"
+              }
+            ]
+          }
+        },
+        "id": "1936789334684041216",
+        "location": "想要od  想要优美  想要pr  想要白兔  什么都想要",
+        "name": "SaTo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957273497505579008/W7ABNJXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 108,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/OvX1FmmGAV",
+        "username": "H061207Wjh",
+        "verified": false
+      }
+    ]
+  }
+}

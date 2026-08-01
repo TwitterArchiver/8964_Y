@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1961803792200130721",
+    "created_at": "2025-08-31T22:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T23:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962276128372224488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885019296230678528",
+          "start": 0,
+          "username": "Nietzsche178825"
+        },
+        {
+          "end": 32,
+          "id": "1942815163108704256",
+          "start": 17,
+          "username": "Xibaozi_198964"
+        },
+        {
+          "end": 44,
+          "id": "1580526726823948288",
+          "start": 33,
+          "username": "jiujiu_0w0"
+        },
+        {
+          "end": 56,
+          "id": "1944307753977360389",
+          "start": 45,
+          "username": "njwje52788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962276128372224488",
+    "in_reply_to_user_id": "1885019296230678528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962199632030662908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nietzsche178825 @Xibaozi_198964 @jiujiu_0w0 @njwje52788 你咋好意思提这个的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1961803792200130721",
+        "created_at": "2025-08-31T22:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T23:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962276128372224488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885019296230678528",
+              "start": 0,
+              "username": "Nietzsche178825"
+            },
+            {
+              "end": 32,
+              "id": "1942815163108704256",
+              "start": 17,
+              "username": "Xibaozi_198964"
+            },
+            {
+              "end": 44,
+              "id": "1580526726823948288",
+              "start": 33,
+              "username": "jiujiu_0w0"
+            },
+            {
+              "end": 56,
+              "id": "1944307753977360389",
+              "start": 45,
+              "username": "njwje52788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962276128372224488",
+        "in_reply_to_user_id": "1885019296230678528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962199632030662908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nietzsche178825 @Xibaozi_198964 @jiujiu_0w0 @njwje52788 你咋好意思提这个的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885019296230678528",
+        "conversation_id": "1961803792200130721",
+        "created_at": "2025-08-31T17:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T18:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962199632030662908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942815163108704256",
+              "start": 0,
+              "username": "Xibaozi_198964"
+            },
+            {
+              "end": 27,
+              "id": "1580526726823948288",
+              "start": 16,
+              "username": "jiujiu_0w0"
+            },
+            {
+              "end": 39,
+              "id": "1944307753977360389",
+              "start": 28,
+              "username": "njwje52788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962199632030662908",
+        "in_reply_to_user_id": "1942815163108704256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962170527319310374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xibaozi_198964 @jiujiu_0w0 @njwje52788 64没把你灭掉太遗憾了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5757,
+          "following_count": 881,
+          "like_count": 15712,
+          "listed_count": 18,
+          "media_count": 831,
+          "tweet_count": 12268
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:37:18.000Z",
+        "description": "",
+        "id": "1885019296230678528",
+        "name": "king",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885019528481910784/hQoaKxA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "Nietzsche178825",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T05:17:08.000Z",
+        "description": "",
+        "id": "1942815163108704256",
+        "location": "Tiananmen Square,Beijing",
+        "name": "Tiananmen8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943292688566018048/4tWftkK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 423
+        },
+        "username": "Xibaozi_198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T11:52:08.000Z",
+        "description": "",
+        "id": "1580526726823948288",
+        "location": "Taipei City, Taiwan",
+        "name": "汣汣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767836276160638976/6sGTR7Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 169,
+          "like_count": 80,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 909
+        },
+        "username": "jiujiu_0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T08:08:22.000Z",
+        "description": "我喜欢从其他地方搬运，你感觉冒犯到你了请私信我删除那个帖子。",
+        "id": "1944307753977360389",
+        "name": "এ琼瑾ﻬꦿ",
+        "pinned_tweet_id": "1960324832895398121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951667382193377280/HOasloo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 88,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 652
+        },
+        "username": "njwje52788",
+        "verified": false
+      }
+    ]
+  }
+}

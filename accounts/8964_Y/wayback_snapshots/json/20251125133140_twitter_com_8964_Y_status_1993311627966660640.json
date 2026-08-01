@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1993311627966660640",
+    "created_at": "2025-11-25T13:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993311627966660640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buprofen_520/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/buprofen_520/status/1993141303669059851",
+          "start": 5,
+          "url": "https://t.co/K2pdkqYrZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993311627966660640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993141303669059851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的眼睛 https://t.co/K2pdkqYrZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6153,
+        "height": 640,
+        "media_key": "7_1993141270500589573",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993141270500589573/pu/img/IHnou_bcDC5ELnWs.jpg",
+        "public_metrics": {
+          "view_count": 354922
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993141270500589573/pu/vid/avc1/320x426/zKf5FsVKAclnVfgv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993141270500589573/pu/vid/avc1/480x640/CpTYmXArt0qxzy6E.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993141270500589573/pu/pl/NojQwEPDcu4cT6II.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1993311627966660640",
+        "created_at": "2025-11-25T13:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993311627966660640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buprofen_520/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/buprofen_520/status/1993141303669059851",
+              "start": 5,
+              "url": "https://t.co/K2pdkqYrZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993311627966660640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993141303669059851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的眼睛 https://t.co/K2pdkqYrZr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1993141270500589573"
+          ]
+        },
+        "author_id": "1681935874345553920",
+        "conversation_id": "1993141303669059851",
+        "created_at": "2025-11-25T02:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993141303669059851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAHEpDFkjr",
+              "end": 23,
+              "expanded_url": "https://x.com/Buprofen_520/status/1993141303669059851/video/1",
+              "media_key": "7_1993141270500589573",
+              "start": 0,
+              "url": "https://t.co/yAHEpDFkjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993141303669059851",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5181,
+          "impression_count": 897389,
+          "like_count": 14583,
+          "quote_count": 494,
+          "reply_count": 316,
+          "retweet_count": 1665
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yAHEpDFkjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 836,
+          "like_count": 17305,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 13730
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T07:55:43.000Z",
+        "description": "汉/INTP（阴影ENTJ）/男同/25yo/183cm/55kg 🎮原铁农 📷💻🎹 @Benzone_115 里推要看请打钱🚪68/口",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "Benzone_115"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzone.tech",
+                "end": 23,
+                "expanded_url": "http://benzone.tech/",
+                "start": 0,
+                "url": "https://t.co/whgoiwDj7V"
+              }
+            ]
+          }
+        },
+        "id": "1681935874345553920",
+        "name": "🌈你的布洛芬⌬",
+        "pinned_tweet_id": "1862771119343985126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942230594425098240/26_yOhBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5055,
+          "following_count": 878,
+          "like_count": 74396,
+          "listed_count": 9,
+          "media_count": 3072,
+          "tweet_count": 18261
+        },
+        "url": "https://t.co/whgoiwDj7V",
+        "username": "Buprofen_520",
+        "verified": false
+      }
+    ]
+  }
+}

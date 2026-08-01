@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1993617183839313943",
+    "created_at": "2025-11-26T22:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T23:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993807716503179353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4852695562",
+          "start": 0,
+          "username": "bukefenjie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993807716503179353",
+    "in_reply_to_user_id": "4852695562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993804684465996099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bukefenjie 你赶紧滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1993617183839313943",
+        "created_at": "2025-11-26T22:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993807716503179353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4852695562",
+              "start": 0,
+              "username": "bukefenjie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993807716503179353",
+        "in_reply_to_user_id": "4852695562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993804684465996099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bukefenjie 你赶紧滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4852695562",
+        "conversation_id": "1993617183839313943",
+        "created_at": "2025-11-26T22:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993804684465996099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993804684465996099",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993617183839313943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 她属于直播天才，老天爷赏饭吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 836,
+          "like_count": 17301,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 13747
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-27T06:43:42.000Z",
+        "description": "",
+        "id": "4852695562",
+        "location": "中华人民共和国",
+        "name": "不可分解",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792852474929528832/y2E09wPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 293,
+          "like_count": 2427,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 518
+        },
+        "username": "bukefenjie",
+        "verified": false
+      }
+    ]
+  }
+}

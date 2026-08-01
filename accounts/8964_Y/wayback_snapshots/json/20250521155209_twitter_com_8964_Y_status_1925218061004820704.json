@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925098554353467392"
+      ],
+      "media_source_tweet_id": [
+        "1925098649434153036"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1925218061004820704",
+    "created_at": "2025-05-21T15:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T16:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925218061004820704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778700125944381440",
+          "start": 3,
+          "username": "_adip0cere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/677lOsa5AJ",
+          "end": 39,
+          "expanded_url": "https://x.com/_adip0cere/status/1925098649434153036/photo/1",
+          "media_key": "3_1925098554353467392",
+          "start": 16,
+          "url": "https://t.co/677lOsa5AJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925218061004820704",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925098649434153036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_adip0cere: https://t.co/677lOsa5AJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1925098554353467392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdS74HbQAAAF8d.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925098554353467392"
+          ],
+          "media_source_tweet_id": [
+            "1925098649434153036"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1925218061004820704",
+        "created_at": "2025-05-21T15:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925218061004820704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778700125944381440",
+              "start": 3,
+              "username": "_adip0cere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/677lOsa5AJ",
+              "end": 39,
+              "expanded_url": "https://x.com/_adip0cere/status/1925098649434153036/photo/1",
+              "media_key": "3_1925098554353467392",
+              "start": 16,
+              "url": "https://t.co/677lOsa5AJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925218061004820704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925098649434153036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_adip0cere: https://t.co/677lOsa5AJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925098554353467392"
+          ]
+        },
+        "author_id": "1778700125944381440",
+        "conversation_id": "1925098649434153036",
+        "created_at": "2025-05-21T07:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T08:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925098649434153036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/677lOsa5AJ",
+              "end": 23,
+              "expanded_url": "https://x.com/_adip0cere/status/1925098649434153036/photo/1",
+              "media_key": "3_1925098554353467392",
+              "start": 0,
+              "url": "https://t.co/677lOsa5AJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925098649434153036",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 8153,
+          "like_count": 749,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/677lOsa5AJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 995,
+          "like_count": 13089,
+          "listed_count": 8,
+          "media_count": 681,
+          "tweet_count": 10101
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:22:49.000Z",
+        "description": "都合よく神格化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Rejectionreac…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Rejectionreaction/shorts",
+                "start": 0,
+                "url": "https://t.co/QG1mbufRUh"
+              }
+            ]
+          }
+        },
+        "id": "1778700125944381440",
+        "name": "拒否ଳ",
+        "pinned_tweet_id": "1897213914573889590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820261973239754752/7rxYTk0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12171,
+          "following_count": 77,
+          "like_count": 9506,
+          "listed_count": 37,
+          "media_count": 144,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/QG1mbufRUh",
+        "username": "_adip0cere",
+        "verified": false
+      }
+    ]
+  }
+}

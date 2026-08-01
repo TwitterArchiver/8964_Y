@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2071916177815633920"
+      ],
+      "media_source_tweet_id": [
+        "2071916203296088445"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2071975161423937966",
+    "created_at": "2026-06-30T15:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071975161423937966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1286275604753653770",
+          "start": 3,
+          "username": "Limestone_block"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0QjvL7o5x",
+          "end": 44,
+          "expanded_url": "https://x.com/Limestone_block/status/2071916203296088445/video/1",
+          "media_key": "7_2071916177815633920",
+          "start": 21,
+          "url": "https://t.co/A0QjvL7o5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071975161423937966",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071916203296088445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Limestone_block: https://t.co/A0QjvL7o5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30139,
+        "height": 716,
+        "media_key": "7_2071916177815633920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071916177815633920/pu/img/5aF5-dUVD9cVro2S.jpg",
+        "public_metrics": {
+          "view_count": 1224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071916177815633920/pu/vid/avc1/270x270/ty12jMENtE4kWcWp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071916177815633920/pu/vid/avc1/360x360/HdQUv5O1-16vY4MB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071916177815633920/pu/vid/avc1/718x716/GKpkfqL8QxWtvE0y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071916177815633920/pu/pl/YKWOVzjTA2Mfn5eM.m3u8?tag=12&v=3ac"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071916177815633920"
+          ],
+          "media_source_tweet_id": [
+            "2071916203296088445"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2071975161423937966",
+        "created_at": "2026-06-30T15:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071975161423937966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1286275604753653770",
+              "start": 3,
+              "username": "Limestone_block"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0QjvL7o5x",
+              "end": 44,
+              "expanded_url": "https://x.com/Limestone_block/status/2071916203296088445/video/1",
+              "media_key": "7_2071916177815633920",
+              "start": 21,
+              "url": "https://t.co/A0QjvL7o5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071975161423937966",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071916203296088445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Limestone_block: https://t.co/A0QjvL7o5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071916177815633920"
+          ]
+        },
+        "author_id": "1286275604753653770",
+        "conversation_id": "2071916203296088445",
+        "created_at": "2026-06-30T11:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071916203296088445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0QjvL7o5x",
+              "end": 23,
+              "expanded_url": "https://x.com/Limestone_block/status/2071916203296088445/video/1",
+              "media_key": "7_2071916177815633920",
+              "start": 0,
+              "url": "https://t.co/A0QjvL7o5x"
+            },
+            {
+              "display_url": "x.com/Limestone_bloc…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Limestone_block/status/2071644337369211075",
+              "start": 24,
+              "url": "https://t.co/mdi0vpZxua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071916203296088445",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 5355,
+          "like_count": 547,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071644337369211075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/A0QjvL7o5x https://t.co/mdi0vpZxua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6649,
+          "following_count": 741,
+          "like_count": 24337,
+          "listed_count": 19,
+          "media_count": 1158,
+          "tweet_count": 16712
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:24:06.000Z",
+        "description": "comms open (2/3)",
+        "id": "1286275604753653770",
+        "location": "Kyїv – Zhmerynka",
+        "name": "Limestone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335931800875577345/zUQ4at2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13391,
+          "following_count": 465,
+          "like_count": 28456,
+          "listed_count": 43,
+          "media_count": 198,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "Limestone_block",
+        "verified": false
+      }
+    ]
+  }
+}

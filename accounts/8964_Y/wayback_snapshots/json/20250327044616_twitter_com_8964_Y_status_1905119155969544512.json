@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904807324461785090"
+      ],
+      "media_source_tweet_id": [
+        "1904807327347445801"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1905119155969544512",
+    "created_at": "2025-03-27T04:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T05:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905119155969544512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1044515221413363712",
+          "start": 3,
+          "username": "hokori_4649"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbb2NcGwtO",
+          "end": 65,
+          "expanded_url": "https://x.com/hokori_4649/status/1904807327347445801/photo/1",
+          "media_key": "3_1904807324461785090",
+          "start": 42,
+          "url": "https://t.co/fbb2NcGwtO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905119155969544512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1715
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904807327347445801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hokori_4649: 斜め向き顔を描くコツが何となくわかった気がする！ https://t.co/fbb2NcGwtO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1904807324461785090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm88K2QbYAILuch.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904807324461785090"
+          ],
+          "media_source_tweet_id": [
+            "1904807327347445801"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1905119155969544512",
+        "created_at": "2025-03-27T04:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T05:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905119155969544512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1044515221413363712",
+              "start": 3,
+              "username": "hokori_4649"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbb2NcGwtO",
+              "end": 65,
+              "expanded_url": "https://x.com/hokori_4649/status/1904807327347445801/photo/1",
+              "media_key": "3_1904807324461785090",
+              "start": 42,
+              "url": "https://t.co/fbb2NcGwtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905119155969544512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1715
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904807327347445801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hokori_4649: 斜め向き顔を描くコツが何となくわかった気がする！ https://t.co/fbb2NcGwtO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904807324461785090"
+          ]
+        },
+        "author_id": "1044515221413363712",
+        "conversation_id": "1904807327347445801",
+        "created_at": "2025-03-26T08:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T09:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904807327347445801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbb2NcGwtO",
+              "end": 48,
+              "expanded_url": "https://x.com/hokori_4649/status/1904807327347445801/photo/1",
+              "media_key": "3_1904807324461785090",
+              "start": 25,
+              "url": "https://t.co/fbb2NcGwtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904807327347445801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12360,
+          "impression_count": 829200,
+          "like_count": 30037,
+          "quote_count": 96,
+          "reply_count": 4,
+          "retweet_count": 1715
+        },
+        "reply_settings": "everyone",
+        "text": "斜め向き顔を描くコツが何となくわかった気がする！ https://t.co/fbb2NcGwtO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900745047026638848/lYUe4VUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5287,
+          "following_count": 950,
+          "like_count": 11294,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 8546
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-25T09:13:29.000Z",
+        "description": "skeb▷▶ https://t.co/9fkAcLcvWV\n￤FAﾀｸﾞ▷▶ #hokoriartଳ\n￤リットリンク▷▶ https://t.co/rTo9n9Sez6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 40,
+                "tag": "hokoriartଳ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hokori_4649",
+                "end": 30,
+                "expanded_url": "https://skeb.jp/@hokori_4649",
+                "start": 7,
+                "url": "https://t.co/9fkAcLcvWV"
+              },
+              {
+                "display_url": "lit.link/hiro0607",
+                "end": 85,
+                "expanded_url": "https://lit.link/hiro0607",
+                "start": 62,
+                "url": "https://t.co/rTo9n9Sez6"
+              }
+            ]
+          }
+        },
+        "id": "1044515221413363712",
+        "name": "埃",
+        "pinned_tweet_id": "1904450601720701273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666067592371646464/Tqu5RMBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38710,
+          "following_count": 318,
+          "like_count": 112816,
+          "listed_count": 231,
+          "media_count": 1890,
+          "tweet_count": 17118
+        },
+        "username": "hokori_4649",
+        "verified": false
+      }
+    ]
+  }
+}

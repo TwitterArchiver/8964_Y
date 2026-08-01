@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1956605474444611737",
+    "created_at": "2025-08-16T12:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T13:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956699509792428399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1815758545255899136",
+          "start": 0,
+          "username": "SY0816gaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956699509792428399",
+    "in_reply_to_user_id": "1815758545255899136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956605474444611737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SY0816gaku 奖励个一次性手套干啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956605463765897216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GydCTYFa0AAH6DI.jpg",
+        "width": 1887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1956605474444611737",
+        "created_at": "2025-08-16T12:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956699509792428399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1815758545255899136",
+              "start": 0,
+              "username": "SY0816gaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956699509792428399",
+        "in_reply_to_user_id": "1815758545255899136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956605474444611737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SY0816gaku 奖励个一次性手套干啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956605463765897216"
+          ]
+        },
+        "author_id": "1815758545255899136",
+        "conversation_id": "1956605474444611737",
+        "created_at": "2025-08-16T06:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956605474444611737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3akuOSDGQ",
+              "end": 28,
+              "expanded_url": "https://x.com/SY0816gaku/status/1956605474444611737/photo/1",
+              "media_key": "3_1956605463765897216",
+              "start": 5,
+              "url": "https://t.co/X3akuOSDGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956605474444611737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13040,
+          "like_count": 137,
+          "quote_count": 6,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁老公。 https://t.co/X3akuOSDGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 881,
+          "like_count": 15385,
+          "listed_count": 13,
+          "media_count": 809,
+          "tweet_count": 12027
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T14:39:13.000Z",
+        "description": "",
+        "id": "1815758545255899136",
+        "name": "_",
+        "pinned_tweet_id": "1837828408417702026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825221443141124097/54g-hspH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 56,
+          "like_count": 680,
+          "listed_count": 11,
+          "media_count": 118,
+          "tweet_count": 638
+        },
+        "username": "SY0816gaku",
+        "verified": false
+      }
+    ]
+  }
+}

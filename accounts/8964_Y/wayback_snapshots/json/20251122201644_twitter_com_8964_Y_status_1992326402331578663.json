@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1992326402331578663",
+    "created_at": "2025-11-22T20:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992326402331578663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1913491200046436352",
+          "start": 3,
+          "username": "lmbleedingovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992326402331578663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991725248392360233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lmbleedingovo: 当年扫射恋哥癖的时候 我蹲下拽哥哥衣角躲过一劫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1992326402331578663",
+        "created_at": "2025-11-22T20:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992326402331578663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1913491200046436352",
+              "start": 3,
+              "username": "lmbleedingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992326402331578663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991725248392360233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lmbleedingovo: 当年扫射恋哥癖的时候 我蹲下拽哥哥衣角躲过一劫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913491200046436352",
+        "conversation_id": "1991725248392360233",
+        "created_at": "2025-11-21T04:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991725248392360233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991725248392360233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当年扫射恋哥癖的时候 我蹲下拽哥哥衣角躲过一劫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5853,
+          "following_count": 865,
+          "like_count": 17148,
+          "listed_count": 17,
+          "media_count": 930,
+          "tweet_count": 13654
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T07:14:33.000Z",
+        "description": "我的日记本",
+        "id": "1913491200046436352",
+        "name": "lmbleeding",
+        "pinned_tweet_id": "1962852419119005837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955316383480451072/NC-l9xHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 295,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1208
+        },
+        "username": "lmbleedingovo",
+        "verified": false
+      }
+    ]
+  }
+}

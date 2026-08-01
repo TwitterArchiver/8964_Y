@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955563503324147712",
+        "3_1955563503320023040"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1955563514770403413",
+    "created_at": "2025-08-13T09:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955563514770403413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3rqNDvlm9",
+          "end": 26,
+          "expanded_url": "https://x.com/8964_Y/status/1955563514770403413/photo/1",
+          "media_key": "3_1955563503324147712",
+          "start": 3,
+          "url": "https://t.co/r3rqNDvlm9"
+        },
+        {
+          "display_url": "pic.x.com/r3rqNDvlm9",
+          "end": 26,
+          "expanded_url": "https://x.com/8964_Y/status/1955563514770403413/photo/1",
+          "media_key": "3_1955563503320023040",
+          "start": 3,
+          "url": "https://t.co/r3rqNDvlm9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955563514770403413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "逊毙 https://t.co/r3rqNDvlm9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_1955563503324147712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOOpS9asAA9v8X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1804,
+        "media_key": "3_1955563503320023040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOOpS8bwAAWSqY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955563503324147712",
+            "3_1955563503320023040"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1955563514770403413",
+        "created_at": "2025-08-13T09:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955563514770403413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3rqNDvlm9",
+              "end": 26,
+              "expanded_url": "https://x.com/8964_Y/status/1955563514770403413/photo/1",
+              "media_key": "3_1955563503324147712",
+              "start": 3,
+              "url": "https://t.co/r3rqNDvlm9"
+            },
+            {
+              "display_url": "pic.x.com/r3rqNDvlm9",
+              "end": 26,
+              "expanded_url": "https://x.com/8964_Y/status/1955563514770403413/photo/1",
+              "media_key": "3_1955563503320023040",
+              "start": 3,
+              "url": "https://t.co/r3rqNDvlm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955563514770403413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逊毙 https://t.co/r3rqNDvlm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 879,
+          "like_count": 15306,
+          "listed_count": 13,
+          "media_count": 804,
+          "tweet_count": 11988
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1958414608412426240"
+      ],
+      "media_source_tweet_id": [
+        "1958414613898539450"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1958634241518182756",
+    "created_at": "2025-08-21T20:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T21:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958634241518182756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894515827749392389",
+          "start": 3,
+          "username": "Fami4You"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qyBvuPKZl",
+          "end": 68,
+          "expanded_url": "https://x.com/Fami4You/status/1958414613898539450/photo/1",
+          "media_key": "16_1958414608412426240",
+          "start": 45,
+          "url": "https://t.co/6qyBvuPKZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958634241518182756",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958414613898539450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fami4You: Did I mention I love my GF yet https://t.co/6qyBvuPKZl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "16_1958414608412426240",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gy2vtdFbwAAzypM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gy2vtdFbwAAzypM.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1958414608412426240"
+          ],
+          "media_source_tweet_id": [
+            "1958414613898539450"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1958634241518182756",
+        "created_at": "2025-08-21T20:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T21:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958634241518182756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894515827749392389",
+              "start": 3,
+              "username": "Fami4You"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qyBvuPKZl",
+              "end": 68,
+              "expanded_url": "https://x.com/Fami4You/status/1958414613898539450/photo/1",
+              "media_key": "16_1958414608412426240",
+              "start": 45,
+              "url": "https://t.co/6qyBvuPKZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958634241518182756",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958414613898539450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fami4You: Did I mention I love my GF yet https://t.co/6qyBvuPKZl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1958414608412426240"
+          ]
+        },
+        "author_id": "1894515827749392389",
+        "conversation_id": "1958414613898539450",
+        "created_at": "2025-08-21T06:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958414613898539450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qyBvuPKZl",
+              "end": 54,
+              "expanded_url": "https://x.com/Fami4You/status/1958414613898539450/photo/1",
+              "media_key": "16_1958414608412426240",
+              "start": 31,
+              "url": "https://t.co/6qyBvuPKZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958414613898539450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1023,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Did I mention I love my GF yet https://t.co/6qyBvuPKZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5773,
+          "following_count": 876,
+          "like_count": 15457,
+          "listed_count": 16,
+          "media_count": 814,
+          "tweet_count": 12062
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T22:32:48.000Z",
+        "description": "💋DEMI FOR YOU💋/ 🇨🇦18/ Finding Peace / the girl I love so much ~@AsimpleLife_18~♡ 😁💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "AsimpleLife_18"
+              }
+            ]
+          }
+        },
+        "id": "1894515827749392389",
+        "location": "in the outerwilds with GF ",
+        "name": "Demi",
+        "pinned_tweet_id": "1958414613898539450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958317291822788608/tT94VjZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 552,
+          "like_count": 15974,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 6162
+        },
+        "username": "Fami4You",
+        "verified": false
+      }
+    ]
+  }
+}

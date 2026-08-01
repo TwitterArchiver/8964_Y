@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2026190284170961286",
+    "created_at": "2026-02-24T13:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026285188343603579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1839748478232342529",
+          "start": 0,
+          "username": "J1uR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026285188343603579",
+    "in_reply_to_user_id": "1839748478232342529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026280631676948782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1uR1 哎哎….真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2026190284170961286",
+        "created_at": "2026-02-24T13:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026285188343603579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1839748478232342529",
+              "start": 0,
+              "username": "J1uR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026285188343603579",
+        "in_reply_to_user_id": "1839748478232342529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026280631676948782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1uR1 哎哎….真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839748478232342529",
+        "conversation_id": "2026190284170961286",
+        "created_at": "2026-02-24T12:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026280631676948782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026280631676948782",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026190284170961286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 情绪上头的话，身体迫切地需要一个情绪抒发的口子，说出难听的话是最简单的一种方法了，不过这可能会对自己和对方造成很严重的伤害，不过不用一次性就改变，在情绪上头的时候告诉自己处于不稳定的状态，想说什么再三思吧，没关系的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026167554079875079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6009,
+          "following_count": 734,
+          "like_count": 20295,
+          "listed_count": 19,
+          "media_count": 1015,
+          "tweet_count": 14890
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T19:26:50.000Z",
+        "description": "酒精依赖者 | 负能量传播者 | 爱压抑者 |\n男性 | 不自残不od |  双相前史 | \n思考很多东西 解析很多东西 |\n想要很多朋友 请和我互fo",
+        "id": "1839748478232342529",
+        "name": "酒精中毒依赖的JiuRi",
+        "pinned_tweet_id": "2025798940218867858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983657626824302592/zUj6fBhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 55,
+          "like_count": 1106,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 594
+        },
+        "username": "J1uR1",
+        "verified": false
+      }
+    ]
+  }
+}

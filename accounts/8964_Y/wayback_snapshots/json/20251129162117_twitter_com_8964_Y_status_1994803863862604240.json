@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1994797812039692361",
+    "created_at": "2025-11-29T16:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994803863862604240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1117609181064900608",
+          "start": 0,
+          "username": "KaguraYuuki_uni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994803863862604240",
+    "in_reply_to_user_id": "1117609181064900608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994801209883201749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraYuuki_uni 哎哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1994797812039692361",
+        "created_at": "2025-11-29T16:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994803863862604240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1117609181064900608",
+              "start": 0,
+              "username": "KaguraYuuki_uni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994803863862604240",
+        "in_reply_to_user_id": "1117609181064900608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994801209883201749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraYuuki_uni 哎哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117609181064900608",
+        "conversation_id": "1994797812039692361",
+        "created_at": "2025-11-29T16:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994801209883201749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994801209883201749",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994797812039692361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 简中评论区不得不品的一环就是被政治小鬼入侵正常生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 833,
+          "like_count": 17399,
+          "listed_count": 17,
+          "media_count": 938,
+          "tweet_count": 13785
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-15T02:02:47.000Z",
+        "description": "活人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/40040862",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/40040862",
+                "start": 0,
+                "url": "https://t.co/WXrJbUjr96"
+              }
+            ]
+          }
+        },
+        "id": "1117609181064900608",
+        "location": "幻想乡",
+        "name": "提不起劲の云烟そら",
+        "pinned_tweet_id": "1236243339545993216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744543237690597376/nqPJCVOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 211,
+          "like_count": 883,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/WXrJbUjr96",
+        "username": "KaguraYuuki_uni",
+        "verified": false
+      }
+    ]
+  }
+}

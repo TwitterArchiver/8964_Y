@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2015118923784708440",
+    "created_at": "2026-01-24T17:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T18:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015118923784708440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qy_art7/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/qy_art7/status/2015118757962912098",
+          "start": 5,
+          "url": "https://t.co/0yBxvFC0qm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015118923784708440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015118757962912098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懂得都懂 https://t.co/0yBxvFC0qm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2015118923784708440",
+        "created_at": "2026-01-24T17:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015118923784708440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qy_art7/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/qy_art7/status/2015118757962912098",
+              "start": 5,
+              "url": "https://t.co/0yBxvFC0qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015118923784708440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015118757962912098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂得都懂 https://t.co/0yBxvFC0qm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943875332320505856",
+        "conversation_id": "2015118757962912098",
+        "created_at": "2026-01-24T17:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015118757962912098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015118757962912098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们来找我约稿吧我想买投影仪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5838,
+          "following_count": 833,
+          "like_count": 18315,
+          "listed_count": 19,
+          "media_count": 972,
+          "tweet_count": 14287
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T03:29:38.000Z",
+        "description": "日常：@8964_Y ｜不互关｜私信只回复委托绘画 无关私信拉黑 请带好预算来｜绘画练习中…｜色弱 画错颜色请不要提醒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1943875332320505856",
+        "name": "孙笑川学姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992414201562980353/ueePEzA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 5,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 35
+        },
+        "username": "QY_art7",
+        "verified": false
+      }
+    ]
+  }
+}

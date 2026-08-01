@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1968675729492591062",
+    "created_at": "2025-09-20T12:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969378788393042217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926313840557355008",
+          "start": 0,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969378788393042217",
+    "in_reply_to_user_id": "1926313840557355008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968675729492591062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yepa41 我真不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1968675713101205504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IkIW1WEAArFNe.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1968675729492591062",
+        "created_at": "2025-09-20T12:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969378788393042217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969378788393042217",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968675729492591062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968675713101205504"
+          ]
+        },
+        "author_id": "1926313840557355008",
+        "conversation_id": "1968675729492591062",
+        "created_at": "2025-09-18T13:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968675729492591062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QefTNHmh5y",
+              "end": 35,
+              "expanded_url": "https://x.com/yepa41/status/1968675729492591062/photo/1",
+              "media_key": "3_1968675713101205504",
+              "start": 12,
+              "url": "https://t.co/QefTNHmh5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968675729492591062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 265602,
+          "like_count": 933,
+          "quote_count": 5,
+          "reply_count": 98,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "这我是真的绷不住哈哈哈 https://t.co/QefTNHmh5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 884,
+          "like_count": 16212,
+          "listed_count": 18,
+          "media_count": 859,
+          "tweet_count": 12711
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "圆锥曲线你妈死了",
+        "id": "1926313840557355008",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1968260064982233494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926626530458841089/XGA2cnHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 335,
+          "like_count": 21882,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 819
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

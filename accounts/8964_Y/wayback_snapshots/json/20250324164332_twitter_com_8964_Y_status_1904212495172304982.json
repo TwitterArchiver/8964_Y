@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904112896835215360"
+      ],
+      "media_source_tweet_id": [
+        "1904112909367554395"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1904212495172304982",
+    "created_at": "2025-03-24T16:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T17:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904212495172304982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gHG7YGyZCF",
+          "end": 67,
+          "expanded_url": "https://x.com/carnagesociety/status/1904112909367554395/photo/1",
+          "media_key": "3_1904112896835215360",
+          "start": 44,
+          "url": "https://t.co/gHG7YGyZCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904212495172304982",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904112909367554395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: こういう抱き枕欲しかった人\n絶対一定数いただろ https://t.co/gHG7YGyZCF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904112896835215360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmzEl1waYAA6ytu.jpg",
+        "width": 1499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904112896835215360"
+          ],
+          "media_source_tweet_id": [
+            "1904112909367554395"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1904212495172304982",
+        "created_at": "2025-03-24T16:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904212495172304982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1467095000609849345",
+              "start": 3,
+              "username": "carnagesociety"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHG7YGyZCF",
+              "end": 67,
+              "expanded_url": "https://x.com/carnagesociety/status/1904112909367554395/photo/1",
+              "media_key": "3_1904112896835215360",
+              "start": 44,
+              "url": "https://t.co/gHG7YGyZCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904212495172304982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904112909367554395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carnagesociety: こういう抱き枕欲しかった人\n絶対一定数いただろ https://t.co/gHG7YGyZCF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904112896835215360"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "1904112909367554395",
+        "created_at": "2025-03-24T10:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904112909367554395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHG7YGyZCF",
+              "end": 47,
+              "expanded_url": "https://x.com/carnagesociety/status/1904112909367554395/photo/1",
+              "media_key": "3_1904112896835215360",
+              "start": 24,
+              "url": "https://t.co/gHG7YGyZCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904112909367554395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 16581,
+          "like_count": 1293,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "こういう抱き枕欲しかった人\n絶対一定数いただろ https://t.co/gHG7YGyZCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900745047026638848/lYUe4VUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5274,
+          "following_count": 948,
+          "like_count": 11123,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8445
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀goods▶#CarnageSociety \n💀comic▶#ハイスクールゴアガール \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 82,
+                "tag": "CarnageSociety"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "tag": "ハイスクールゴアガール"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "1876673981660709248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37177,
+          "following_count": 736,
+          "like_count": 94043,
+          "listed_count": 164,
+          "media_count": 1352,
+          "tweet_count": 36692
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

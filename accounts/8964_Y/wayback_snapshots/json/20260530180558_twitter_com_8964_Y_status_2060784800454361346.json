@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2060781823589007484",
+    "created_at": "2026-05-30T18:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060784800454361346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1242408384336252929",
+          "start": 0,
+          "username": "A0LUxySUrldn9w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060784800454361346",
+    "in_reply_to_user_id": "1242408384336252929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060783183596257353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0LUxySUrldn9w0 好久没人给我发私信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2060781823589007484",
+        "created_at": "2026-05-30T18:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060784800454361346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1242408384336252929",
+              "start": 0,
+              "username": "A0LUxySUrldn9w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060784800454361346",
+        "in_reply_to_user_id": "1242408384336252929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060783183596257353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0LUxySUrldn9w0 好久没人给我发私信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242408384336252929",
+        "conversation_id": "2060781823589007484",
+        "created_at": "2026-05-30T17:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060783183596257353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060783183596257353",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060782828271649079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 不好意思误解了👉👈.......我以为是很受欢迎 所以很多推友来私聊导致经常点到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2060390033509794038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6245,
+          "following_count": 737,
+          "like_count": 23725,
+          "listed_count": 19,
+          "media_count": 1118,
+          "tweet_count": 16394
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T11:10:26.000Z",
+        "description": "Hamilton faces an endless uphill climb\n提问箱：https://t.co/Wrdnw5UqHC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/A0LUxySUrldn9w…",
+                "end": 66,
+                "expanded_url": "https://ngl.link/A0LUxySUrldn9w078532",
+                "start": 43,
+                "url": "https://t.co/Wrdnw5UqHC"
+              }
+            ]
+          }
+        },
+        "id": "1242408384336252929",
+        "location": "小马利亚",
+        "name": "花散里翎音",
+        "pinned_tweet_id": "2055581176719704119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055277906759417856/3R3p2LX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 394,
+          "like_count": 5537,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 3202
+        },
+        "username": "A0LUxySUrldn9w0",
+        "verified": false
+      }
+    ]
+  }
+}

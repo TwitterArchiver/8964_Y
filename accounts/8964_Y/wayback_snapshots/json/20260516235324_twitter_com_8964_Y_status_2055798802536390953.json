@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055656509745590273"
+      ],
+      "media_source_tweet_id": [
+        "2055656517827969403"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2055798802536390953",
+    "created_at": "2026-05-16T23:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055798802536390953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884115307507376130",
+          "start": 3,
+          "username": "rezetwts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qy7HVOVXmA",
+          "end": 37,
+          "expanded_url": "https://x.com/rezetwts/status/2055656517827969403/photo/1",
+          "media_key": "3_2055656509745590273",
+          "start": 14,
+          "url": "https://t.co/qy7HVOVXmA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055798802536390953",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 683
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055656517827969403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rezetwts: https://t.co/qy7HVOVXmA"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "🎨 @/vermilli000n on X",
+        "height": 2048,
+        "media_key": "3_2055656509745590273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcotEua8AEjbEb.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055656509745590273"
+          ],
+          "media_source_tweet_id": [
+            "2055656517827969403"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2055798802536390953",
+        "created_at": "2026-05-16T23:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055798802536390953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884115307507376130",
+              "start": 3,
+              "username": "rezetwts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qy7HVOVXmA",
+              "end": 37,
+              "expanded_url": "https://x.com/rezetwts/status/2055656517827969403/photo/1",
+              "media_key": "3_2055656509745590273",
+              "start": 14,
+              "url": "https://t.co/qy7HVOVXmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055798802536390953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 683
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055656517827969403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rezetwts: https://t.co/qy7HVOVXmA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055656509745590273"
+          ]
+        },
+        "author_id": "1884115307507376130",
+        "conversation_id": "2055656517827969403",
+        "created_at": "2026-05-16T14:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055656517827969403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qy7HVOVXmA",
+              "end": 23,
+              "expanded_url": "https://x.com/rezetwts/status/2055656517827969403/photo/1",
+              "media_key": "3_2055656509745590273",
+              "start": 0,
+              "url": "https://t.co/qy7HVOVXmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055656517827969403",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1006,
+          "impression_count": 54012,
+          "like_count": 7032,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 683
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qy7HVOVXmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 732,
+          "like_count": 23354,
+          "listed_count": 19,
+          "media_count": 1107,
+          "tweet_count": 16259
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T05:44:52.000Z",
+        "description": "boom!!!\ndm for credit/content removal!",
+        "id": "1884115307507376130",
+        "location": "Chainsaw Man",
+        "name": "𝘳𝘦𝘻𝘦 𝘢𝘳𝘤𝘩𝘪𝘷𝘦𝘴 ☆",
+        "pinned_tweet_id": "1942564854377689206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992776388907339776/YzHf9ljo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7492,
+          "following_count": 99,
+          "like_count": 56,
+          "listed_count": 12,
+          "media_count": 760,
+          "tweet_count": 2071
+        },
+        "username": "rezetwts",
+        "verified": false
+      }
+    ]
+  }
+}

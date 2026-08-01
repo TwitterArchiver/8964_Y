@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984043408231378944"
+      ],
+      "media_source_tweet_id": [
+        "1984043410928627733"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1984527626934108238",
+    "created_at": "2025-11-01T07:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T08:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984527626934108238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766936309556285441",
+          "start": 3,
+          "username": "bubblemunne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ky63AzdHzc",
+          "end": 40,
+          "expanded_url": "https://x.com/bubblemunne/status/1984043410928627733/photo/1",
+          "media_key": "3_1984043408231378944",
+          "start": 17,
+          "url": "https://t.co/ky63AzdHzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984527626934108238",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 520
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984043410928627733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bubblemunne: https://t.co/ky63AzdHzc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_1984043408231378944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4i898aWMAAyj9v.jpg",
+        "width": 509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984043408231378944"
+          ],
+          "media_source_tweet_id": [
+            "1984043410928627733"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1984527626934108238",
+        "created_at": "2025-11-01T07:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984527626934108238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766936309556285441",
+              "start": 3,
+              "username": "bubblemunne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ky63AzdHzc",
+              "end": 40,
+              "expanded_url": "https://x.com/bubblemunne/status/1984043410928627733/photo/1",
+              "media_key": "3_1984043408231378944",
+              "start": 17,
+              "url": "https://t.co/ky63AzdHzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984527626934108238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 520
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984043410928627733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bubblemunne: https://t.co/ky63AzdHzc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984043408231378944"
+          ]
+        },
+        "author_id": "1766936309556285441",
+        "conversation_id": "1984043410928627733",
+        "created_at": "2025-10-30T23:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T00:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984043410928627733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ky63AzdHzc",
+              "end": 23,
+              "expanded_url": "https://x.com/bubblemunne/status/1984043410928627733/photo/1",
+              "media_key": "3_1984043408231378944",
+              "start": 0,
+              "url": "https://t.co/ky63AzdHzc"
+            },
+            {
+              "display_url": "x.com/wolfdetergent/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/wolfdetergent/status/1983664103198740555",
+              "start": 24,
+              "url": "https://t.co/VEWGNRHDRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984043410928627733",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 875,
+          "impression_count": 204604,
+          "like_count": 17059,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 520
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983664103198740555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ky63AzdHzc https://t.co/VEWGNRHDRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5755,
+          "following_count": 890,
+          "like_count": 16513,
+          "listed_count": 17,
+          "media_count": 907,
+          "tweet_count": 13233
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T21:17:25.000Z",
+        "description": "Hi! im isa, i love coffe , cats and drawing\n\n                     🇵🇪 | eng/esp | Multifandom",
+        "id": "1766936309556285441",
+        "location": "Peru",
+        "name": "isabelle💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766937042888327168/sQU6EOkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10517,
+          "following_count": 124,
+          "like_count": 71590,
+          "listed_count": 24,
+          "media_count": 628,
+          "tweet_count": 8655
+        },
+        "username": "bubblemunne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2025225904721674528",
+    "created_at": "2026-02-21T15:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025225904721674528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1955230719476998145",
+          "start": 3,
+          "username": "ykkkkkk109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025225904721674528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024798635805081833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ykkkkkk109: 姐妹你不要跟我扯，我告诉你，我有公主病，有小仙女人格，我体内住着一个顺直男一个贴吧男一个红薯女一个推特人一个微博批一个豆瓣吊，姐妹我有精神分裂你最好别惹我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2025225904721674528",
+        "created_at": "2026-02-21T15:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025225904721674528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1955230719476998145",
+              "start": 3,
+              "username": "ykkkkkk109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025225904721674528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024798635805081833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ykkkkkk109: 姐妹你不要跟我扯，我告诉你，我有公主病，有小仙女人格，我体内住着一个顺直男一个贴吧男一个红薯女一个推特人一个微博批一个豆瓣吊，姐妹我有精神分裂你最好别惹我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955230719476998145",
+        "conversation_id": "2024798635805081833",
+        "created_at": "2026-02-20T10:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024798635805081833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024798635805081833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19356,
+          "like_count": 643,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹你不要跟我扯，我告诉你，我有公主病，有小仙女人格，我体内住着一个顺直男一个贴吧男一个红薯女一个推特人一个微博批一个豆瓣吊，姐妹我有精神分裂你最好别惹我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5924,
+          "following_count": 733,
+          "like_count": 20090,
+          "listed_count": 19,
+          "media_count": 1007,
+          "tweet_count": 14826
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T11:31:53.000Z",
+        "description": "双相 泛性恋 sw 女绿 三坑 ed 163 43 脾气特别差特别敏感自卑只会哭别来惹我 爱自嬷有娇妻病有精神病恶俗滥情喜欢口嗨善用屏蔽 话很多上推为了自嗨不要因为我的照片关注我 不收门槛不线下别问我ip不交朋友没兴趣和你认识",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wbxzygr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wbxzygr",
+                "start": 0,
+                "url": "https://t.co/fHOLVfT5QV"
+              }
+            ]
+          }
+        },
+        "id": "1955230719476998145",
+        "location": "失去过更珍惜拥有",
+        "name": "只拽你的白衬衫",
+        "pinned_tweet_id": "2006647873165996143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024143783013888000/XnO47L40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 244,
+          "like_count": 6250,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 4172
+        },
+        "url": "https://t.co/fHOLVfT5QV",
+        "username": "ykkkkkk109",
+        "verified": false
+      }
+    ]
+  }
+}

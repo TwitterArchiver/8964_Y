@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2050478201244442996",
+    "created_at": "2026-05-03T21:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T22:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051055565703708733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051055565703708733",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050478201244442996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 不好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050478186736336896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTDDAQbQAAqtr9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2050478201244442996",
+        "created_at": "2026-05-03T21:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051055565703708733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051055565703708733",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050478201244442996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 不好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050478186736336896"
+          ]
+        },
+        "author_id": "1820594914339799040",
+        "conversation_id": "2050478201244442996",
+        "created_at": "2026-05-02T07:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050478201244442996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJ4vwJ99ej",
+              "end": 30,
+              "expanded_url": "https://x.com/2CROW19/status/2050478201244442996/photo/1",
+              "media_key": "3_2050478186736336896",
+              "start": 7,
+              "url": "https://t.co/bJ4vwJ99ej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050478201244442996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 26374,
+          "like_count": 301,
+          "quote_count": 2,
+          "reply_count": 103,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们已馋哭。 https://t.co/bJ4vwJ99ej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 740,
+          "like_count": 23004,
+          "listed_count": 19,
+          "media_count": 1095,
+          "tweet_count": 16121
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "#Eternal# 我叫永恒：很多碎碎念。\n泛性恋/192 70KG\n匿名问答↓ @iknowseverythg（仅互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "iknowseverythg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFcvSM"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "name": "永恆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047412065489534976/QASSvqFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 84,
+          "like_count": 9474,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/mYFeDFcvSM",
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

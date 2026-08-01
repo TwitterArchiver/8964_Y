@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2082727514838024238",
+    "created_at": "2026-07-30T10:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082769705665012121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082769705665012121",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082727514838024238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 画的真棒呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_2082727492222423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdVnpHbkAAq41y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082727492226535424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdVnpIaUAAwGO_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082727492117491712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdVnouacAANtge.jpg",
+        "width": 1996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2082727514838024238",
+        "created_at": "2026-07-30T10:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082769705665012121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082769705665012121",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082727514838024238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 画的真棒呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082727492222423040",
+            "3_2082727492226535424",
+            "3_2082727492117491712"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2082727514838024238",
+        "created_at": "2026-07-30T07:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082727514838024238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tljNOTtttK",
+              "end": 184,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2082727514838024238/photo/1",
+              "media_key": "3_2082727492222423040",
+              "start": 161,
+              "url": "https://t.co/tljNOTtttK"
+            },
+            {
+              "display_url": "pic.x.com/tljNOTtttK",
+              "end": 184,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2082727514838024238/photo/1",
+              "media_key": "3_2082727492226535424",
+              "start": 161,
+              "url": "https://t.co/tljNOTtttK"
+            },
+            {
+              "display_url": "pic.x.com/tljNOTtttK",
+              "end": 184,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2082727514838024238/photo/1",
+              "media_key": "3_2082727492117491712",
+              "start": 161,
+              "url": "https://t.co/tljNOTtttK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082727514838024238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 314,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我之前本来打算学画画来着...这是我从Day 0至Day 2的画画...后来我又心血来潮要为主人写情书，结果画画也没有继续，情书也搁置了...\n不过！今天我就要重启画画...就算作day 3好了...虽然好像已经过去几个月...不过我要成长起来的说！会加油的喔！\n我先去读读书...呜咪～꒰՞&gt; · &lt;𓈒՞꒱ https://t.co/tljNOTtttK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6722,
+          "following_count": 741,
+          "like_count": 25356,
+          "listed_count": 20,
+          "media_count": 1191,
+          "tweet_count": 17109
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 551,
+          "like_count": 27045,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

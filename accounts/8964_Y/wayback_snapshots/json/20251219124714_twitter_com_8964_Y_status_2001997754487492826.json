@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2001977000001724724",
+    "created_at": "2025-12-19T12:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T13:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001997754487492826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001997754487492826",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001977000001724724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 同届"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001976997501915137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hzeOia0AEsU2c.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2001977000001724724",
+        "created_at": "2025-12-19T12:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001997754487492826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001997754487492826",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001977000001724724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 同届"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001976997501915137"
+          ]
+        },
+        "author_id": "1528005407469346818",
+        "conversation_id": "2001977000001724724",
+        "created_at": "2025-12-19T11:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001977000001724724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0VqLjj6mQ",
+              "end": 31,
+              "expanded_url": "https://x.com/K1raK1ra818/status/2001977000001724724/photo/1",
+              "media_key": "3_2001976997501915137",
+              "start": 8,
+              "url": "https://t.co/r0VqLjj6mQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001977000001724724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "學姐畢業去哪玩 https://t.co/r0VqLjj6mQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5827,
+          "following_count": 834,
+          "like_count": 17645,
+          "listed_count": 19,
+          "media_count": 951,
+          "tweet_count": 13992
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "病み垢。同類會回fo。來自火星。 寵物：@anacciluno_ch",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "anacciluno_ch"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "2000525650302521484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000211132230127616/XRMLJy6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 525,
+          "like_count": 7645,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1181
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

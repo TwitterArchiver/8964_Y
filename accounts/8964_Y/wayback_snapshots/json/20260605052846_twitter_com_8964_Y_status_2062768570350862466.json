@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      }
+    ],
+    "conversation_id": "2062768570350862466",
+    "created_at": "2026-06-05T05:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062768570350862466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1048122071551639552",
+          "start": 3,
+          "username": "zutomayo_staff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝【STORE】ZUTOMAYO MARThttps://zutomayo.ne...",
+          "display_url": "youtube.com/live/2zKW4oyYV…",
+          "end": 61,
+          "expanded_url": "https://youtube.com/live/2zKW4oyYVZM",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2062535642966544384/1iOqVuiX?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062535642966544384/1iOqVuiX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 38,
+          "status": 200,
+          "title": "ZTMY TV",
+          "unwound_url": "https://www.youtube.com/live/2zKW4oyYVZM",
+          "url": "https://t.co/Ijop5fUesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062768570350862466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 940
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062554948186116200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zutomayo_staff: 放送期間は「永遠」です。8年の記録\nhttps://t.co/Ijop5fUesw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2062768570350862466",
+        "created_at": "2026-06-05T05:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062768570350862466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1048122071551639552",
+              "start": 3,
+              "username": "zutomayo_staff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝【STORE】ZUTOMAYO MARThttps://zutomayo.ne...",
+              "display_url": "youtube.com/live/2zKW4oyYV…",
+              "end": 61,
+              "expanded_url": "https://youtube.com/live/2zKW4oyYVZM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2062535642966544384/1iOqVuiX?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062535642966544384/1iOqVuiX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "ZTMY TV",
+              "unwound_url": "https://www.youtube.com/live/2zKW4oyYVZM",
+              "url": "https://t.co/Ijop5fUesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062768570350862466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 940
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062554948186116200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zutomayo_staff: 放送期間は「永遠」です。8年の記録\nhttps://t.co/Ijop5fUesw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048122071551639552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2062554948186116200",
+        "created_at": "2026-06-04T15:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062554948186116200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝【STORE】ZUTOMAYO MARThttps://zutomayo.ne...",
+              "display_url": "youtube.com/live/2zKW4oyYV…",
+              "end": 41,
+              "expanded_url": "https://youtube.com/live/2zKW4oyYVZM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2062535642966544384/1iOqVuiX?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062535642966544384/1iOqVuiX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "ZTMY TV",
+              "unwound_url": "https://www.youtube.com/live/2zKW4oyYVZM",
+              "url": "https://t.co/Ijop5fUesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062554948186116200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 254760,
+          "like_count": 5719,
+          "quote_count": 108,
+          "reply_count": 47,
+          "retweet_count": 940
+        },
+        "reply_settings": "everyone",
+        "text": "放送期間は「永遠」です。8年の記録\nhttps://t.co/Ijop5fUesw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2060367314638581995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6225,
+          "following_count": 737,
+          "like_count": 23805,
+          "listed_count": 19,
+          "media_count": 1120,
+          "tweet_count": 16437
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T08:05:49.000Z",
+        "description": "ずとまよの近況連絡します LINE.IGもあり　ACAね @zutomayo 【Youtube】https://t.co/Gur9qnv9Fb 【STORE】https://t.co/sCtW6fMfk3 【LIVE】#ゾンクラ 【ALBUM】3.25 予約受付中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "ゾンクラ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "zutomayo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lnk.to/ZUTOMAYO_YT",
+                "end": 71,
+                "expanded_url": "https://lnk.to/ZUTOMAYO_YT",
+                "start": 48,
+                "url": "https://t.co/Gur9qnv9Fb"
+              },
+              {
+                "display_url": "zutomayomart.net",
+                "end": 102,
+                "expanded_url": "https://zutomayomart.net/",
+                "start": 79,
+                "url": "https://t.co/sCtW6fMfk3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zutomayo.net",
+                "end": 23,
+                "expanded_url": "https://zutomayo.net",
+                "start": 0,
+                "url": "https://t.co/qAQHImcqec"
+              }
+            ]
+          }
+        },
+        "id": "1048122071551639552",
+        "location": "Net",
+        "name": "ずっと真夜中でいいのに｡(ｽﾀｯﾌ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288337191853154304/_x3wgFZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421551,
+          "following_count": 3,
+          "like_count": 21344,
+          "listed_count": 2088,
+          "media_count": 1393,
+          "tweet_count": 4571
+        },
+        "url": "https://t.co/qAQHImcqec",
+        "username": "zutomayo_staff",
+        "verified": true
+      }
+    ]
+  }
+}

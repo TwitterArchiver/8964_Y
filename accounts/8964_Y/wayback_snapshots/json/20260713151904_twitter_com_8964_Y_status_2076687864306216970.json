@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2076672051587563623",
+    "created_at": "2026-07-13T15:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076687864306216970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2053584812212887552",
+          "start": 0,
+          "username": "enzenzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076687864306216970",
+    "in_reply_to_user_id": "2053584812212887552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076672051587563623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enzenzs 我发现她做什么事都不喜欢承认哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076672038803214336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHSN3PaEAAb9x1.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076672038811680768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHSN3RbQAA24oG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2076672051587563623",
+        "created_at": "2026-07-13T15:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076687864306216970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2053584812212887552",
+              "start": 0,
+              "username": "enzenzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076687864306216970",
+        "in_reply_to_user_id": "2053584812212887552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076672051587563623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enzenzs 我发现她做什么事都不喜欢承认哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076672038803214336",
+            "3_2076672038811680768"
+          ]
+        },
+        "author_id": "2053584812212887552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076672051587563623",
+        "created_at": "2026-07-13T14:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076672051587563623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9n2IHpDAFn",
+              "end": 63,
+              "expanded_url": "https://x.com/enzenzs/status/2076672051587563623/photo/1",
+              "media_key": "3_2076672038803214336",
+              "start": 40,
+              "url": "https://t.co/9n2IHpDAFn"
+            },
+            {
+              "display_url": "pic.x.com/9n2IHpDAFn",
+              "end": 63,
+              "expanded_url": "https://x.com/enzenzs/status/2076672051587563623/photo/1",
+              "media_key": "3_2076672038811680768",
+              "start": 40,
+              "url": "https://t.co/9n2IHpDAFn"
+            },
+            {
+              "display_url": "x.com/ne_puppy/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/ne_puppy/status/2076668832928657535",
+              "start": 64,
+              "url": "https://t.co/g63T6rYDIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076672051587563623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1630,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076668832928657535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这段没出现辱女词还要我夸你啊？每次男的找事就扣在女生头上 我不知道你脑子咋了 https://t.co/9n2IHpDAFn https://t.co/g63T6rYDIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6670,
+          "following_count": 747,
+          "like_count": 24783,
+          "listed_count": 19,
+          "media_count": 1171,
+          "tweet_count": 16884
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T21:16:45.000Z",
+        "description": "",
+        "id": "2053584812212887552",
+        "name": "6731",
+        "pinned_tweet_id": "2075971591033561379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053585943660236800/N_IySaEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 6,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "enzenzs",
+        "verified": false
+      }
+    ]
+  }
+}

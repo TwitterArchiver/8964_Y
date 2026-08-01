@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2017170183421575227",
+    "created_at": "2026-01-30T10:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T11:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017178859414888755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1904517913538932736",
+          "start": 0,
+          "username": "cnmnms666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017178859414888755",
+    "in_reply_to_user_id": "1904517913538932736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017170183421575227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmnms666 真是个卡车"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9200,
+        "height": 720,
+        "media_key": "13_2017170098306572288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017170098306572288/img/ucl8pHz-9iKeIMfI.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017170098306572288/vid/avc1/480x270/uTdgQe_KN14_vIHA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017170098306572288/vid/avc1/640x360/fVQgCxqHnUhUfcXm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017170098306572288/vid/avc1/1280x720/l3m13gw6wcQnIlcJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017170098306572288/pl/A7vhPAYAWvvFKAzU.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1146,
+        "media_key": "3_2017170098315055104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5thFmb0AAsult.jpg",
+        "width": 1273
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2017170098491179009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5thGQbQAE04Z-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1005,
+        "media_key": "3_2017170098302357505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5thFjaEAE_e0D.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2017170183421575227",
+        "created_at": "2026-01-30T10:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017178859414888755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1904517913538932736",
+              "start": 0,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017178859414888755",
+        "in_reply_to_user_id": "1904517913538932736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017170183421575227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmnms666 真是个卡车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017170098306572288",
+            "3_2017170098315055104",
+            "3_2017170098491179009",
+            "3_2017170098302357505"
+          ]
+        },
+        "author_id": "1904517913538932736",
+        "conversation_id": "2017170183421575227",
+        "created_at": "2026-01-30T09:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017170183421575227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgySOUALqr",
+              "end": 29,
+              "expanded_url": "https://x.com/cnmnms666/status/2017170183421575227/video/1",
+              "media_key": "13_2017170098306572288",
+              "start": 6,
+              "url": "https://t.co/xgySOUALqr"
+            },
+            {
+              "display_url": "pic.x.com/xgySOUALqr",
+              "end": 29,
+              "expanded_url": "https://x.com/cnmnms666/status/2017170183421575227/video/1",
+              "media_key": "3_2017170098315055104",
+              "start": 6,
+              "url": "https://t.co/xgySOUALqr"
+            },
+            {
+              "display_url": "pic.x.com/xgySOUALqr",
+              "end": 29,
+              "expanded_url": "https://x.com/cnmnms666/status/2017170183421575227/video/1",
+              "media_key": "3_2017170098491179009",
+              "start": 6,
+              "url": "https://t.co/xgySOUALqr"
+            },
+            {
+              "display_url": "pic.x.com/xgySOUALqr",
+              "end": 29,
+              "expanded_url": "https://x.com/cnmnms666/status/2017170183421575227/video/1",
+              "media_key": "3_2017170098302357505",
+              "start": 6,
+              "url": "https://t.co/xgySOUALqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017170183421575227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她还是老肥 https://t.co/xgySOUALqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5816,
+          "following_count": 837,
+          "like_count": 18544,
+          "listed_count": 19,
+          "media_count": 978,
+          "tweet_count": 14377
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "cnm @8964_Y ｜叫我夜夜就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1904517913538932736",
+        "name": "草拟吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016459711646711808/m8EIVXxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 254,
+          "like_count": 726,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 529
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

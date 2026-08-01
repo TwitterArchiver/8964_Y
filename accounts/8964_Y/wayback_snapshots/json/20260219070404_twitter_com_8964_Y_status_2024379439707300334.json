@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2024375295034478821",
+    "created_at": "2026-02-19T07:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024379439707300334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1839748478232342529",
+          "start": 0,
+          "username": "J1uR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024379439707300334",
+    "in_reply_to_user_id": "1839748478232342529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024376018426122284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1uR1 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2024375295034478821",
+        "created_at": "2026-02-19T07:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024379439707300334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1839748478232342529",
+              "start": 0,
+              "username": "J1uR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024379439707300334",
+        "in_reply_to_user_id": "1839748478232342529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024376018426122284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1uR1 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839748478232342529",
+        "conversation_id": "2024375295034478821",
+        "created_at": "2026-02-19T06:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024376018426122284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024376018426122284",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024375295034478821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 魔女会使用冷静魔法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "QY_art7"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5870,
+          "following_count": 735,
+          "like_count": 19845,
+          "listed_count": 19,
+          "media_count": 1002,
+          "tweet_count": 14742
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T19:26:50.000Z",
+        "description": "酒精依赖者 负能量传播者 爱压抑者\n想要很多朋友，请和我互fo",
+        "id": "1839748478232342529",
+        "name": "酒精中毒依赖的JiuRi",
+        "pinned_tweet_id": "2020172029136347276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983657626824302592/zUj6fBhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 51,
+          "like_count": 1041,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 546
+        },
+        "username": "J1uR1",
+        "verified": false
+      }
+    ]
+  }
+}

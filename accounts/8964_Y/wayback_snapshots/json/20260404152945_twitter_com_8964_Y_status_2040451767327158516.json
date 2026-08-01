@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2040450498839617729",
+    "created_at": "2026-04-04T15:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040451767327158516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796015441439342593",
+          "start": 0,
+          "username": "zhuye196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040451767327158516",
+    "in_reply_to_user_id": "1796015441439342593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040450498839617729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuye196 18上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2040450482985213953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEi50wboAEmXHp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2040450498839617729",
+        "created_at": "2026-04-04T15:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040451767327158516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796015441439342593",
+              "start": 0,
+              "username": "zhuye196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040451767327158516",
+        "in_reply_to_user_id": "1796015441439342593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040450498839617729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuye196 18上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040450482985213953"
+          ]
+        },
+        "author_id": "1796015441439342593",
+        "conversation_id": "2040450498839617729",
+        "created_at": "2026-04-04T15:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040450498839617729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7jR2pukrj",
+              "end": 23,
+              "expanded_url": "https://x.com/zhuye196/status/2040450498839617729/photo/1",
+              "media_key": "3_2040450482985213953",
+              "start": 0,
+              "url": "https://t.co/Q7jR2pukrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040450498839617729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q7jR2pukrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2037717481960443971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6241,
+          "following_count": 734,
+          "like_count": 22135,
+          "listed_count": 20,
+          "media_count": 1062,
+          "tweet_count": 15700
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T03:07:13.000Z",
+        "description": "18↑",
+        "id": "1796015441439342593",
+        "name": "緑の涙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039590735180341248/zO8SjQHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 78
+        },
+        "username": "zhuye196",
+        "verified": false
+      }
+    ]
+  }
+}

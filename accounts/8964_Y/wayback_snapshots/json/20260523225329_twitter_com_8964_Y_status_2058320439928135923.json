@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2058260330518827083",
+    "created_at": "2026-05-23T22:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T23:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058320439928135923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746050438666002432",
+          "start": 0,
+          "username": "mitsuki072527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058320439928135923",
+    "in_reply_to_user_id": "1746050438666002432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058260330518827083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki072527 真厉害呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2058260317747150849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBo2paaAAENRpK.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2058260330518827083",
+        "created_at": "2026-05-23T22:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058320439928135923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746050438666002432",
+              "start": 0,
+              "username": "mitsuki072527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058320439928135923",
+        "in_reply_to_user_id": "1746050438666002432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058260330518827083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki072527 真厉害呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058260317747150849"
+          ]
+        },
+        "author_id": "1746050438666002432",
+        "conversation_id": "2058260330518827083",
+        "created_at": "2026-05-23T18:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058260330518827083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RW30382lj",
+              "end": 23,
+              "expanded_url": "https://x.com/mitsuki072527/status/2058260330518827083/photo/1",
+              "media_key": "3_2058260317747150849",
+              "start": 0,
+              "url": "https://t.co/9RW30382lj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058260330518827083",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9RW30382lj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 730,
+          "like_count": 23560,
+          "listed_count": 19,
+          "media_count": 1110,
+          "tweet_count": 16331
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T06:04:14.000Z",
+        "description": "病み垢 shtwt｜https://t.co/t9wZ8fSAUv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ritsu90802",
+                "end": 33,
+                "expanded_url": "https://ngl.link/ritsu90802",
+                "start": 10,
+                "url": "https://t.co/t9wZ8fSAUv"
+              }
+            ]
+          }
+        },
+        "id": "1746050438666002432",
+        "location": "天国",
+        "name": "死ぬまで",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055694106983276544/7U8JSxHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 125,
+          "like_count": 2109,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 4503
+        },
+        "username": "mitsuki072527",
+        "verified": false
+      }
+    ]
+  }
+}

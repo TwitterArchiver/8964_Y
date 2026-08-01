@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1986708407446086089",
+    "created_at": "2025-11-08T06:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T07:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987050219964637360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902902431190499328",
+          "start": 0,
+          "username": "Blujack283685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987050219964637360",
+    "in_reply_to_user_id": "1902902431190499328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986708407446086089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blujack283685 焦糖布丁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_1986708341616234496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5I0te5XUAAPd4M.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1986708407446086089",
+        "created_at": "2025-11-08T06:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987050219964637360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902902431190499328",
+              "start": 0,
+              "username": "Blujack283685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987050219964637360",
+        "in_reply_to_user_id": "1902902431190499328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986708407446086089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blujack283685 焦糖布丁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986708341616234496"
+          ]
+        },
+        "author_id": "1902902431190499328",
+        "conversation_id": "1986708407446086089",
+        "created_at": "2025-11-07T08:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986708407446086089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZOx7mk5S4",
+              "end": 42,
+              "expanded_url": "https://x.com/Blujack283685/status/1986708407446086089/photo/1",
+              "media_key": "3_1986708341616234496",
+              "start": 19,
+              "url": "https://t.co/NZOx7mk5S4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986708407446086089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 141358,
+          "like_count": 196,
+          "quote_count": 12,
+          "reply_count": 340,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你人生中第一次吃什么东西有被惊艳到？ https://t.co/NZOx7mk5S4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 864,
+          "like_count": 16801,
+          "listed_count": 17,
+          "media_count": 914,
+          "tweet_count": 13418
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:58:19.000Z",
+        "description": "🇨🇳正义必胜\n🇨🇳和平必胜\n🇨🇳人民必胜\n小号：@dameizhongguo3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "dameizhongguo3"
+              }
+            ]
+          }
+        },
+        "id": "1902902431190499328",
+        "name": "千百度❤",
+        "pinned_tweet_id": "1982396349221142835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902902804433473539/w9rg7B4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11170,
+          "following_count": 4963,
+          "like_count": 25846,
+          "listed_count": 20,
+          "media_count": 450,
+          "tweet_count": 17578
+        },
+        "username": "Blujack283685",
+        "verified": false
+      }
+    ]
+  }
+}

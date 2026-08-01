@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2051514739738759530",
+    "created_at": "2026-05-05T14:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051666527750136212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895764727365840896",
+          "start": 0,
+          "username": "300beans666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051666527750136212",
+    "in_reply_to_user_id": "1895764727365840896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051514739738759530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@300beans666 老师这是哪个本子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2051514728607023104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhxxroagAAdwhH.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2051514739738759530",
+        "created_at": "2026-05-05T14:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051666527750136212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895764727365840896",
+              "start": 0,
+              "username": "300beans666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051666527750136212",
+        "in_reply_to_user_id": "1895764727365840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051514739738759530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@300beans666 老师这是哪个本子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051514728607023104"
+          ]
+        },
+        "author_id": "1895764727365840896",
+        "conversation_id": "2051514739738759530",
+        "created_at": "2026-05-05T04:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051514739738759530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGL7QU23rL",
+              "end": 42,
+              "expanded_url": "https://x.com/300beans666/status/2051514739738759530/photo/1",
+              "media_key": "3_2051514728607023104",
+              "start": 19,
+              "url": "https://t.co/AGL7QU23rL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051514739738759530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的画好像经常被认作是搬运图🤷‍♂️ https://t.co/AGL7QU23rL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6264,
+          "following_count": 741,
+          "like_count": 23058,
+          "listed_count": 20,
+          "media_count": 1099,
+          "tweet_count": 16142
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T09:15:29.000Z",
+        "description": "职业好人卡，专业非red级别的画图人🇨🇳",
+        "id": "1895764727365840896",
+        "name": "画语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999523801139412993/eCgQeg1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 140,
+          "like_count": 1887,
+          "listed_count": 10,
+          "media_count": 164,
+          "tweet_count": 614
+        },
+        "username": "300beans666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1898268773033165177",
+    "created_at": "2025-03-08T07:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T08:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898268773033165177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898192533592981506",
+          "start": 3,
+          "username": "_BL_OOD_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898268773033165177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898250738209636843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_BL_OOD_: 關於我\n座標河南，05年大學在讀， 150/52，estj泛性戀\n🚪88只有純綠內容，也不一定陪聊，你給我錢只是因為喜歡我（加钱有福利）\n接河南線下純綠/半綠/非綠爸爸活媽媽活，過門檻詳談，我很需要錢請給我錢\n❗️賬號會出現:血腥內容/od內容/黃色…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898268773033165177].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898268773033165177",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898268773033165177"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898250722686509056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfw-ZRboAAf616.jpg",
+        "width": 1535
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1898250722678059008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfw-ZPasAAYm1D.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2215,
+        "media_key": "3_1898250722703286272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfw-ZVboAAain4.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1898250723525296128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfw-cZagAAC8mX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898250722686509056",
+            "3_1898250722678059008",
+            "3_1898250722703286272",
+            "3_1898250723525296128"
+          ]
+        },
+        "author_id": "1898192533592981506",
+        "conversation_id": "1898250738209636843",
+        "created_at": "2025-03-08T05:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T06:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898250738209636843"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "门槛"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "女大"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx9503EOd2",
+              "end": 173,
+              "expanded_url": "https://x.com/_BL_OOD_/status/1898250738209636843/photo/1",
+              "media_key": "3_1898250722686509056",
+              "start": 150,
+              "url": "https://t.co/jx9503EOd2"
+            },
+            {
+              "display_url": "pic.x.com/jx9503EOd2",
+              "end": 173,
+              "expanded_url": "https://x.com/_BL_OOD_/status/1898250738209636843/photo/1",
+              "media_key": "3_1898250722678059008",
+              "start": 150,
+              "url": "https://t.co/jx9503EOd2"
+            },
+            {
+              "display_url": "pic.x.com/jx9503EOd2",
+              "end": 173,
+              "expanded_url": "https://x.com/_BL_OOD_/status/1898250738209636843/photo/1",
+              "media_key": "3_1898250722703286272",
+              "start": 150,
+              "url": "https://t.co/jx9503EOd2"
+            },
+            {
+              "display_url": "pic.x.com/jx9503EOd2",
+              "end": 173,
+              "expanded_url": "https://x.com/_BL_OOD_/status/1898250738209636843/photo/1",
+              "media_key": "3_1898250723525296128",
+              "start": 150,
+              "url": "https://t.co/jx9503EOd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898250738209636843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "關於我\n座標河南，05年大學在讀， 150/52，estj泛性戀\n🚪88只有純綠內容，也不一定陪聊，你給我錢只是因為喜歡我（加钱有福利）\n接河南線下純綠/半綠/非綠爸爸活媽媽活，過門檻詳談，我很需要錢請給我錢\n❗️賬號會出現:血腥內容/od內容/黃色內容\n#爸爸活 #妈妈活 #门槛 #女大 #金主 https://t.co/jx9503EOd2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4856,
+          "following_count": 912,
+          "like_count": 10160,
+          "listed_count": 5,
+          "media_count": 527,
+          "tweet_count": 7866
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T02:02:32.000Z",
+        "description": "我是血，這個名字是因為一個人說用單字id很裝逼，我很喜歡血，用繁體字也是因為我裝逼，小女孩們不用門檻找我互fo呀",
+        "id": "1898192533592981506",
+        "name": "†BlooD†",
+        "pinned_tweet_id": "1898250738209636843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898207983127216131/YID9Uzzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "_BL_OOD_",
+        "verified": false
+      }
+    ]
+  }
+}

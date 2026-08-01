@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1960381247441793485",
+    "created_at": "2025-08-26T16:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960381247441793485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1724279773470535680",
+          "start": 3,
+          "username": "beijing_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960381247441793485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960373375089701306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beijing_8964_: 我希望现在有好多好多人给我打好多好多钱，去买好多好多药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1960381247441793485",
+        "created_at": "2025-08-26T16:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960381247441793485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1724279773470535680",
+              "start": 3,
+              "username": "beijing_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960381247441793485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960373375089701306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beijing_8964_: 我希望现在有好多好多人给我打好多好多钱，去买好多好多药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724279773470535680",
+        "conversation_id": "1960373375089701306",
+        "created_at": "2025-08-26T16:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960373375089701306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960373375089701306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我希望现在有好多好多人给我打好多好多钱，去买好多好多药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 876,
+          "like_count": 15560,
+          "listed_count": 17,
+          "media_count": 825,
+          "tweet_count": 12129
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T04:15:17.000Z",
+        "description": "非三好精神病",
+        "id": "1724279773470535680",
+        "location": "NewYork",
+        "name": "zma",
+        "pinned_tweet_id": "1960371858382921838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943990240453992448/2P4urfch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 678,
+          "like_count": 5959,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 3424
+        },
+        "username": "beijing_8964_",
+        "verified": false
+      }
+    ]
+  }
+}

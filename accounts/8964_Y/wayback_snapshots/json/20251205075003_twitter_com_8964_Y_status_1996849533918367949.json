@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1996427479201014180",
+    "created_at": "2025-12-05T07:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T08:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996849533918367949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        },
+        {
+          "end": 24,
+          "id": "1407164538936455181",
+          "start": 10,
+          "username": "im_manbo_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996849533918367949",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996503959109054617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak @im_manbo_king 真的不好玩很无聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1996427479201014180",
+        "created_at": "2025-12-05T07:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996849533918367949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            },
+            {
+              "end": 24,
+              "id": "1407164538936455181",
+              "start": 10,
+              "username": "im_manbo_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996849533918367949",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996503959109054617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak @im_manbo_king 真的不好玩很无聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883157644711796736",
+        "conversation_id": "1996427479201014180",
+        "created_at": "2025-12-04T08:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996503959109054617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1407164538936455181",
+              "start": 0,
+              "username": "im_manbo_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996503959109054617",
+        "in_reply_to_user_id": "1407164538936455181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1704,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996503338142298150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_manbo_king 玩笑要别人觉得好笑才叫玩笑 单方面哗众取宠就是惹人烦 说你咋了 骂你就受着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5864,
+          "following_count": 834,
+          "like_count": 17485,
+          "listed_count": 17,
+          "media_count": 942,
+          "tweet_count": 13835
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "不加联系方式",
+        "id": "1883157644711796736",
+        "location": "请埋葬我所有的痛和悲",
+        "name": "死非絕命",
+        "pinned_tweet_id": "1974349235505279243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996080136278736896/2dDzgCMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6039,
+          "following_count": 150,
+          "like_count": 8700,
+          "listed_count": 22,
+          "media_count": 147,
+          "tweet_count": 3742
+        },
+        "username": "TvTbreak",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-22T02:32:38.000Z",
+        "description": "undergraduate student @trentuniversity Mandarin/English okay, Anfängerin in Deutsch infp 曼波 小糖人+傻了吧唧一枚 纸性恋 纯爱党 机长起飞乃人生一大乐事 帖子只发疯 鉴证请绕路 ban位看心情",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "trentuniversity"
+              }
+            ]
+          }
+        },
+        "id": "1407164538936455181",
+        "location": "Peterborough, Ontario",
+        "name": "我是曼波大王",
+        "pinned_tweet_id": "1970568150875095342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897102168554958848/dBd6_JEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 68,
+          "like_count": 177,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1016
+        },
+        "username": "im_manbo_king",
+        "verified": false
+      }
+    ]
+  }
+}

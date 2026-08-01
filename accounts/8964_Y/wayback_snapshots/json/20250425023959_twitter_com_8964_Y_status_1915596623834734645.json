@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1915596118479790317",
+    "created_at": "2025-04-25T02:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T03:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915596623834734645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Sugita_Midoriko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915596623834734645",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915596499192615131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugita_Midoriko no不想嗑药下周要期中考试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1915596118479790317",
+        "created_at": "2025-04-25T02:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T03:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915596623834734645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Sugita_Midoriko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915596623834734645",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915596499192615131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugita_Midoriko no不想嗑药下周要期中考试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "1915596118479790317",
+        "created_at": "2025-04-25T02:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T03:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915596499192615131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915596499192615131",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915596118479790317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 吃点pr80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5448,
+          "following_count": 988,
+          "like_count": 12441,
+          "listed_count": 8,
+          "media_count": 634,
+          "tweet_count": 9546
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "妹@_AkitaYura💓IloveTsukasa 电波系、跨性别🏳️‍⚧️、二次元、非人类；叫我小綠可可爱爱，装跨顺男，树的天使，三氯福司，腦的電波，od咨询，hrt咨询，特别宝宝@tube1925🦋\n|she/they|mtf|无性别主义|女权主义|hrt2025.1.28|基督徒💮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "_AkitaYura"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "tube1925"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koshian_green",
+                "end": 23,
+                "expanded_url": "http://ngl.link/koshian_green",
+                "start": 0,
+                "url": "https://t.co/ELFVWyur34"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "夏の大三角",
+        "name": "🎀衫田緑子♓🦋🦋🍥",
+        "pinned_tweet_id": "1910309703848255874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914843174469873664/if6tRK_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 661,
+          "like_count": 28201,
+          "listed_count": 6,
+          "media_count": 423,
+          "tweet_count": 5954
+        },
+        "url": "https://t.co/ELFVWyur34",
+        "username": "Sugita_Midoriko",
+        "verified": false
+      }
+    ]
+  }
+}

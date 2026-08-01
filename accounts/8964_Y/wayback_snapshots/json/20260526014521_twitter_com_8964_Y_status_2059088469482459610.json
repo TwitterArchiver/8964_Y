@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2059072762787111050",
+    "created_at": "2026-05-26T01:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059088469482459610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049983966669676545",
+          "start": 0,
+          "username": "Herman758620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059088469482459610",
+    "in_reply_to_user_id": "2049983966669676545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059079429419069542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Herman758620 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2059072762787111050",
+        "created_at": "2026-05-26T01:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059088469482459610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049983966669676545",
+              "start": 0,
+              "username": "Herman758620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059088469482459610",
+        "in_reply_to_user_id": "2049983966669676545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059079429419069542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Herman758620 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049983966669676545",
+        "conversation_id": "2059072762787111050",
+        "created_at": "2026-05-26T01:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059079429419069542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059079429419069542",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059072762787111050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 👆‌💪\n\n🤝\n\n​💗 🤞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6243,
+          "following_count": 734,
+          "like_count": 23602,
+          "listed_count": 19,
+          "media_count": 1111,
+          "tweet_count": 16346
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T22:47:20.000Z",
+        "description": "想找我的宝宝点这里✈;https://t.co/BiRcfdzr2Z 安全靠谱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 34,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 11,
+                "url": "https://t.co/BiRcfdzr2Z"
+              }
+            ]
+          }
+        },
+        "id": "2049983966669676545",
+        "name": "馨宜~🌸同城上门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059079433311465472/1GryYvZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 301
+        },
+        "username": "Herman758620",
+        "verified": false
+      }
+    ]
+  }
+}

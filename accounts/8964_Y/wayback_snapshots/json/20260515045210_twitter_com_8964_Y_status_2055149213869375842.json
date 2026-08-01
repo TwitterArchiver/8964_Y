@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2054913948596781261",
+    "created_at": "2026-05-15T04:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055149213869375842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1470151997563314186",
+          "start": 0,
+          "username": "RICARDOTELLOSO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055149213869375842",
+    "in_reply_to_user_id": "1470151997563314186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055124868979364315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RICARDOTELLOSO1 嗯！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "3_2055124743213203456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVFEMBWwAAbB5E.jpg",
+        "width": 188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2054913948596781261",
+        "created_at": "2026-05-15T04:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055149213869375842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1470151997563314186",
+              "start": 0,
+              "username": "RICARDOTELLOSO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055149213869375842",
+        "in_reply_to_user_id": "1470151997563314186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055124868979364315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RICARDOTELLOSO1 嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055124743213203456"
+          ]
+        },
+        "author_id": "1470151997563314186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2054913948596781261",
+        "created_at": "2026-05-15T03:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055124868979364315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5ThivkGqo",
+              "end": 57,
+              "expanded_url": "https://x.com/RICARDOTELLOSO1/status/2055124868979364315/photo/1",
+              "media_key": "3_2055124743213203456",
+              "start": 34,
+              "url": "https://t.co/T5ThivkGqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055124868979364315",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054913948596781261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y Maestra maga es increíble https://t.co/T5ThivkGqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6263,
+          "following_count": 733,
+          "like_count": 23210,
+          "listed_count": 19,
+          "media_count": 1106,
+          "tweet_count": 16217
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T22:02:40.000Z",
+        "description": "Creating universes where silence speaks. Chess, ink, and the art of seeing. Simplicity is the ultimate depth of the cosmos.   \nConejitos y dibujos lo más lindo",
+        "id": "1470151997563314186",
+        "location": "Perú 🇵🇪. ",
+        "name": "Ricardo.🇵🇪 Arte",
+        "pinned_tweet_id": "2021971072631873879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027876001280098304/iLwaDgc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 552,
+          "like_count": 6006,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1103
+        },
+        "username": "RICARDOTELLOSO1",
+        "verified": false
+      }
+    ]
+  }
+}

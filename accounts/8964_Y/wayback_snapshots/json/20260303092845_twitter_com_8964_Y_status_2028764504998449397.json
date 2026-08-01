@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2028625817014845759",
+    "created_at": "2026-03-03T09:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T10:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028764504998449397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2024725145940873223",
+          "start": 0,
+          "username": "bibibidash79700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028764504998449397",
+    "in_reply_to_user_id": "2024725145940873223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028642258699026648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibidash79700 对不起又在想钱了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2028625817014845759",
+        "created_at": "2026-03-03T09:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028764504998449397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2024725145940873223",
+              "start": 0,
+              "username": "bibibidash79700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028764504998449397",
+        "in_reply_to_user_id": "2024725145940873223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028642258699026648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibidash79700 对不起又在想钱了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024725145940873223",
+        "conversation_id": "2028625817014845759",
+        "created_at": "2026-03-03T01:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028642258699026648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028642258699026648",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028625817014845759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 好喜欢钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520不好意思啥福利都没",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6287,
+          "following_count": 741,
+          "like_count": 20695,
+          "listed_count": 19,
+          "media_count": 1019,
+          "tweet_count": 15029
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:58:01.000Z",
+        "description": "私信开放 欢迎聊天",
+        "id": "2024725145940873223",
+        "location": "Hino-shi, Tokyo",
+        "name": "低能大傻逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024725395917230080/N_gYdisf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 322
+        },
+        "username": "bibibidash79700",
+        "verified": false
+      }
+    ]
+  }
+}

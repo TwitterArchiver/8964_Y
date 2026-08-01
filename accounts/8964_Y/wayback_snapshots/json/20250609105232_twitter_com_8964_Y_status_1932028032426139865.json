@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1932028032426139865",
+    "created_at": "2025-06-09T10:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T11:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932028032426139865"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932028032426139865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概是两年前吧，真事儿，我在家躺着，突然感觉到肚子很饿，然后我就起床，一打开冰箱，拿了几个鸡蛋做了个蛋炒饭，吃饱了就不饿了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1932028032426139865",
+        "created_at": "2025-06-09T10:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932028032426139865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932028032426139865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是两年前吧，真事儿，我在家躺着，突然感觉到肚子很饿，然后我就起床，一打开冰箱，拿了几个鸡蛋做了个蛋炒饭，吃饱了就不饿了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5509,
+          "following_count": 940,
+          "like_count": 13474,
+          "listed_count": 8,
+          "media_count": 713,
+          "tweet_count": 10578
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

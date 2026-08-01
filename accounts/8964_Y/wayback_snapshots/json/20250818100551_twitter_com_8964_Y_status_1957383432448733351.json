@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1957117223916724574",
+    "created_at": "2025-08-18T10:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T11:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957383432448733351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1347140950095613953",
+          "start": 0,
+          "username": "nejamais1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957383432448733351",
+    "in_reply_to_user_id": "1347140950095613953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957117223916724574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nejamais1 快点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 485,
+        "media_key": "3_1957117221236588545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykTvlObQAEnYco.jpg",
+        "width": 647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1957117223916724574",
+        "created_at": "2025-08-18T10:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957383432448733351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1347140950095613953",
+              "start": 0,
+              "username": "nejamais1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957383432448733351",
+        "in_reply_to_user_id": "1347140950095613953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957117223916724574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nejamais1 快点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957117221236588545"
+          ]
+        },
+        "author_id": "1347140950095613953",
+        "conversation_id": "1957117223916724574",
+        "created_at": "2025-08-17T16:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T17:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957117223916724574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7X4RM0lIWV",
+              "end": 33,
+              "expanded_url": "https://x.com/nejamais1/status/1957117223916724574/photo/1",
+              "media_key": "3_1957117221236588545",
+              "start": 10,
+              "url": "https://t.co/7X4RM0lIWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957117223916724574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想玩这个大人们 https://t.co/7X4RM0lIWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5786,
+          "following_count": 882,
+          "like_count": 15412,
+          "listed_count": 13,
+          "media_count": 809,
+          "tweet_count": 12040
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T11:22:13.000Z",
+        "description": "男的 | 可以叫我小天 | 水仙 | 钱性恋 | switch | 互fo查成分直fo暗恋你 | 将自恋的执念凝固为矿石般的蓝色 丨https://t.co/Gr1YcP9TlL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nejamais1",
+                "end": 89,
+                "expanded_url": "https://ngl.link/nejamais1",
+                "start": 66,
+                "url": "https://t.co/Gr1YcP9TlL"
+              }
+            ]
+          }
+        },
+        "id": "1347140950095613953",
+        "name": "Polarstern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896590731726528512/1xlvoAx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 322,
+          "like_count": 7556,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 5863
+        },
+        "username": "nejamais1",
+        "verified": false
+      }
+    ]
+  }
+}

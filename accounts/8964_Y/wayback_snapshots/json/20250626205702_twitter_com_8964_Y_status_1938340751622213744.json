@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938337274342916096"
+      ],
+      "media_source_tweet_id": [
+        "1938337281657671931"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1938340751622213744",
+    "created_at": "2025-06-26T20:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T21:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938340751622213744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "广州"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873373956159553536",
+          "start": 3,
+          "username": "Sakua0066003"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/voUihKE76M",
+          "end": 50,
+          "expanded_url": "https://x.com/Sakua0066003/status/1938337281657671931/photo/1",
+          "media_key": "3_1938337274342916096",
+          "start": 27,
+          "url": "https://t.co/voUihKE76M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938340751622213744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938337281657671931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakua0066003: #爸爸活 #广州 https://t.co/voUihKE76M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1938337274342916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuZbezQbwAA5GlC.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938337274342916096"
+          ],
+          "media_source_tweet_id": [
+            "1938337281657671931"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1938340751622213744",
+        "created_at": "2025-06-26T20:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T21:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938340751622213744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "广州"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873373956159553536",
+              "start": 3,
+              "username": "Sakua0066003"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/voUihKE76M",
+              "end": 50,
+              "expanded_url": "https://x.com/Sakua0066003/status/1938337281657671931/photo/1",
+              "media_key": "3_1938337274342916096",
+              "start": 27,
+              "url": "https://t.co/voUihKE76M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938340751622213744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938337281657671931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakua0066003: #爸爸活 #广州 https://t.co/voUihKE76M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938337274342916096"
+          ]
+        },
+        "author_id": "1873373956159553536",
+        "conversation_id": "1938337281657671931",
+        "created_at": "2025-06-26T20:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T21:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938337281657671931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "广州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/voUihKE76M",
+              "end": 32,
+              "expanded_url": "https://x.com/Sakua0066003/status/1938337281657671931/photo/1",
+              "media_key": "3_1938337274342916096",
+              "start": 9,
+              "url": "https://t.co/voUihKE76M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938337281657671931",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#爸爸活 #广州 https://t.co/voUihKE76M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5508,
+          "following_count": 941,
+          "like_count": 14288,
+          "listed_count": 10,
+          "media_count": 746,
+          "tweet_count": 11215
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T14:22:27.000Z",
+        "description": "这里是莉莉/さくや的个人频道～ 问问题先看置顶 可爱的女孩子们欢迎互fo！非绿4000不过夜不无套 100/188/288",
+        "id": "1873373956159553536",
+        "location": "乐园",
+        "name": "就算很痛很痛也没有关系_",
+        "pinned_tweet_id": "1895945835680305598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934725814404386816/5x0Gc4Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 298,
+          "like_count": 4967,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 936
+        },
+        "username": "Sakua0066003",
+        "verified": false
+      }
+    ]
+  }
+}

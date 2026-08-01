@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1986843255477338200",
+    "created_at": "2025-11-08T02:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T03:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986979302077047193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1595047003657887745",
+          "start": 0,
+          "username": "Smlie_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986979302077047193",
+    "in_reply_to_user_id": "1595047003657887745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986887733093294228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smlie_awa 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1986843255477338200",
+        "created_at": "2025-11-08T02:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986979302077047193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1595047003657887745",
+              "start": 0,
+              "username": "Smlie_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986979302077047193",
+        "in_reply_to_user_id": "1595047003657887745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986887733093294228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smlie_awa 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595047003657887745",
+        "conversation_id": "1986843255477338200",
+        "created_at": "2025-11-07T20:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T21:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986887733093294228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986887733093294228",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986843255477338200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 需要找点新类型音乐试试了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 864,
+          "like_count": 16790,
+          "listed_count": 17,
+          "media_count": 915,
+          "tweet_count": 13416
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T13:30:34.000Z",
+        "description": "什么都感点兴趣，不定时上线，私信会看（当然如果有人会发的话）",
+        "id": "1595047003657887745",
+        "name": "Smlie_cloud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595047085308399616/2Q_v1MdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "Smlie_awa",
+        "verified": false
+      }
+    ]
+  }
+}

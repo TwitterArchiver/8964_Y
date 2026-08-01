@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2004928159377158366",
+    "created_at": "2025-12-28T05:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T06:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005146267358581122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714571705694420992",
+          "start": 0,
+          "username": "Ayuki_Believe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005146267358581122",
+    "in_reply_to_user_id": "1714571705694420992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004928159377158366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuki_Believe 土"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2015,
+        "media_key": "3_2004928151416446976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Lvh_lboAA8BHj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2004928159377158366",
+        "created_at": "2025-12-28T05:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005146267358581122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714571705694420992",
+              "start": 0,
+              "username": "Ayuki_Believe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005146267358581122",
+        "in_reply_to_user_id": "1714571705694420992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004928159377158366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuki_Believe 土"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004928151416446976"
+          ]
+        },
+        "author_id": "1714571705694420992",
+        "conversation_id": "2004928159377158366",
+        "created_at": "2025-12-27T14:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004928159377158366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6V1ft025V",
+              "end": 33,
+              "expanded_url": "https://x.com/Ayuki_Believe/status/2004928159377158366/photo/1",
+              "media_key": "3_2004928151416446976",
+              "start": 10,
+              "url": "https://t.co/x6V1ft025V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004928159377158366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3769,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你管这叫洛丽塔？😅 https://t.co/x6V1ft025V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5874,
+          "following_count": 834,
+          "like_count": 17808,
+          "listed_count": 19,
+          "media_count": 962,
+          "tweet_count": 14059
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "cp：💧🍑💗桃井愛莉💗あなたたちが大好きです💗 lover @Takitsuki_Shoko| baby @Kisen0v0| little girl @Ayuki_Rotsuki|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "0.1km",
+        "name": "TekeliLi_iLilekeT",
+        "pinned_tweet_id": "2001255838095446496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995909865886416896/cwZk5pw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3437,
+          "following_count": 415,
+          "like_count": 6764,
+          "listed_count": 8,
+          "media_count": 982,
+          "tweet_count": 2828
+        },
+        "username": "Ayuki_Believe",
+        "verified": false
+      }
+    ]
+  }
+}

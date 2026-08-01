@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1993867630789447932",
+    "created_at": "2025-11-27T03:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993885006893343172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562858237657231361",
+          "start": 0,
+          "username": "yanyelove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993885006893343172",
+    "in_reply_to_user_id": "1562858237657231361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993867630789447932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyelove 恶心噢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993867623441027077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ukCiBa0AUlvAi.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993867623545905152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ukCiabIAAGlJf.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993867623445221376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ukCiCa0AAcyoO.jpg",
+        "width": 916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993867623545843712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ukCiaaMAARm4c.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1993867630789447932",
+        "created_at": "2025-11-27T03:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993885006893343172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562858237657231361",
+              "start": 0,
+              "username": "yanyelove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993885006893343172",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993867630789447932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyelove 恶心噢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993867623441027077",
+            "3_1993867623545905152",
+            "3_1993867623445221376",
+            "3_1993867623545843712"
+          ]
+        },
+        "author_id": "1562858237657231361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993867630789447932",
+        "created_at": "2025-11-27T02:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993867630789447932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892216240313368576",
+              "start": 2,
+              "username": "Siori_210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzp4cjgvdl",
+              "end": 92,
+              "expanded_url": "https://x.com/yanyelove/status/1993867630789447932/photo/1",
+              "media_key": "3_1993867623441027077",
+              "start": 69,
+              "url": "https://t.co/kzp4cjgvdl"
+            },
+            {
+              "display_url": "pic.x.com/kzp4cjgvdl",
+              "end": 92,
+              "expanded_url": "https://x.com/yanyelove/status/1993867630789447932/photo/1",
+              "media_key": "3_1993867623545905152",
+              "start": 69,
+              "url": "https://t.co/kzp4cjgvdl"
+            },
+            {
+              "display_url": "pic.x.com/kzp4cjgvdl",
+              "end": 92,
+              "expanded_url": "https://x.com/yanyelove/status/1993867630789447932/photo/1",
+              "media_key": "3_1993867623445221376",
+              "start": 69,
+              "url": "https://t.co/kzp4cjgvdl"
+            },
+            {
+              "display_url": "pic.x.com/kzp4cjgvdl",
+              "end": 92,
+              "expanded_url": "https://x.com/yanyelove/status/1993867630789447932/photo/1",
+              "media_key": "3_1993867623545843712",
+              "start": 69,
+              "url": "https://t.co/kzp4cjgvdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993867630789447932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 585,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "推特@Siori_210 卖惨骗钱 欠钱不还并以死相逼 自称苹果16是自己买的但其实是靠卖惨以死相逼让别人付钱买的 并说不给她买就要自杀 https://t.co/kzp4cjgvdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5866,
+          "following_count": 835,
+          "like_count": 17306,
+          "listed_count": 17,
+          "media_count": 932,
+          "tweet_count": 13749
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊🚪200纯绿线下🚪300半绿线下 🚪520非绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqVjL"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有我的地方 ",
+        "name": "言叶的happy sugar life",
+        "pinned_tweet_id": "1993869600031953287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 160,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/IhqVPtqVjL",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

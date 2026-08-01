@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2035022785475653649",
+    "created_at": "2026-03-20T15:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035023479997964582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733852461390348288",
+          "start": 0,
+          "username": "a4451020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035023479997964582",
+    "in_reply_to_user_id": "1733852461390348288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035023405393523121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a4451020 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2035022785475653649",
+        "created_at": "2026-03-20T15:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035023479997964582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733852461390348288",
+              "start": 0,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035023479997964582",
+        "in_reply_to_user_id": "1733852461390348288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035023405393523121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a4451020 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733852461390348288",
+        "conversation_id": "2035022785475653649",
+        "created_at": "2026-03-20T15:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035023405393523121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035023405393523121",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035022785475653649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 爷爷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2030257063566414125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6264,
+          "following_count": 737,
+          "like_count": 21539,
+          "listed_count": 19,
+          "media_count": 1043,
+          "tweet_count": 15405
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜ #papayaoi 爱好者｜发言是辱追｜前世@djalxjhshytf1｜私联🚪300/500/1500",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 5,
+                "tag": "papayaoi"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "djalxjhshytf1"
+              }
+            ]
+          }
+        },
+        "id": "1733852461390348288",
+        "location": "妹子打tag都是引流的",
+        "name": "Sr20det",
+        "pinned_tweet_id": "2027780655090962747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006468103425925120/byLYSITw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 36,
+          "like_count": 31354,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 570
+        },
+        "username": "a4451020",
+        "verified": false
+      }
+    ]
+  }
+}

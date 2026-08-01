@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2016203570996248979",
+    "created_at": "2026-01-28T08:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T09:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016424452079403502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937013213754990592",
+          "start": 0,
+          "username": "pngzi214201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016424452079403502",
+    "in_reply_to_user_id": "1937013213754990592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016203570996248979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pngzi214201 恭喜你看到了这个平台最敏感的群体\n下一秒挂的就是你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2016203570996248979",
+        "created_at": "2026-01-28T08:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016424452079403502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937013213754990592",
+              "start": 0,
+              "username": "pngzi214201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016424452079403502",
+        "in_reply_to_user_id": "1937013213754990592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016203570996248979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pngzi214201 恭喜你看到了这个平台最敏感的群体\n下一秒挂的就是你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937013213754990592",
+        "conversation_id": "2016203570996248979",
+        "created_at": "2026-01-27T17:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016203570996248979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016203570996248979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13842,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么感觉到了推特还有小团体\n成天挂来挂去的无不无聊。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 832,
+          "like_count": 18460,
+          "listed_count": 19,
+          "media_count": 976,
+          "tweet_count": 14335
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T05:02:02.000Z",
+        "description": "一个爱看薄肌大牛子的美丽坏女人",
+        "id": "1937013213754990592",
+        "location": "0.2km",
+        "name": "瓶子",
+        "pinned_tweet_id": "1945890820051333420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937013634837757952/s6TbeDTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 131,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1024
+        },
+        "username": "pngzi214201",
+        "verified": false
+      }
+    ]
+  }
+}

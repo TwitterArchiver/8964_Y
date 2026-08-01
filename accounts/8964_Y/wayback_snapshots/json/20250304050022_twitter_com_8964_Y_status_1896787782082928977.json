@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1896787718463426560"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1896787782082928977",
+    "created_at": "2025-03-04T05:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T06:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896787782082928977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MNlHr22ygw",
+          "end": 58,
+          "expanded_url": "https://x.com/8964_Y/status/1896787782082928977/video/1",
+          "media_key": "13_1896787718463426560",
+          "start": 35,
+          "url": "https://t.co/MNlHr22ygw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896787782082928977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剪这个视频的人说周末我cos沙耶之后就给我剪个一样的，这个人就是阿贝 https://t.co/MNlHr22ygw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18233,
+        "height": 720,
+        "media_key": "13_1896787718463426560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1896787718463426560/img/8a9AETEtMiZr0wGn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896787718463426560/vid/avc1/320x320/J-nfouNUl1bFoxva.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896787718463426560/vid/avc1/540x540/btAcaf7slUyTV2m3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896787718463426560/vid/avc1/720x720/GpJGtYccnXfITQb1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1896787718463426560/pl/azkxol358noa3Q53.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1896787718463426560"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1896787782082928977",
+        "created_at": "2025-03-04T05:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896787782082928977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNlHr22ygw",
+              "end": 58,
+              "expanded_url": "https://x.com/8964_Y/status/1896787782082928977/video/1",
+              "media_key": "13_1896787718463426560",
+              "start": 35,
+              "url": "https://t.co/MNlHr22ygw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896787782082928977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪这个视频的人说周末我cos沙耶之后就给我剪个一样的，这个人就是阿贝 https://t.co/MNlHr22ygw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4781,
+          "following_count": 893,
+          "like_count": 9797,
+          "listed_count": 4,
+          "media_count": 512,
+          "tweet_count": 7586
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

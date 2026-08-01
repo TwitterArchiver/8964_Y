@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1980282390900802005",
+    "created_at": "2025-10-20T15:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980297517536567757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824346472525205509",
+          "start": 0,
+          "username": "LimbergYamamoto"
+        },
+        {
+          "end": 24,
+          "id": "1631539163177664512",
+          "start": 17,
+          "username": "a8964b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980297517536567757",
+    "in_reply_to_user_id": "1824346472525205509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980285742917071005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimbergYamamoto @a8964b 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1980282390900802005",
+        "created_at": "2025-10-20T15:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980297517536567757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824346472525205509",
+              "start": 0,
+              "username": "LimbergYamamoto"
+            },
+            {
+              "end": 24,
+              "id": "1631539163177664512",
+              "start": 17,
+              "username": "a8964b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980297517536567757",
+        "in_reply_to_user_id": "1824346472525205509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980285742917071005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimbergYamamoto @a8964b 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824346472525205509",
+        "conversation_id": "1980282390900802005",
+        "created_at": "2025-10-20T14:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980285742917071005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1631539163177664512",
+              "start": 0,
+              "username": "a8964b"
+            },
+            {
+              "end": 15,
+              "id": "1732356232290222080",
+              "start": 8,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980285742917071005",
+        "in_reply_to_user_id": "1631539163177664512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980284980732579976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a8964b @8964_Y 你們注意到沒有，恐怖游戲裏都沒有坦克或戰鬥機😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 883,
+          "like_count": 16341,
+          "listed_count": 17,
+          "media_count": 896,
+          "tweet_count": 13108
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T07:26:13.000Z",
+        "description": "人類歷史就是一部戰爭史",
+        "id": "1824346472525205509",
+        "location": "Truk Island",
+        "name": "伍拾陸",
+        "pinned_tweet_id": "1845495792007860499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939001130358595584/d4lq5s6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 347,
+          "like_count": 7505,
+          "listed_count": 12,
+          "media_count": 2106,
+          "tweet_count": 6526
+        },
+        "username": "LimbergYamamoto",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T06:17:22.000Z",
+        "description": "",
+        "id": "1631539163177664512",
+        "name": "🛸",
+        "pinned_tweet_id": "1946809260341674168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971584009705779200/H3NpLqnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 293,
+          "like_count": 4102,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1509
+        },
+        "username": "a8964b",
+        "verified": false
+      }
+    ]
+  }
+}

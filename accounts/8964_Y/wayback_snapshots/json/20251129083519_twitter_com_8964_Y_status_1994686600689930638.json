@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1994588267900277007",
+    "created_at": "2025-11-29T08:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994686600689930638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1910251920704278529",
+          "start": 0,
+          "username": "v8vvvv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994686600689930638",
+    "in_reply_to_user_id": "1910251920704278529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994684523075047646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@v8vvvv8 又不是你发个粗口能封号的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1994588267900277007",
+        "created_at": "2025-11-29T08:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994686600689930638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1910251920704278529",
+              "start": 0,
+              "username": "v8vvvv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994686600689930638",
+        "in_reply_to_user_id": "1910251920704278529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994684523075047646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v8vvvv8 又不是你发个粗口能封号的😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910251920704278529",
+        "conversation_id": "1994588267900277007",
+        "created_at": "2025-11-29T08:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994684523075047646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994684523075047646",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994588267900277007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 墙外也会被封号望周知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 835,
+          "like_count": 17357,
+          "listed_count": 17,
+          "media_count": 939,
+          "tweet_count": 13767
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T08:42:10.000Z",
+        "description": "",
+        "id": "1910251920704278529",
+        "name": "把讨厌的人分尸",
+        "pinned_tweet_id": "1992356344406687813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994226289985900546/vETpLHvK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1684
+        },
+        "username": "v8vvvv8",
+        "verified": false
+      }
+    ]
+  }
+}

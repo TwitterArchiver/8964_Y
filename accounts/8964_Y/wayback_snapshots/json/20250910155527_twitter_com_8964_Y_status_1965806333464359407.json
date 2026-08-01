@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1965709059417583953",
+    "created_at": "2025-09-10T15:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T16:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965806333464359407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771129838532759552",
+          "start": 0,
+          "username": "Kuno_kunayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965806333464359407",
+    "in_reply_to_user_id": "1771129838532759552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965805804394832089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuno_kunayo 爸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1965709059417583953",
+        "created_at": "2025-09-10T15:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965806333464359407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771129838532759552",
+              "start": 0,
+              "username": "Kuno_kunayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965806333464359407",
+        "in_reply_to_user_id": "1771129838532759552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965805804394832089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuno_kunayo 爸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771129838532759552",
+        "conversation_id": "1965709059417583953",
+        "created_at": "2025-09-10T15:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965805804394832089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965805804394832089",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965805490849624493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 萌就对了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5738,
+          "following_count": 879,
+          "like_count": 16024,
+          "listed_count": 18,
+          "media_count": 846,
+          "tweet_count": 12538
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T11:00:44.000Z",
+        "description": "我是kuno/🐯👻/碎碎念账号/我很可爱/不厌男不厌女但是厌傻逼/傻逼不分男女别给我扣帽子/照片在@kuno1014_ku/萌萌的碎碎念账号互关大欢迎^ ^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "kuno1014_ku"
+              }
+            ]
+          }
+        },
+        "id": "1771129838532759552",
+        "location": "China",
+        "name": "幽霊kuno☎︎♪～♬～♫",
+        "pinned_tweet_id": "1942449644639777071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911318043066368/XO0HPPUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 772,
+          "like_count": 3511,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1355
+        },
+        "username": "Kuno_kunayo",
+        "verified": false
+      }
+    ]
+  }
+}

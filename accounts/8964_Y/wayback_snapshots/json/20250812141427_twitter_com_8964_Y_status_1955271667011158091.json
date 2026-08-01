@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1955246048588468525",
+    "created_at": "2025-08-12T14:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955271667011158091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2396906006",
+          "start": 0,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955271667011158091",
+    "in_reply_to_user_id": "2396906006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955246048588468525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizunyan_ 太好了太好了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1955246048588468525",
+        "created_at": "2025-08-12T14:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955271667011158091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2396906006",
+              "start": 0,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955271667011158091",
+        "in_reply_to_user_id": "2396906006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955246048588468525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizunyan_ 太好了太好了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2396906006",
+        "conversation_id": "1955246048588468525",
+        "created_at": "2025-08-12T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955246048588468525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955246048588468525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 383,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清了一波自己关注的\n我很少会主动关注或回关的，除非真的对你的推文感兴趣\n所以剩下除开官方号和画家50人不到的，我大概是对你很感兴趣吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 878,
+          "like_count": 15292,
+          "listed_count": 13,
+          "media_count": 803,
+          "tweet_count": 11977
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "【終】",
+        "id": "2396906006",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3050,
+          "following_count": 201,
+          "like_count": 35669,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 175
+        },
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

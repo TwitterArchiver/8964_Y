@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1994517023251185677",
+    "created_at": "2025-11-29T09:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T10:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994707103676776749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994707103676776749",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994517023251185677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange 这杯子haokeai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994517009875230721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63ypzAWYAENtah.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1994517009866924032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63ypy-XoAAqLJ6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1994517023251185677",
+        "created_at": "2025-11-29T09:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994707103676776749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994707103676776749",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994517023251185677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange 这杯子haokeai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994517009875230721",
+            "3_1994517009866924032"
+          ]
+        },
+        "author_id": "1620792340897054720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994517023251185677",
+        "created_at": "2025-11-28T21:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994517023251185677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnbiquFECq",
+              "end": 32,
+              "expanded_url": "https://x.com/Orange007Orange/status/1994517023251185677/photo/1",
+              "media_key": "3_1994517009875230721",
+              "start": 9,
+              "url": "https://t.co/XnbiquFECq"
+            },
+            {
+              "display_url": "pic.x.com/XnbiquFECq",
+              "end": 32,
+              "expanded_url": "https://x.com/Orange007Orange/status/1994517023251185677/photo/1",
+              "media_key": "3_1994517009866924032",
+              "start": 9,
+              "url": "https://t.co/XnbiquFECq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994517023251185677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很有意思的商店🏬 https://t.co/XnbiquFECq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 835,
+          "like_count": 17358,
+          "listed_count": 17,
+          "media_count": 939,
+          "tweet_count": 13768
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管｜⚠️鉴证滚贴脸飞老冯｜随便发发｜面基请提前预约需要攒精力｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957885981354315776/77t4zYMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 586,
+          "like_count": 47866,
+          "listed_count": 4,
+          "media_count": 569,
+          "tweet_count": 16842
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

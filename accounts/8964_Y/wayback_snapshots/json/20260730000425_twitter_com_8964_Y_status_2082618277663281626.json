@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2082505504518217948",
+    "created_at": "2026-07-30T00:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T01:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082618277663281626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733852461390348288",
+          "start": 0,
+          "username": "a4451020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082618277663281626",
+    "in_reply_to_user_id": "1733852461390348288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082505504518217948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a4451020 药师条"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2082505497924771841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaLt36aoAECrRH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2082505504518217948",
+        "created_at": "2026-07-30T00:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082618277663281626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733852461390348288",
+              "start": 0,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082618277663281626",
+        "in_reply_to_user_id": "1733852461390348288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082505504518217948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a4451020 药师条"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082505497924771841"
+          ]
+        },
+        "author_id": "1733852461390348288",
+        "conversation_id": "2082505504518217948",
+        "created_at": "2026-07-29T16:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082505504518217948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHY9WEjeal",
+              "end": 30,
+              "expanded_url": "https://x.com/a4451020/status/2082505504518217948/photo/1",
+              "media_key": "3_2082505497924771841",
+              "start": 7,
+              "url": "https://t.co/KHY9WEjeal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082505504518217948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神了我才发现 https://t.co/KHY9WEjeal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6726,
+          "following_count": 742,
+          "like_count": 25342,
+          "listed_count": 20,
+          "media_count": 1191,
+          "tweet_count": 17103
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜属性如置顶｜木瓜蜜来找我玩呀",
+        "id": "1733852461390348288",
+        "location": "妹子打tag都是引流的",
+        "name": "Sr20det",
+        "pinned_tweet_id": "2027780655090962747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006468103425925120/byLYSITw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 34,
+          "like_count": 40665,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "a4451020",
+        "verified": false
+      }
+    ]
+  }
+}

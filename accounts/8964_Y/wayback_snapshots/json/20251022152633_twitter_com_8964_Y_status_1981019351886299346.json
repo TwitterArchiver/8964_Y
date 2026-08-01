@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1980826112935780703",
+    "created_at": "2025-10-22T15:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981019351886299346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "TokiyukiSAMAAAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981019351886299346",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980826112935780703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TokiyukiSAMAAAA 还有脾气差的不行还自以为是萌点哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1980826112935780703",
+        "created_at": "2025-10-22T15:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981019351886299346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981019351886299346",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980826112935780703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TokiyukiSAMAAAA 还有脾气差的不行还自以为是萌点哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1980826112935780703",
+        "created_at": "2025-10-22T02:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980826112935780703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980826112935780703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12234,
+          "like_count": 359,
+          "quote_count": 16,
+          "reply_count": 28,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "你不仅长得丑 自伤也只是割的浅浅一层 卖惨就像小孩子哭着让妈妈给你买玩具一样 你给我的观感就是乡村妹想赶潮流去当地雷女 结果成了野猪穿蕾服的猎奇样 毫无美感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5739,
+          "following_count": 883,
+          "like_count": 16358,
+          "listed_count": 17,
+          "media_count": 897,
+          "tweet_count": 13129
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我該怎麼辦啊…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980274436654718976/jHZILULN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6790,
+          "following_count": 244,
+          "like_count": 30641,
+          "listed_count": 16,
+          "media_count": 173,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "TokiyukiSAMAAAA",
+        "verified": false
+      }
+    ]
+  }
+}

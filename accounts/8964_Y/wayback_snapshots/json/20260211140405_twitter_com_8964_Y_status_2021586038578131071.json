@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2021575913406689720",
+    "created_at": "2026-02-11T14:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021586038578131071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985030184379273216",
+          "start": 0,
+          "username": "outcast7outcast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021586038578131071",
+    "in_reply_to_user_id": "1985030184379273216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021575913406689720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@outcast7outcast 不要吃肥美的洇( ᵒ̴̶̷᷄ д ᵒ̴̶̷᷅ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2021575913406689720",
+        "created_at": "2026-02-11T14:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021586038578131071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985030184379273216",
+              "start": 0,
+              "username": "outcast7outcast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021586038578131071",
+        "in_reply_to_user_id": "1985030184379273216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021575913406689720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@outcast7outcast 不要吃肥美的洇( ᵒ̴̶̷᷄ д ᵒ̴̶̷᷅ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985030184379273216",
+        "conversation_id": "2021575913406689720",
+        "created_at": "2026-02-11T13:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021575913406689720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021575913406689720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家一定要擦亮眼睛啊，都小心一点，16号就过年了，那14号约你出去的人他能安什么好心思呢？肯定是想把你骗出去当猪宰了呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "QY_art7"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 727,
+          "like_count": 19472,
+          "listed_count": 19,
+          "media_count": 999,
+          "tweet_count": 14614
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:04:11.000Z",
+        "description": "",
+        "id": "1985030184379273216",
+        "location": "LIMBO",
+        "name": "學雲朵變灰然後變好",
+        "pinned_tweet_id": "2012500896245051627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016905618389647360/BeHVZ05Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 1762,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 220
+        },
+        "username": "outcast7outcast",
+        "verified": false
+      }
+    ]
+  }
+}

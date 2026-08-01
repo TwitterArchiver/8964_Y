@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1986466916391870907",
+    "created_at": "2025-11-06T16:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T17:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986466916391870907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1730288727271075840",
+          "start": 3,
+          "username": "zwzsbytt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986466916391870907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986362272118358448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zwzsbytt: od药效中说出的脑残话是本人无法售后的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1986466916391870907",
+        "created_at": "2025-11-06T16:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986466916391870907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1730288727271075840",
+              "start": 3,
+              "username": "zwzsbytt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986466916391870907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986362272118358448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zwzsbytt: od药效中说出的脑残话是本人无法售后的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730288727271075840",
+        "conversation_id": "1986362272118358448",
+        "created_at": "2025-11-06T09:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986362272118358448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986362272118358448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "od药效中说出的脑残话是本人无法售后的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5824,
+          "following_count": 876,
+          "like_count": 16704,
+          "listed_count": 17,
+          "media_count": 913,
+          "tweet_count": 13371
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T18:12:43.000Z",
+        "description": "称呼我为121，➕V🚪88/188嘘寒问暖不如直接打钱，我真的真的很缺钱TT我喜欢安定的生活。谢谢…祝大家都永远幸福，永远永远幸福。现在不要随便和我说话我的信息处理暂时出了问题。请安静认识我，接受口令和赞赏码",
+        "id": "1730288727271075840",
+        "location": "别烦我",
+        "name": "徒步上天堂",
+        "pinned_tweet_id": "1956284046381551940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902335179605389312/WAlqEaux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 326,
+          "like_count": 1654,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 3232
+        },
+        "username": "zwzsbytt",
+        "verified": false
+      }
+    ]
+  }
+}

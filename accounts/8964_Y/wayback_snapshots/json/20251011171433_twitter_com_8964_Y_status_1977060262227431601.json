@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1976521945974980892",
+    "created_at": "2025-10-11T17:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T18:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977060262227431601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1326521135823925250",
+          "start": 0,
+          "username": "PangWenjun"
+        },
+        {
+          "end": 24,
+          "id": "1719767650983919618",
+          "start": 12,
+          "username": "bie_ji11229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977060262227431601",
+    "in_reply_to_user_id": "1326521135823925250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976616499948433875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PangWenjun @bie_ji11229 你特么要干啥？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 640,
+        "media_key": "13_1976616447024803840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976616447024803840/img/nSu-DOUnjrINVdjw.jpg",
+        "public_metrics": {
+          "view_count": 58881
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976616447024803840/vid/avc1/480x640/6hmfH9-vlLkm7Vzh.mp4?tag=23"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976616447024803840/pl/79T-BirZ4f7Gcf_D.m3u8?tag=23"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1976521945974980892",
+        "created_at": "2025-10-11T17:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977060262227431601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1326521135823925250",
+              "start": 0,
+              "username": "PangWenjun"
+            },
+            {
+              "end": 24,
+              "id": "1719767650983919618",
+              "start": 12,
+              "username": "bie_ji11229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977060262227431601",
+        "in_reply_to_user_id": "1326521135823925250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976616499948433875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PangWenjun @bie_ji11229 你特么要干啥？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976616447024803840"
+          ]
+        },
+        "author_id": "1326521135823925250",
+        "conversation_id": "1976521945974980892",
+        "created_at": "2025-10-10T11:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976616499948433875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719767650983919618",
+              "start": 0,
+              "username": "bie_ji11229"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9xKiX7Bag",
+              "end": 36,
+              "expanded_url": "https://x.com/PangWenjun/status/1976616499948433875/video/1",
+              "media_key": "13_1976616447024803840",
+              "start": 13,
+              "url": "https://t.co/g9xKiX7Bag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976616499948433875",
+        "in_reply_to_user_id": "1719767650983919618",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 153242,
+          "like_count": 334,
+          "quote_count": 25,
+          "reply_count": 53,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976521945974980892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bie_ji11229 https://t.co/g9xKiX7Bag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 881,
+          "like_count": 16228,
+          "listed_count": 18,
+          "media_count": 887,
+          "tweet_count": 12986
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-11T13:44:40.000Z",
+        "description": "life is short，play more",
+        "id": "1326521135823925250",
+        "name": "John Power",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942475997770833920/pFgcptJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 236,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 190
+        },
+        "username": "PangWenjun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T17:25:46.000Z",
+        "description": "小粉一枚，欢迎互fo，部分转载，若侵既删。（最近限关注😓，等等我😁，一开就粉🥰）",
+        "id": "1719767650983919618",
+        "name": "别开枪自己人（互fo）",
+        "pinned_tweet_id": "1975722544947995031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719767808958185472/jfA4Tr9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16706,
+          "following_count": 16585,
+          "like_count": 44553,
+          "listed_count": 19,
+          "media_count": 950,
+          "tweet_count": 2911
+        },
+        "username": "bie_ji11229",
+        "verified": false
+      }
+    ]
+  }
+}

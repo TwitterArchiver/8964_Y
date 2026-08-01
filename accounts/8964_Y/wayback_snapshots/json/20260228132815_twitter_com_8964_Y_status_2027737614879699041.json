@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027737607120293890",
+        "3_2027737607111876608"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2027737614879699041",
+    "created_at": "2026-02-28T13:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027737614879699041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YUN8di3eLk",
+          "end": 26,
+          "expanded_url": "https://x.com/8964_Y/status/2027737614879699041/photo/1",
+          "media_key": "3_2027737607120293890",
+          "start": 3,
+          "url": "https://t.co/YUN8di3eLk"
+        },
+        {
+          "display_url": "pic.x.com/YUN8di3eLk",
+          "end": 26,
+          "expanded_url": "https://x.com/8964_Y/status/2027737614879699041/photo/1",
+          "media_key": "3_2027737607111876608",
+          "start": 3,
+          "url": "https://t.co/YUN8di3eLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027737614879699041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦呀 https://t.co/YUN8di3eLk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027737614879699041].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027737614879699041",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027737614879699041"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027737607120293890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP4nDobEAITq6h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027737607111876608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP4nDmaoAAc3m6.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "我的能力仅仅是透支好运罢了｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "QY_art7"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6280,
+          "following_count": 733,
+          "like_count": 20574,
+          "listed_count": 19,
+          "media_count": 1019,
+          "tweet_count": 14976
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

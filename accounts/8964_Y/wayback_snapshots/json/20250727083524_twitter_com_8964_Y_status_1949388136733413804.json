@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949046645955743744"
+      ],
+      "media_source_tweet_id": [
+        "1949167836049346715"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1949388136733413804",
+    "created_at": "2025-07-27T08:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949388136733413804"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "SPOILS OF WAR",
+          "probability": 0.8864,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 36,
+          "normalized_text": "CHAINSAW",
+          "probability": 0.3965,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276807386401923078",
+          "start": 3,
+          "username": "SBMinnae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5u2KtZvpDZ",
+          "end": 66,
+          "expanded_url": "https://x.com/SBMinnae/status/1949167836049346715/photo/1",
+          "media_key": "3_1949046645955743744",
+          "start": 43,
+          "url": "https://t.co/5u2KtZvpDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949388136733413804",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 734
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949167836049346715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SBMinnae: SPOILS OF WAR [CHAINSAW MAN] https://t.co/5u2KtZvpDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1949046645955743744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxnmRbb0AAFPcp.jpg",
+        "width": 3334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949046645955743744"
+          ],
+          "media_source_tweet_id": [
+            "1949167836049346715"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1949388136733413804",
+        "created_at": "2025-07-27T08:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949388136733413804"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "SPOILS OF WAR",
+              "probability": 0.8864,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "CHAINSAW",
+              "probability": 0.3965,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276807386401923078",
+              "start": 3,
+              "username": "SBMinnae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5u2KtZvpDZ",
+              "end": 66,
+              "expanded_url": "https://x.com/SBMinnae/status/1949167836049346715/photo/1",
+              "media_key": "3_1949046645955743744",
+              "start": 43,
+              "url": "https://t.co/5u2KtZvpDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949388136733413804",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 734
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949167836049346715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SBMinnae: SPOILS OF WAR [CHAINSAW MAN] https://t.co/5u2KtZvpDZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949046645955743744"
+          ]
+        },
+        "author_id": "1276807386401923078",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1949167836049346715",
+        "created_at": "2025-07-26T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949167836049346715"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "SPOILS OF WAR",
+              "probability": 0.8407,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 22,
+              "normalized_text": "CHAINSAW",
+              "probability": 0.3833,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5u2KtZvpDZ",
+              "end": 52,
+              "expanded_url": "https://x.com/SBMinnae/status/1949167836049346715/photo/1",
+              "media_key": "3_1949046645955743744",
+              "start": 29,
+              "url": "https://t.co/5u2KtZvpDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949167836049346715",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 752,
+          "impression_count": 46256,
+          "like_count": 5374,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 734
+        },
+        "reply_settings": "everyone",
+        "text": "SPOILS OF WAR [CHAINSAW MAN] https://t.co/5u2KtZvpDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5770,
+          "following_count": 869,
+          "like_count": 15261,
+          "listed_count": 12,
+          "media_count": 781,
+          "tweet_count": 11815
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T09:19:46.000Z",
+        "description": "AI DNI DC:Superbetamale#9060 email:nguyenkyle4456@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SBMinnae",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/SBMinnae",
+                "start": 0,
+                "url": "https://t.co/7A9kiWaXsY"
+              }
+            ]
+          }
+        },
+        "id": "1276807386401923078",
+        "location": "COMMS OPEN",
+        "name": "SBM‼️",
+        "pinned_tweet_id": "1919547488882852003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915465964088680453/k3LzV3mq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7240,
+          "following_count": 734,
+          "like_count": 52027,
+          "listed_count": 54,
+          "media_count": 2263,
+          "tweet_count": 15711
+        },
+        "url": "https://t.co/7A9kiWaXsY",
+        "username": "SBMinnae",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050235653640867840"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2050235671227609181",
+    "created_at": "2026-05-01T15:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050235671227609181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SAl2jscq1B",
+          "end": 47,
+          "expanded_url": "https://x.com/8964_Y/status/2050235671227609181/photo/1",
+          "media_key": "3_2050235653640867840",
+          "start": 24,
+          "url": "https://t.co/SAl2jscq1B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050235671227609181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁是妈妈谁是女鹅qwq\n我真的好喜欢这个很可爱 https://t.co/SAl2jscq1B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050235653640867840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPmduEa0AApmVV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050235653640867840"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2050235671227609181",
+        "created_at": "2026-05-01T15:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050235671227609181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAl2jscq1B",
+              "end": 47,
+              "expanded_url": "https://x.com/8964_Y/status/2050235671227609181/photo/1",
+              "media_key": "3_2050235653640867840",
+              "start": 24,
+              "url": "https://t.co/SAl2jscq1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050235671227609181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁是妈妈谁是女鹅qwq\n我真的好喜欢这个很可爱 https://t.co/SAl2jscq1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6256,
+          "following_count": 737,
+          "like_count": 22922,
+          "listed_count": 19,
+          "media_count": 1088,
+          "tweet_count": 16092
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

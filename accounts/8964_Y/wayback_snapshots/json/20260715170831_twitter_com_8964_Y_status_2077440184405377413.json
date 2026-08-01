@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2077295240696983690",
+    "created_at": "2026-07-15T17:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077440184405377413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077440184405377413",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077295240696983690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku 哎呀越来越漂亮了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2364,
+        "media_key": "3_2077295227023527936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQJAMRaEAAGSkV.jpg",
+        "width": 1772
+      },
+      {
+        "height": 1421,
+        "media_key": "3_2077295226893537280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQJALyakAAP1l9.jpg",
+        "width": 1066
+      },
+      {
+        "height": 1421,
+        "media_key": "3_2077295226822287361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQJALhbYAEJo4U.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2077295240696983690",
+        "created_at": "2026-07-15T17:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077440184405377413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077440184405377413",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077295240696983690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku 哎呀越来越漂亮了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077295227023527936",
+            "3_2077295226893537280",
+            "3_2077295226822287361"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "2077295240696983690",
+        "created_at": "2026-07-15T07:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077295240696983690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYeb06eoTD",
+              "end": 31,
+              "expanded_url": "https://x.com/skura_ku/status/2077295240696983690/photo/1",
+              "media_key": "3_2077295227023527936",
+              "start": 8,
+              "url": "https://t.co/nYeb06eoTD"
+            },
+            {
+              "display_url": "pic.x.com/nYeb06eoTD",
+              "end": 31,
+              "expanded_url": "https://x.com/skura_ku/status/2077295240696983690/photo/1",
+              "media_key": "3_2077295226893537280",
+              "start": 8,
+              "url": "https://t.co/nYeb06eoTD"
+            },
+            {
+              "display_url": "pic.x.com/nYeb06eoTD",
+              "end": 31,
+              "expanded_url": "https://x.com/skura_ku/status/2077295240696983690/photo/1",
+              "media_key": "3_2077295226822287361",
+              "start": 8,
+              "url": "https://t.co/nYeb06eoTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077295240696983690",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3037,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "𐔌՞. .՞𐦯 https://t.co/nYeb06eoTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6674,
+          "following_count": 752,
+          "like_count": 24890,
+          "listed_count": 19,
+          "media_count": 1171,
+          "tweet_count": 16906
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とSAKURA4444444444444444444444ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200 全世界最喜欢@kami07322 💙🌍 神@nagaikousi_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kami07322"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "nagaikousi_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1UFB7LOMI2R6F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/uTbdtOmXZG"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "2015443909175066858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075775466812952576/RVmoF1dR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21104,
+          "following_count": 388,
+          "like_count": 16854,
+          "listed_count": 67,
+          "media_count": 923,
+          "tweet_count": 7140
+        },
+        "url": "https://t.co/uTbdtOmXZG",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

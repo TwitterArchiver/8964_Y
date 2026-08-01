@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357840392360628224",
+          "name": "Business fashion"
+        }
+      }
+    ],
+    "conversation_id": "2039222730617397489",
+    "created_at": "2026-04-01T06:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039222730617397489"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "ダンダダン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1666017322212155392",
+          "start": 3,
+          "username": "anime_dandadan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039222730617397489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1816
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039130632899494283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_dandadan: 👻👻💨━━━━━━━\n#ダンダダン \n春夏秋冬🌸🏖️🍁⛄️\nみんなどーしてる❓ビジュアル\n━━━━━━━━━👽👾\n\n🌸春ver.\nビジネススーツのモモ、オカルン、アイラ、ジジ\n準備万端のアイラとジジに\nちょっぴりモタモタ中のモモとオカルン…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2038912217169686529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEur2-CacAEadc4.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357840392360628224",
+              "name": "Business fashion"
+            }
+          }
+        ],
+        "conversation_id": "2039222730617397489",
+        "created_at": "2026-04-01T06:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039222730617397489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "ダンダダン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1666017322212155392",
+              "start": 3,
+              "username": "anime_dandadan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039222730617397489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1816
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039130632899494283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_dandadan: 👻👻💨━━━━━━━\n#ダンダダン \n春夏秋冬🌸🏖️🍁⛄️\nみんなどーしてる❓ビジュアル\n━━━━━━━━━👽👾\n\n🌸春ver.\nビジネススーツのモモ、オカルン、アイラ、ジジ\n準備万端のアイラとジジに\nちょっぴりモタモタ中のモモとオカルン…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038912217169686529"
+          ]
+        },
+        "author_id": "1666017322212155392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10046426340",
+              "name": "装神少女まとい"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357840392360628224",
+              "name": "Business fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2039130632899494283",
+        "created_at": "2026-04-01T00:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039130632899494283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "ダンダダン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3SDaXMXnu",
+              "end": 178,
+              "expanded_url": "https://x.com/anime_dandadan/status/2039130632899494283/photo/1",
+              "media_key": "3_2038912217169686529",
+              "start": 155,
+              "url": "https://t.co/B3SDaXMXnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039130632899494283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1044,
+          "impression_count": 190844,
+          "like_count": 14131,
+          "quote_count": 119,
+          "reply_count": 38,
+          "retweet_count": 1816
+        },
+        "reply_settings": "everyone",
+        "text": "👻👻💨━━━━━━━\n#ダンダダン \n春夏秋冬🌸🏖️🍁⛄️\nみんなどーしてる❓ビジュアル\n━━━━━━━━━👽👾\n\n🌸春ver.\nビジネススーツのモモ、オカルン、アイラ、ジジ\n準備万端のアイラとジジに\nちょっぴりモタモタ中のモモとオカルン\n\n✪TVアニメ第3期2027年放送\n✪コミックス23巻 4月3日発売 https://t.co/B3SDaXMXnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2037717481960443971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6256,
+          "following_count": 732,
+          "like_count": 22015,
+          "listed_count": 20,
+          "media_count": 1057,
+          "tweet_count": 15647
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:42:15.000Z",
+        "description": "TVアニメ「ダンダダン」公式アカウント。累計発行部数1,200万部を超える集英社のマンガ誌アプリ「少年ジャンプ＋」にて連載中（毎週火曜更新）の龍幸伸先生の人気漫画が原作。モモとオカルンが迫りくる怪奇に挑む、オカルティックバトル&青春物語、開幕！！試し読み：https://t.co/VHkGQ9IPHU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/VtoKl",
+                "end": 151,
+                "expanded_url": "https://x.gd/VtoKl",
+                "start": 128,
+                "url": "https://t.co/VHkGQ9IPHU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anime-dandadan.com",
+                "end": 23,
+                "expanded_url": "https://anime-dandadan.com/",
+                "start": 0,
+                "url": "https://t.co/u6veRkrsK0"
+              }
+            ]
+          }
+        },
+        "id": "1666017322212155392",
+        "location": "神越市",
+        "name": "「ダンダダン」TVアニメ公式 | 第3期制作決定",
+        "pinned_tweet_id": "2002617528095551581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729150830933356544/ZnrdqRfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274571,
+          "following_count": 30,
+          "like_count": 22,
+          "listed_count": 778,
+          "media_count": 3157,
+          "tweet_count": 4812
+        },
+        "url": "https://t.co/u6veRkrsK0",
+        "username": "anime_dandadan",
+        "verified": true
+      }
+    ]
+  }
+}

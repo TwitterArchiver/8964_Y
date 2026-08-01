@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1955249759477960739",
+    "created_at": "2025-08-12T14:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955268916889956354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657679843205730304",
+          "start": 0,
+          "username": "yeye828282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955268916889956354",
+    "in_reply_to_user_id": "1657679843205730304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955249759477960739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeye828282 😔😔😔😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1955249759477960739",
+        "created_at": "2025-08-12T14:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955268916889956354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657679843205730304",
+              "start": 0,
+              "username": "yeye828282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955268916889956354",
+        "in_reply_to_user_id": "1657679843205730304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955249759477960739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeye828282 😔😔😔😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657679843205730304",
+        "conversation_id": "1955249759477960739",
+        "created_at": "2025-08-12T12:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T13:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955249759477960739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955249759477960739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我网上的形象也不是很差吧为什么没人理我🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 878,
+          "like_count": 15290,
+          "listed_count": 13,
+          "media_count": 803,
+          "tweet_count": 11975
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T09:30:58.000Z",
+        "description": "=夜夜 ｜丑 很高p｜@8964_Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "8964_Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yorusama82",
+                "end": 23,
+                "expanded_url": "https://t.me/yorusama82",
+                "start": 0,
+                "url": "https://t.co/jc9poYWLlR"
+              }
+            ]
+          }
+        },
+        "id": "1657679843205730304",
+        "location": "我想去死啊",
+        "name": "КроКровожадный т",
+        "pinned_tweet_id": "1936142039026221432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930285563711762438/JV1uF0he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 454,
+          "like_count": 2808,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 2394
+        },
+        "url": "https://t.co/jc9poYWLlR",
+        "username": "yeye828282",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1961159082527920284",
+    "created_at": "2025-08-29T09:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T10:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961355013986341336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "mitei011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961355013986341336",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961352819644272825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitei011 www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1961159082527920284",
+        "created_at": "2025-08-29T09:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961355013986341336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "mitei011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961355013986341336",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961352819644272825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitei011 www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1961159082527920284",
+        "created_at": "2025-08-29T08:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961352819644272825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961352819644272825",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961159082527920284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我妈觉得追星啊喜欢二次元正常的 但是我还没出柜来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 877,
+          "like_count": 15621,
+          "listed_count": 18,
+          "media_count": 829,
+          "tweet_count": 12208
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "",
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "未定",
+        "pinned_tweet_id": "1960318261884768311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958860864054075392/yPjcYbkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 362,
+          "like_count": 9852,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 863
+        },
+        "username": "mitei011",
+        "verified": false
+      }
+    ]
+  }
+}

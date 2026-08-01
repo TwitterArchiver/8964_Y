@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1941518004497547744",
+    "created_at": "2025-07-07T00:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T01:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942011824175550583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721126083142340611",
+          "start": 0,
+          "username": "Limeixi1223love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942011824175550583",
+    "in_reply_to_user_id": "1721126083142340611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941950361863893440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Limeixi1223love 我爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1941518004497547744",
+        "created_at": "2025-07-07T00:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T01:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942011824175550583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721126083142340611",
+              "start": 0,
+              "username": "Limeixi1223love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942011824175550583",
+        "in_reply_to_user_id": "1721126083142340611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941950361863893440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Limeixi1223love 我爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721126083142340611",
+        "conversation_id": "1941518004497547744",
+        "created_at": "2025-07-06T20:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T21:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941950361863893440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941950361863893440",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941518004497547744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我美的不行了我真的不行谁来救救我救救我救救我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5505,
+          "following_count": 942,
+          "like_count": 14536,
+          "listed_count": 10,
+          "media_count": 761,
+          "tweet_count": 11448
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T11:23:42.000Z",
+        "description": "中国語 ok｜日本語ok mylove：@aichan_nel KizunaAl 一番です！🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "aichan_nel"
+              }
+            ]
+          }
+        },
+        "id": "1721126083142340611",
+        "name": "人造神^3.0（互fo请私信🍓）",
+        "pinned_tweet_id": "1939343757297545690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935356360322879488/De1vPKAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 90,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 393
+        },
+        "username": "Limeixi1223love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006899671508320256"
+      ],
+      "media_source_tweet_id": [
+        "2006899682652598590"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2008458774512824408",
+    "created_at": "2026-01-06T08:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T09:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008458774512824408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943704460813041665",
+          "start": 3,
+          "username": "misakixyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/May4Pf5nyE",
+          "end": 74,
+          "expanded_url": "https://x.com/misakixyg/status/2006899682652598590/photo/1",
+          "media_key": "3_2006899671508320256",
+          "start": 51,
+          "url": "https://t.co/May4Pf5nyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008458774512824408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006899682652598590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misakixyg: 我可能又要卖药或者卖身了，有人来看看嘛，想要的都可以来私聊，坐标江浙沪 https://t.co/May4Pf5nyE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008458774512824408].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008458774512824408",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008458774512824408"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2006899671508320256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9nwnkQaAAABdiQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006899671508320256"
+          ]
+        },
+        "author_id": "1943704460813041665",
+        "conversation_id": "2006899682652598590",
+        "created_at": "2026-01-02T01:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T02:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006899682652598590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/May4Pf5nyE",
+              "end": 59,
+              "expanded_url": "https://x.com/misakixyg/status/2006899682652598590/photo/1",
+              "media_key": "3_2006899671508320256",
+              "start": 36,
+              "url": "https://t.co/May4Pf5nyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006899682652598590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5916,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我可能又要卖药或者卖身了，有人来看看嘛，想要的都可以来私聊，坐标江浙沪 https://t.co/May4Pf5nyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不要靠近我我性格超级差有很大的问题很古怪的人滚滚滚｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5857,
+          "following_count": 837,
+          "like_count": 18054,
+          "listed_count": 19,
+          "media_count": 970,
+          "tweet_count": 14176
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎，是🐟而已，没什么，58🚪",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "2006899682652598590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 982,
+          "like_count": 18971,
+          "listed_count": 5,
+          "media_count": 172,
+          "tweet_count": 5375
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

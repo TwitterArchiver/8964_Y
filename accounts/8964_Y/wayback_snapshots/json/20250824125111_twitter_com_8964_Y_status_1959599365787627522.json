@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1959599365787627522",
+    "created_at": "2025-08-24T12:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T13:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959599365787627522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758522497291497472",
+          "start": 3,
+          "username": "NEZUMI_sama_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959599365787627522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959577647412842693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEZUMI_sama_: 卧槽尼玛为什么除我之外的所有人都那么有钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1959599365787627522",
+        "created_at": "2025-08-24T12:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959599365787627522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758522497291497472",
+              "start": 3,
+              "username": "NEZUMI_sama_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959599365787627522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959577647412842693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEZUMI_sama_: 卧槽尼玛为什么除我之外的所有人都那么有钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758522497291497472",
+        "conversation_id": "1959577647412842693",
+        "created_at": "2025-08-24T11:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T12:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959577647412842693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959577647412842693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛为什么除我之外的所有人都那么有钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5753,
+          "following_count": 874,
+          "like_count": 15514,
+          "listed_count": 17,
+          "media_count": 817,
+          "tweet_count": 12091
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:03:48.000Z",
+        "description": "我会在这里发疯，吐黑泥，攻击讨厌的人",
+        "id": "1758522497291497472",
+        "location": "地狱",
+        "name": "nezumi",
+        "pinned_tweet_id": "1953562024929312815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951743049702199296/f_LQqvnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 48,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1621
+        },
+        "username": "NEZUMI_sama_",
+        "verified": false
+      }
+    ]
+  }
+}

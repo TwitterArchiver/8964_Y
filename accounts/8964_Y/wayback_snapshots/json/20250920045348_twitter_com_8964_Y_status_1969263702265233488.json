@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1969263702265233488",
+    "created_at": "2025-09-20T04:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969263702265233488"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "Angel Nation",
+          "probability": 0.65,
+          "start": 70,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609641240827686913",
+          "start": 3,
+          "username": "RintheMemewitch"
+        },
+        {
+          "end": 45,
+          "id": "1741918348735029248",
+          "start": 31,
+          "username": "m1zu180217896"
+        },
+        {
+          "end": 128,
+          "id": "936418802593656832",
+          "start": 119,
+          "username": "vinylrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969263702265233488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969059601376063953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RintheMemewitch: My friend @m1zu180217896 donated these photos to Angel Nation. We really appreciate her kindness. @vinylrog @angelonom…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969059592740212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1OBRF7bEAApPqZ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969059592727609344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1OBRF4awAAEmvz.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1969263702265233488",
+        "created_at": "2025-09-20T04:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969263702265233488"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "Angel Nation",
+              "probability": 0.65,
+              "start": 70,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609641240827686913",
+              "start": 3,
+              "username": "RintheMemewitch"
+            },
+            {
+              "end": 45,
+              "id": "1741918348735029248",
+              "start": 31,
+              "username": "m1zu180217896"
+            },
+            {
+              "end": 128,
+              "id": "936418802593656832",
+              "start": 119,
+              "username": "vinylrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969263702265233488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969059601376063953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RintheMemewitch: My friend @m1zu180217896 donated these photos to Angel Nation. We really appreciate her kindness. @vinylrog @angelonom…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969059592740212736",
+            "3_1969059592727609344"
+          ]
+        },
+        "author_id": "1609641240827686913",
+        "conversation_id": "1969059601376063953",
+        "created_at": "2025-09-19T15:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969059601376063953"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "Angel Nation",
+              "probability": 0.7402,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1741918348735029248",
+              "start": 10,
+              "username": "m1zu180217896"
+            },
+            {
+              "end": 107,
+              "id": "936418802593656832",
+              "start": 98,
+              "username": "vinylrog"
+            },
+            {
+              "end": 119,
+              "id": "1570406044559613953",
+              "start": 108,
+              "username": "angelonomy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxbuRxRaa8",
+              "end": 143,
+              "expanded_url": "https://x.com/RintheMemewitch/status/1969059601376063953/photo/1",
+              "media_key": "3_1969059592740212736",
+              "start": 120,
+              "url": "https://t.co/JxbuRxRaa8"
+            },
+            {
+              "display_url": "pic.x.com/JxbuRxRaa8",
+              "end": 143,
+              "expanded_url": "https://x.com/RintheMemewitch/status/1969059601376063953/photo/1",
+              "media_key": "3_1969059592727609344",
+              "start": 120,
+              "url": "https://t.co/JxbuRxRaa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969059601376063953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 15016,
+          "like_count": 1402,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "My friend @m1zu180217896 donated these photos to Angel Nation. We really appreciate her kindness. @vinylrog @angelonomy https://t.co/JxbuRxRaa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5781,
+          "following_count": 883,
+          "like_count": 16204,
+          "listed_count": 18,
+          "media_count": 859,
+          "tweet_count": 12703
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:02:46.000Z",
+        "description": "防失聯：Discord /Pixiv/Ins/Fb/AO3/Ytb：Rinshiwasu |MemeWitch| only Angel devil 4ever|As long as I’m alive, I’ll keep drawing Angel. https://t.co/Z6nhB0bzxc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rinshiwasu.straw.page",
+                "end": 150,
+                "expanded_url": "https://rinshiwasu.straw.page",
+                "start": 127,
+                "url": "https://t.co/Z6nhB0bzxc"
+              }
+            ]
+          }
+        },
+        "id": "1609641240827686913",
+        "location": "Tokyo",
+        "name": "师走凌 Rin",
+        "pinned_tweet_id": "1904037965132955967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893492191240298499/y0CgKVkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 179,
+          "like_count": 8568,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 6342
+        },
+        "username": "RintheMemewitch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T20:24:47.000Z",
+        "description": "19+ || 🇭🇰 ||月計／基金會／賽馬娘／OC||🦋左💎右固定雜食但也是蝶亮邪教頭子||最近沉迷🐯🧣🐯無差||FUB free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "日々是好日.ღ",
+                "end": 23,
+                "expanded_url": "http://xn--u6j716jgiica28a.xn--7od",
+                "start": 0,
+                "url": "https://t.co/tkknSYJCTl"
+              }
+            ]
+          }
+        },
+        "id": "1741918348735029248",
+        "location": "普段中国語と英語を話します、日本語を勉強しいます",
+        "name": "阿寒湖特產神金",
+        "pinned_tweet_id": "1965024529853600214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959606606112706560/xvFfAV0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 134,
+          "like_count": 7831,
+          "listed_count": 3,
+          "media_count": 561,
+          "tweet_count": 6670
+        },
+        "url": "https://t.co/tkknSYJCTl",
+        "username": "m1zu180217896",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-01T02:16:55.000Z",
+        "description": "✩ ✩ ✩ una chica que vive la euforia de ser parte del rock tomando té de peperina típicamente pueblerina\nyour local angel devil & mithrun kinnie🧉\nART @ARGELICXL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "ARGELICXL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/angelsrxck/",
+                "end": 23,
+                "expanded_url": "https://instagram.com/angelsrxck/",
+                "start": 0,
+                "url": "https://t.co/BFPJGpcFti"
+              }
+            ]
+          }
+        },
+        "id": "936418802593656832",
+        "location": "s!her / h!him (23) 💙💛💙",
+        "name": "aGus 🇦🇷🪽",
+        "pinned_tweet_id": "1820839498902601861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968758299496456192/Cad57SMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3268,
+          "following_count": 4718,
+          "like_count": 128688,
+          "listed_count": 30,
+          "media_count": 4214,
+          "tweet_count": 47403
+        },
+        "url": "https://t.co/BFPJGpcFti",
+        "username": "vinylrog",
+        "verified": false
+      }
+    ]
+  }
+}

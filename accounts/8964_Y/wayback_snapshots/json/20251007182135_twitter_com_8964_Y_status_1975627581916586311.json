@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975017280565321728"
+      ],
+      "media_source_tweet_id": [
+        "1975017283211956309"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1975627581916586311",
+    "created_at": "2025-10-07T18:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T19:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975627581916586311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915813729184481280",
+          "start": 3,
+          "username": "crepelily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dDkGwUT4RA",
+          "end": 47,
+          "expanded_url": "https://x.com/crepelily/status/1975017283211956309/photo/1",
+          "media_key": "3_1975017280565321728",
+          "start": 24,
+          "url": "https://t.co/dDkGwUT4RA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975627581916586311",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1394
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975017283211956309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crepelily: doodledo https://t.co/dDkGwUT4RA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1975017280565321728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2irwKlaoAAV3cG.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975017280565321728"
+          ],
+          "media_source_tweet_id": [
+            "1975017283211956309"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1975627581916586311",
+        "created_at": "2025-10-07T18:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975627581916586311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915813729184481280",
+              "start": 3,
+              "username": "crepelily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDkGwUT4RA",
+              "end": 47,
+              "expanded_url": "https://x.com/crepelily/status/1975017283211956309/photo/1",
+              "media_key": "3_1975017280565321728",
+              "start": 24,
+              "url": "https://t.co/dDkGwUT4RA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975627581916586311",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1394
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975017283211956309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crepelily: doodledo https://t.co/dDkGwUT4RA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975017280565321728"
+          ]
+        },
+        "author_id": "1915813729184481280",
+        "conversation_id": "1975017283211956309",
+        "created_at": "2025-10-06T01:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T02:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975017283211956309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDkGwUT4RA",
+              "end": 32,
+              "expanded_url": "https://x.com/crepelily/status/1975017283211956309/photo/1",
+              "media_key": "3_1975017280565321728",
+              "start": 9,
+              "url": "https://t.co/dDkGwUT4RA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975017283211956309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1046,
+          "impression_count": 107205,
+          "like_count": 13471,
+          "quote_count": 34,
+          "reply_count": 12,
+          "retweet_count": 1394
+        },
+        "reply_settings": "everyone",
+        "text": "doodledo https://t.co/dDkGwUT4RA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 876,
+          "like_count": 16180,
+          "listed_count": 18,
+          "media_count": 881,
+          "tweet_count": 12930
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T17:02:55.000Z",
+        "description": "butch 🇮🇩 | #1 yearner | personal diary (not rlly LMFAO) | mw @probablyasmo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "probablyasmo_"
+              }
+            ]
+          }
+        },
+        "id": "1915813729184481280",
+        "location": "17, he/they, ",
+        "name": "azriel 🍧",
+        "pinned_tweet_id": "1973346920325325221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956970471381200896/gcxV3Kmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6529,
+          "following_count": 302,
+          "like_count": 6122,
+          "listed_count": 14,
+          "media_count": 383,
+          "tweet_count": 3718
+        },
+        "username": "crepelily",
+        "verified": false
+      }
+    ]
+  }
+}

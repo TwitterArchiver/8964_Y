@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1947550643801182230",
+    "created_at": "2025-07-22T17:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947709298362224643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721126083142340611",
+          "start": 0,
+          "username": "Limeixi1223love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947709298362224643",
+    "in_reply_to_user_id": "1721126083142340611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947702681906385147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Limeixi1223love 真的像，你自己看像不像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1947550643801182230",
+        "created_at": "2025-07-22T17:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947709298362224643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721126083142340611",
+              "start": 0,
+              "username": "Limeixi1223love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947709298362224643",
+        "in_reply_to_user_id": "1721126083142340611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947702681906385147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Limeixi1223love 真的像，你自己看像不像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721126083142340611",
+        "conversation_id": "1947550643801182230",
+        "created_at": "2025-07-22T16:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T17:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947702681906385147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947702681906385147",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947583657977446678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 卧槽第一次有人夸我像绊爱我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5762,
+          "following_count": 941,
+          "like_count": 15136,
+          "listed_count": 12,
+          "media_count": 778,
+          "tweet_count": 11753
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T11:23:42.000Z",
+        "description": "中国語 ok｜日本語ok mylove：@aichan_nel KizunaAl 一番です！🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "aichan_nel"
+              }
+            ]
+          }
+        },
+        "id": "1721126083142340611",
+        "name": "人造神^3.0（互fo请私信🍓）",
+        "pinned_tweet_id": "1939343757297545690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935356360322879488/De1vPKAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 98,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 410
+        },
+        "username": "Limeixi1223love",
+        "verified": false
+      }
+    ]
+  }
+}

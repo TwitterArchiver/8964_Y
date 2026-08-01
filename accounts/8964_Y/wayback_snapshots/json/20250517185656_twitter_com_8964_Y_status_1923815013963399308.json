@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891853830180290560",
+        "3_1891853831304249346",
+        "3_1891853832889724928"
+      ],
+      "media_source_tweet_id": [
+        "1891853835552846178",
+        "1891853835552846178",
+        "1891853835552846178"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1923815013963399308",
+    "created_at": "2025-05-17T18:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T19:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923815013963399308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1805919469807763456",
+          "start": 3,
+          "username": "Kuso_Gero_Yaro_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sAcyhNzgev",
+          "end": 57,
+          "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+          "media_key": "3_1891853830180290560",
+          "start": 34,
+          "url": "https://t.co/sAcyhNzgev"
+        },
+        {
+          "display_url": "pic.x.com/sAcyhNzgev",
+          "end": 57,
+          "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+          "media_key": "3_1891853831304249346",
+          "start": 34,
+          "url": "https://t.co/sAcyhNzgev"
+        },
+        {
+          "display_url": "pic.x.com/sAcyhNzgev",
+          "end": 57,
+          "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+          "media_key": "3_1891853832889724928",
+          "start": 34,
+          "url": "https://t.co/sAcyhNzgev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923815013963399308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891853835552846178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuso_Gero_Yaro_: 再掲 ODする話\n#oc https://t.co/sAcyhNzgev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1891853830180290560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkE3CPrbwAAG65Z.jpg",
+        "width": 1384
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1891853831304249346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkE3CT3aAAIG9r_.jpg",
+        "width": 1384
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1891853832889724928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkE3CZxacAA7zOL.jpg",
+        "width": 1384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891853830180290560",
+            "3_1891853831304249346",
+            "3_1891853832889724928"
+          ],
+          "media_source_tweet_id": [
+            "1891853835552846178",
+            "1891853835552846178",
+            "1891853835552846178"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1923815013963399308",
+        "created_at": "2025-05-17T18:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923815013963399308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1805919469807763456",
+              "start": 3,
+              "username": "Kuso_Gero_Yaro_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAcyhNzgev",
+              "end": 57,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+              "media_key": "3_1891853830180290560",
+              "start": 34,
+              "url": "https://t.co/sAcyhNzgev"
+            },
+            {
+              "display_url": "pic.x.com/sAcyhNzgev",
+              "end": 57,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+              "media_key": "3_1891853831304249346",
+              "start": 34,
+              "url": "https://t.co/sAcyhNzgev"
+            },
+            {
+              "display_url": "pic.x.com/sAcyhNzgev",
+              "end": 57,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+              "media_key": "3_1891853832889724928",
+              "start": 34,
+              "url": "https://t.co/sAcyhNzgev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923815013963399308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891853835552846178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuso_Gero_Yaro_: 再掲 ODする話\n#oc https://t.co/sAcyhNzgev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891853830180290560",
+            "3_1891853831304249346",
+            "3_1891853832889724928"
+          ]
+        },
+        "author_id": "1805919469807763456",
+        "conversation_id": "1891853835552846178",
+        "created_at": "2025-02-18T14:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T15:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891853835552846178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAcyhNzgev",
+              "end": 36,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+              "media_key": "3_1891853830180290560",
+              "start": 13,
+              "url": "https://t.co/sAcyhNzgev"
+            },
+            {
+              "display_url": "pic.x.com/sAcyhNzgev",
+              "end": 36,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+              "media_key": "3_1891853831304249346",
+              "start": 13,
+              "url": "https://t.co/sAcyhNzgev"
+            },
+            {
+              "display_url": "pic.x.com/sAcyhNzgev",
+              "end": 36,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1891853835552846178/photo/1",
+              "media_key": "3_1891853832889724928",
+              "start": 13,
+              "url": "https://t.co/sAcyhNzgev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891853835552846178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1553,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 ODする話\n#oc https://t.co/sAcyhNzgev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 990,
+          "like_count": 12985,
+          "listed_count": 8,
+          "media_count": 673,
+          "tweet_count": 10032
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T11:02:33.000Z",
+        "description": "グロ絵、えろ絵、リスカ、いろいろ￤サブ（Sub Account）→https://t.co/24V2ylcGnK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/a_mo_do_sunda?…",
+                "end": 56,
+                "expanded_url": "https://x.com/a_mo_do_sunda?t=aoIHVMZBAq6zISW-y3s6yg&s=09",
+                "start": 33,
+                "url": "https://t.co/24V2ylcGnK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kuso_Gero_Yar…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Kuso_Gero_Yaro_",
+                "start": 0,
+                "url": "https://t.co/xpm1O1xtl7"
+              }
+            ]
+          }
+        },
+        "id": "1805919469807763456",
+        "location": "お母さんのペット",
+        "name": "糞ゲロ野郎でさ",
+        "pinned_tweet_id": "1919408407880319271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863521933645750272/W4gZYLTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 67,
+          "like_count": 3334,
+          "listed_count": 5,
+          "media_count": 267,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/xpm1O1xtl7",
+        "username": "Kuso_Gero_Yaro_",
+        "verified": false
+      }
+    ]
+  }
+}

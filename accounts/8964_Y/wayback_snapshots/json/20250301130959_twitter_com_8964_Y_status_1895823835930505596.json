@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895756616034894049",
+    "created_at": "2025-03-01T13:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895823835930505596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867193647378403328",
+          "start": 0,
+          "username": "2ndcartier8964"
+        },
+        {
+          "end": 28,
+          "id": "1844025283676094464",
+          "start": 16,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895823835930505596",
+    "in_reply_to_user_id": "1867193647378403328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895760029942497291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2ndcartier8964 @Konekoutena 我真的要笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895756616034894049",
+        "created_at": "2025-03-01T13:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895823835930505596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867193647378403328",
+              "start": 0,
+              "username": "2ndcartier8964"
+            },
+            {
+              "end": 28,
+              "id": "1844025283676094464",
+              "start": 16,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895823835930505596",
+        "in_reply_to_user_id": "1867193647378403328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895760029942497291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2ndcartier8964 @Konekoutena 我真的要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867193647378403328",
+        "conversation_id": "1895756616034894049",
+        "created_at": "2025-03-01T08:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T09:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895760029942497291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895760029942497291",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895756616034894049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 如果你了解张夜昕，会发现这不过是一个逆子，本不该出生，张海秦所有的投资也毫无意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4759,
+          "following_count": 880,
+          "like_count": 9583,
+          "listed_count": 4,
+          "media_count": 499,
+          "tweet_count": 7451
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T13:04:02.000Z",
+        "description": "@cartier8964二周目 华川粉支那人研究员🧑‍🔬三周目@3rdcartier8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "cartier8964"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "3rdcartier8964"
+              }
+            ]
+          }
+        },
+        "id": "1867193647378403328",
+        "location": "支那人研究院",
+        "name": "鳶沢 みさき🇯🇵",
+        "pinned_tweet_id": "1893291197667647690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877841957218930688/3jJUQBt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 501,
+          "like_count": 6503,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 623
+        },
+        "username": "2ndcartier8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "一个在NPD原生家庭受伤的孩子，愿用知识治愈每一颗受伤的心…关注我的YouTube频道，了解更多的知识 https://t.co/VWQrtRQrcm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yexintime",
+                "end": 75,
+                "expanded_url": "https://youtube.com/@yexintime",
+                "start": 52,
+                "url": "https://t.co/VWQrtRQrcm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yexintime?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yexintime?si=w1Gh5tKAvlA6olVE",
+                "start": 0,
+                "url": "https://t.co/pSPZPmuFtd"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1895473306524057902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894011794416357376/sd-Gqb3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7102,
+          "following_count": 1376,
+          "like_count": 4376,
+          "listed_count": 27,
+          "media_count": 3363,
+          "tweet_count": 9871
+        },
+        "url": "https://t.co/pSPZPmuFtd",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920949779376275457"
+      ],
+      "media_source_tweet_id": [
+        "1920949784036143466"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1921113002729779546",
+    "created_at": "2025-05-10T08:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T09:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921113002729779546"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "チェンソーマン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1274381159410143232",
+          "start": 3,
+          "username": "_smilesimplyart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ByilUUeHR4",
+          "end": 60,
+          "expanded_url": "https://x.com/_smilesimplyart/status/1920949784036143466/photo/1",
+          "media_key": "3_1920949779376275457",
+          "start": 37,
+          "url": "https://t.co/ByilUUeHR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921113002729779546",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920949784036143466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_smilesimplyart: Family #チェンソーマン https://t.co/ByilUUeHR4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 851,
+        "media_key": "3_1920949779376275457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqiVpY8WgAEitES.jpg",
+        "width": 1247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920949779376275457"
+          ],
+          "media_source_tweet_id": [
+            "1920949784036143466"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1921113002729779546",
+        "created_at": "2025-05-10T08:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T09:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921113002729779546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1274381159410143232",
+              "start": 3,
+              "username": "_smilesimplyart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByilUUeHR4",
+              "end": 60,
+              "expanded_url": "https://x.com/_smilesimplyart/status/1920949784036143466/photo/1",
+              "media_key": "3_1920949779376275457",
+              "start": 37,
+              "url": "https://t.co/ByilUUeHR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921113002729779546",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920949784036143466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_smilesimplyart: Family #チェンソーマン https://t.co/ByilUUeHR4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920949779376275457"
+          ]
+        },
+        "author_id": "1274381159410143232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1920949784036143466",
+        "created_at": "2025-05-09T21:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T22:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920949784036143466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByilUUeHR4",
+              "end": 39,
+              "expanded_url": "https://x.com/_smilesimplyart/status/1920949784036143466/photo/1",
+              "media_key": "3_1920949779376275457",
+              "start": 16,
+              "url": "https://t.co/ByilUUeHR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920949784036143466",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 8537,
+          "like_count": 674,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "Family #チェンソーマン https://t.co/ByilUUeHR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 984,
+          "like_count": 12843,
+          "listed_count": 8,
+          "media_count": 665,
+          "tweet_count": 9907
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T16:39:17.000Z",
+        "description": "Artist | Fanart | OCs | she/her | Please, do not reupload or use my art.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/smilesimplyart",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/smilesimplyart",
+                "start": 0,
+                "url": "https://t.co/fstp1jC5nH"
+              }
+            ]
+          }
+        },
+        "id": "1274381159410143232",
+        "location": "Tower Of God",
+        "name": "SEA 🎨",
+        "pinned_tweet_id": "1669100833437261826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916276347179069440/wzSYgYw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7589,
+          "following_count": 258,
+          "like_count": 30442,
+          "listed_count": 60,
+          "media_count": 534,
+          "tweet_count": 9632
+        },
+        "url": "https://t.co/fstp1jC5nH",
+        "username": "_smilesimplyart",
+        "verified": false
+      }
+    ]
+  }
+}

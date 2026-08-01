@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1899294917374914942",
+    "created_at": "2025-03-11T04:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T05:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899323705882456545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1132648521272680449",
+          "start": 0,
+          "username": "Xijingdaquan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899323705882456545",
+    "in_reply_to_user_id": "1132648521272680449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899294917374914942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xijingdaquan 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1899294917374914942",
+        "created_at": "2025-03-11T04:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T05:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899323705882456545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1132648521272680449",
+              "start": 0,
+              "username": "Xijingdaquan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899323705882456545",
+        "in_reply_to_user_id": "1132648521272680449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899294917374914942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xijingdaquan 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132648521272680449",
+        "conversation_id": "1899294917374914942",
+        "created_at": "2025-03-11T03:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T04:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899294917374914942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899294917374914942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我生日了哟谁过门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898791193091493888/CTfFpR04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4926,
+          "following_count": 924,
+          "like_count": 10411,
+          "listed_count": 7,
+          "media_count": 540,
+          "tweet_count": 8002
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T14:03:45.000Z",
+        "description": "🚪88/188/288/520/1314/5200 入门不退没回就是在😴",
+        "id": "1132648521272680449",
+        "name": "茜",
+        "pinned_tweet_id": "1863920474264104986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863918658361139200/7aOabozh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 58,
+          "like_count": 43,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 576
+        },
+        "username": "Xijingdaquan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1966095528053321787",
+    "created_at": "2025-09-11T11:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T12:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966095528053321787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "洇魔女だ’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1gqGv…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1gqGvrmOEDBGB",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1966095529504550912/LmaY56ig?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1966095529504550912/LmaY56ig?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 洇魔女だ’s Space",
+          "unwound_url": "https://twitter.com/i/spaces/1gqGvrmOEDBGB/peek",
+          "url": "https://t.co/XETZwYs3Vk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966095528053321787",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XETZwYs3Vk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1966095528053321787",
+        "created_at": "2025-09-11T11:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T12:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966095528053321787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "洇魔女だ’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1gqGv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1gqGvrmOEDBGB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1966095529504550912/LmaY56ig?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966095529504550912/LmaY56ig?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 洇魔女だ’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1gqGvrmOEDBGB/peek",
+              "url": "https://t.co/XETZwYs3Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966095528053321787",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XETZwYs3Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5746,
+          "following_count": 879,
+          "like_count": 16051,
+          "listed_count": 18,
+          "media_count": 847,
+          "tweet_count": 12562
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

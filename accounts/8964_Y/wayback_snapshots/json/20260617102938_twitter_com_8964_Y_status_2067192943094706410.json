@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2067064693949346099",
+    "created_at": "2026-06-17T10:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067192943094706410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833844728997244928",
+          "start": 0,
+          "username": "facaibaofu668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067192943094706410",
+    "in_reply_to_user_id": "1833844728997244928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067064693949346099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@facaibaofu668 萌死人啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067064685229449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-wYSLbIAAxFmb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067064685242036224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-wYSObMAAk-N6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2067064693949346099",
+        "created_at": "2026-06-17T10:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067192943094706410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833844728997244928",
+              "start": 0,
+              "username": "facaibaofu668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067192943094706410",
+        "in_reply_to_user_id": "1833844728997244928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067064693949346099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@facaibaofu668 萌死人啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067064685229449216",
+            "3_2067064685242036224"
+          ]
+        },
+        "author_id": "1833844728997244928",
+        "conversation_id": "2067064693949346099",
+        "created_at": "2026-06-17T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067064693949346099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G98meZebhs",
+              "end": 27,
+              "expanded_url": "https://x.com/facaibaofu668/status/2067064693949346099/photo/1",
+              "media_key": "3_2067064685229449216",
+              "start": 4,
+              "url": "https://t.co/G98meZebhs"
+            },
+            {
+              "display_url": "pic.x.com/G98meZebhs",
+              "end": 27,
+              "expanded_url": "https://x.com/facaibaofu668/status/2067064693949346099/photo/1",
+              "media_key": "3_2067064685242036224",
+              "start": 4,
+              "url": "https://t.co/G98meZebhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067064693949346099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 763,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大眼萌 https://t.co/G98meZebhs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2063991119185064183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6371,
+          "following_count": 741,
+          "like_count": 24130,
+          "listed_count": 19,
+          "media_count": 1136,
+          "tweet_count": 16555
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T12:27:36.000Z",
+        "description": "🚪88/188/288\n我喜欢画画然后听歌\n亲爱的，我听说爱斯基摩人用热吻消除语言差异\n我的提问箱https://t.co/Vh5bxHJ7EW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yun63187",
+                "end": 72,
+                "expanded_url": "https://ngl.link/yun63187",
+                "start": 49,
+                "url": "https://t.co/Vh5bxHJ7EW"
+              }
+            ]
+          }
+        },
+        "id": "1833844728997244928",
+        "location": "利物浦",
+        "name": "悲伤青少女",
+        "pinned_tweet_id": "2043372426248036759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962011260305989633/DZUTG-Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 219,
+          "like_count": 2363,
+          "listed_count": 6,
+          "media_count": 496,
+          "tweet_count": 1930
+        },
+        "url": "",
+        "username": "facaibaofu668",
+        "verified": false
+      }
+    ]
+  }
+}

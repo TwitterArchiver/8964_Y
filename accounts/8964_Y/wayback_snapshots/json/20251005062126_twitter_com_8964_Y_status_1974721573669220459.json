@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1974380854026907711",
+    "created_at": "2025-10-05T06:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974721573669220459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        },
+        {
+          "end": 27,
+          "id": "1890014610851270656",
+          "start": 11,
+          "username": "wang19117117390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974721573669220459",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974600385143923040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 @wang19117117390 很好奇78没音译过来之前叫什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1974380854026907711",
+        "created_at": "2025-10-05T06:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974721573669220459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            },
+            {
+              "end": 27,
+              "id": "1890014610851270656",
+              "start": 11,
+              "username": "wang19117117390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974721573669220459",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974600385143923040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 @wang19117117390 很好奇78没音译过来之前叫什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578395243891855362",
+        "conversation_id": "1974380854026907711",
+        "created_at": "2025-10-04T22:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T23:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974600385143923040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890014610851270656",
+              "start": 0,
+              "username": "wang19117117390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974600385143923040",
+        "in_reply_to_user_id": "1890014610851270656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974380854026907711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang19117117390 日语音译过来的吧🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5750,
+          "following_count": 872,
+          "like_count": 16098,
+          "listed_count": 18,
+          "media_count": 877,
+          "tweet_count": 12857
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "泥嚎 这是一个我的树洞(=ﾟДﾟ=)",
+        "id": "1578395243891855362",
+        "location": "5.2km",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1777311958720496087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971886763024306179/TPLNZRvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 166,
+          "like_count": 3590,
+          "listed_count": 3,
+          "media_count": 507,
+          "tweet_count": 2714
+        },
+        "username": "hate_0811",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T12:26:24.000Z",
+        "description": "困困🐟",
+        "id": "1890014610851270656",
+        "name": "🐟",
+        "pinned_tweet_id": "1921608606924800355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900147992793075712/9XwZuUAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 35,
+          "like_count": 862,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "wang19117117390",
+        "verified": false
+      }
+    ]
+  }
+}

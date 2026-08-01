@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1923394517773734229",
+    "created_at": "2025-05-16T15:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T16:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923394517773734229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923394517773734229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【出票】一张5.20号和我过的门票\n早鸟：88元\n预售：188元\n现场：388元\nVIP：520元（1v1亲密约会+逛街吃饭+签名）\n让我滚：52元（推荐）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1923394517773734229",
+        "created_at": "2025-05-16T15:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T16:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923394517773734229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923394517773734229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【出票】一张5.20号和我过的门票\n早鸟：88元\n预售：188元\n现场：388元\nVIP：520元（1v1亲密约会+逛街吃饭+签名）\n让我滚：52元（推荐）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5467,
+          "following_count": 999,
+          "like_count": 12929,
+          "listed_count": 8,
+          "media_count": 669,
+          "tweet_count": 10005
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

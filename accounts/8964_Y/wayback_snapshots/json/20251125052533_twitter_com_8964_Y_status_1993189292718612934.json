@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1992816176263737845",
+    "created_at": "2025-11-25T05:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993189292718612934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1837384609782247424",
+          "start": 0,
+          "username": "mkkio_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993189292718612934",
+    "in_reply_to_user_id": "1837384609782247424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993185474790543490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkkio_o 我被害惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1992816176263737845",
+        "created_at": "2025-11-25T05:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993189292718612934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1837384609782247424",
+              "start": 0,
+              "username": "mkkio_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993189292718612934",
+        "in_reply_to_user_id": "1837384609782247424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993185474790543490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkkio_o 我被害惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837384609782247424",
+        "conversation_id": "1992816176263737845",
+        "created_at": "2025-11-25T05:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993185474790543490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993185474790543490",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992816176263737845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我靠 推特小团体吗 那很吓人了我去。。。遇到小团体的这辈子倒大霉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5874,
+          "following_count": 835,
+          "like_count": 17290,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 13721
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T06:54:06.000Z",
+        "description": "幸福幸福请降临手心 / 私信发吊 骂我的 直接进小黑屋 /爱我请给我转账(*ෆ´ ˘ `ෆ*)♡/推广自辨 匿名邮箱https://t.co/du2sjK8y5p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikko15564",
+                "end": 81,
+                "expanded_url": "https://ngl.link/mikko15564",
+                "start": 58,
+                "url": "https://t.co/du2sjK8y5p"
+              }
+            ]
+          }
+        },
+        "id": "1837384609782247424",
+        "location": "🚪200/无上限",
+        "name": "Mikko",
+        "pinned_tweet_id": "1992981903935504526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991099099266113536/jQpp9OiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18449,
+          "following_count": 83,
+          "like_count": 1739,
+          "listed_count": 37,
+          "media_count": 136,
+          "tweet_count": 1502
+        },
+        "username": "mkkio_o",
+        "verified": false
+      }
+    ]
+  }
+}

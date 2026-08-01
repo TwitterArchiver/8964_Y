@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1924725126014370195",
+    "created_at": "2025-05-20T22:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T23:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924955307618488539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608034171456294912",
+          "start": 0,
+          "username": "wiopqwtrpp5"
+        },
+        {
+          "end": 24,
+          "id": "1883133817508274176",
+          "start": 13,
+          "username": "lanzhiqi07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924955307618488539",
+    "in_reply_to_user_id": "1608034171456294912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924755390476300563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiopqwtrpp5 @lanzhiqi07 可以自定义转账金额的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1924725126014370195",
+        "created_at": "2025-05-20T22:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T23:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924955307618488539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608034171456294912",
+              "start": 0,
+              "username": "wiopqwtrpp5"
+            },
+            {
+              "end": 24,
+              "id": "1883133817508274176",
+              "start": 13,
+              "username": "lanzhiqi07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924955307618488539",
+        "in_reply_to_user_id": "1608034171456294912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924755390476300563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiopqwtrpp5 @lanzhiqi07 可以自定义转账金额的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608034171456294912",
+        "conversation_id": "1924725126014370195",
+        "created_at": "2025-05-20T09:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T10:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924755390476300563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883133817508274176",
+              "start": 0,
+              "username": "lanzhiqi07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924755390476300563",
+        "in_reply_to_user_id": "1883133817508274176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1398,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924725126014370195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanzhiqi07 我记得那个赞赏码可以刷新一下还是什么？就是你把那个占上的金额点一下，它那个码就会刷新之前那个就少不了了 没记错的话应该是这样，要不你试一下 反正他要是持续给你转你的号可能会被提示风险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 994,
+          "like_count": 13081,
+          "listed_count": 8,
+          "media_count": 680,
+          "tweet_count": 10094
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T09:36:46.000Z",
+        "description": "豆沙包 04 坐标上海在农村种地 \n重度抑郁/重度焦虑症/双向情感障碍/心境障碍/精神障碍/精神分裂/分离障碍/\n 门槛🚪88\n急需可以保护我的 开玩笑的 我可以照顾你\n就是我们一起生活就好了 妹子\n谢谢你们支持我 喜欢我 我会愿意追随你们滴\n谢谢你们给我的\nhttps://t.co/WcBjKJ2ok4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wiopqwtrpp5",
+                "end": 153,
+                "expanded_url": "https://ngl.link/wiopqwtrpp5",
+                "start": 130,
+                "url": "https://t.co/WcBjKJ2ok4"
+              }
+            ]
+          }
+        },
+        "id": "1608034171456294912",
+        "location": "距离你800m",
+        "name": "豆沙包（只和妹宝深交版 ）",
+        "pinned_tweet_id": "1919023559864705113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919297836983934976/CyG4IHPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1812,
+          "like_count": 45272,
+          "listed_count": 7,
+          "media_count": 1521,
+          "tweet_count": 26107
+        },
+        "username": "wiopqwtrpp5",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T12:44:32.000Z",
+        "description": "07阴郁边缘双鱼infp动漫男主 | 分享小猫文案日常 | 猫咪图片来自我自己的猫，收养人返图，还有网络找到的 | 推上的收入50%会用在小猫身上 | 欢迎来我的咖啡店留下你的痕迹 | 推广自辩 | 过🚪陪聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lanzhiqi1291",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lanzhiqi1291",
+                "start": 0,
+                "url": "https://t.co/h7EngLPhgA"
+              }
+            ]
+          }
+        },
+        "id": "1883133817508274176",
+        "location": "🚪皇家罐头52.8蓝氏猫粮99流浪公猫绝育288母猫488",
+        "name": "129(下小雨版",
+        "pinned_tweet_id": "1924770575811281344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922999385874632704/Arv9wzDj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 489,
+          "like_count": 11833,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 3396
+        },
+        "url": "https://t.co/h7EngLPhgA",
+        "username": "lanzhiqi07",
+        "verified": false
+      }
+    ]
+  }
+}

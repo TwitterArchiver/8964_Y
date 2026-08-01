@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1979040160785338368"
+      ],
+      "media_source_tweet_id": [
+        "1979040230607864228"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1979416727147688395",
+    "created_at": "2025-10-18T05:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T06:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979416727147688395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3273093468",
+          "start": 3,
+          "username": "yeskiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cbKAv98rer",
+          "end": 54,
+          "expanded_url": "https://x.com/yeskiri/status/1979040230607864228/video/1",
+          "media_key": "13_1979040160785338368",
+          "start": 31,
+          "url": "https://t.co/cbKAv98rer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979416727147688395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6440
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979040230607864228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yeskiri: 舞台版の未来の悪魔完成度高すぎて草 https://t.co/cbKAv98rer"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10888,
+        "height": 1022,
+        "media_key": "13_1979040160785338368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979040160785338368/img/d8tcrhfOjZ0CoaHq.jpg",
+        "public_metrics": {
+          "view_count": 1537699
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979040160785338368/vid/avc1/320x566/uGSFctS3PJD_56EX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979040160785338368/vid/avc1/480x850/IASJgmdw3ft9mMnp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979040160785338368/vid/avc1/576x1022/iva82mTkltIetR_f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979040160785338368/pl/nnF_1y2Kd9XAdZyx.m3u8?v=c84"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979040160785338368"
+          ],
+          "media_source_tweet_id": [
+            "1979040230607864228"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1979416727147688395",
+        "created_at": "2025-10-18T05:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T06:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979416727147688395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3273093468",
+              "start": 3,
+              "username": "yeskiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbKAv98rer",
+              "end": 54,
+              "expanded_url": "https://x.com/yeskiri/status/1979040230607864228/video/1",
+              "media_key": "13_1979040160785338368",
+              "start": 31,
+              "url": "https://t.co/cbKAv98rer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979416727147688395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6440
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979040230607864228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yeskiri: 舞台版の未来の悪魔完成度高すぎて草 https://t.co/cbKAv98rer"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979040160785338368"
+          ]
+        },
+        "author_id": "3273093468",
+        "conversation_id": "1979040230607864228",
+        "created_at": "2025-10-17T04:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979040230607864228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbKAv98rer",
+              "end": 41,
+              "expanded_url": "https://x.com/yeskiri/status/1979040230607864228/video/1",
+              "media_key": "13_1979040160785338368",
+              "start": 18,
+              "url": "https://t.co/cbKAv98rer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979040230607864228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7982,
+          "impression_count": 3111510,
+          "like_count": 64708,
+          "quote_count": 511,
+          "reply_count": 73,
+          "retweet_count": 6440
+        },
+        "reply_settings": "everyone",
+        "text": "舞台版の未来の悪魔完成度高すぎて草 https://t.co/cbKAv98rer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5725,
+          "following_count": 882,
+          "like_count": 16306,
+          "listed_count": 17,
+          "media_count": 893,
+          "tweet_count": 13067
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-09T15:39:45.000Z",
+        "description": "フォローすると運気上がります。サブ垢@JOJOkirst プレゼント企画や案件広告等のお仕事や投稿の削除依頼は@sizuezeusまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "JOJOkirst"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "sizuezeus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/yeskiri",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/yeskiri",
+                "start": 0,
+                "url": "https://t.co/KMNfXYYxBp"
+              }
+            ]
+          }
+        },
+        "id": "3273093468",
+        "location": "東京 ",
+        "name": "イエス・キリスト",
+        "pinned_tweet_id": "1837413813349457929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1203052004202835968/P-hrERn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802284,
+          "following_count": 646,
+          "like_count": 14424,
+          "listed_count": 1327,
+          "media_count": 10585,
+          "tweet_count": 29343
+        },
+        "url": "https://t.co/KMNfXYYxBp",
+        "username": "yeskiri",
+        "verified": true
+      }
+    ]
+  }
+}

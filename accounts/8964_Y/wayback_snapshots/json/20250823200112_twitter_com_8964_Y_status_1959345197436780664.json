@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959320498267115520"
+      ],
+      "media_source_tweet_id": [
+        "1959320501807194219"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1959345197436780664",
+    "created_at": "2025-08-23T20:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T21:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959345197436780664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1805919469807763456",
+          "start": 3,
+          "username": "Kuso_Gero_Yaro_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PgmRhpdaSl",
+          "end": 44,
+          "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1959320501807194219/photo/1",
+          "media_key": "3_1959320498267115520",
+          "start": 21,
+          "url": "https://t.co/PgmRhpdaSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959345197436780664",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959320501807194219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuso_Gero_Yaro_: https://t.co/PgmRhpdaSl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959320498267115520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDnnLxaUAA4cdu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959320498267115520"
+          ],
+          "media_source_tweet_id": [
+            "1959320501807194219"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1959345197436780664",
+        "created_at": "2025-08-23T20:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T21:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959345197436780664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1805919469807763456",
+              "start": 3,
+              "username": "Kuso_Gero_Yaro_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgmRhpdaSl",
+              "end": 44,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1959320501807194219/photo/1",
+              "media_key": "3_1959320498267115520",
+              "start": 21,
+              "url": "https://t.co/PgmRhpdaSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959345197436780664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959320501807194219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuso_Gero_Yaro_: https://t.co/PgmRhpdaSl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959320498267115520"
+          ]
+        },
+        "author_id": "1805919469807763456",
+        "conversation_id": "1959320501807194219",
+        "created_at": "2025-08-23T18:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T19:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959320501807194219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgmRhpdaSl",
+              "end": 23,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1959320501807194219/photo/1",
+              "media_key": "3_1959320498267115520",
+              "start": 0,
+              "url": "https://t.co/PgmRhpdaSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959320501807194219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 184,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PgmRhpdaSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5765,
+          "following_count": 874,
+          "like_count": 15504,
+          "listed_count": 17,
+          "media_count": 816,
+          "tweet_count": 12085
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T11:02:33.000Z",
+        "description": "グロ絵、えろ絵、リスカ、いろいろ￤サブ（Sub Account）→https://t.co/24V2ylcGnK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/a_mo_do_sunda?…",
+                "end": 56,
+                "expanded_url": "https://x.com/a_mo_do_sunda?t=aoIHVMZBAq6zISW-y3s6yg&s=09",
+                "start": 33,
+                "url": "https://t.co/24V2ylcGnK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kuso_Gero_Yar…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Kuso_Gero_Yaro_",
+                "start": 0,
+                "url": "https://t.co/xpm1O1xtl7"
+              }
+            ]
+          }
+        },
+        "id": "1805919469807763456",
+        "location": "お母さんのペット",
+        "name": "糞ゲロ野郎でさ",
+        "pinned_tweet_id": "1942799996295974966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863521933645750272/W4gZYLTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 76,
+          "like_count": 4260,
+          "listed_count": 10,
+          "media_count": 322,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/xpm1O1xtl7",
+        "username": "Kuso_Gero_Yaro_",
+        "verified": false
+      }
+    ]
+  }
+}

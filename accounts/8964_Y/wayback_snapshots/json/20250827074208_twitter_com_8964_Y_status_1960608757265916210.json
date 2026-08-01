@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1960305789169807548",
+    "created_at": "2025-08-27T07:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T08:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960608757265916210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926989108049596419",
+          "start": 0,
+          "username": "hikkiloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960608757265916210",
+    "in_reply_to_user_id": "1926989108049596419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960305789169807548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikkiloveu 你很漂亮很可爱呀可以学一些说话技巧，情商高一点说话甜一点自然会很讨人喜欢的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1960305789169807548",
+        "created_at": "2025-08-27T07:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960608757265916210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926989108049596419",
+              "start": 0,
+              "username": "hikkiloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960608757265916210",
+        "in_reply_to_user_id": "1926989108049596419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960305789169807548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikkiloveu 你很漂亮很可爱呀可以学一些说话技巧，情商高一点说话甜一点自然会很讨人喜欢的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926989108049596419",
+        "conversation_id": "1960305789169807548",
+        "created_at": "2025-08-26T11:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960305789169807548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960305789169807548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 890,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦好痛苦為什麼沒有人願意和我做好朋友 就算是我努力接近也不會得到期待的回應"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 877,
+          "like_count": 15586,
+          "listed_count": 17,
+          "media_count": 825,
+          "tweet_count": 12145
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T13:09:51.000Z",
+        "description": "無人在意的角落/愛@utadahikaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "utadahikaru"
+              }
+            ]
+          }
+        },
+        "id": "1926989108049596419",
+        "location": "？",
+        "name": "綠子",
+        "pinned_tweet_id": "1958153549508231494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956648695681974272/NOODMpIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 39,
+          "like_count": 2558,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 358
+        },
+        "username": "hikkiloveu",
+        "verified": false
+      }
+    ]
+  }
+}

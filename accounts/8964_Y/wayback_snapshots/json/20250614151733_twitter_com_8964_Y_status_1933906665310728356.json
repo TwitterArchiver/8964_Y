@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1933906665310728356",
+    "created_at": "2025-06-14T15:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933906665310728356"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "母狗"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "聊骚"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "操逼"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "线下"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "网调"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612833998648274944",
+          "start": 3,
+          "username": "074312mie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933906665310728356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933899137801699602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @074312mie: 有没有想和我聊骚的，打电话什么的都可以，直接打，打不通可以一直打，本人母狗一枚，实在打不通可以微信网调Xiaoen8042 #母狗 #聊骚 #操逼 #线下 #网调"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1933906665310728356",
+        "created_at": "2025-06-14T15:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933906665310728356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "母狗"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "聊骚"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "操逼"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "线下"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "网调"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612833998648274944",
+              "start": 3,
+              "username": "074312mie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933906665310728356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933899137801699602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @074312mie: 有没有想和我聊骚的，打电话什么的都可以，直接打，打不通可以一直打，本人母狗一枚，实在打不通可以微信网调Xiaoen8042 #母狗 #聊骚 #操逼 #线下 #网调"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612833998648274944",
+        "conversation_id": "1933899137801699602",
+        "created_at": "2025-06-14T14:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933899137801699602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "母狗"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "聊骚"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "操逼"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "线下"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "网调"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933899137801699602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有想和我聊骚的，打电话什么的都可以，直接打，打不通可以一直打，本人母狗一枚，实在打不通可以微信网调Xiaoen8042 #母狗 #聊骚 #操逼 #线下 #网调"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5511,
+          "following_count": 937,
+          "like_count": 13656,
+          "listed_count": 8,
+          "media_count": 724,
+          "tweet_count": 10724
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T15:29:45.000Z",
+        "description": "只回复门槛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yyma19368",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yyma19368",
+                "start": 0,
+                "url": "https://t.co/eXZhkj8IBp"
+              }
+            ]
+          }
+        },
+        "id": "1612833998648274944",
+        "name": "yan y",
+        "pinned_tweet_id": "1933588746810909110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927738261482680320/BgDRnKYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 50,
+          "like_count": 416,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/eXZhkj8IBp",
+        "username": "074312mie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2075552406814044245",
+    "created_at": "2026-07-11T06:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075828683785588835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075828683785588835",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075552406814044245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075552396546306048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3X6GzacAAgxbY.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2075552406814044245",
+        "created_at": "2026-07-11T06:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075828683785588835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075828683785588835",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075552406814044245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075552396546306048"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2075552406814044245",
+        "created_at": "2026-07-10T12:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075552406814044245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26Y1lUfxhn",
+              "end": 32,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2075552406814044245/photo/1",
+              "media_key": "3_2075552396546306048",
+              "start": 9,
+              "url": "https://t.co/26Y1lUfxhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075552406814044245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你会有一天后悔😁 https://t.co/26Y1lUfxhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6658,
+          "following_count": 747,
+          "like_count": 24645,
+          "listed_count": 19,
+          "media_count": 1167,
+          "tweet_count": 16860
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "我愛的人幸福就好呀｜全世界最好的老公@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿胃名立希◉‿◉",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 416,
+          "like_count": 25319,
+          "listed_count": 18,
+          "media_count": 1516,
+          "tweet_count": 18809
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1976878729176744171",
+    "created_at": "2025-10-11T12:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T13:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976991576942690652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1453076731783368706",
+          "start": 0,
+          "username": "abei233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976991576942690652",
+    "in_reply_to_user_id": "1453076731783368706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976963693176144329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abei233 没说你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1976878729176744171",
+        "created_at": "2025-10-11T12:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976991576942690652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1453076731783368706",
+              "start": 0,
+              "username": "abei233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976991576942690652",
+        "in_reply_to_user_id": "1453076731783368706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976963693176144329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abei233 没说你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453076731783368706",
+        "conversation_id": "1976878729176744171",
+        "created_at": "2025-10-11T10:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976963693176144329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976963693176144329",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976878729176744171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 不好意思老师，我其实真的在纠结应不应该回复）我真的很不喜欢不回复、可是我那样评论原本已经算是在不尊重那个人了…我感觉如果那条点赞太多，他估计会很受伤、我就没敢回复、按理来说我至少应该点赞吧！可是我也没有，好吧！其实你可能都不知道我是谁！但是我的确一直记得我没有回复你评论这件事…！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 880,
+          "like_count": 16203,
+          "listed_count": 18,
+          "media_count": 886,
+          "tweet_count": 12973
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T19:11:13.000Z",
+        "description": "我喜欢芮克酱和逆转的大家，無言フォロー失礼します…",
+        "id": "1453076731783368706",
+        "name": "杯…",
+        "pinned_tweet_id": "1954895535044977126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975029176374890496/Ze2nGh74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 264,
+          "like_count": 19477,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 4065
+        },
+        "username": "abei233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2019610933384081822",
+    "created_at": "2026-02-07T00:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T01:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019936424024502689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1701225401404801024",
+          "start": 0,
+          "username": "xhanjd145869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019936424024502689",
+    "in_reply_to_user_id": "1701225401404801024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019610933384081822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhanjd145869 谁还记得那个有一个喜欢说贴贴的那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2019610933384081822",
+        "created_at": "2026-02-07T00:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T01:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019936424024502689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1701225401404801024",
+              "start": 0,
+              "username": "xhanjd145869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019936424024502689",
+        "in_reply_to_user_id": "1701225401404801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019610933384081822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhanjd145869 谁还记得那个有一个喜欢说贴贴的那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701225401404801024",
+        "conversation_id": "2019610933384081822",
+        "created_at": "2026-02-06T03:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019610933384081822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019610933384081822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12991,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "药圈这几年死了多少人，说实话没人有精确统计，墙内墙外都没官方数字，基本靠圈里人自己数悼念帖但从X上刷到的那些撕逼悼念看，近3-5年至少几十到上百个知名或半知名的账号/人真走了，大多是od翻车、呼吸抑制、坠楼、自残，联用阿片+bzd或右美+其他镇静剂最常见，爱德华那种肺出血+呼吸停就是典型例子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5853,
+          "following_count": 845,
+          "like_count": 19069,
+          "listed_count": 19,
+          "media_count": 996,
+          "tweet_count": 14522
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T13:25:25.000Z",
+        "description": "09年12月🍥\n不太会社交\n嗯对的 会射胶\n还是找到我了？",
+        "id": "1701225401404801024",
+        "name": "雨町雨町",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015290118345826305/5kYZV0ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 130,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 387
+        },
+        "username": "xhanjd145869",
+        "verified": false
+      }
+    ]
+  }
+}

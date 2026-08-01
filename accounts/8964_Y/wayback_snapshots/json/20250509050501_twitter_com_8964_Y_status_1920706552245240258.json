@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1920706552245240258",
+    "created_at": "2025-05-09T05:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T06:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920706552245240258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misakixyg/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/misakixyg/status/1920701799259894094",
+          "start": 8,
+          "url": "https://t.co/Gne6TF3xCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920706552245240258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920701799259894094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和三崎就这样 https://t.co/Gne6TF3xCT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1920706552245240258",
+        "created_at": "2025-05-09T05:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T06:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920706552245240258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misakixyg/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/misakixyg/status/1920701799259894094",
+              "start": 8,
+              "url": "https://t.co/Gne6TF3xCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920706552245240258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920701799259894094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和三崎就这样 https://t.co/Gne6TF3xCT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870442976377503744",
+        "conversation_id": "1920701799259894094",
+        "created_at": "2025-05-09T04:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920701799259894094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920701799259894094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：怎么会有人郁郁了吃专注达才能治好啊\n闺蜜：不知道啊，这么贵的药，我宁愿郁郁这\n我：对啊，我宁愿天天吃优美来治郁郁\n闺蜜：《宁愿天天吃右美》\n如果你天天让我吃优美让我开豪车住豪宅我都愿意\n我：《我都愿意》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5462,
+          "following_count": 980,
+          "like_count": 12813,
+          "listed_count": 8,
+          "media_count": 658,
+          "tweet_count": 9858
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活",
+        "id": "1870442976377503744",
+        "name": "三崎三世（",
+        "pinned_tweet_id": "1905939160793493825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156061550747648/iNlSdsvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 777,
+          "like_count": 7523,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2086
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

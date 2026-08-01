@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895899133128687620"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895899140485496974",
+    "created_at": "2025-03-01T18:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T19:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895899140485496974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfGRb4JQUP",
+          "end": 27,
+          "expanded_url": "https://x.com/8964_Y/status/1895899140485496974/photo/1",
+          "media_key": "3_1895899133128687620",
+          "start": 4,
+          "url": "https://t.co/MfGRb4JQUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895899140485496974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求打钱 https://t.co/MfGRb4JQUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1895899133128687620",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk-WN3gbQAQzdmH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895899133128687620"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895899140485496974",
+        "created_at": "2025-03-01T18:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T19:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895899140485496974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfGRb4JQUP",
+              "end": 27,
+              "expanded_url": "https://x.com/8964_Y/status/1895899140485496974/photo/1",
+              "media_key": "3_1895899133128687620",
+              "start": 4,
+              "url": "https://t.co/MfGRb4JQUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895899140485496974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求打钱 https://t.co/MfGRb4JQUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 887,
+          "like_count": 9630,
+          "listed_count": 4,
+          "media_count": 504,
+          "tweet_count": 7484
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

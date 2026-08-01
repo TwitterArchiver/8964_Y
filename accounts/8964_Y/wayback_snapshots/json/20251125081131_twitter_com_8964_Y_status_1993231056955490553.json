@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1993222005186085200",
+    "created_at": "2025-11-25T08:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T09:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993231056955490553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808697284206678016",
+          "start": 0,
+          "username": "D1nn2r_8964"
+        },
+        {
+          "end": 23,
+          "id": "1502844490964701184",
+          "start": 13,
+          "username": "swcljylmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993231056955490553",
+    "in_reply_to_user_id": "1808697284206678016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993225272985010249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1nn2r_8964 @swcljylmb 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1993222005186085200",
+        "created_at": "2025-11-25T08:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993231056955490553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808697284206678016",
+              "start": 0,
+              "username": "D1nn2r_8964"
+            },
+            {
+              "end": 23,
+              "id": "1502844490964701184",
+              "start": 13,
+              "username": "swcljylmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993231056955490553",
+        "in_reply_to_user_id": "1808697284206678016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993225272985010249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1nn2r_8964 @swcljylmb 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808697284206678016",
+        "conversation_id": "1993222005186085200",
+        "created_at": "2025-11-25T07:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993225272985010249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502844490964701184",
+              "start": 0,
+              "username": "swcljylmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993225272985010249",
+        "in_reply_to_user_id": "1502844490964701184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993222005186085200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swcljylmb 小白兔没啥用我好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 835,
+          "like_count": 17295,
+          "listed_count": 17,
+          "media_count": 930,
+          "tweet_count": 13722
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T03:00:22.000Z",
+        "description": "UoA🇳🇿环境科学/动物学 月厨/没有性别和性取向 老号@EeyoreYan 小号：@Dinnerstuff🚪：89.64（聊得来免费）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "EeyoreYan"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Dinnerstuff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d1nn2rstuff",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d1nn2rstuff",
+                "start": 0,
+                "url": "https://t.co/2o3aabZr7h"
+              }
+            ]
+          }
+        },
+        "id": "1808697284206678016",
+        "location": "纽村中南海",
+        "name": "D1nn2r Stuff🇳🇿8964（苦命煮饭婆",
+        "pinned_tweet_id": "1967842252434313226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874622533544353793/adP8-2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 905,
+          "like_count": 8635,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 3844
+        },
+        "url": "https://t.co/2o3aabZr7h",
+        "username": "D1nn2r_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T03:10:41.000Z",
+        "description": "20⬆️ 裏垢 / 少年jump bot /🚪888没福利没照片啥也没有但是想听我畅聊家产的可以来💙",
+        "id": "1502844490964701184",
+        "name": "欲語淚先流",
+        "pinned_tweet_id": "1991113291113095316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991072600924233728/fj9UzQWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 332,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1070
+        },
+        "username": "swcljylmb",
+        "verified": false
+      }
+    ]
+  }
+}

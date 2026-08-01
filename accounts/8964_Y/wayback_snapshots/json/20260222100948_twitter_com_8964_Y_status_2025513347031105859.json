@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2025405643621089510",
+    "created_at": "2026-02-22T10:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025513347031105859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749123750136872960",
+          "start": 0,
+          "username": "BlackhawkJ88810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025513347031105859",
+    "in_reply_to_user_id": "1749123750136872960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025499365985673340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackhawkJ88810 然后每天晚上想着某人的事情自慰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2025405643621089510",
+        "created_at": "2026-02-22T10:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025513347031105859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749123750136872960",
+              "start": 0,
+              "username": "BlackhawkJ88810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025513347031105859",
+        "in_reply_to_user_id": "1749123750136872960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025499365985673340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackhawkJ88810 然后每天晚上想着某人的事情自慰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749123750136872960",
+        "conversation_id": "2025405643621089510",
+        "created_at": "2026-02-22T09:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025499365985673340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025499365985673340",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025405643621089510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 感觉下一步就要在御茶之水付不起钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5935,
+          "following_count": 736,
+          "like_count": 20125,
+          "listed_count": 19,
+          "media_count": 1010,
+          "tweet_count": 14846
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T17:37:09.000Z",
+        "description": "ad astra per aspera",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackariade54.straw.page",
+                "end": 23,
+                "expanded_url": "http://blackariade54.straw.page",
+                "start": 0,
+                "url": "https://t.co/mCM0A1vVij"
+              }
+            ]
+          }
+        },
+        "id": "1749123750136872960",
+        "location": "In Your Visual",
+        "name": "Λriade",
+        "pinned_tweet_id": "1914173488031736001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882727041315086336/Xxxor0tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 805,
+          "like_count": 25649,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 21349
+        },
+        "url": "https://t.co/mCM0A1vVij",
+        "username": "BlackhawkJ88810",
+        "verified": false
+      }
+    ]
+  }
+}

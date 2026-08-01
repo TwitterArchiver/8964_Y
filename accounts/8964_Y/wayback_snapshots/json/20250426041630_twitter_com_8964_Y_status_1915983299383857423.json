@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915983291469205504"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1915983299383857423",
+    "created_at": "2025-04-26T04:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T05:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915983299383857423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ziIzg6cJW0",
+          "end": 36,
+          "expanded_url": "https://x.com/8964_Y/status/1915983299383857423/photo/1",
+          "media_key": "3_1915983291469205504",
+          "start": 13,
+          "url": "https://t.co/ziIzg6cJW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915983299383857423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不会因为别人改变我自己 https://t.co/ziIzg6cJW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_1915983291469205504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpbwpvubEAAuX-r.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915983291469205504"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1915983299383857423",
+        "created_at": "2025-04-26T04:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T05:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915983299383857423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziIzg6cJW0",
+              "end": 36,
+              "expanded_url": "https://x.com/8964_Y/status/1915983299383857423/photo/1",
+              "media_key": "3_1915983291469205504",
+              "start": 13,
+              "url": "https://t.co/ziIzg6cJW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915983299383857423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会因为别人改变我自己 https://t.co/ziIzg6cJW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5440,
+          "following_count": 989,
+          "like_count": 12508,
+          "listed_count": 8,
+          "media_count": 638,
+          "tweet_count": 9599
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

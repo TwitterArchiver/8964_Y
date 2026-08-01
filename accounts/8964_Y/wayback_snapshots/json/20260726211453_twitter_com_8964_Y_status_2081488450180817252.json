@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2081464834609365056",
+    "created_at": "2026-07-26T21:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081488450180817252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897894039397318658",
+          "start": 0,
+          "username": "31K4t3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081488450180817252",
+    "in_reply_to_user_id": "1897894039397318658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081488081056625141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@31K4t3k 很美味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2081464834609365056",
+        "created_at": "2026-07-26T21:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081488450180817252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897894039397318658",
+              "start": 0,
+              "username": "31K4t3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081488450180817252",
+        "in_reply_to_user_id": "1897894039397318658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081488081056625141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@31K4t3k 很美味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897894039397318658",
+        "conversation_id": "2081464834609365056",
+        "created_at": "2026-07-26T21:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081488081056625141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081488081056625141",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081464834609365056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 会很好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6729,
+          "following_count": 745,
+          "like_count": 25233,
+          "listed_count": 20,
+          "media_count": 1189,
+          "tweet_count": 17063
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:17:00.000Z",
+        "description": "我恨桥。",
+        "id": "1897894039397318658",
+        "location": "Vienna",
+        "name": "justAnormalguy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973119950056235008/b2HTiGdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 1438,
+          "like_count": 109780,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 6003
+        },
+        "url": "",
+        "username": "31K4t3k",
+        "verified": false
+      }
+    ]
+  }
+}

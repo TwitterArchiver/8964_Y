@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954926553869242369"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1954926563629408491",
+    "created_at": "2025-08-11T15:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T16:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954926563629408491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619273524300095488",
+          "start": 6,
+          "username": "racoySAMA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/huGu9QQDwY",
+          "end": 40,
+          "expanded_url": "https://x.com/8964_Y/status/1954926563629408491/photo/1",
+          "media_key": "3_1954926553869242369",
+          "start": 17,
+          "url": "https://t.co/huGu9QQDwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954926563629408491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和闺蜜的互绘@racoySAMA https://t.co/huGu9QQDwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1954926553869242369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyFLV9Va0AE3b9O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954926553869242369"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1954926563629408491",
+        "created_at": "2025-08-11T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954926563629408491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619273524300095488",
+              "start": 6,
+              "username": "racoySAMA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/huGu9QQDwY",
+              "end": 40,
+              "expanded_url": "https://x.com/8964_Y/status/1954926563629408491/photo/1",
+              "media_key": "3_1954926553869242369",
+              "start": 17,
+              "url": "https://t.co/huGu9QQDwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954926563629408491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和闺蜜的互绘@racoySAMA https://t.co/huGu9QQDwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 877,
+          "like_count": 15267,
+          "listed_count": 13,
+          "media_count": 801,
+          "tweet_count": 11958
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T09:57:58.000Z",
+        "description": "我说想你和我说话你听不懂吗",
+        "id": "1619273524300095488",
+        "location": "回家的路上",
+        "name": "奶油酒之歌",
+        "pinned_tweet_id": "1917546643941122203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954239579609014272/cM3L1GYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 43,
+          "like_count": 669,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 7635
+        },
+        "username": "racoySAMA",
+        "verified": false
+      }
+    ]
+  }
+}

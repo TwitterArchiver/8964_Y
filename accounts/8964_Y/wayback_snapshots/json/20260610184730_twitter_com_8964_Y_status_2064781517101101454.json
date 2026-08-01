@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2063991119185064183",
+    "created_at": "2026-06-10T18:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064781517101101454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286275604753653770",
+          "start": 0,
+          "username": "Limestone_block"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064781517101101454",
+    "in_reply_to_user_id": "1286275604753653770",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064778580832215297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Limestone_block omg！！ I'm so happy to see this comment!! 🥹🥹🥹🙌🙌🙌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2063991119185064183",
+        "created_at": "2026-06-10T18:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064781517101101454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286275604753653770",
+              "start": 0,
+              "username": "Limestone_block"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064781517101101454",
+        "in_reply_to_user_id": "1286275604753653770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064778580832215297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Limestone_block omg！！ I'm so happy to see this comment!! 🥹🥹🥹🙌🙌🙌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286275604753653770",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2063991119185064183",
+        "created_at": "2026-06-10T18:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064778580832215297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064778580832215297",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063991119185064183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y never thought about it, but such a bright hair color suit character really well\ncool cosplay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2063991119185064183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6220,
+          "following_count": 739,
+          "like_count": 23939,
+          "listed_count": 19,
+          "media_count": 1125,
+          "tweet_count": 16479
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:24:06.000Z",
+        "description": "comms full (3/3)",
+        "id": "1286275604753653770",
+        "location": "Kyїv – Zhmerynka",
+        "name": "Limestone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335931800875577345/zUQ4at2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13191,
+          "following_count": 460,
+          "like_count": 26993,
+          "listed_count": 40,
+          "media_count": 187,
+          "tweet_count": 423
+        },
+        "username": "Limestone_block",
+        "verified": false
+      }
+    ]
+  }
+}

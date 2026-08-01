@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2027294475245207892",
+    "created_at": "2026-02-27T08:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027296966171099410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        },
+        {
+          "end": 30,
+          "id": "127012452",
+          "start": 17,
+          "username": "gussan0seima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027296966171099410",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027296094909264106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A @gussan0seima 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2027294475245207892",
+        "created_at": "2026-02-27T08:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027296966171099410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            },
+            {
+              "end": 30,
+              "id": "127012452",
+              "start": 17,
+              "username": "gussan0seima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027296966171099410",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027296094909264106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A @gussan0seima 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654534022448713728",
+        "conversation_id": "2027294475245207892",
+        "created_at": "2026-02-27T08:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027296094909264106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 21,
+              "id": "127012452",
+              "start": 8,
+              "username": "gussan0seima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027296094909264106",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027294475245207892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @gussan0seima 这个好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 732,
+          "like_count": 20508,
+          "listed_count": 19,
+          "media_count": 1021,
+          "tweet_count": 14947
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜中野区",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023369052463534080/pFWaydVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 238,
+          "like_count": 48732,
+          "listed_count": 1,
+          "media_count": 876,
+          "tweet_count": 6649
+        },
+        "username": "jueduizhengyi_A",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-27T19:02:43.000Z",
+        "description": "細々と漫画描いてます。\nLINEマンガで『パンプキンナイト』（PumpkinNight）連載中。作画担当です。\n\nPixiv：https://t.co/ZaDUVmWdzH　　facebook：https://t.co/nx5idbeBVU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/0827",
+                "end": 86,
+                "expanded_url": "http://pixiv.me/0827",
+                "start": 63,
+                "url": "https://t.co/ZaDUVmWdzH"
+              },
+              {
+                "display_url": "facebook.com/seim",
+                "end": 120,
+                "expanded_url": "https://www.facebook.com/seim",
+                "start": 97,
+                "url": "https://t.co/nx5idbeBVU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimataniguti.blog.shinobi.jp",
+                "end": 23,
+                "expanded_url": "http://seimataniguti.blog.shinobi.jp/",
+                "start": 0,
+                "url": "https://t.co/niYKaiqmvp"
+              }
+            ]
+          }
+        },
+        "id": "127012452",
+        "location": "Japan",
+        "name": "谷口世磨@「パンプキンナイト」LINEマンガで連載中",
+        "pinned_tweet_id": "1894580873024213005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161894585380958210/yyfIwCz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6791,
+          "following_count": 2233,
+          "like_count": 92077,
+          "listed_count": 42,
+          "media_count": 427,
+          "tweet_count": 27275
+        },
+        "url": "https://t.co/niYKaiqmvp",
+        "username": "gussan0seima",
+        "verified": false
+      }
+    ]
+  }
+}

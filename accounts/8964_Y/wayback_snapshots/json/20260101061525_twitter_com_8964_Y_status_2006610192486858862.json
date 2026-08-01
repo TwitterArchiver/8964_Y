@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2006359368242274331",
+    "created_at": "2026-01-01T06:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T07:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006610192486858862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975125847339315200",
+          "start": 0,
+          "username": "ji00000zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006610192486858862",
+    "in_reply_to_user_id": "1975125847339315200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006608422784094214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji00000zi 真贪吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2006359368242274331",
+        "created_at": "2026-01-01T06:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006610192486858862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975125847339315200",
+              "start": 0,
+              "username": "ji00000zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006610192486858862",
+        "in_reply_to_user_id": "1975125847339315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006608422784094214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji00000zi 真贪吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975125847339315200",
+        "conversation_id": "2006359368242274331",
+        "created_at": "2026-01-01T06:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006608422784094214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006608422784094214",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006359368242274331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我见过一个说吞了1000多粒没死的呢😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不要靠近我我性格超级差有很大的问题很古怪的人滚滚滚｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5871,
+          "following_count": 836,
+          "like_count": 18010,
+          "listed_count": 19,
+          "media_count": 968,
+          "tweet_count": 14137
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:08:02.000Z",
+        "description": "退圈xyn？ 精神状态还行？ 可以找我打三角洲 06 168 60\n🚪20(聊天打游戏)\n前3个号去世\n2025.11.26启用此号\n同类会回关的啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji1zi1",
+                "end": 23,
+                "expanded_url": "https://t.me/ji1zi1",
+                "start": 0,
+                "url": "https://t.co/ZVJNbGmmsy"
+              }
+            ]
+          }
+        },
+        "id": "1975125847339315200",
+        "location": "4km",
+        "name": "💊好吃的小猫咪🍥",
+        "pinned_tweet_id": "2005119587936076221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998140604539342848/oYEsf5X1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 198,
+          "like_count": 509,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/ZVJNbGmmsy",
+        "username": "ji00000zi",
+        "verified": false
+      }
+    ]
+  }
+}

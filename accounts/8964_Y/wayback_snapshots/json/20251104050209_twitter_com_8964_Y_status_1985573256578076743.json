@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1985335319273910399",
+    "created_at": "2025-11-04T05:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T06:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985573256578076743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947652886273368065",
+          "start": 0,
+          "username": "bucketyishere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985573256578076743",
+    "in_reply_to_user_id": "1947652886273368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985335319273910399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bucketyishere 对的对的而且就算大一两岁也有很大的优越感，那些小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1985335319273910399",
+        "created_at": "2025-11-04T05:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985573256578076743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947652886273368065",
+              "start": 0,
+              "username": "bucketyishere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985573256578076743",
+        "in_reply_to_user_id": "1947652886273368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985335319273910399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bucketyishere 对的对的而且就算大一两岁也有很大的优越感，那些小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947652886273368065",
+        "conversation_id": "1985335319273910399",
+        "created_at": "2025-11-03T13:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985335319273910399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985335319273910399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1996,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "尼玛绘圈真是我见过社会化平均水平最低的一个群体，有一帮奇异搞笑的小孩就算了这帮人甚至再长个十岁要是一直在这种环境待着心智都不会有变化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 890,
+          "like_count": 16622,
+          "listed_count": 17,
+          "media_count": 912,
+          "tweet_count": 13313
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "Bard 6 / Warlock 5/ Paranoid PD 9 multiclass",
+        "id": "1947652886273368065",
+        "location": "夺命十头桶",
+        "name": "给你桶完了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983893056337354752/32etKydU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 334,
+          "like_count": 6505,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1630
+        },
+        "username": "bucketyishere",
+        "verified": false
+      }
+    ]
+  }
+}

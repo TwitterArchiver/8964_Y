@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960295773943508992"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1960295781274902736",
+    "created_at": "2025-08-26T10:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T11:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960295781274902736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0d81aHzpIu",
+          "end": 27,
+          "expanded_url": "https://x.com/8964_Y/status/1960295781274902736/photo/1",
+          "media_key": "3_1960295773943508992",
+          "start": 4,
+          "url": "https://t.co/0d81aHzpIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960295781274902736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我 https://t.co/0d81aHzpIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1339,
+        "media_key": "3_1960295773943508992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRensyaMAAtIlX.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960295773943508992"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960295781274902736",
+        "created_at": "2025-08-26T10:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960295781274902736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0d81aHzpIu",
+              "end": 27,
+              "expanded_url": "https://x.com/8964_Y/status/1960295781274902736/photo/1",
+              "media_key": "3_1960295773943508992",
+              "start": 4,
+              "url": "https://t.co/0d81aHzpIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960295781274902736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我 https://t.co/0d81aHzpIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 876,
+          "like_count": 15544,
+          "listed_count": 17,
+          "media_count": 824,
+          "tweet_count": 12123
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

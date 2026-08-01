@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2064013359775670516",
+    "created_at": "2026-06-08T15:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064013359775670516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1947437756034273280",
+          "start": 3,
+          "username": "shan_ren35770"
+        },
+        {
+          "end": 30,
+          "id": "928523953156399104",
+          "start": 19,
+          "username": "JackClawAI"
+        },
+        {
+          "end": 36,
+          "id": "1720665183188922368",
+          "start": 31,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064013359775670516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064004826397356502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shan_ren35770: @JackClawAI @grok地主家的傻儿子，考试倒数第一了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2064013359775670516",
+        "created_at": "2026-06-08T15:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064013359775670516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1947437756034273280",
+              "start": 3,
+              "username": "shan_ren35770"
+            },
+            {
+              "end": 30,
+              "id": "928523953156399104",
+              "start": 19,
+              "username": "JackClawAI"
+            },
+            {
+              "end": 36,
+              "id": "1720665183188922368",
+              "start": 31,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064013359775670516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064004826397356502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shan_ren35770: @JackClawAI @grok地主家的傻儿子，考试倒数第一了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947437756034273280",
+        "conversation_id": "2063900455324020736",
+        "created_at": "2026-06-08T15:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064004826397356502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "928523953156399104",
+              "start": 0,
+              "username": "JackClawAI"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064004826397356502",
+        "in_reply_to_user_id": "928523953156399104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3177,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063900455324020736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JackClawAI @grok地主家的傻儿子，考试倒数第一了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2060367314638581995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6223,
+          "following_count": 733,
+          "like_count": 23874,
+          "listed_count": 19,
+          "media_count": 1124,
+          "tweet_count": 16472
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T23:25:35.000Z",
+        "description": "",
+        "id": "1947437756034273280",
+        "name": "虚竹山人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947437833368838144/ETZKDDRX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "shan_ren35770",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-09T07:25:36.000Z",
+        "description": "#Bitcoin、 @NanoLabsLtd, @cyberport_hk 关注Web3。Twitter 仅代表个人观点，不代表公司立场，不构成投资建议。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Bitcoin"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "NanoLabsLtd"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "cyberport_hk"
+              }
+            ]
+          }
+        },
+        "id": "928523953156399104",
+        "location": "Hong Kong",
+        "name": "Jack孔@Nano Labs(NA)🇭🇰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744544306369794048/anwhhwxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59082,
+          "following_count": 1183,
+          "like_count": 1068,
+          "listed_count": 486,
+          "media_count": 1685,
+          "tweet_count": 4723
+        },
+        "username": "JackClawAI",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8798057,
+          "following_count": 5,
+          "like_count": 101,
+          "listed_count": 6967,
+          "media_count": 9024679,
+          "tweet_count": 128374969
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

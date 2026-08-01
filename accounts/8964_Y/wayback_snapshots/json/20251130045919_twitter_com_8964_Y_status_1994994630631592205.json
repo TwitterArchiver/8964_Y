@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1994994630631592205",
+    "created_at": "2025-11-30T04:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994994630631592205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1815878828419629056",
+          "start": 3,
+          "username": "qiqi1127520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994994630631592205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994946303990890633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi1127520: 然后我希望我这辈子可以过的跟公主一样～因为我本来就是天使呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1994994630631592205",
+        "created_at": "2025-11-30T04:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994994630631592205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1815878828419629056",
+              "start": 3,
+              "username": "qiqi1127520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994994630631592205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994946303990890633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiqi1127520: 然后我希望我这辈子可以过的跟公主一样～因为我本来就是天使呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815878828419629056",
+        "conversation_id": "1994946303990890633",
+        "created_at": "2025-11-30T01:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994946303990890633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994946303990890633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后我希望我这辈子可以过的跟公主一样～因为我本来就是天使呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5879,
+          "following_count": 833,
+          "like_count": 17419,
+          "listed_count": 17,
+          "media_count": 938,
+          "tweet_count": 13790
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T22:37:21.000Z",
+        "description": "kiki 双性恋 非常缺钱的一女孩🚪52/188 过门无其他福利👄 不聊骚不接任何半绿非绿 私信只回口令跟感兴趣的人",
+        "id": "1815878828419629056",
+        "name": "kiro",
+        "pinned_tweet_id": "1979335223918915886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979326890591563776/-Pkr_jIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 103,
+          "like_count": 2412,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 945
+        },
+        "username": "qiqi1127520",
+        "verified": false
+      }
+    ]
+  }
+}

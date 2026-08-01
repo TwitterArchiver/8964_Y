@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1986631981548159238",
+    "created_at": "2025-11-07T05:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986671804426174793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1698752369834729472",
+          "start": 0,
+          "username": "WarDevil_Yoru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986671804426174793",
+    "in_reply_to_user_id": "1698752369834729472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986631981548159238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WarDevil_Yoru 好可爱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_1986631977509040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5HvQgbbsAAn233.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1986631981548159238",
+        "created_at": "2025-11-07T05:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986671804426174793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1698752369834729472",
+              "start": 0,
+              "username": "WarDevil_Yoru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986671804426174793",
+        "in_reply_to_user_id": "1698752369834729472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986631981548159238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WarDevil_Yoru 好可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986631977509040128"
+          ]
+        },
+        "author_id": "1698752369834729472",
+        "conversation_id": "1986631981548159238",
+        "created_at": "2025-11-07T03:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986631981548159238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9h76jFJeV",
+              "end": 42,
+              "expanded_url": "https://x.com/WarDevil_Yoru/status/1986631981548159238/photo/1",
+              "media_key": "3_1986631977509040128",
+              "start": 19,
+              "url": "https://t.co/V9h76jFJeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986631981548159238",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 828,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Haha I love this 😂 https://t.co/V9h76jFJeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5825,
+          "following_count": 876,
+          "like_count": 16711,
+          "listed_count": 17,
+          "media_count": 913,
+          "tweet_count": 13376
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T17:38:31.000Z",
+        "description": "Twitter nicknamed me IRL Yoru. Basically Yoru if she had tattoos and collected machetes. ♡ Yoru cosplayer ♡ occasional Osaragi cosplayer ♡ ✧INTP✧ ✧3w4✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/toothfairymoney",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/toothfairymoney",
+                "start": 0,
+                "url": "https://t.co/hAdc9uuxRJ"
+              }
+            ]
+          }
+        },
+        "id": "1698752369834729472",
+        "name": "・❥・War Devil ・❥・",
+        "pinned_tweet_id": "1963337075551613267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973042924129746944/oan3Ciqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1811,
+          "like_count": 34554,
+          "listed_count": 13,
+          "media_count": 1802,
+          "tweet_count": 15026
+        },
+        "url": "https://t.co/hAdc9uuxRJ",
+        "username": "WarDevil_Yoru",
+        "verified": true
+      }
+    ]
+  }
+}

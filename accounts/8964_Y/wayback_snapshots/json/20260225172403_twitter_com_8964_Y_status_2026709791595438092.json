@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2026709791595438092",
+    "created_at": "2026-02-25T17:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026709791595438092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577359525606211605",
+          "start": 3,
+          "username": "R0astducker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026709791595438092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026637653651894368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R0astducker: 我感觉我一直都只有我一个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2026709791595438092",
+        "created_at": "2026-02-25T17:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026709791595438092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577359525606211605",
+              "start": 3,
+              "username": "R0astducker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026709791595438092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026637653651894368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R0astducker: 我感觉我一直都只有我一个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577359525606211605",
+        "conversation_id": "2026637653651894368",
+        "created_at": "2026-02-25T12:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026637653651894368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026637653651894368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 703,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我一直都只有我一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026167554079875079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6245,
+          "following_count": 734,
+          "like_count": 20379,
+          "listed_count": 19,
+          "media_count": 1015,
+          "tweet_count": 14909
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:06:45.000Z",
+        "description": "是阿呆/喜欢跟朋友打游戏/摇滚/欢迎互fo/看黄的跟incel男全家死了🙏🏻",
+        "id": "1577359525606211605",
+        "name": "阿呆",
+        "pinned_tweet_id": "1929540254224220460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020972887356940288/bIPQ5-2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 472,
+          "like_count": 25435,
+          "listed_count": 2,
+          "media_count": 1105,
+          "tweet_count": 9842
+        },
+        "username": "R0astducker",
+        "verified": false
+      }
+    ]
+  }
+}

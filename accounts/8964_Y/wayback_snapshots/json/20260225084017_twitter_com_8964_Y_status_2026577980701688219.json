@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2026515921851003352",
+    "created_at": "2026-02-25T08:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026577980701688219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672856505048264706",
+          "start": 0,
+          "username": "xplq1985411"
+        },
+        {
+          "end": 25,
+          "id": "1895764727365840896",
+          "start": 13,
+          "username": "300beans666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026577980701688219",
+    "in_reply_to_user_id": "1672856505048264706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026537180143956170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xplq1985411 @300beans666 一起睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2026515921851003352",
+        "created_at": "2026-02-25T08:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026577980701688219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672856505048264706",
+              "start": 0,
+              "username": "xplq1985411"
+            },
+            {
+              "end": 25,
+              "id": "1895764727365840896",
+              "start": 13,
+              "username": "300beans666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026577980701688219",
+        "in_reply_to_user_id": "1672856505048264706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026537180143956170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xplq1985411 @300beans666 一起睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672856505048264706",
+        "conversation_id": "2026515921851003352",
+        "created_at": "2026-02-25T05:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026537180143956170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 20,
+              "id": "1895764727365840896",
+              "start": 8,
+              "username": "300beans666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026537180143956170",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026526169433329953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @300beans666 司机怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026167554079875079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6212,
+          "following_count": 733,
+          "like_count": 20349,
+          "listed_count": 20,
+          "media_count": 1015,
+          "tweet_count": 14899
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T06:37:35.000Z",
+        "description": "@plq1985411的分身，大号扔在打复活赛中，寻找失散的朋友ing。预备避难所@dplq1985411。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "plq1985411"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "dplq1985411"
+              }
+            ]
+          }
+        },
+        "id": "1672856505048264706",
+        "location": "青岛",
+        "name": "pradge-official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860157901337427971/QXTssgJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 2558,
+          "like_count": 23427,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 3670
+        },
+        "username": "xplq1985411",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T09:15:29.000Z",
+        "description": "职业好人卡，专业非red级别的画图人🇨🇳",
+        "id": "1895764727365840896",
+        "name": "画语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999523801139412993/eCgQeg1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 127,
+          "like_count": 1566,
+          "listed_count": 10,
+          "media_count": 130,
+          "tweet_count": 420
+        },
+        "username": "300beans666",
+        "verified": false
+      }
+    ]
+  }
+}

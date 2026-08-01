@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1980445739542311386",
+    "created_at": "2025-10-22T09:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T10:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980933591090733507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        },
+        {
+          "end": 20,
+          "id": "1777366989234917376",
+          "start": 8,
+          "username": "abgrundd991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980933591090733507",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980445739542311386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop @abgrundd991 神仙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980445724279001088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3v05LSXUAARFid.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1980445739542311386",
+        "created_at": "2025-10-22T09:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980933591090733507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 20,
+              "id": "1777366989234917376",
+              "start": 8,
+              "username": "abgrundd991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980933591090733507",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980445739542311386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @abgrundd991 神仙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980445724279001088"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980445739542311386",
+        "created_at": "2025-10-21T01:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T02:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980445739542311386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSIJY90svS",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1980445739542311386/photo/1",
+              "media_key": "3_1980445724279001088",
+              "start": 0,
+              "url": "https://t.co/cSIJY90svS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980445739542311386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 256956,
+          "like_count": 959,
+          "quote_count": 5,
+          "reply_count": 65,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cSIJY90svS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5739,
+          "following_count": 883,
+          "like_count": 16351,
+          "listed_count": 17,
+          "media_count": 896,
+          "tweet_count": 13123
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84281,
+          "following_count": 649,
+          "like_count": 30973,
+          "listed_count": 257,
+          "media_count": 12899,
+          "tweet_count": 18267
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-08T16:04:57.000Z",
+        "description": "我是荒樂/前世 @huzun953/看到都會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "huzun953"
+              }
+            ]
+          }
+        },
+        "id": "1777366989234917376",
+        "location": "₍^. .^₎⟆",
+        "name": "荒樂",
+        "pinned_tweet_id": "1862060550416744927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847195097100288/Hs5CBziP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1229,
+          "like_count": 5981,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 2700
+        },
+        "username": "abgrundd991",
+        "verified": false
+      }
+    ]
+  }
+}

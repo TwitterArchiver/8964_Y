@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925498360225832962"
+      ],
+      "media_source_tweet_id": [
+        "1925498365573570942"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1925909997847781685",
+    "created_at": "2025-05-23T13:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T14:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925909997847781685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653315126307721216",
+          "start": 3,
+          "username": "z10_o0zzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQ0FrIZkjH",
+          "end": 46,
+          "expanded_url": "https://x.com/z10_o0zzz/status/1925498365573570942/photo/1",
+          "media_key": "3_1925498360225832962",
+          "start": 23,
+          "url": "https://t.co/HQ0FrIZkjH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925909997847781685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 293
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925498365573570942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @z10_o0zzz: 誰です？？？？ https://t.co/HQ0FrIZkjH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_1925498360225832962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gri-jpDboAIKJaC.jpg",
+        "width": 1985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925498360225832962"
+          ],
+          "media_source_tweet_id": [
+            "1925498365573570942"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1925909997847781685",
+        "created_at": "2025-05-23T13:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925909997847781685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653315126307721216",
+              "start": 3,
+              "username": "z10_o0zzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQ0FrIZkjH",
+              "end": 46,
+              "expanded_url": "https://x.com/z10_o0zzz/status/1925498365573570942/photo/1",
+              "media_key": "3_1925498360225832962",
+              "start": 23,
+              "url": "https://t.co/HQ0FrIZkjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925909997847781685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925498365573570942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @z10_o0zzz: 誰です？？？？ https://t.co/HQ0FrIZkjH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925498360225832962"
+          ]
+        },
+        "author_id": "1653315126307721216",
+        "conversation_id": "1925498365573570942",
+        "created_at": "2025-05-22T10:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T11:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925498365573570942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQ0FrIZkjH",
+              "end": 31,
+              "expanded_url": "https://x.com/z10_o0zzz/status/1925498365573570942/photo/1",
+              "media_key": "3_1925498360225832962",
+              "start": 8,
+              "url": "https://t.co/HQ0FrIZkjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925498365573570942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 129978,
+          "like_count": 6786,
+          "quote_count": 24,
+          "reply_count": 2,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "誰です？？？？ https://t.co/HQ0FrIZkjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5480,
+          "following_count": 928,
+          "like_count": 13161,
+          "listed_count": 8,
+          "media_count": 685,
+          "tweet_count": 10182
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T08:27:23.000Z",
+        "description": "18↑/激重加工/ダンス/ﾘﾄﾘﾝ→ https://t.co/x3we8bWK1D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/z10o0zzz",
+                "end": 42,
+                "expanded_url": "https://lit.link/z10o0zzz",
+                "start": 19,
+                "url": "https://t.co/x3we8bWK1D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@z10_o0zzz?_t=…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@z10_o0zzz?_t=8mcgTOyuDuD&_r=1",
+                "start": 0,
+                "url": "https://t.co/eee4mnGtpK"
+              }
+            ]
+          }
+        },
+        "id": "1653315126307721216",
+        "name": "ぜと",
+        "pinned_tweet_id": "1894313390275006875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870505388434743296/uWxQo285_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 155,
+          "like_count": 5455,
+          "listed_count": 24,
+          "media_count": 153,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/eee4mnGtpK",
+        "username": "z10_o0zzz",
+        "verified": false
+      }
+    ]
+  }
+}

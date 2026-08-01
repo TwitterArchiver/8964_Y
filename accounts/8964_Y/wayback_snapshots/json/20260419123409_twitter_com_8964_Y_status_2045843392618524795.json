@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2045785101737644491",
+    "created_at": "2026-04-19T12:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045843392618524795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815878828419629056",
+          "start": 0,
+          "username": "qiqi1127520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045843392618524795",
+    "in_reply_to_user_id": "1815878828419629056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045785101737644491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi1127520 这个游戏很好玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2045785079033802752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQWsLqasAA-mCM.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2045785101737644491",
+        "created_at": "2026-04-19T12:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045843392618524795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815878828419629056",
+              "start": 0,
+              "username": "qiqi1127520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045843392618524795",
+        "in_reply_to_user_id": "1815878828419629056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045785101737644491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi1127520 这个游戏很好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045785079033802752"
+          ]
+        },
+        "author_id": "1815878828419629056",
+        "conversation_id": "2045785101737644491",
+        "created_at": "2026-04-19T08:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045785101737644491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7AA56DyHD",
+              "end": 32,
+              "expanded_url": "https://x.com/qiqi1127520/status/2045785101737644491/photo/1",
+              "media_key": "3_2045785079033802752",
+              "start": 9,
+              "url": "https://t.co/H7AA56DyHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045785101737644491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操这图笑死我了 https://t.co/H7AA56DyHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7  只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6160,
+          "following_count": 732,
+          "like_count": 22688,
+          "listed_count": 19,
+          "media_count": 1080,
+          "tweet_count": 15958
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T22:37:21.000Z",
+        "description": "忘却一切 埋葬自我\n🚪52/88 纯绿色没福利\n地雷女/双相/重度容貌焦虑/intp/09\n来推特当皇帝的 只会骂人",
+        "id": "1815878828419629056",
+        "name": "野子",
+        "pinned_tweet_id": "2034114998205878326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039425223771193344/PapaE_3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 100,
+          "like_count": 6316,
+          "listed_count": 6,
+          "media_count": 67,
+          "tweet_count": 1294
+        },
+        "username": "qiqi1127520",
+        "verified": false
+      }
+    ]
+  }
+}

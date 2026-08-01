@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1919401532195471550",
+    "created_at": "2025-05-23T04:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T05:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925774454929424641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408028409599467521",
+          "start": 0,
+          "username": "AngelSuicide999"
+        },
+        {
+          "end": 26,
+          "id": "715183792697303041",
+          "start": 17,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925774454929424641",
+    "in_reply_to_user_id": "1408028409599467521",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919401532195471550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelSuicide999 @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10007,
+        "height": 720,
+        "media_key": "7_1919401504328589312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919401504328589312/pu/img/FCwvsN9Dvfc9D505.jpg",
+        "public_metrics": {
+          "view_count": 13307
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919401504328589312/pu/vid/avc1/360x270/xUcy1Zr8-gB1Jl0Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919401504328589312/pu/vid/avc1/480x360/_PwOuTEdmZVYAlD6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919401504328589312/pu/vid/avc1/960x720/4_KpUPVnhtF7p_aF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919401504328589312/pu/pl/XEr5rl2Koc4i9Kfz.m3u8?tag=12&v=979"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1919401532195471550",
+        "created_at": "2025-05-23T04:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925774454929424641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408028409599467521",
+              "start": 0,
+              "username": "AngelSuicide999"
+            },
+            {
+              "end": 26,
+              "id": "715183792697303041",
+              "start": 17,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925774454929424641",
+        "in_reply_to_user_id": "1408028409599467521",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919401532195471550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSuicide999 @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919401504328589312"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "1919401532195471550",
+        "created_at": "2025-05-05T14:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T15:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919401532195471550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgG595gWYu",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1919401532195471550/video/1",
+              "media_key": "7_1919401504328589312",
+              "start": 0,
+              "url": "https://t.co/tgG595gWYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919401532195471550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 46945,
+          "like_count": 2654,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 530
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tgG595gWYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5477,
+          "following_count": 929,
+          "like_count": 13112,
+          "listed_count": 8,
+          "media_count": 685,
+          "tweet_count": 10151
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "Angel's Serial Suicide Experiment",
+        "id": "1408028409599467521",
+        "name": "Suicide",
+        "pinned_tweet_id": "1908520785851060371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823539824881754113/Qk8grnX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19351,
+          "following_count": 1,
+          "like_count": 90019,
+          "listed_count": 85,
+          "media_count": 658,
+          "tweet_count": 3115
+        },
+        "username": "AngelSuicide999",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012131,
+          "following_count": 116,
+          "like_count": 30,
+          "listed_count": 517,
+          "media_count": 1,
+          "tweet_count": 599605
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1945450554567819430",
+    "created_at": "2025-07-17T04:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T05:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945701465495941458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921799747654029312",
+          "start": 0,
+          "username": "huisanguan_238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945701465495941458",
+    "in_reply_to_user_id": "1921799747654029312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945659402633318533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huisanguan_238 这个不敢说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1945450554567819430",
+        "created_at": "2025-07-17T04:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945701465495941458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921799747654029312",
+              "start": 0,
+              "username": "huisanguan_238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945701465495941458",
+        "in_reply_to_user_id": "1921799747654029312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945659402633318533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huisanguan_238 这个不敢说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921799747654029312",
+        "conversation_id": "1945450554567819430",
+        "created_at": "2025-07-17T01:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945659402633318533"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "建政",
+              "probability": 0.7903,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945659402633318533",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945450554567819430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 建政圈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5717,
+          "following_count": 947,
+          "like_count": 15017,
+          "listed_count": 12,
+          "media_count": 768,
+          "tweet_count": 11672
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T05:29:16.000Z",
+        "description": "那些优良的老式价值观在哪里?",
+        "id": "1921799747654029312",
+        "location": "看看你的后面吧",
+        "name": "全糖Stewie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921806215903842304/YFjNZv4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 89,
+          "like_count": 4981,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1087
+        },
+        "username": "huisanguan_238",
+        "verified": false
+      }
+    ]
+  }
+}

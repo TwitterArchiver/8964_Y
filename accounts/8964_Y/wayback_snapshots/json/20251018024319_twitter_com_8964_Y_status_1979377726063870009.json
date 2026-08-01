@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1978919673170399739",
+    "created_at": "2025-10-18T02:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T03:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979377726063870009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979377726063870009",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978919673170399739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColesPerson 真是小众真是可怜真是一个超天酱呢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978919663481364480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3aI8vzXoAAv4_v.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1978919673170399739",
+        "created_at": "2025-10-18T02:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T03:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979377726063870009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979377726063870009",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978919673170399739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson 真是小众真是可怜真是一个超天酱呢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978919663481364480"
+          ]
+        },
+        "author_id": "1590939682568736769",
+        "conversation_id": "1978919673170399739",
+        "created_at": "2025-10-16T20:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T21:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978919673170399739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ghu0RAGCQ",
+              "end": 48,
+              "expanded_url": "https://x.com/ColesPerson/status/1978919673170399739/photo/1",
+              "media_key": "3_1978919663481364480",
+              "start": 25,
+              "url": "https://t.co/7Ghu0RAGCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978919673170399739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16608,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "nmsl大姐，等云药下架我囊s你。发內网我CNm https://t.co/7Ghu0RAGCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5723,
+          "following_count": 882,
+          "like_count": 16292,
+          "listed_count": 17,
+          "media_count": 893,
+          "tweet_count": 13062
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "啥意思",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "4000年难遇的老实人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966324061379899395/5ckbxTzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1398,
+          "like_count": 26121,
+          "listed_count": 3,
+          "media_count": 846,
+          "tweet_count": 9438
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

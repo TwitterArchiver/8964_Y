@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1992196558818030021",
+    "created_at": "2025-11-22T13:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992227902663082033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1919963459279888384",
+          "start": 0,
+          "username": "hrklovehonoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992227902663082033",
+    "in_reply_to_user_id": "1919963459279888384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992196558818030021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hrklovehonoka 这种曲是最讨厌的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1992196558818030021",
+        "created_at": "2025-11-22T13:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992227902663082033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1919963459279888384",
+              "start": 0,
+              "username": "hrklovehonoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992227902663082033",
+        "in_reply_to_user_id": "1919963459279888384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992196558818030021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hrklovehonoka 这种曲是最讨厌的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919963459279888384",
+        "conversation_id": "1992196558818030021",
+        "created_at": "2025-11-22T11:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992196558818030021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/8964_Y/status/1992168310209970282",
+              "start": 19,
+              "url": "https://t.co/vW5J4f2Ice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992196558818030021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992168310209970282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为啥我只能碰见对新手指指点点的顺直蛆 https://t.co/vW5J4f2Ice"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5853,
+          "following_count": 863,
+          "like_count": 17108,
+          "listed_count": 17,
+          "media_count": 929,
+          "tweet_count": 13630
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "最爱的小猫@hsgmxz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "hsgmxz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sinhrk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sinhrk",
+                "start": 0,
+                "url": "https://t.co/cPqMPK9OsO"
+              }
+            ]
+          }
+        },
+        "id": "1919963459279888384",
+        "location": "西武新宿駅",
+        "name": "🎀终将成为你",
+        "pinned_tweet_id": "1990985590477627414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990267215162351616/8RCRFAup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1338,
+          "like_count": 3751,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/cPqMPK9OsO",
+        "username": "hrklovehonoka",
+        "verified": false
+      }
+    ]
+  }
+}

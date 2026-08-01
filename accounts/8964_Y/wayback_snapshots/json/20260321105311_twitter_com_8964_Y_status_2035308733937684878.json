@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2035278945827086766",
+    "created_at": "2026-03-21T10:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035308733937684878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446005628040724488",
+          "start": 0,
+          "username": "nvslp3b0"
+        },
+        {
+          "end": 23,
+          "id": "2009488009180401667",
+          "start": 10,
+          "username": "asabakasaiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035308733937684878",
+    "in_reply_to_user_id": "1446005628040724488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035287962569863176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvslp3b0 @asabakasaiko 冷知识：只有两个人都觉得好笑的才叫玩笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2035278945827086766",
+        "created_at": "2026-03-21T10:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035308733937684878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446005628040724488",
+              "start": 0,
+              "username": "nvslp3b0"
+            },
+            {
+              "end": 23,
+              "id": "2009488009180401667",
+              "start": 10,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035308733937684878",
+        "in_reply_to_user_id": "1446005628040724488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035287962569863176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvslp3b0 @asabakasaiko 冷知识：只有两个人都觉得好笑的才叫玩笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446005628040724488",
+        "conversation_id": "2035278945827086766",
+        "created_at": "2026-03-21T09:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035287962569863176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009488009180401667",
+              "start": 0,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035287962569863176",
+        "in_reply_to_user_id": "2009488009180401667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035286600066961411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asabakasaiko 是来开玩笑的：D，怎么生气了。对不起。跑路了。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2030257063566414125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6281,
+          "following_count": 737,
+          "like_count": 21597,
+          "listed_count": 19,
+          "media_count": 1044,
+          "tweet_count": 15424
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:53:08.000Z",
+        "description": "西安/广州，hrt25.6.10，\n没人喜欢的猫会找地方悄悄死掉",
+        "id": "1446005628040724488",
+        "location": "广州",
+        "name": "七四三三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629429281687470081/jdoHpP5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 630,
+          "like_count": 517,
+          "listed_count": 9,
+          "media_count": 10,
+          "tweet_count": 127
+        },
+        "username": "nvslp3b0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看也很想死，🚪58，88其实同类真的不用给❤️，什么事都可以来私我🤔，免费的用药指导和和陪玩🥺，主营美白和致幻剂💊和pcp",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 394,
+          "like_count": 7480,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1507
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      }
+    ]
+  }
+}

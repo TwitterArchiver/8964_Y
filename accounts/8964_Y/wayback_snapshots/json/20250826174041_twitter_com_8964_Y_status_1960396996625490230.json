@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1960383132408164794",
+    "created_at": "2025-08-26T17:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960396996625490230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879353023451062272",
+          "start": 0,
+          "username": "xiaoyibao_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960396996625490230",
+    "in_reply_to_user_id": "1879353023451062272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960383132408164794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyibao_666 像公主一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "7_1960383107502379008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1960383107502379008/pu/img/fiePVJFR0y7CEsfO.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960383107502379008/pu/vid/avc1/320x568/VLm5u8z7NCL21e11.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960383107502379008/pu/vid/avc1/480x852/BX1iehdsl8ovuu03.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960383107502379008/pu/vid/avc1/720x1280/XRjxOClCd-29Udf3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1960383107502379008/pu/pl/ycgOshvnQhtIMzC0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1960383132408164794",
+        "created_at": "2025-08-26T17:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960396996625490230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879353023451062272",
+              "start": 0,
+              "username": "xiaoyibao_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960396996625490230",
+        "in_reply_to_user_id": "1879353023451062272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960383132408164794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyibao_666 像公主一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960383107502379008"
+          ]
+        },
+        "author_id": "1879353023451062272",
+        "conversation_id": "1960383132408164794",
+        "created_at": "2025-08-26T16:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960383132408164794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZEaY4so7l",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoyibao_666/status/1960383132408164794/video/1",
+              "media_key": "7_1960383107502379008",
+              "start": 0,
+              "url": "https://t.co/DZEaY4so7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960383132408164794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DZEaY4so7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5742,
+          "following_count": 876,
+          "like_count": 15563,
+          "listed_count": 17,
+          "media_count": 825,
+          "tweet_count": 12131
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T02:21:10.000Z",
+        "description": "再冒充我试试？？\n猜猜我最喜欢什么\nᖰ•͈ ₃ •͈ᖳ\n喜欢我就过\n🚪188纯绿➕v\n没有其他福利不用问\n蛮爱回私信",
+        "id": "1879353023451062272",
+        "name": "小弈宝",
+        "pinned_tweet_id": "1896606977389957166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931246263875567616/5nU-69vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 8,
+          "like_count": 158,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "username": "xiaoyibao_666",
+        "verified": false
+      }
+    ]
+  }
+}

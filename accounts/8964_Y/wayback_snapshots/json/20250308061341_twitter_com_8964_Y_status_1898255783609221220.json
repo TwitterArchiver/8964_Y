@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1898189789201154371",
+    "created_at": "2025-03-08T06:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T07:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898255783609221220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898255783609221220",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898242925919883352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skura_ku 这么快！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1898242912753999872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfp3zAa4AAwPTD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898189789201154371",
+        "created_at": "2025-03-08T06:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T07:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898255783609221220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898255783609221220",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898242925919883352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skura_ku 这么快！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898242912753999872"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898189789201154371",
+        "created_at": "2025-03-08T05:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T06:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898242925919883352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9iUrAds6v2",
+              "end": 35,
+              "expanded_url": "https://x.com/skura_ku/status/1898242925919883352/photo/1",
+              "media_key": "3_1898242912753999872",
+              "start": 12,
+              "url": "https://t.co/9iUrAds6v2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898242925919883352",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898189789201154371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚玩别的去了 打了！ https://t.co/9iUrAds6v2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4854,
+          "following_count": 910,
+          "like_count": 10120,
+          "listed_count": 5,
+          "media_count": 524,
+          "tweet_count": 7845
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "電脳少女マレーシア人 (っ- ‸ - ς) 𓉸ྀི ݁ᛪ༙ 🐹🍮🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/sakura4448",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/sakura4448",
+                "start": 0,
+                "url": "https://t.co/W9ebuocjas"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི",
+        "pinned_tweet_id": "1895710658962096259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897238480683442176/c8x8DvgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18392,
+          "following_count": 376,
+          "like_count": 14537,
+          "listed_count": 48,
+          "media_count": 550,
+          "tweet_count": 5322
+        },
+        "url": "https://t.co/W9ebuocjas",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

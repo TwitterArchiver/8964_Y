@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1915836723193614438",
+    "created_at": "2025-04-25T18:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T19:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915838780352958736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797292126662987776",
+          "start": 0,
+          "username": "BrokenUtopia896"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915838780352958736",
+    "in_reply_to_user_id": "1797292126662987776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915837767516307599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrokenUtopia896 那你送我药就🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1915836723193614438",
+        "created_at": "2025-04-25T18:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T19:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915838780352958736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797292126662987776",
+              "start": 0,
+              "username": "BrokenUtopia896"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915838780352958736",
+        "in_reply_to_user_id": "1797292126662987776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915837767516307599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrokenUtopia896 那你送我药就🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797292126662987776",
+        "conversation_id": "1915836723193614438",
+        "created_at": "2025-04-25T18:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T19:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915837767516307599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915837767516307599",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915836723193614438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我当你弟🉑️不🉑️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 989,
+          "like_count": 12475,
+          "listed_count": 8,
+          "media_count": 636,
+          "tweet_count": 9575
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T15:41:21.000Z",
+        "description": "策划药代理出售 | 吉他 | rock |🌈⃤ |梦想是成为rock star | 粪蛆走开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fantasiesbeyon…",
+                "end": 23,
+                "expanded_url": "https://t.me/fantasiesbeyondhumanity",
+                "start": 0,
+                "url": "https://t.co/p7EunRwA0Y"
+              }
+            ]
+          }
+        },
+        "id": "1797292126662987776",
+        "location": "乌托邦",
+        "name": "̶破̶碎̶乌̶托̶邦̶ - ℬ𝓇𝑜𝓀𝑒𝓃 𝒰𝓉𝑜𝓅𝒾𝒶 🎸",
+        "pinned_tweet_id": "1897116026086846713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899382090745208832/mn2i3B_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1360,
+          "like_count": 14012,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 4269
+        },
+        "url": "https://t.co/p7EunRwA0Y",
+        "username": "BrokenUtopia896",
+        "verified": false
+      }
+    ]
+  }
+}

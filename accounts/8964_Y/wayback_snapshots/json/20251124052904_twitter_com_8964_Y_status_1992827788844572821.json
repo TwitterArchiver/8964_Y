@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992826485321908224"
+      ],
+      "media_source_tweet_id": [
+        "1992826498857021633"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1992827788844572821",
+    "created_at": "2025-11-24T05:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992827788844572821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "746962191744638976",
+          "start": 3,
+          "username": "xiliuxiliu_1016"
+        },
+        {
+          "end": 28,
+          "id": "1732356232290222080",
+          "start": 21,
+          "username": "8964_Y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ddz7gCww6t",
+          "end": 59,
+          "expanded_url": "https://x.com/xiliuxiliu_1016/status/1992826498857021633/photo/1",
+          "media_key": "3_1992826485321908224",
+          "start": 36,
+          "url": "https://t.co/Ddz7gCww6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992827788844572821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992826498857021633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiliuxiliu_1016: @8964_Y 只喜欢太阳穴 https://t.co/Ddz7gCww6t"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992827788844572821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992827788844572821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992827788844572821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_1992826485321908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6fxIUSaQAAIB3p.jpg",
+        "width": 319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992826485321908224"
+          ]
+        },
+        "author_id": "746962191744638976",
+        "conversation_id": "1992437552905961539",
+        "created_at": "2025-11-24T05:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992826498857021633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ddz7gCww6t",
+              "end": 38,
+              "expanded_url": "https://x.com/xiliuxiliu_1016/status/1992826498857021633/photo/1",
+              "media_key": "3_1992826485321908224",
+              "start": 15,
+              "url": "https://t.co/Ddz7gCww6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992826498857021633",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992437552905961539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 只喜欢太阳穴 https://t.co/Ddz7gCww6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5865,
+          "following_count": 834,
+          "like_count": 17273,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 13713
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-26T07:03:59.000Z",
+        "description": "不线下，没福利慎重考虑/🚪520/无盈利性质，有正经工作，发照片纯属因为自己身材好爱拍，不涉及任何线下/防炸备用号@XILIUmua_1016/无任何电报谨慎分辨不要被骗‼️从其他地方看到我的照片的皆为诈骗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "XILIUmua_1016"
+              }
+            ]
+          }
+        },
+        "id": "746962191744638976",
+        "location": "去月球",
+        "name": "吸溜吸溜",
+        "pinned_tweet_id": "1945059006529331469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604428508913991680/8vCRbl2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88814,
+          "following_count": 663,
+          "like_count": 18289,
+          "listed_count": 529,
+          "media_count": 279,
+          "tweet_count": 4174
+        },
+        "username": "xiliuxiliu_1016",
+        "verified": false
+      }
+    ]
+  }
+}

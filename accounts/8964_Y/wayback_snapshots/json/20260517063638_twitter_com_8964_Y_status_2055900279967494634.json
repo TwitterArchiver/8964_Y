@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2055900279967494634",
+    "created_at": "2026-05-17T06:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055900279967494634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625161443049078786",
+          "start": 3,
+          "username": "galaxy__08"
+        },
+        {
+          "end": 22,
+          "id": "1507396901594820608",
+          "start": 16,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055900279967494634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055833698734576033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @galaxy__08: @hgds0 终于看到正常国家领导人关系了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2055900279967494634",
+        "created_at": "2026-05-17T06:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055900279967494634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625161443049078786",
+              "start": 3,
+              "username": "galaxy__08"
+            },
+            {
+              "end": 22,
+              "id": "1507396901594820608",
+              "start": 16,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055900279967494634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055833698734576033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @galaxy__08: @hgds0 终于看到正常国家领导人关系了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625161443049078786",
+        "conversation_id": "2055697308034171155",
+        "created_at": "2026-05-17T02:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055833698734576033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055833698734576033",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4186,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055697308034171155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 终于看到正常国家领导人关系了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 733,
+          "like_count": 23360,
+          "listed_count": 19,
+          "media_count": 1107,
+          "tweet_count": 16261
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T15:54:36.000Z",
+        "description": "愛を頂戴",
+        "id": "1625161443049078786",
+        "name": "ミルキーウェイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777726123255984128/J_mnKwsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 182,
+          "like_count": 16640,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 249
+        },
+        "username": "galaxy__08",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97488,
+          "following_count": 2460,
+          "like_count": 44305,
+          "listed_count": 144,
+          "media_count": 4198,
+          "tweet_count": 8594
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

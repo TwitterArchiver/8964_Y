@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027294459936030720",
+        "3_2027294459940282368",
+        "3_2027294459961233409",
+        "3_2027294459940237312"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2027294475245207892",
+    "created_at": "2026-02-27T08:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027294475245207892"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "パンプキンナイト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 80,
+          "id": "127012452",
+          "start": 67,
+          "username": "gussan0seima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DfkANPHsLL",
+          "end": 104,
+          "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+          "media_key": "3_2027294459936030720",
+          "start": 81,
+          "url": "https://t.co/DfkANPHsLL"
+        },
+        {
+          "display_url": "pic.x.com/DfkANPHsLL",
+          "end": 104,
+          "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+          "media_key": "3_2027294459940282368",
+          "start": 81,
+          "url": "https://t.co/DfkANPHsLL"
+        },
+        {
+          "display_url": "pic.x.com/DfkANPHsLL",
+          "end": 104,
+          "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+          "media_key": "3_2027294459961233409",
+          "start": 81,
+          "url": "https://t.co/DfkANPHsLL"
+        },
+        {
+          "display_url": "pic.x.com/DfkANPHsLL",
+          "end": 104,
+          "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+          "media_key": "3_2027294459940237312",
+          "start": 81,
+          "url": "https://t.co/DfkANPHsLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027294475245207892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到了2026第一个超级喜欢的道具🥹👍从2022年就开始就喜欢的漫画，今天拿到了尚子的刀 ，很开心\n#パンプキンナイト \n最好的漫画家@gussan0seima https://t.co/DfkANPHsLL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027294459936030720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJlkfuawAAdR8V.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027294459940282368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJlkfvboAAEtIo.jpg",
+        "width": 801
+      },
+      {
+        "height": 768,
+        "media_key": "3_2027294459961233409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJlkf0bUAEGgmN.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027294459940237312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJlkfva8AA-BOW.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027294459936030720",
+            "3_2027294459940282368",
+            "3_2027294459961233409",
+            "3_2027294459940237312"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2027294475245207892",
+        "created_at": "2026-02-27T08:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027294475245207892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "パンプキンナイト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 80,
+              "id": "127012452",
+              "start": 67,
+              "username": "gussan0seima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DfkANPHsLL",
+              "end": 104,
+              "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+              "media_key": "3_2027294459936030720",
+              "start": 81,
+              "url": "https://t.co/DfkANPHsLL"
+            },
+            {
+              "display_url": "pic.x.com/DfkANPHsLL",
+              "end": 104,
+              "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+              "media_key": "3_2027294459940282368",
+              "start": 81,
+              "url": "https://t.co/DfkANPHsLL"
+            },
+            {
+              "display_url": "pic.x.com/DfkANPHsLL",
+              "end": 104,
+              "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+              "media_key": "3_2027294459961233409",
+              "start": 81,
+              "url": "https://t.co/DfkANPHsLL"
+            },
+            {
+              "display_url": "pic.x.com/DfkANPHsLL",
+              "end": 104,
+              "expanded_url": "https://x.com/8964_Y/status/2027294475245207892/photo/1",
+              "media_key": "3_2027294459940237312",
+              "start": 81,
+              "url": "https://t.co/DfkANPHsLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027294475245207892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了2026第一个超级喜欢的道具🥹👍从2022年就开始就喜欢的漫画，今天拿到了尚子的刀 ，很开心\n#パンプキンナイト \n最好的漫画家@gussan0seima https://t.co/DfkANPHsLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 732,
+          "like_count": 20505,
+          "listed_count": 19,
+          "media_count": 1021,
+          "tweet_count": 14946
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-27T19:02:43.000Z",
+        "description": "細々と漫画描いてます。\nLINEマンガで『パンプキンナイト』（PumpkinNight）連載中。作画担当です。\n\nPixiv：https://t.co/ZaDUVmWdzH　　facebook：https://t.co/nx5idbeBVU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/0827",
+                "end": 86,
+                "expanded_url": "http://pixiv.me/0827",
+                "start": 63,
+                "url": "https://t.co/ZaDUVmWdzH"
+              },
+              {
+                "display_url": "facebook.com/seim",
+                "end": 120,
+                "expanded_url": "https://www.facebook.com/seim",
+                "start": 97,
+                "url": "https://t.co/nx5idbeBVU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimataniguti.blog.shinobi.jp",
+                "end": 23,
+                "expanded_url": "http://seimataniguti.blog.shinobi.jp/",
+                "start": 0,
+                "url": "https://t.co/niYKaiqmvp"
+              }
+            ]
+          }
+        },
+        "id": "127012452",
+        "location": "Japan",
+        "name": "谷口世磨@「パンプキンナイト」LINEマンガで連載中",
+        "pinned_tweet_id": "1894580873024213005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161894585380958210/yyfIwCz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6790,
+          "following_count": 2233,
+          "like_count": 92067,
+          "listed_count": 42,
+          "media_count": 427,
+          "tweet_count": 27275
+        },
+        "url": "https://t.co/niYKaiqmvp",
+        "username": "gussan0seima",
+        "verified": false
+      }
+    ]
+  }
+}

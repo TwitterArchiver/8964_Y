@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2026190284170961286",
+    "created_at": "2026-02-24T11:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T12:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026259733230018923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604168045424914433",
+          "start": 0,
+          "username": "bobi01604691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026259733230018923",
+    "in_reply_to_user_id": "1604168045424914433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026203209363300767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi01604691 嗯我感觉我就是一生气就变了一个人对谁都很刻薄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2026190284170961286",
+        "created_at": "2026-02-24T11:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026259733230018923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604168045424914433",
+              "start": 0,
+              "username": "bobi01604691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026259733230018923",
+        "in_reply_to_user_id": "1604168045424914433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026203209363300767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi01604691 嗯我感觉我就是一生气就变了一个人对谁都很刻薄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604168045424914433",
+        "conversation_id": "2026190284170961286",
+        "created_at": "2026-02-24T07:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026203209363300767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026203209363300767",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026190284170961286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 从一有冲突就产生的反应来判断自己的防御模式然后一点一点地去改变吧，有时候生气然后出口伤人的并不是真正的你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026167554079875079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5993,
+          "following_count": 734,
+          "like_count": 20285,
+          "listed_count": 20,
+          "media_count": 1014,
+          "tweet_count": 14887
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T17:34:08.000Z",
+        "description": "好美好的下午",
+        "id": "1604168045424914433",
+        "name": "不变的你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024081057931464705/qlw-M1TZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 99,
+          "like_count": 1413,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 176
+        },
+        "username": "bobi01604691",
+        "verified": false
+      }
+    ]
+  }
+}

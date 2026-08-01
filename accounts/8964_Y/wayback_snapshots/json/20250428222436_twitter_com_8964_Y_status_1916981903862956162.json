@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1916968964854583480",
+    "created_at": "2025-04-28T22:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T23:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916981903862956162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797573777418862592",
+          "start": 0,
+          "username": "aoa_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916981903862956162",
+    "in_reply_to_user_id": "1797573777418862592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916968964854583480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoa_886 爱了爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916968955639640064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GppxG85aMAAMx41.jpg",
+        "width": 824
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916968955652280321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GppxG88bEAEt4gf.jpg",
+        "width": 824
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916968955744575488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GppxG9SbYAALe9H.jpg",
+        "width": 822
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916968955799052289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GppxG9faoAE9rJ1.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1916968964854583480",
+        "created_at": "2025-04-28T22:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T23:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916981903862956162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797573777418862592",
+              "start": 0,
+              "username": "aoa_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916981903862956162",
+        "in_reply_to_user_id": "1797573777418862592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916968964854583480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoa_886 爱了爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916968955639640064",
+            "3_1916968955652280321",
+            "3_1916968955744575488",
+            "3_1916968955799052289"
+          ]
+        },
+        "author_id": "1797573777418862592",
+        "conversation_id": "1916968964854583480",
+        "created_at": "2025-04-28T21:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T22:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916968964854583480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6Ku30pmbn",
+              "end": 45,
+              "expanded_url": "https://x.com/aoa_886/status/1916968964854583480/photo/1",
+              "media_key": "3_1916968955639640064",
+              "start": 22,
+              "url": "https://t.co/j6Ku30pmbn"
+            },
+            {
+              "display_url": "pic.x.com/j6Ku30pmbn",
+              "end": 45,
+              "expanded_url": "https://x.com/aoa_886/status/1916968964854583480/photo/1",
+              "media_key": "3_1916968955652280321",
+              "start": 22,
+              "url": "https://t.co/j6Ku30pmbn"
+            },
+            {
+              "display_url": "pic.x.com/j6Ku30pmbn",
+              "end": 45,
+              "expanded_url": "https://x.com/aoa_886/status/1916968964854583480/photo/1",
+              "media_key": "3_1916968955744575488",
+              "start": 22,
+              "url": "https://t.co/j6Ku30pmbn"
+            },
+            {
+              "display_url": "pic.x.com/j6Ku30pmbn",
+              "end": 45,
+              "expanded_url": "https://x.com/aoa_886/status/1916968964854583480/photo/1",
+              "media_key": "3_1916968955799052289",
+              "start": 22,
+              "url": "https://t.co/j6Ku30pmbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916968964854583480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人是不是过得不好了就会想起之前对自己好的人 https://t.co/j6Ku30pmbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5435,
+          "following_count": 993,
+          "like_count": 12588,
+          "listed_count": 8,
+          "media_count": 641,
+          "tweet_count": 9673
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T10:19:56.000Z",
+        "description": "Z世代天才浇E员 😇 xox 🤯",
+        "id": "1797573777418862592",
+        "location": "Macau",
+        "name": "aoa",
+        "pinned_tweet_id": "1907446477057913199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907274956662259713/c6OInze0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 166,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 445
+        },
+        "username": "aoa_886",
+        "verified": false
+      }
+    ]
+  }
+}

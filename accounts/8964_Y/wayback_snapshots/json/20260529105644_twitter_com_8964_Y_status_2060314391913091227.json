@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2060304001506394229",
+    "created_at": "2026-05-29T10:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060314391913091227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632832954421633029",
+          "start": 0,
+          "username": "482xxnay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060314391913091227",
+    "in_reply_to_user_id": "1632832954421633029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060313606084813016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@482xxnay 多看看教程就好了嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2060304001506394229",
+        "created_at": "2026-05-29T10:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060314391913091227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632832954421633029",
+              "start": 0,
+              "username": "482xxnay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060314391913091227",
+        "in_reply_to_user_id": "1632832954421633029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060313606084813016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@482xxnay 多看看教程就好了嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632832954421633029",
+        "conversation_id": "2060304001506394229",
+        "created_at": "2026-05-29T10:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060313606084813016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060313606084813016",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060304001506394229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 萌死了宝宝的捏得好可爱 我感觉我怕我捏不好一直不敢玩😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6250,
+          "following_count": 735,
+          "like_count": 23667,
+          "listed_count": 19,
+          "media_count": 1114,
+          "tweet_count": 16374
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck 自我生存娱乐空间 内可能含有NSFW 有SH pill 20+警告 they 我想复健产粮..懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和随时锁推 业余的很笨 有不对的请不要说我对异形勃起欢迎讨论 不会讨厌谁叫我什么都可以不会外语一切用翻译器人很佛",
+        "id": "1632832954421633029",
+        "name": "im gay（盐被肉鸦制2.0）",
+        "pinned_tweet_id": "2060229801282306383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 571,
+          "like_count": 4032,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 4302
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

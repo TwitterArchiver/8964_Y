@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1971048740170707389",
+    "created_at": "2025-09-25T09:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T10:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971151879624364414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1849371733259960320",
+          "start": 0,
+          "username": "a_mo_do_sunda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971151879624364414",
+    "in_reply_to_user_id": "1849371733259960320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971048740170707389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_mo_do_sunda 越来越可爱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1971048740170707389].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1971048740170707389",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1971048740170707389"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1971048740170707389",
+        "created_at": "2025-09-25T09:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T10:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971151879624364414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1849371733259960320",
+              "start": 0,
+              "username": "a_mo_do_sunda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971151879624364414",
+        "in_reply_to_user_id": "1849371733259960320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971048740170707389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_mo_do_sunda 越来越可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜｜🚪100/188/288/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5767,
+          "following_count": 880,
+          "like_count": 16200,
+          "listed_count": 18,
+          "media_count": 860,
+          "tweet_count": 12736
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T08:46:06.000Z",
+        "description": "糞ゲロのサブです",
+        "id": "1849371733259960320",
+        "name": "🩸Woman with bloody vagina🩸",
+        "pinned_tweet_id": "1953454877780451621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960284101069721600/neAVsrEC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 151,
+          "like_count": 15154,
+          "listed_count": 0,
+          "media_count": 1109,
+          "tweet_count": 7905
+        },
+        "username": "a_mo_do_sunda",
+        "verified": false
+      }
+    ]
+  }
+}

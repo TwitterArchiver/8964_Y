@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1931924215340421206",
+    "created_at": "2025-06-09T10:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T11:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932024073376379288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932024073376379288",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931924215340421206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 笑的那么开心，丑恶的嘴脸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32966,
+        "height": 1280,
+        "media_key": "13_1931807474635456512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931807474635456512/img/Ul7V7DjEx9cge3PH.jpg",
+        "public_metrics": {
+          "view_count": 122285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807474635456512/vid/avc1/320x568/dEZ0CINVdNUwyJGp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807474635456512/vid/avc1/480x852/vquY1B3BOZ7-eEW_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807474635456512/vid/avc1/720x1280/hUt5GyEC7P0W08Lk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931807474635456512/pl/H4tYSywzwwxLg8js.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10700,
+        "height": 1280,
+        "media_key": "13_1931807619200536576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931807619200536576/img/WWkQzmKLrPvTb_Gp.jpg",
+        "public_metrics": {
+          "view_count": 13700
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807619200536576/vid/avc1/320x568/h9xJ9e8ndTgma-Hn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807619200536576/vid/avc1/480x852/oPnetBjT6hTc3zQO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807619200536576/vid/avc1/720x1280/M4uVtBd6XbmRtKHX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931807619200536576/pl/rYCBCcUsnrvGxDs5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10309,
+        "height": 1280,
+        "media_key": "13_1931807978761441280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931807978761441280/img/B9jJNs1hamQvTi4v.jpg",
+        "public_metrics": {
+          "view_count": 14622
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807978761441280/vid/avc1/320x568/iSZqBGdHzXR27r8O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807978761441280/vid/avc1/480x852/fZW_nUfxwgLrSHEF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931807978761441280/vid/avc1/720x1280/5COU3WQFC_NMOroJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931807978761441280/pl/ME43iqQKh3P-iNNg.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1061,
+        "media_key": "3_1931808410539884544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8pg6RXgAAxlX2.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1931924215340421206",
+        "created_at": "2025-06-09T10:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932024073376379288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932024073376379288",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931924215340421206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 笑的那么开心，丑恶的嘴脸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931807474635456512",
+            "13_1931807619200536576",
+            "13_1931807978761441280",
+            "3_1931808410539884544"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1931924215340421206",
+        "created_at": "2025-06-09T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931924215340421206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqMvvDCyMT",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931924215340421206/video/1",
+              "media_key": "13_1931807474635456512",
+              "start": 147,
+              "url": "https://t.co/tqMvvDCyMT"
+            },
+            {
+              "display_url": "pic.x.com/tqMvvDCyMT",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931924215340421206/video/1",
+              "media_key": "13_1931807619200536576",
+              "start": 147,
+              "url": "https://t.co/tqMvvDCyMT"
+            },
+            {
+              "display_url": "pic.x.com/tqMvvDCyMT",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931924215340421206/video/1",
+              "media_key": "13_1931807978761441280",
+              "start": 147,
+              "url": "https://t.co/tqMvvDCyMT"
+            },
+            {
+              "display_url": "pic.x.com/tqMvvDCyMT",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931924215340421206/video/1",
+              "media_key": "3_1931808410539884544",
+              "start": 147,
+              "url": "https://t.co/tqMvvDCyMT"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1929704592117248289",
+              "start": 171,
+              "url": "https://t.co/aPxrM4qaFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931924215340421206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 526226,
+          "like_count": 1005,
+          "quote_count": 36,
+          "reply_count": 189,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929704592117248289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月8日，再度发生有人因COS《我的英雄学院》遭遇霸凌事件\n当天在辽宁省沈阳市沈阳中街商城内，一名少女因COS《我的英雄学院》中的角色，遭遇几名其他Coser的围攻。视频中，少女被一群人围在角落，随后其假发被人从背后扯掉，并引发嘲笑\n据施暴者称，事后少女报警，三人被捕。但他困惑对方怎么敢报警 https://t.co/tqMvvDCyMT https://t.co/aPxrM4qaFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5509,
+          "following_count": 940,
+          "like_count": 13461,
+          "listed_count": 8,
+          "media_count": 713,
+          "tweet_count": 10568
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1930033346018480586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012068,
+          "following_count": 959,
+          "like_count": 6905,
+          "listed_count": 8166,
+          "media_count": 29587,
+          "tweet_count": 36130
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

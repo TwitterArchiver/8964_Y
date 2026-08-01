@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2027294475245207892",
+    "created_at": "2026-02-28T04:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027606742948016581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943996877340651529",
+          "start": 0,
+          "username": "Lshls1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027606742948016581",
+    "in_reply_to_user_id": "1943996877340651529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027482300804698414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lshls1234 猜猜吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2027294475245207892",
+        "created_at": "2026-02-28T04:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027606742948016581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943996877340651529",
+              "start": 0,
+              "username": "Lshls1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027606742948016581",
+        "in_reply_to_user_id": "1943996877340651529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027482300804698414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lshls1234 猜猜吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943996877340651529",
+        "conversation_id": "2027294475245207892",
+        "created_at": "2026-02-27T20:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027482300804698414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 21,
+              "id": "127012452",
+              "start": 8,
+              "username": "gussan0seima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027482300804698414",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027294475245207892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @gussan0seima 好帅的刀，有开刃吗🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "我的能力仅仅是透支好运罢了｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "QY_art7"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6274,
+          "following_count": 732,
+          "like_count": 20520,
+          "listed_count": 19,
+          "media_count": 1022,
+          "tweet_count": 14970
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T11:32:41.000Z",
+        "description": "当下就是历史，每时每刻都变成历史",
+        "id": "1943996877340651529",
+        "location": "浙江",
+        "name": "EtGs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027481416565719040/PwWlUztk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 251,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 133
+        },
+        "username": "Lshls1234",
+        "verified": false
+      }
+    ]
+  }
+}

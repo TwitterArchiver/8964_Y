@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2029219205254660554",
+    "created_at": "2026-03-05T05:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029422818845442060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954570475792961537",
+          "start": 0,
+          "username": "rainyosora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029422818845442060",
+    "in_reply_to_user_id": "1954570475792961537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029419792978035054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainyosora 冷知识：OTC和RX也可以毁掉青少年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2029219205254660554",
+        "created_at": "2026-03-05T05:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029422818845442060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954570475792961537",
+              "start": 0,
+              "username": "rainyosora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029422818845442060",
+        "in_reply_to_user_id": "1954570475792961537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029419792978035054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainyosora 冷知识：OTC和RX也可以毁掉青少年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954570475792961537",
+        "conversation_id": "2029219205254660554",
+        "created_at": "2026-03-05T04:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T05:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029419792978035054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029419792978035054",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029219205254660554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 冷知识：OTC和RX也可以毁掉青少年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪300/520无区别纯绿谢谢！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6294,
+          "following_count": 737,
+          "like_count": 20794,
+          "listed_count": 19,
+          "media_count": 1021,
+          "tweet_count": 15073
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T15:48:26.000Z",
+        "description": "CN｜日本語はまだ勉強中なので、変な表現があったらすみません🙏  |  フォロバします  |  0verdose  |  啥好玩发什么  |  有信息回复拖延症见谅(シ_ _)シ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyyosora1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainyyosora1",
+                "start": 0,
+                "url": "https://t.co/Lic0YPtaUU"
+              }
+            ]
+          }
+        },
+        "id": "1954570475792961537",
+        "location": "没回fo可以提醒我!",
+        "name": "薬井(互fo)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019760460128776192/dzr9Wi_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 95,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/Lic0YPtaUU",
+        "username": "rainyosora",
+        "verified": false
+      }
+    ]
+  }
+}

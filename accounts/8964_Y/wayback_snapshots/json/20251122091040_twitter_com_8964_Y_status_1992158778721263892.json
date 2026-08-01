@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1991819002772136448",
+    "created_at": "2025-11-22T09:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T10:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992158778721263892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1138331212710178819",
+          "start": 0,
+          "username": "akane311320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992158778721263892",
+    "in_reply_to_user_id": "1138331212710178819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991819002772136448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akane311320 死掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1991819002772136448",
+        "created_at": "2025-11-22T09:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992158778721263892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1138331212710178819",
+              "start": 0,
+              "username": "akane311320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992158778721263892",
+        "in_reply_to_user_id": "1138331212710178819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991819002772136448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akane311320 死掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138331212710178819",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1991819002772136448",
+        "created_at": "2025-11-21T10:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991819002772136448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991819002772136448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "痴迷邪典电影不会让你变成文艺逼只会变成脑残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 862,
+          "like_count": 17100,
+          "listed_count": 17,
+          "media_count": 929,
+          "tweet_count": 13621
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T06:24:45.000Z",
+        "description": "距离奇迹发生还有＿天 备用号@akane3203",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "akane3203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akane26634",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akane26634",
+                "start": 0,
+                "url": "https://t.co/5Ra3x0vJvv"
+              }
+            ]
+          }
+        },
+        "id": "1138331212710178819",
+        "location": "问坐标20r",
+        "name": "茜",
+        "pinned_tweet_id": "1951186399761191118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947569319358971904/JQ3fGSLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 57,
+          "like_count": 320,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 1388
+        },
+        "url": "https://t.co/5Ra3x0vJvv",
+        "username": "akane311320",
+        "verified": false
+      }
+    ]
+  }
+}

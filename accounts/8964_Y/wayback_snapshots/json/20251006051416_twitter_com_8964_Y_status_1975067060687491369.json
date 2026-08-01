@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1974823977475301574",
+    "created_at": "2025-10-06T05:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T06:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975067060687491369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738949757047803904",
+          "start": 0,
+          "username": "wonyoung_0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975067060687491369",
+    "in_reply_to_user_id": "1738949757047803904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974828441137779193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wonyoung_0122 鬼鬼👭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1974823977475301574",
+        "created_at": "2025-10-06T05:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975067060687491369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738949757047803904",
+              "start": 0,
+              "username": "wonyoung_0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975067060687491369",
+        "in_reply_to_user_id": "1738949757047803904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974828441137779193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonyoung_0122 鬼鬼👭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738949757047803904",
+        "conversation_id": "1974823977475301574",
+        "created_at": "2025-10-05T13:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974828441137779193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974828441137779193",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974823977475301574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 闺蜜你萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 873,
+          "like_count": 16138,
+          "listed_count": 18,
+          "media_count": 881,
+          "tweet_count": 12881
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T15:49:37.000Z",
+        "description": "这里是小欢(=^ω^=)/低俗/低智商/性压抑/我宝宝：@YANYANQAQTXDY @QingChi2226 不厌男不厌女厌傻逼谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "YANYANQAQTXDY"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "QingChi2226"
+              }
+            ]
+          }
+        },
+        "id": "1738949757047803904",
+        "location": "死亦何苦",
+        "name": "生亦何欢（金主颜颜）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966170946739531776/oItAUmp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5035,
+          "following_count": 335,
+          "like_count": 1364,
+          "listed_count": 13,
+          "media_count": 72,
+          "tweet_count": 2384
+        },
+        "username": "wonyoung_0122",
+        "verified": false
+      }
+    ]
+  }
+}

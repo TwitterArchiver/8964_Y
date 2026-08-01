@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1930554066859372967",
+    "created_at": "2025-06-05T11:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T12:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930582624189477318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1849371733259960320",
+          "start": 0,
+          "username": "a_mo_do_sunda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930582624189477318",
+    "in_reply_to_user_id": "1849371733259960320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930554066859372967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_mo_do_sunda 爽啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27217,
+        "height": 1280,
+        "media_key": "7_1930554035524030464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930554035524030464/pu/img/Qqc-7QJ8t8LM9H6K.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930554035524030464/pu/vid/avc1/320x568/YGwyUW0rXqLGzLaX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930554035524030464/pu/vid/avc1/480x852/4pQT17tqYZF6OKqh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930554035524030464/pu/vid/avc1/720x1280/yoa7E8c9WozjLJyK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930554035524030464/pu/pl/tCbAuK7mg4mRM0Er.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1930553910789558272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsq0jahaUAAUYij.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1930554066859372967",
+        "created_at": "2025-06-05T11:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930582624189477318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1849371733259960320",
+              "start": 0,
+              "username": "a_mo_do_sunda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930582624189477318",
+        "in_reply_to_user_id": "1849371733259960320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930554066859372967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_mo_do_sunda 爽啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1930554035524030464",
+            "3_1930553910789558272"
+          ]
+        },
+        "author_id": "1849371733259960320",
+        "conversation_id": "1930554066859372967",
+        "created_at": "2025-06-05T09:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930554066859372967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxNHJrCVnN",
+              "end": 23,
+              "expanded_url": "https://x.com/a_mo_do_sunda/status/1930554066859372967/video/1",
+              "media_key": "7_1930554035524030464",
+              "start": 0,
+              "url": "https://t.co/CxNHJrCVnN"
+            },
+            {
+              "display_url": "pic.x.com/CxNHJrCVnN",
+              "end": 23,
+              "expanded_url": "https://x.com/a_mo_do_sunda/status/1930554066859372967/video/1",
+              "media_key": "3_1930553910789558272",
+              "start": 0,
+              "url": "https://t.co/CxNHJrCVnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930554066859372967",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CxNHJrCVnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5491,
+          "following_count": 940,
+          "like_count": 13406,
+          "listed_count": 8,
+          "media_count": 708,
+          "tweet_count": 10471
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T08:46:06.000Z",
+        "description": "糞ゲロのサブです。絵→https://t.co/78zMZvZQOI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Kuso_Gero_Yaro…",
+                "end": 34,
+                "expanded_url": "https://x.com/Kuso_Gero_Yaro_?t=6wOgvqIlqLahW7odX-kj9w&s=09",
+                "start": 11,
+                "url": "https://t.co/78zMZvZQOI"
+              }
+            ]
+          }
+        },
+        "id": "1849371733259960320",
+        "name": "あーもうはむ助",
+        "pinned_tweet_id": "1929149096880734647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886339742197067776/fX6zWwyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 133,
+          "like_count": 6389,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 3821
+        },
+        "username": "a_mo_do_sunda",
+        "verified": false
+      }
+    ]
+  }
+}

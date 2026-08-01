@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1933724366665363666",
+    "created_at": "2025-06-14T04:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T05:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933743974277394693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "linnyii910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933743974277394693",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933724366665363666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linnyii910 基操还发出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3023,
+        "height": 592,
+        "media_key": "13_1933724328547528706",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933724328547528706/img/Y3xjvGIphJ1uJQ4U.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933724328547528706/vid/avc1/582x270/Cqvi5XLTDyLL7W8c.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933724328547528706/vid/avc1/778x360/Tq5Klu1oW8KW0_oc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933724328547528706/vid/avc1/1280x592/hgmNk3x2oFzsfHE8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933724328547528706/pl/_7KEeecnDojDCE7h.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1933724366665363666",
+        "created_at": "2025-06-14T04:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933743974277394693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "linnyii910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933743974277394693",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933724366665363666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linnyii910 基操还发出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933724328547528706"
+          ]
+        },
+        "author_id": "1883727989671944192",
+        "conversation_id": "1933724366665363666",
+        "created_at": "2025-06-14T03:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T04:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933724366665363666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3diO5kdcu",
+              "end": 39,
+              "expanded_url": "https://x.com/linnyii910/status/1933724366665363666/video/1",
+              "media_key": "13_1933724328547528706",
+              "start": 16,
+              "url": "https://t.co/y3diO5kdcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933724366665363666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女孩子的无敌帧男孩子打不出来哦 https://t.co/y3diO5kdcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 938,
+          "like_count": 13619,
+          "listed_count": 8,
+          "media_count": 720,
+          "tweet_count": 10695
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "🚪52/188 我要守护的女孩:@jiangqidawang 另一个我:@nidiemasile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "jiangqidawang"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "nidiemasile"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=XQd8EqLh",
+                "start": 0,
+                "url": "https://t.co/ZxG5Lco8Fc"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1924039501069856843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 645,
+          "like_count": 7560,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 6501
+        },
+        "url": "https://t.co/ZxG5Lco8Fc",
+        "username": "linnyii910",
+        "verified": false
+      }
+    ]
+  }
+}

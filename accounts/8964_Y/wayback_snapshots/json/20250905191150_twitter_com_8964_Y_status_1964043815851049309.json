@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1964042798229012513",
+    "created_at": "2025-09-05T19:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T20:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964043815851049309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749768500132917249",
+          "start": 0,
+          "username": "ben_gao91923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964043815851049309",
+    "in_reply_to_user_id": "1749768500132917249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964043543309406482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ben_gao91923 真的吗😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1964042798229012513",
+        "created_at": "2025-09-05T19:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964043815851049309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749768500132917249",
+              "start": 0,
+              "username": "ben_gao91923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964043815851049309",
+        "in_reply_to_user_id": "1749768500132917249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964043543309406482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ben_gao91923 真的吗😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749768500132917249",
+        "conversation_id": "1964042798229012513",
+        "created_at": "2025-09-05T19:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964043543309406482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964043543309406482",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964042798229012513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我特殊关注了主波😄😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5735,
+          "following_count": 879,
+          "like_count": 15870,
+          "listed_count": 18,
+          "media_count": 840,
+          "tweet_count": 12408
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T12:18:31.000Z",
+        "description": "",
+        "id": "1749768500132917249",
+        "location": "Osaka-shi Chuo, Osaka",
+        "name": "蓝色猫咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847325912897114112/TlBreNRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 688,
+          "like_count": 1881,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 288
+        },
+        "username": "ben_gao91923",
+        "verified": false
+      }
+    ]
+  }
+}

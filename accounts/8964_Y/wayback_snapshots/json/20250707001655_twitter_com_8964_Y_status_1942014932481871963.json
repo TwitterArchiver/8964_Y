@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1934581168000970916",
+    "created_at": "2025-07-07T00:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T01:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942014932481871963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915369312900308999",
+          "start": 0,
+          "username": "oGPVKad09s37655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942014932481871963",
+    "in_reply_to_user_id": "1915369312900308999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934581168000970916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oGPVKad09s37655 没人会觉得你烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1934581168000970916",
+        "created_at": "2025-07-07T00:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T01:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942014932481871963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915369312900308999",
+              "start": 0,
+              "username": "oGPVKad09s37655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942014932481871963",
+        "in_reply_to_user_id": "1915369312900308999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934581168000970916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oGPVKad09s37655 没人会觉得你烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915369312900308999",
+        "conversation_id": "1934581168000970916",
+        "created_at": "2025-06-16T11:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934581168000970916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934581168000970916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想跟别人聊天但是总感觉都会嫌我很烦我好像每天都有说不完的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5508,
+          "following_count": 942,
+          "like_count": 14542,
+          "listed_count": 10,
+          "media_count": 761,
+          "tweet_count": 11458
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T11:37:06.000Z",
+        "description": "",
+        "id": "1915369312900308999",
+        "name": "雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915369853000835073/C3KMygb5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "oGPVKad09s37655",
+        "verified": false
+      }
+    ]
+  }
+}

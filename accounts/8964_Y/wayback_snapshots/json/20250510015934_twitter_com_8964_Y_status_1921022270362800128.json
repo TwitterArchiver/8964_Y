@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920791433642221568"
+      ],
+      "media_source_tweet_id": [
+        "1920791581856075859"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1921022270362800128",
+    "created_at": "2025-05-10T01:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T02:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921022270362800128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 21,
+          "tag": "chainsawman"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "CSM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1250413012885725189",
+          "start": 3,
+          "username": "Mojiba7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVvTUz4Cvs",
+          "end": 63,
+          "expanded_url": "https://x.com/Mojiba7/status/1920791581856075859/photo/1",
+          "media_key": "3_1920791433642221568",
+          "start": 40,
+          "url": "https://t.co/hVvTUz4Cvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921022270362800128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920791581856075859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mojiba7: 血の天使パワー\n#chainsawman  #CSM https://t.co/hVvTUz4Cvs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1826,
+        "media_key": "3_1920791433642221568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgFodHboAAqUXA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920791433642221568"
+          ],
+          "media_source_tweet_id": [
+            "1920791581856075859"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1921022270362800128",
+        "created_at": "2025-05-10T01:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T02:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921022270362800128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 21,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "CSM"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1250413012885725189",
+              "start": 3,
+              "username": "Mojiba7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVvTUz4Cvs",
+              "end": 63,
+              "expanded_url": "https://x.com/Mojiba7/status/1920791581856075859/photo/1",
+              "media_key": "3_1920791433642221568",
+              "start": 40,
+              "url": "https://t.co/hVvTUz4Cvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921022270362800128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920791581856075859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mojiba7: 血の天使パワー\n#chainsawman  #CSM https://t.co/hVvTUz4Cvs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920791433642221568"
+          ]
+        },
+        "author_id": "1250413012885725189",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1920791581856075859",
+        "created_at": "2025-05-09T10:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920791581856075859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 8,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "CSM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVvTUz4Cvs",
+              "end": 50,
+              "expanded_url": "https://x.com/Mojiba7/status/1920791581856075859/photo/1",
+              "media_key": "3_1920791433642221568",
+              "start": 27,
+              "url": "https://t.co/hVvTUz4Cvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920791581856075859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 7846,
+          "like_count": 650,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "血の天使パワー\n#chainsawman  #CSM https://t.co/hVvTUz4Cvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5475,
+          "following_count": 982,
+          "like_count": 12821,
+          "listed_count": 8,
+          "media_count": 663,
+          "tweet_count": 9876
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T13:18:25.000Z",
+        "description": "基本的にチェンソーマンの二次創作(イラスト・漫画・動画)を描いてます。アニメより先の内容もツイートするのでご了承ください。I use a translator for foreign languages, so there may be mistakes. サブ垢→ @mojiba9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 134,
+                "username": "mojiba9"
+              }
+            ]
+          }
+        },
+        "id": "1250413012885725189",
+        "name": "もじば",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577310013932339200/V3Qwnetn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25203,
+          "following_count": 303,
+          "like_count": 13906,
+          "listed_count": 109,
+          "media_count": 326,
+          "tweet_count": 2162
+        },
+        "username": "Mojiba7",
+        "verified": false
+      }
+    ]
+  }
+}

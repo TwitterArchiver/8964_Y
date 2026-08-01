@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950845946792697856"
+      ],
+      "media_source_tweet_id": [
+        "1950845949837775021"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1951492128355524725",
+    "created_at": "2025-08-02T03:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T04:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951492128355524725"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "america",
+          "probability": 0.4111,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 41,
+          "normalized_text": "chainsawman",
+          "probability": 0.5404,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 30,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1402298850027659264",
+          "start": 3,
+          "username": "rinneKO_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FspKOkREhh",
+          "end": 66,
+          "expanded_url": "https://x.com/rinneKO_art/status/1950845949837775021/photo/1",
+          "media_key": "3_1950845946792697856",
+          "start": 43,
+          "url": "https://t.co/FspKOkREhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951492128355524725",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 611
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950845949837775021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinneKO_art: america ya!\n\n#chainsawman https://t.co/FspKOkREhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_1950845946792697856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLMDXYW4AANExH.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950845946792697856"
+          ],
+          "media_source_tweet_id": [
+            "1950845949837775021"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1951492128355524725",
+        "created_at": "2025-08-02T03:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T04:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951492128355524725"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "america",
+              "probability": 0.4111,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "chainsawman",
+              "probability": 0.5404,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1402298850027659264",
+              "start": 3,
+              "username": "rinneKO_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FspKOkREhh",
+              "end": 66,
+              "expanded_url": "https://x.com/rinneKO_art/status/1950845949837775021/photo/1",
+              "media_key": "3_1950845946792697856",
+              "start": 43,
+              "url": "https://t.co/FspKOkREhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951492128355524725",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 611
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950845949837775021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinneKO_art: america ya!\n\n#chainsawman https://t.co/FspKOkREhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950845946792697856"
+          ]
+        },
+        "author_id": "1402298850027659264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1950845949837775021",
+        "created_at": "2025-07-31T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950845949837775021"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "chainsawman",
+              "probability": 0.6064,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FspKOkREhh",
+              "end": 49,
+              "expanded_url": "https://x.com/rinneKO_art/status/1950845949837775021/photo/1",
+              "media_key": "3_1950845946792697856",
+              "start": 26,
+              "url": "https://t.co/FspKOkREhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950845949837775021",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 27076,
+          "like_count": 4102,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 611
+        },
+        "reply_settings": "everyone",
+        "text": "america ya!\n\n#chainsawman https://t.co/FspKOkREhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 873,
+          "like_count": 15339,
+          "listed_count": 13,
+          "media_count": 790,
+          "tweet_count": 11885
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T16:27:49.000Z",
+        "description": "Chainsaw Man Artist • Don't repost my art without permission • Do NOT use AI for anything related to my art • Minors DNI",
+        "id": "1402298850027659264",
+        "name": "r i n n e",
+        "pinned_tweet_id": "1896648211999363477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947281953729732610/D9O6jzXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13332,
+          "following_count": 1373,
+          "like_count": 44710,
+          "listed_count": 30,
+          "media_count": 1896,
+          "tweet_count": 15565
+        },
+        "username": "rinneKO_art",
+        "verified": false
+      }
+    ]
+  }
+}

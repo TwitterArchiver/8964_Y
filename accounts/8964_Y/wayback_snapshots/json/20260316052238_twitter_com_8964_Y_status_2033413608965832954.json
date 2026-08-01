@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2033182278008873021",
+    "created_at": "2026-03-16T05:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033413608965832954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1519924607976980480",
+          "start": 0,
+          "username": "Nght_Walkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033413608965832954",
+    "in_reply_to_user_id": "1519924607976980480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033182278008873021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nght_Walkr 呆傻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 175034,
+        "height": 1080,
+        "media_key": "13_2033181368658669569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033181368658669569/img/kvdYK4MsX5ztwS9c.jpg",
+        "public_metrics": {
+          "view_count": 33335
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033181368658669569/vid/avc1/1920x1080/OWQ4jR4dBLIcSQ3f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033181368658669569/pl/kbgvkrLki0OZkNDL.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033181368658669569/vid/avc1/480x270/mqBxk7O2cuKak1K2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033181368658669569/vid/avc1/640x360/7HwxwDf0vnGDIQo4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033181368658669569/vid/avc1/1280x720/h0SnXz-FiLOzdHx6.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2033182278008873021",
+        "created_at": "2026-03-16T05:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033413608965832954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1519924607976980480",
+              "start": 0,
+              "username": "Nght_Walkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033413608965832954",
+        "in_reply_to_user_id": "1519924607976980480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033182278008873021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nght_Walkr 呆傻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033181368658669569"
+          ]
+        },
+        "author_id": "1519924607976980480",
+        "conversation_id": "2033182278008873021",
+        "created_at": "2026-03-15T14:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033182278008873021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpKuVqygEc",
+              "end": 50,
+              "expanded_url": "https://x.com/Nght_Walkr/status/2033182278008873021/video/1",
+              "media_key": "13_2033181368658669569",
+              "start": 27,
+              "url": "https://t.co/cpKuVqygEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033182278008873021",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 849,
+          "impression_count": 46930,
+          "like_count": 3000,
+          "quote_count": 7,
+          "reply_count": 29,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "Power is just the best 🙌❤️ https://t.co/cpKuVqygEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2030257063566414125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6306,
+          "following_count": 738,
+          "like_count": 21403,
+          "listed_count": 19,
+          "media_count": 1038,
+          "tweet_count": 15337
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T06:21:09.000Z",
+        "description": "22 | He/him | Mutifandom anime/manga lover | ❤️ CSM, AOT, JJBA, OP, Bleach, JJK, and more…| Watching/Posting Hell’s Paradise 🔥🌺",
+        "id": "1519924607976980480",
+        "location": "Cafe Crossraods ☕️",
+        "name": "𝙰 𝚔 𝚒",
+        "pinned_tweet_id": "2033223786405769365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028300198556950528/qI3QxOjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4155,
+          "following_count": 1059,
+          "like_count": 55389,
+          "listed_count": 16,
+          "media_count": 3819,
+          "tweet_count": 21990
+        },
+        "username": "Nght_Walkr",
+        "verified": true
+      }
+    ]
+  }
+}

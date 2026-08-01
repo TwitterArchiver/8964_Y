@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2080361789754355904",
+    "created_at": "2026-07-25T14:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081029142146060734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875114381807427584",
+          "start": 0,
+          "username": "Liangsicheng127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081029142146060734",
+    "in_reply_to_user_id": "1875114381807427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081028609536557318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangsicheng127 太贵了😭需要平价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2080361789754355904",
+        "created_at": "2026-07-25T14:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081029142146060734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875114381807427584",
+              "start": 0,
+              "username": "Liangsicheng127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081029142146060734",
+        "in_reply_to_user_id": "1875114381807427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081028609536557318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangsicheng127 太贵了😭需要平价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875114381807427584",
+        "conversation_id": "2080361789754355904",
+        "created_at": "2026-07-25T14:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081028609536557318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081028609536557318",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080361789754355904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y cpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11｜🚪200好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6711,
+          "following_count": 743,
+          "like_count": 25195,
+          "listed_count": 19,
+          "media_count": 1187,
+          "tweet_count": 17038
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-03T09:38:16.000Z",
+        "description": "坠入爱河的前提是，你不能有意坠入",
+        "id": "1875114381807427584",
+        "location": "福州市",
+        "name": "医生不让坠入爱河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879187300258848769/lnI5Qine_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 69,
+          "like_count": 3732,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 1550
+        },
+        "url": "",
+        "username": "Liangsicheng127",
+        "verified": false
+      }
+    ]
+  }
+}

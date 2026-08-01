@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1898444348112740724",
+    "created_at": "2025-03-08T18:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T19:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898444348112740724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/d_design_oku/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/d_design_oku/status/1890966330674749660",
+          "start": 9,
+          "url": "https://t.co/jVHizJCmM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898444348112740724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890966330674749660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小凛就是小偶像呀 https://t.co/jVHizJCmM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3576,
+        "media_key": "3_1890962213286113280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj4MHT6a8AAVBzR.jpg",
+        "width": 2597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898444348112740724",
+        "created_at": "2025-03-08T18:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T19:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898444348112740724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d_design_oku/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/d_design_oku/status/1890966330674749660",
+              "start": 9,
+              "url": "https://t.co/jVHizJCmM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898444348112740724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890966330674749660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小凛就是小偶像呀 https://t.co/jVHizJCmM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890962213286113280"
+          ]
+        },
+        "author_id": "1648587891009015808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1890966330674749660",
+        "created_at": "2025-02-16T03:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T04:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890966330674749660"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "佐脇凛",
+              "probability": 0.489,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 15,
+              "normalized_text": "さわきりん",
+              "probability": 0.4862,
+              "start": 11,
+              "type": "Person"
+            },
+            {
+              "end": 29,
+              "normalized_text": "乗る舞ちゃん",
+              "probability": 0.3434,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 141,
+              "tag": "ダンダダン"
+            },
+            {
+              "end": 157,
+              "start": 148,
+              "tag": "dandadan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/D_DESIGN_OKU/s…",
+              "end": 140,
+              "expanded_url": "https://x.com/D_DESIGN_OKU/status/1889081410516099240",
+              "start": 117,
+              "url": "https://t.co/bhvF58UNuO"
+            },
+            {
+              "display_url": "pic.x.com/01xtb1BymR",
+              "end": 181,
+              "expanded_url": "https://x.com/D_DESIGN_OKU/status/1890966330674749660/photo/1",
+              "media_key": "3_1890962213286113280",
+              "start": 158,
+              "url": "https://t.co/01xtb1BymR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890966330674749660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 30358,
+          "like_count": 731,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889081410516099240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【ダンダダン】佐脇凛（さわきりん）🥳✨✨と肩に乗る舞ちゃん（足バタバタ中）を描きました〜😆✨✨普通の子すぎてダンダダンのキャラと気づかれないかも😅💦左下🙄来てるよ〜‼️最新話の最後も襲われそうだった…。これから凄い活躍しそう🥳前回▶︎https://t.co/bhvF58UNuO #ダンダダン #dandadan https://t.co/01xtb1BymR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4881,
+          "following_count": 918,
+          "like_count": 10245,
+          "listed_count": 6,
+          "media_count": 533,
+          "tweet_count": 7894
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T07:22:57.000Z",
+        "description": "【生きていたら色んなことがあるけれど、それも全てデザインへ活かしたい！】デザイナー歴19年_WEB DESIGN/グラフィックデザイン/LPデザイン/ロゴ/パッケージ/キャラクターデザイン/イラストと幅広く活動するパパデザイナーです。",
+        "id": "1648587891009015808",
+        "name": "【息子のムチャぶり】を叶えるパパ/Designer",
+        "pinned_tweet_id": "1685463677900840961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678094795628216320/uz1ydlDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8563,
+          "following_count": 9155,
+          "like_count": 196516,
+          "listed_count": 23,
+          "media_count": 227,
+          "tweet_count": 962
+        },
+        "username": "D_DESIGN_OKU",
+        "verified": false
+      }
+    ]
+  }
+}

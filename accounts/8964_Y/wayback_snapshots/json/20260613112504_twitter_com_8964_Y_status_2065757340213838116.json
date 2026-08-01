@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2065757340213838116",
+    "created_at": "2026-06-13T11:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065757340213838116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liskim13/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/liskim13/status/2056747916308717976",
+          "start": 4,
+          "url": "https://t.co/JAKLBKWegc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065757340213838116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056747916308717976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太萌了 https://t.co/JAKLBKWegc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2523,
+        "media_key": "3_2056747907118956544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsJUwxagAAn3Xk.jpg",
+        "width": 2888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2065757340213838116",
+        "created_at": "2026-06-13T11:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065757340213838116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liskim13/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/liskim13/status/2056747916308717976",
+              "start": 4,
+              "url": "https://t.co/JAKLBKWegc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065757340213838116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056747916308717976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太萌了 https://t.co/JAKLBKWegc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056747907118956544"
+          ]
+        },
+        "author_id": "1210250390484054024",
+        "conversation_id": "2056747916308717976",
+        "created_at": "2026-05-19T14:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056747916308717976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMcZ6bcIUw",
+              "end": 204,
+              "expanded_url": "https://x.com/lisKim13/status/2056747916308717976/photo/1",
+              "media_key": "3_2056747907118956544",
+              "start": 181,
+              "url": "https://t.co/HMcZ6bcIUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056747916308717976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 17725,
+          "like_count": 1347,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "Only 2 days left for the Annenkova plush! Thank you all so much for purchasing this plush and making this a successful project. Also, if you haven't bought one yet, grab yours now! https://t.co/HMcZ6bcIUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2063991119185064183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6207,
+          "following_count": 737,
+          "like_count": 24005,
+          "listed_count": 19,
+          "media_count": 1130,
+          "tweet_count": 16506
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-26T17:26:01.000Z",
+        "description": "Most of what I draw is simply because I enjoy it",
+        "id": "1210250390484054024",
+        "location": "k",
+        "name": "LisKim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961023103049605120/x7mdFJOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47808,
+          "following_count": 418,
+          "like_count": 13166,
+          "listed_count": 173,
+          "media_count": 453,
+          "tweet_count": 2012
+        },
+        "username": "lisKim13",
+        "verified": false
+      }
+    ]
+  }
+}

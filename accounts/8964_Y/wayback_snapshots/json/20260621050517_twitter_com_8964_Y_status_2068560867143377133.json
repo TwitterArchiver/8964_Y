@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2067994874540859656",
+    "created_at": "2026-06-21T05:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068560867143377133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1762276368132243456",
+          "start": 0,
+          "username": "wazyiu"
+        },
+        {
+          "end": 17,
+          "id": "1845491203124441093",
+          "start": 8,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068560867143377133",
+    "in_reply_to_user_id": "1762276368132243456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067994874540859656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wazyiu @yu_huacs 您咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2067994870208167936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL-YLQWgAAUP_-.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2067994874540859656",
+        "created_at": "2026-06-21T05:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068560867143377133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1762276368132243456",
+              "start": 0,
+              "username": "wazyiu"
+            },
+            {
+              "end": 17,
+              "id": "1845491203124441093",
+              "start": 8,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068560867143377133",
+        "in_reply_to_user_id": "1762276368132243456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067994874540859656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wazyiu @yu_huacs 您咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067994870208167936"
+          ]
+        },
+        "author_id": "1762276368132243456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Hirohiko Araki (荒木飛呂彦)",
+              "id": "1088910717338566656",
+              "name": "Hirohiko Araki (荒木飛呂彦)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2067994874540859656",
+        "created_at": "2026-06-19T15:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067994874540859656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQem6VVuWB",
+              "end": 160,
+              "expanded_url": "https://x.com/wazyiu/status/2067994874540859656/photo/1",
+              "media_key": "3_2067994870208167936",
+              "start": 137,
+              "url": "https://t.co/dQem6VVuWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067994874540859656",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1258,
+          "impression_count": 2830427,
+          "like_count": 32652,
+          "quote_count": 735,
+          "reply_count": 565,
+          "retweet_count": 2531
+        },
+        "reply_settings": "everyone",
+        "text": "URGENT🚨 :\n\nLe mangaka et créateur de JoJo, Hirohiko Araki , a été retrouvé vivant et en bonne santé dans sa maison au Japon. Il a 66ans. https://t.co/dQem6VVuWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6628,
+          "following_count": 744,
+          "like_count": 24272,
+          "listed_count": 19,
+          "media_count": 1143,
+          "tweet_count": 16603
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T00:41:07.000Z",
+        "description": "jeune instable",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/Zq7Gf4cBGA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/Zq7Gf4cBGA",
+                "start": 0,
+                "url": "https://t.co/b9yGv6704K"
+              }
+            ]
+          }
+        },
+        "id": "1762276368132243456",
+        "location": "France",
+        "name": "jeune waz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067008058299928576/ihni9ibu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 483,
+          "like_count": 2288,
+          "listed_count": 1,
+          "media_count": 967,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/b9yGv6704K",
+        "username": "wazyiu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "运动宅系男子 日常发牢骚推 有精神病内容 双相 皮上是健全の公路车技师 想和很多很多人交朋友 一个长期的家里蹲 少有cos照 有公路车组车需求可以询问我 《免责声明》(你如果觉得我冒犯到你那就是我蠢，绝无冒犯的意思🥺) 我异父异母の🈹🈹@silentbleeding1  里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "89.64km",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 1460,
+          "like_count": 119904,
+          "listed_count": 8,
+          "media_count": 2134,
+          "tweet_count": 20039
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

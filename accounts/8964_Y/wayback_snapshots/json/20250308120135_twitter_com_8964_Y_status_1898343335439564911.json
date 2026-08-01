@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1898336709391380713",
+    "created_at": "2025-03-08T12:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T13:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898343335439564911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676626940802007040",
+          "start": 0,
+          "username": "cat_redemption"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898343335439564911",
+    "in_reply_to_user_id": "1676626940802007040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898336709391380713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cat_redemption 太牛逼了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898336685190262784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glg_KEjbsAAmFv3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898336709391380713",
+        "created_at": "2025-03-08T12:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T13:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898343335439564911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676626940802007040",
+              "start": 0,
+              "username": "cat_redemption"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898343335439564911",
+        "in_reply_to_user_id": "1676626940802007040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898336709391380713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cat_redemption 太牛逼了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898336685190262784"
+          ]
+        },
+        "author_id": "1676626940802007040",
+        "conversation_id": "1898336709391380713",
+        "created_at": "2025-03-08T11:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898336709391380713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZ4SOGQYYw",
+              "end": 30,
+              "expanded_url": "https://x.com/cat_redemption/status/1898336709391380713/photo/1",
+              "media_key": "3_1898336685190262784",
+              "start": 7,
+              "url": "https://t.co/UZ4SOGQYYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898336709391380713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我画的画 https://t.co/UZ4SOGQYYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 915,
+          "like_count": 10206,
+          "listed_count": 6,
+          "media_count": 529,
+          "tweet_count": 7878
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:20:02.000Z",
+        "description": "自用紫鸟vpn➡️https://t.co/V9ozAZRjRM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ziniao.sbs/#/login?code=B…",
+                "end": 32,
+                "expanded_url": "https://ziniao.sbs/#/login?code=BbQZZXrf",
+                "start": 9,
+                "url": "https://t.co/V9ozAZRjRM"
+              }
+            ]
+          }
+        },
+        "id": "1676626940802007040",
+        "location": "中文/eng🆗",
+        "name": "✟水色小猫✟ 4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855274958412226560/1_zCS5Lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 630,
+          "like_count": 14597,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 1191
+        },
+        "username": "cat_redemption",
+        "verified": false
+      }
+    ]
+  }
+}

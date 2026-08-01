@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1975081351142670491",
+    "created_at": "2025-10-06T06:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T07:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975081351142670491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mira102983/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/mira102983/status/1974946716236599651",
+          "start": 12,
+          "url": "https://t.co/TjDMIIrtEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975081351142670491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974946716236599651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些狗看得我一股无名火 https://t.co/TjDMIIrtEL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1119,
+        "media_key": "3_1974946712234885120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2hrkjEWAAARhe7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1975081351142670491",
+        "created_at": "2025-10-06T06:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975081351142670491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mira102983/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/mira102983/status/1974946716236599651",
+              "start": 12,
+              "url": "https://t.co/TjDMIIrtEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975081351142670491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974946716236599651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些狗看得我一股无名火 https://t.co/TjDMIIrtEL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974946712234885120"
+          ]
+        },
+        "author_id": "1620220069073625091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1974946716236599651",
+        "created_at": "2025-10-05T21:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T22:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974946716236599651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "pochita",
+              "probability": 0.7082,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "chainsawman",
+              "probability": 0.6704,
+              "start": 117,
+              "type": "Other"
+            },
+            {
+              "end": 132,
+              "normalized_text": "csm",
+              "probability": 0.4553,
+              "start": 130,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 116,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "csm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3F5LmPvSj",
+              "end": 157,
+              "expanded_url": "https://x.com/Mira102983/status/1974946716236599651/photo/1",
+              "media_key": "3_1974946712234885120",
+              "start": 134,
+              "url": "https://t.co/l3F5LmPvSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974946716236599651",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 11973,
+          "like_count": 1261,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "Me and my friend were talking about hybrids and I got inspired into making pochita versions for each hybrid devil \n\n#chainsawman #csm https://t.co/l3F5LmPvSj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 873,
+          "like_count": 16143,
+          "listed_count": 18,
+          "media_count": 881,
+          "tweet_count": 12885
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T00:41:19.000Z",
+        "description": "a bit of a gooner a bit of an edgelord, sorry. currently rereading: Ajin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miramarmari.straw.page",
+                "end": 23,
+                "expanded_url": "https://miramarmari.straw.page",
+                "start": 0,
+                "url": "https://t.co/cyMCDFACpR"
+              }
+            ]
+          }
+        },
+        "id": "1620220069073625091",
+        "location": "Kazakhstan",
+        "name": "Mira C()mms open!",
+        "pinned_tweet_id": "1905641062560825651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942531135147237377/VCiX5_L0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 207,
+          "like_count": 11655,
+          "listed_count": 2,
+          "media_count": 1628,
+          "tweet_count": 10842
+        },
+        "url": "https://t.co/cyMCDFACpR",
+        "username": "Mira102983",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1988949496336904435",
+    "created_at": "2025-11-13T12:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988949496336904435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qy_art7/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/qy_art7/status/1988949391844209019",
+          "start": 5,
+          "url": "https://t.co/VgrYrUUX9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988949496336904435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988949391844209019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剧烈变形 https://t.co/VgrYrUUX9b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1988949378950918144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oq7BiacAAgDzM.jpg",
+        "width": 1733
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1988949496336904435",
+        "created_at": "2025-11-13T12:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988949496336904435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qy_art7/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/qy_art7/status/1988949391844209019",
+              "start": 5,
+              "url": "https://t.co/VgrYrUUX9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988949496336904435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988949391844209019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈变形 https://t.co/VgrYrUUX9b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988949378950918144"
+          ]
+        },
+        "author_id": "1943875332320505856",
+        "conversation_id": "1988949391844209019",
+        "created_at": "2025-11-13T12:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988949391844209019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K950kkfDdu",
+              "end": 23,
+              "expanded_url": "https://x.com/QY_art7/status/1988949391844209019/photo/1",
+              "media_key": "3_1988949378950918144",
+              "start": 0,
+              "url": "https://t.co/K950kkfDdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988949391844209019",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K950kkfDdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 865,
+          "like_count": 16930,
+          "listed_count": 17,
+          "media_count": 917,
+          "tweet_count": 13515
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T03:29:38.000Z",
+        "description": "日常：@8964_Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1943875332320505856",
+        "name": "孙笑川学姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950616740666445824/a9zCocjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 5,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 26
+        },
+        "username": "QY_art7",
+        "verified": false
+      }
+    ]
+  }
+}

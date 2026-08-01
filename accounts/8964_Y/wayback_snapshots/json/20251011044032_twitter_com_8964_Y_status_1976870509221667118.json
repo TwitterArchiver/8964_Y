@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976870503827881986"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1976870509221667118",
+    "created_at": "2025-10-11T04:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T05:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976870509221667118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "m.188.icu/600/",
+          "end": 23,
+          "expanded_url": "https://m.188.icu/600/",
+          "start": 0,
+          "status": 200,
+          "title": "父母性别预测",
+          "unwound_url": "https://m.188.icu/600/",
+          "url": "https://t.co/b2j8XyuHC0"
+        },
+        {
+          "display_url": "pic.x.com/h9IEKXAyZb",
+          "end": 53,
+          "expanded_url": "https://x.com/8964_Y/status/1976870509221667118/photo/1",
+          "media_key": "3_1976870503827881986",
+          "start": 30,
+          "url": "https://t.co/h9IEKXAyZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976870509221667118",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/b2j8XyuHC0父母性别查询 https://t.co/h9IEKXAyZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1976870503827881986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29BP9ObwAIxomH.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976870503827881986"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1976870509221667118",
+        "created_at": "2025-10-11T04:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976870509221667118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "m.188.icu/600/",
+              "end": 23,
+              "expanded_url": "https://m.188.icu/600/",
+              "start": 0,
+              "status": 200,
+              "title": "父母性别预测",
+              "unwound_url": "https://m.188.icu/600/",
+              "url": "https://t.co/b2j8XyuHC0"
+            },
+            {
+              "display_url": "pic.x.com/h9IEKXAyZb",
+              "end": 53,
+              "expanded_url": "https://x.com/8964_Y/status/1976870509221667118/photo/1",
+              "media_key": "3_1976870503827881986",
+              "start": 30,
+              "url": "https://t.co/h9IEKXAyZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976870509221667118",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b2j8XyuHC0父母性别查询 https://t.co/h9IEKXAyZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5731,
+          "following_count": 880,
+          "like_count": 16215,
+          "listed_count": 18,
+          "media_count": 885,
+          "tweet_count": 12966
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

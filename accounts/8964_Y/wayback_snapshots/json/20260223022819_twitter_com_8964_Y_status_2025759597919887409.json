@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2025759597919887409",
+    "created_at": "2026-02-23T02:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T03:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025759597919887409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945157928010604544",
+          "start": 3,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025759597919887409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025287252033896759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiTvTing: 可以不凶我吗。我小时候总是被人吼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2025759597919887409",
+        "created_at": "2026-02-23T02:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025759597919887409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945157928010604544",
+              "start": 3,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025759597919887409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025287252033896759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiTvTing: 可以不凶我吗。我小时候总是被人吼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "2025287252033896759",
+        "created_at": "2026-02-21T19:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T20:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025287252033896759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025287252033896759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 29588,
+          "like_count": 762,
+          "quote_count": 18,
+          "reply_count": 23,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "可以不凶我吗。我小时候总是被人吼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5939,
+          "following_count": 731,
+          "like_count": 20197,
+          "listed_count": 19,
+          "media_count": 1010,
+          "tweet_count": 14857
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "我活得好懵逼｜od｜低精力宅｜欢迎宝宝们找我互fo",
+        "id": "1945157928010604544",
+        "name": "小地球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023214653971767296/neKcTyBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 173,
+          "like_count": 522,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 439
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

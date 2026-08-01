@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2054797169006395555",
+    "created_at": "2026-05-15T20:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T21:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055389726514036839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889206585152741376",
+          "start": 0,
+          "username": "ChanaWeins89377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055389726514036839",
+    "in_reply_to_user_id": "1889206585152741376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054797169006395555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChanaWeins89377 破绷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2054797169006395555",
+        "created_at": "2026-05-15T20:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T21:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055389726514036839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889206585152741376",
+              "start": 0,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055389726514036839",
+        "in_reply_to_user_id": "1889206585152741376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054797169006395555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChanaWeins89377 破绷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889206585152741376",
+        "conversation_id": "2054797169006395555",
+        "created_at": "2026-05-14T05:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054797169006395555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054797169006395555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 153499,
+          "like_count": 3171,
+          "quote_count": 45,
+          "reply_count": 164,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "习近平和特朗普能不能不要卖腐了，我首页一刷全是你俩好难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 732,
+          "like_count": 23257,
+          "listed_count": 19,
+          "media_count": 1108,
+          "tweet_count": 16236
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:56:59.000Z",
+        "description": "大陆文科高中生，社交能力很糟 精神状态堪忧 道德底线几乎没有，如果让你不高兴了对不起我没有恶意真的，欢迎所有人来找我玩。中⌚博爱。最大属性周飞辱追，看见他挨骂（各种意义上的）我都会很开心😋",
+        "id": "1889206585152741376",
+        "name": "Ender桓桓",
+        "pinned_tweet_id": "2013950943281529003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928588169009836034/cjk9Jz-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 124,
+          "like_count": 4174,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 682
+        },
+        "username": "ChanaWeins89377",
+        "verified": false
+      }
+    ]
+  }
+}

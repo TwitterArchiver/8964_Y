@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1975306811692777522",
+    "created_at": "2025-10-07T09:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T10:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975495022494769395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1291820616576884736",
+          "start": 0,
+          "username": "McChiz76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975495022494769395",
+    "in_reply_to_user_id": "1291820616576884736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975306811692777522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McChiz76 期待！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_1975306807338786816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mzE13W4AAa7YL.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1975306811692777522",
+        "created_at": "2025-10-07T09:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975495022494769395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1291820616576884736",
+              "start": 0,
+              "username": "McChiz76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975495022494769395",
+        "in_reply_to_user_id": "1291820616576884736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975306811692777522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McChiz76 期待！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975306807338786816"
+          ]
+        },
+        "author_id": "1291820616576884736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1975306811692777522",
+        "created_at": "2025-10-06T21:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T22:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975306811692777522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9I8AERBDY3",
+              "end": 55,
+              "expanded_url": "https://x.com/McChiz76/status/1975306811692777522/photo/1",
+              "media_key": "3_1975306807338786816",
+              "start": 32,
+              "url": "https://t.co/9I8AERBDY3"
+            },
+            {
+              "display_url": "x.com/McChiz76/statu…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/McChiz76/status/1975203701951443003",
+              "start": 56,
+              "url": "https://t.co/Z7b18QKOyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975306811692777522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 30090,
+          "like_count": 2799,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975203701951443003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'll finish this maybe at night https://t.co/9I8AERBDY3 https://t.co/Z7b18QKOyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 875,
+          "like_count": 16163,
+          "listed_count": 18,
+          "media_count": 881,
+          "tweet_count": 12912
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T19:37:03.000Z",
+        "description": "Finger artist ✌️ | Feel free to repost my art crediting me | Follow me if you like my work ❤️ | 🇺🇸🇪🇸🇫🇷",
+        "id": "1291820616576884736",
+        "name": "McCheese 🧀 🎃",
+        "pinned_tweet_id": "1912854592527704333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974729789530406912/2eznYk1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6101,
+          "following_count": 292,
+          "like_count": 17770,
+          "listed_count": 23,
+          "media_count": 1236,
+          "tweet_count": 2380
+        },
+        "username": "McChiz76",
+        "verified": false
+      }
+    ]
+  }
+}

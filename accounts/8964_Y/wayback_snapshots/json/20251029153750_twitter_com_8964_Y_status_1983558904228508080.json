@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1983082475393036572",
+    "created_at": "2025-10-29T15:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983558904228508080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1527267877849640962",
+          "start": 0,
+          "username": "Paulkeyyy1"
+        },
+        {
+          "end": 25,
+          "id": "1437339760826015749",
+          "start": 12,
+          "username": "lllllucy_rrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983558904228508080",
+    "in_reply_to_user_id": "1527267877849640962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983479427179937951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paulkeyyy1 @lllllucy_rrr 萌死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1983082475393036572",
+        "created_at": "2025-10-29T15:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983558904228508080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1527267877849640962",
+              "start": 0,
+              "username": "Paulkeyyy1"
+            },
+            {
+              "end": 25,
+              "id": "1437339760826015749",
+              "start": 12,
+              "username": "lllllucy_rrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983558904228508080",
+        "in_reply_to_user_id": "1527267877849640962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983479427179937951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paulkeyyy1 @lllllucy_rrr 萌死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527267877849640962",
+        "conversation_id": "1983082475393036572",
+        "created_at": "2025-10-29T10:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983479427179937951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1437339760826015749",
+              "start": 0,
+              "username": "lllllucy_rrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983479427179937951",
+        "in_reply_to_user_id": "1437339760826015749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9401,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983082475393036572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllllucy_rrr 谁说这xp怪啊这xp可太萌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 885,
+          "like_count": 16434,
+          "listed_count": 17,
+          "media_count": 904,
+          "tweet_count": 13201
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T12:40:28.000Z",
+        "description": "这个人很神秘，什么都没有拉。 会突然关注一些我觉得很可爱的人请不要嫌弃我🥹",
+        "id": "1527267877849640962",
+        "location": "北京",
+        "name": "拉不出来就算了",
+        "pinned_tweet_id": "1978293365096517653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936795793337282560/3Yp_cwMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 691,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 834
+        },
+        "username": "Paulkeyyy1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T08:59:14.000Z",
+        "description": "我的幸福呢？",
+        "id": "1437339760826015749",
+        "location": "联系方式🚪1314无福利不线下",
+        "name": "rr",
+        "pinned_tweet_id": "1969562627002286390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938234877268398088/gUdN_IfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 98,
+          "like_count": 2123,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 498
+        },
+        "username": "lllllucy_rrr",
+        "verified": false
+      }
+    ]
+  }
+}

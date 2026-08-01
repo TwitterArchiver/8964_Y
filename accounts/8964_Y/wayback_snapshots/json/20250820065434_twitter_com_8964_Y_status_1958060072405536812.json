@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957977638993096704"
+      ],
+      "media_source_tweet_id": [
+        "1957977653782381050"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1958060072405536812",
+    "created_at": "2025-08-20T06:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T07:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958060072405536812"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Fujimoto",
+          "probability": 0.5056,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 87,
+          "normalized_text": "Fujimoto",
+          "probability": 0.5628,
+          "start": 80,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1658783379054108673",
+          "start": 3,
+          "username": "crossbowdevil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U51uQC4fQ7",
+          "end": 113,
+          "expanded_url": "https://x.com/crossbowdevil/status/1957977653782381050/photo/1",
+          "media_key": "3_1957977638993096704",
+          "start": 90,
+          "url": "https://t.co/U51uQC4fQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958060072405536812",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957977653782381050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossbowdevil: Fujimoto: \"I don't prefer one character over another.\"\n\nAlso Fujimoto: https://t.co/U51uQC4fQ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957977638993096704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GywiSfJXcAA4S4d.jpg",
+        "width": 1871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957977638993096704"
+          ],
+          "media_source_tweet_id": [
+            "1957977653782381050"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1958060072405536812",
+        "created_at": "2025-08-20T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958060072405536812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Fujimoto",
+              "probability": 0.5056,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Fujimoto",
+              "probability": 0.5628,
+              "start": 80,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1658783379054108673",
+              "start": 3,
+              "username": "crossbowdevil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U51uQC4fQ7",
+              "end": 113,
+              "expanded_url": "https://x.com/crossbowdevil/status/1957977653782381050/photo/1",
+              "media_key": "3_1957977638993096704",
+              "start": 90,
+              "url": "https://t.co/U51uQC4fQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958060072405536812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957977653782381050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossbowdevil: Fujimoto: \"I don't prefer one character over another.\"\n\nAlso Fujimoto: https://t.co/U51uQC4fQ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957977638993096704"
+          ]
+        },
+        "author_id": "1658783379054108673",
+        "conversation_id": "1957977653782381050",
+        "created_at": "2025-08-20T01:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957977653782381050"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Fujimoto",
+              "probability": 0.4896,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Fujimoto",
+              "probability": 0.636,
+              "start": 61,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U51uQC4fQ7",
+              "end": 94,
+              "expanded_url": "https://x.com/crossbowdevil/status/1957977653782381050/photo/1",
+              "media_key": "3_1957977638993096704",
+              "start": 71,
+              "url": "https://t.co/U51uQC4fQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957977653782381050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 14130,
+          "like_count": 1991,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "Fujimoto: \"I don't prefer one character over another.\"\n\nAlso Fujimoto: https://t.co/U51uQC4fQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5774,
+          "following_count": 881,
+          "like_count": 15459,
+          "listed_count": 16,
+          "media_count": 813,
+          "tweet_count": 12059
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T10:36:39.000Z",
+        "description": "I talk about Chainsaw Man and other stuff. Not spoiler free!",
+        "id": "1658783379054108673",
+        "name": "quanxi",
+        "pinned_tweet_id": "1899478799160402254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024703306780672/YzBpDYqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 0,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 83
+        },
+        "username": "crossbowdevil",
+        "verified": false
+      }
+    ]
+  }
+}

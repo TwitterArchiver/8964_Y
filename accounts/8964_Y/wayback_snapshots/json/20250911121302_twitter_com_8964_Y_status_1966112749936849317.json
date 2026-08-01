@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1965429238867394650",
+    "created_at": "2025-09-11T12:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T13:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966112749936849317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966112749936849317",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965429238867394650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 我真的不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965429231539945472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0abeQkbgAAbLyr.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965429231556681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0abeQoa4AA3TTW.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965429231510540288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0abeQda0AAbhEI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965429231544139784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0abeQlbgAg0Xn0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1965429238867394650",
+        "created_at": "2025-09-11T12:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966112749936849317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966112749936849317",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965429238867394650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 我真的不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965429231539945472",
+            "3_1965429231556681728",
+            "3_1965429231510540288",
+            "3_1965429231544139784"
+          ]
+        },
+        "author_id": "1874895356452130816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1965429238867394650",
+        "created_at": "2025-09-09T14:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965429238867394650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yptCAHn3Mq",
+              "end": 34,
+              "expanded_url": "https://x.com/newkitty412/status/1965429238867394650/photo/1",
+              "media_key": "3_1965429231539945472",
+              "start": 11,
+              "url": "https://t.co/yptCAHn3Mq"
+            },
+            {
+              "display_url": "pic.x.com/yptCAHn3Mq",
+              "end": 34,
+              "expanded_url": "https://x.com/newkitty412/status/1965429238867394650/photo/1",
+              "media_key": "3_1965429231556681728",
+              "start": 11,
+              "url": "https://t.co/yptCAHn3Mq"
+            },
+            {
+              "display_url": "pic.x.com/yptCAHn3Mq",
+              "end": 34,
+              "expanded_url": "https://x.com/newkitty412/status/1965429238867394650/photo/1",
+              "media_key": "3_1965429231510540288",
+              "start": 11,
+              "url": "https://t.co/yptCAHn3Mq"
+            },
+            {
+              "display_url": "pic.x.com/yptCAHn3Mq",
+              "end": 34,
+              "expanded_url": "https://x.com/newkitty412/status/1965429238867394650/photo/1",
+              "media_key": "3_1965429231544139784",
+              "start": 11,
+              "url": "https://t.co/yptCAHn3Mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965429238867394650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 204161,
+          "like_count": 1062,
+          "quote_count": 3,
+          "reply_count": 191,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我在美国留学不差钱的 https://t.co/yptCAHn3Mq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 880,
+          "like_count": 16055,
+          "listed_count": 18,
+          "media_count": 847,
+          "tweet_count": 12565
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "IMSB ♊ 1i/4i | 纯屌丝 喜欢会回关 | 不闲聊 | 我会视奸你们所有人😋 把这当朋友圈发 | 欢迎来找我玩！提问箱 https://t.co/5ZgSd7Ojrl  🐕@__Graceless__7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "__Graceless__7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 88,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 65,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "🚪52 啥也没有 妹子可以直接加我",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1963563933098545232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960930661063372800/NYlRp0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 101,
+          "like_count": 1122,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 676
+        },
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1993835046667800730",
+    "created_at": "2025-11-27T06:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T07:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993923146865627435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993923146865627435",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993835046667800730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot 不会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1993835025541025793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uGZFYa0AEph1N.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1993835046667800730",
+        "created_at": "2025-11-27T06:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993923146865627435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993923146865627435",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993835046667800730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot 不会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993835025541025793"
+          ]
+        },
+        "author_id": "1490976522362302465",
+        "conversation_id": "1993835046667800730",
+        "created_at": "2025-11-27T00:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T01:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993835046667800730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6PmripPjd",
+              "end": 27,
+              "expanded_url": "https://x.com/whyuounot/status/1993835046667800730/photo/1",
+              "media_key": "3_1993835025541025793",
+              "start": 4,
+              "url": "https://t.co/c6PmripPjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993835046667800730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 522,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/c6PmripPjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5865,
+          "following_count": 835,
+          "like_count": 17308,
+          "listed_count": 17,
+          "media_count": 933,
+          "tweet_count": 13751
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "臨場發揮第一名\n推广自辩",
+        "id": "1490976522362302465",
+        "location": "🚪52/188/288/520",
+        "name": "蛋炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988830070451105792/fx45ox9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8597,
+          "following_count": 1212,
+          "like_count": 7929,
+          "listed_count": 19,
+          "media_count": 2129,
+          "tweet_count": 14489
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

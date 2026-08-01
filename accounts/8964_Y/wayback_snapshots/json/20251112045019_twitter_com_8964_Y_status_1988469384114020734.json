@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987768506738429952"
+      ],
+      "media_source_tweet_id": [
+        "1987768520009248924"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1988469384114020734",
+    "created_at": "2025-11-12T04:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T05:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988469384114020734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737474298934161409",
+          "start": 3,
+          "username": "blueicesama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kbEZ0XrH14",
+          "end": 60,
+          "expanded_url": "https://x.com/blueicesama/status/1987768520009248924/photo/1",
+          "media_key": "3_1987768506738429952",
+          "start": 37,
+          "url": "https://t.co/kbEZ0XrH14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988469384114020734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987768520009248924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blueicesama: 我超我看起来好阴啊我不行了\n完全地雷男 https://t.co/kbEZ0XrH14"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987768506738429952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5X47NvaUAA8FSt.jpg",
+        "width": 1818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987768506738429952"
+          ],
+          "media_source_tweet_id": [
+            "1987768520009248924"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1988469384114020734",
+        "created_at": "2025-11-12T04:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988469384114020734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1737474298934161409",
+              "start": 3,
+              "username": "blueicesama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbEZ0XrH14",
+              "end": 60,
+              "expanded_url": "https://x.com/blueicesama/status/1987768520009248924/photo/1",
+              "media_key": "3_1987768506738429952",
+              "start": 37,
+              "url": "https://t.co/kbEZ0XrH14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988469384114020734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987768520009248924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blueicesama: 我超我看起来好阴啊我不行了\n完全地雷男 https://t.co/kbEZ0XrH14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987768506738429952"
+          ]
+        },
+        "author_id": "1737474298934161409",
+        "conversation_id": "1987768520009248924",
+        "created_at": "2025-11-10T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987768520009248924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbEZ0XrH14",
+              "end": 43,
+              "expanded_url": "https://x.com/blueicesama/status/1987768520009248924/photo/1",
+              "media_key": "3_1987768506738429952",
+              "start": 20,
+              "url": "https://t.co/kbEZ0XrH14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987768520009248924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 47597,
+          "like_count": 258,
+          "quote_count": 6,
+          "reply_count": 71,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我超我看起来好阴啊我不行了\n完全地雷男 https://t.co/kbEZ0XrH14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5841,
+          "following_count": 865,
+          "like_count": 16904,
+          "listed_count": 17,
+          "media_count": 917,
+          "tweet_count": 13502
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈男同/INFJ-T/Apple全肯定bot/中文·日本語·ENG/网蓝/杂学分享·碎碎念·生活账·奇怪梗图/大连人/三倍厚袜/不涉政/里@blueicesamaQWQ /社交饱和暂不扩列·本号关注不代表本人立场 推止于推/可爱小狐狸@ri_si16512/☁️@StarryCloud1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "StarryCloud1123"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "「落し水 岐れて細き 川生る」",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1983061990609424563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6658,
+          "following_count": 3328,
+          "like_count": 40429,
+          "listed_count": 10,
+          "media_count": 954,
+          "tweet_count": 8481
+        },
+        "username": "blueicesama",
+        "verified": false
+      }
+    ]
+  }
+}

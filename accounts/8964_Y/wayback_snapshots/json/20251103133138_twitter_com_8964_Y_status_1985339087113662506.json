@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1985034203898282444",
+    "created_at": "2025-11-03T13:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985339087113662506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1425706149060308994",
+          "start": 0,
+          "username": "Liu_dan111"
+        },
+        {
+          "end": 22,
+          "id": "1904517913538932736",
+          "start": 12,
+          "username": "cnmnms666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985339087113662506",
+    "in_reply_to_user_id": "1425706149060308994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985327322858475664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu_dan111 @cnmnms666 不是同一个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1985034203898282444",
+        "created_at": "2025-11-03T13:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985339087113662506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1425706149060308994",
+              "start": 0,
+              "username": "Liu_dan111"
+            },
+            {
+              "end": 22,
+              "id": "1904517913538932736",
+              "start": 12,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985339087113662506",
+        "in_reply_to_user_id": "1425706149060308994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985327322858475664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu_dan111 @cnmnms666 不是同一个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425706149060308994",
+        "conversation_id": "1985034203898282444",
+        "created_at": "2025-11-03T12:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985327322858475664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 18,
+              "id": "1904517913538932736",
+              "start": 8,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985327322858475664",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985326567976022375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @cnmnms666 多重人格吗，有意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5787,
+          "following_count": 890,
+          "like_count": 16614,
+          "listed_count": 17,
+          "media_count": 910,
+          "tweet_count": 13301
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T06:30:25.000Z",
+        "description": "微死",
+        "id": "1425706149060308994",
+        "name": "榴彈",
+        "pinned_tweet_id": "1905188226819854730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967629799222059008/J5EcCqDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 556,
+          "like_count": 50330,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 7188
+        },
+        "username": "Liu_dan111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "我大号@8964_Y ｜懂得都懂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1904517913538932736",
+        "name": "草拟吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973782029574807553/nBIDGb1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 67,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 136
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2030799015537951197",
+    "created_at": "2026-03-09T01:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T02:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030814537704960102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1904517913538932736",
+          "start": 0,
+          "username": "cnmnms666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030814537704960102",
+    "in_reply_to_user_id": "1904517913538932736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030799015537951197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnmnms666 交一部呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2030799015537951197",
+        "created_at": "2026-03-09T01:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T02:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030814537704960102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1904517913538932736",
+              "start": 0,
+              "username": "cnmnms666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030814537704960102",
+        "in_reply_to_user_id": "1904517913538932736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030799015537951197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnmnms666 交一部呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904517913538932736",
+        "conversation_id": "2030799015537951197",
+        "created_at": "2026-03-09T00:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030799015537951197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030799015537951197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两个星期迟到了四次，我害怕这个实木班主任收我手机咋办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪300/520无区别纯绿谢谢！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 737,
+          "like_count": 20981,
+          "listed_count": 19,
+          "media_count": 1026,
+          "tweet_count": 15174
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "龟@8964_Y｜不接线下不接非绿别问了｜🚪100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 1,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1904517913538932736",
+        "name": "夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026942556014292992/JDpjSlw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 266,
+          "like_count": 1054,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 698
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074412083731423232",
+        "3_2074412134151176192"
+      ],
+      "media_source_tweet_id": [
+        "2074412961087594996",
+        "2074412961087594996"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2074438920822259906",
+    "created_at": "2026-07-07T10:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074438920822259906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1041405207039500288",
+          "start": 3,
+          "username": "usergore_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0vJ7a7vMx",
+          "end": 124,
+          "expanded_url": "https://x.com/usergore_/status/2074412961087594996/photo/1",
+          "media_key": "3_2074412083731423232",
+          "start": 101,
+          "url": "https://t.co/K0vJ7a7vMx"
+        },
+        {
+          "display_url": "pic.x.com/K0vJ7a7vMx",
+          "end": 124,
+          "expanded_url": "https://x.com/usergore_/status/2074412961087594996/photo/1",
+          "media_key": "3_2074412134151176192",
+          "start": 101,
+          "url": "https://t.co/K0vJ7a7vMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074438920822259906",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074412961087594996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usergore_: looking back, my obsession with this niche character really pushed me above my limits https://t.co/K0vJ7a7vMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2074412083731423232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnKzKiW4AAfx42.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1900,
+        "media_key": "3_2074412134151176192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnK2GXXQAAk067.jpg",
+        "width": 1343
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074412083731423232",
+            "3_2074412134151176192"
+          ],
+          "media_source_tweet_id": [
+            "2074412961087594996",
+            "2074412961087594996"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074438920822259906",
+        "created_at": "2026-07-07T10:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074438920822259906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1041405207039500288",
+              "start": 3,
+              "username": "usergore_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0vJ7a7vMx",
+              "end": 124,
+              "expanded_url": "https://x.com/usergore_/status/2074412961087594996/photo/1",
+              "media_key": "3_2074412083731423232",
+              "start": 101,
+              "url": "https://t.co/K0vJ7a7vMx"
+            },
+            {
+              "display_url": "pic.x.com/K0vJ7a7vMx",
+              "end": 124,
+              "expanded_url": "https://x.com/usergore_/status/2074412961087594996/photo/1",
+              "media_key": "3_2074412134151176192",
+              "start": 101,
+              "url": "https://t.co/K0vJ7a7vMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074438920822259906",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074412961087594996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usergore_: looking back, my obsession with this niche character really pushed me above my limits https://t.co/K0vJ7a7vMx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074412083731423232",
+            "3_2074412134151176192"
+          ]
+        },
+        "author_id": "1041405207039500288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074412961087594996",
+        "created_at": "2026-07-07T08:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074412961087594996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0vJ7a7vMx",
+              "end": 109,
+              "expanded_url": "https://x.com/usergore_/status/2074412961087594996/photo/1",
+              "media_key": "3_2074412083731423232",
+              "start": 86,
+              "url": "https://t.co/K0vJ7a7vMx"
+            },
+            {
+              "display_url": "pic.x.com/K0vJ7a7vMx",
+              "end": 109,
+              "expanded_url": "https://x.com/usergore_/status/2074412961087594996/photo/1",
+              "media_key": "3_2074412134151176192",
+              "start": 86,
+              "url": "https://t.co/K0vJ7a7vMx"
+            },
+            {
+              "display_url": "x.com/deskmatis/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/deskmatis/status/2069389230598443145",
+              "start": 110,
+              "url": "https://t.co/8Uvy64uAY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074412961087594996",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 4348,
+          "like_count": 317,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069389230598443145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "looking back, my obsession with this niche character really pushed me above my limits https://t.co/K0vJ7a7vMx https://t.co/8Uvy64uAY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6650,
+          "following_count": 743,
+          "like_count": 24483,
+          "listed_count": 19,
+          "media_count": 1161,
+          "tweet_count": 16770
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-16T19:15:24.000Z",
+        "description": "artist trying to spark an interest in Ukraine.\nexclusive art : https://t.co/h0BcDCOaJ8\n🚫AI. good luck to all.\ncommission, prints & discord ↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/USERGORE",
+                "end": 86,
+                "expanded_url": "http://patreon.com/USERGORE",
+                "start": 63,
+                "url": "https://t.co/h0BcDCOaJ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/usergore",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/usergore",
+                "start": 0,
+                "url": "https://t.co/p9lAxX5OAZ"
+              }
+            ]
+          }
+        },
+        "id": "1041405207039500288",
+        "location": "Mother Base(ment)",
+        "name": "USERGORE",
+        "pinned_tweet_id": "1739591043371159965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459483684512350209/0ctB1g4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18947,
+          "following_count": 733,
+          "like_count": 9085,
+          "listed_count": 84,
+          "media_count": 173,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/p9lAxX5OAZ",
+        "username": "usergore_",
+        "verified": false
+      }
+    ]
+  }
+}

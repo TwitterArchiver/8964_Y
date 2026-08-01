@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1966039897871122747",
+    "created_at": "2025-09-12T10:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T11:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966447012494066051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1133570456953298944",
+          "start": 0,
+          "username": "zoe84303441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966447012494066051",
+    "in_reply_to_user_id": "1133570456953298944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966039897871122747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoe84303441 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_1966039891919384578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0jG3XwaMAI9OqW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1966039897871122747",
+        "created_at": "2025-09-12T10:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966447012494066051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1133570456953298944",
+              "start": 0,
+              "username": "zoe84303441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966447012494066051",
+        "in_reply_to_user_id": "1133570456953298944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966039897871122747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoe84303441 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966039891919384578"
+          ]
+        },
+        "author_id": "1133570456953298944",
+        "conversation_id": "1966039897871122747",
+        "created_at": "2025-09-11T07:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T08:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966039897871122747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6knloQLhM5",
+              "end": 38,
+              "expanded_url": "https://x.com/zoe84303441/status/1966039897871122747/photo/1",
+              "media_key": "3_1966039891919384578",
+              "start": 15,
+              "url": "https://t.co/6knloQLhM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966039897871122747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 44805,
+          "like_count": 658,
+          "quote_count": 18,
+          "reply_count": 58,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "山东S真的出现了，豆橛子抽人 https://t.co/6knloQLhM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/288/520没区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 884,
+          "like_count": 16091,
+          "listed_count": 18,
+          "media_count": 847,
+          "tweet_count": 12591
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-29T03:07:12.000Z",
+        "description": "1i 4i 脆皮被缚&缚手佛系学🪢丨随机音频掉落 丨 清水推私信请说明来意",
+        "id": "1133570456953298944",
+        "location": "Shanghai",
+        "name": "zzzzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940081989484220416/iXDhHmF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 635,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 37
+        },
+        "username": "zoe84303441",
+        "verified": false
+      }
+    ]
+  }
+}

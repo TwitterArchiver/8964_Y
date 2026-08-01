@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1940093768679731530",
+    "created_at": "2025-07-01T22:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T23:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940174685372911919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940174685372911919",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940093768679731530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 其实发大额转账很容易让人嫉妒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1940093768679731530",
+        "created_at": "2025-07-01T22:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T23:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940174685372911919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940174685372911919",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940093768679731530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 其实发大额转账很容易让人嫉妒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1940093768679731530",
+        "created_at": "2025-07-01T17:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T18:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940093768679731530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovoyi_/status/…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/ovoyi_/status/1940062579113554146",
+              "start": 140,
+              "url": "https://t.co/cvZg6Bob46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940093768679731530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7736,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940062579113554146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉这条说的是我 好吧我先滑跪了 如果让你们烦的话欢迎取关➕屏蔽我🧎\n关于卖逼我很抱歉\n我需要活下去 我没有资格外活动许可并且平日很忙 只能选择来钱快的方式\n关于大额转账 我已经退回了\n日语是因为我在日本 语言习惯被同化了一些\n精神疾病和od 算是我生活方式 大家不要和我一样 https://t.co/cvZg6Bob46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5512,
+          "following_count": 947,
+          "like_count": 14385,
+          "listed_count": 10,
+          "media_count": 749,
+          "tweet_count": 11312
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 人デ無シマタ智慧モ無シ｜🚪99/198/520/1314 坐标东京接线下｜当然线上我也可以陪你｜所以都可以来过我门槛｜我需要一些钱活下去 我爱你们",
+        "id": "1747931023277502465",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1934964163543281741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34246,
+          "following_count": 753,
+          "like_count": 6740,
+          "listed_count": 44,
+          "media_count": 199,
+          "tweet_count": 2339
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

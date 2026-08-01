@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1955404935123927502",
+    "created_at": "2025-08-12T23:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T00:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955404935123927502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qy_art7/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/qy_art7/status/1955404758493303031",
+          "start": 12,
+          "url": "https://t.co/gzuVokdsm9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955404935123927502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955404758493303031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯这是我画过最久的画 https://t.co/gzuVokdsm9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1955404664696197120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyL-Lq9b0AAttGQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1955404664683536384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyL-Lq6aoAAJgS_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1955404935123927502",
+        "created_at": "2025-08-12T23:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T00:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955404935123927502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qy_art7/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qy_art7/status/1955404758493303031",
+              "start": 12,
+              "url": "https://t.co/gzuVokdsm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955404935123927502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955404758493303031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯这是我画过最久的画 https://t.co/gzuVokdsm9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955404664696197120",
+            "3_1955404664683536384"
+          ]
+        },
+        "author_id": "1943875332320505856",
+        "conversation_id": "1955404758493303031",
+        "created_at": "2025-08-12T23:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T00:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955404758493303031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHdPzoMPZg",
+              "end": 35,
+              "expanded_url": "https://x.com/QY_art7/status/1955404758493303031/photo/1",
+              "media_key": "3_1955404664696197120",
+              "start": 12,
+              "url": "https://t.co/dHdPzoMPZg"
+            },
+            {
+              "display_url": "pic.x.com/dHdPzoMPZg",
+              "end": 35,
+              "expanded_url": "https://x.com/QY_art7/status/1955404758493303031/photo/1",
+              "media_key": "3_1955404664683536384",
+              "start": 12,
+              "url": "https://t.co/dHdPzoMPZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955404758493303031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画了几百年就画了个头发 https://t.co/dHdPzoMPZg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 878,
+          "like_count": 15304,
+          "listed_count": 13,
+          "media_count": 803,
+          "tweet_count": 11986
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T03:29:38.000Z",
+        "description": "日常：@8964_Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1943875332320505856",
+        "name": "き",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950616740666445824/a9zCocjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 2,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 10
+        },
+        "username": "QY_art7",
+        "verified": false
+      }
+    ]
+  }
+}

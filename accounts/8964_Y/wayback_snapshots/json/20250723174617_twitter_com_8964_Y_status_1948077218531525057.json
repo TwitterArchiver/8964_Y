@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1948069272128995362",
+    "created_at": "2025-07-23T17:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T18:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948077218531525057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1790399279129088000",
+          "start": 0,
+          "username": "ynshyu675153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948077218531525057",
+    "in_reply_to_user_id": "1790399279129088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948069272128995362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynshyu675153 4是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1948069272128995362",
+        "created_at": "2025-07-23T17:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948077218531525057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1790399279129088000",
+              "start": 0,
+              "username": "ynshyu675153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948077218531525057",
+        "in_reply_to_user_id": "1790399279129088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948069272128995362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynshyu675153 4是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790399279129088000",
+        "conversation_id": "1948069272128995362",
+        "created_at": "2025-07-23T17:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948069272128995362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/8964_Y/status/1898230834030952846",
+              "start": 2,
+              "url": "https://t.co/Dkg9hWeEF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948069272128995362",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898230834030952846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4 https://t.co/Dkg9hWeEF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 939,
+          "like_count": 15151,
+          "listed_count": 12,
+          "media_count": 778,
+          "tweet_count": 11753
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T15:10:38.000Z",
+        "description": "",
+        "id": "1790399279129088000",
+        "name": "yanshiyo",
+        "pinned_tweet_id": "1875124702047502499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943134207703707648/ziB1s2Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 246,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "ynshyu675153",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1952319142822064364",
+    "created_at": "2025-08-04T14:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952372165707436536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1524680223777648641",
+          "start": 0,
+          "username": "______nii_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952372165707436536",
+    "in_reply_to_user_id": "1524680223777648641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952319142822064364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@______nii_2 你去东京了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1952319142822064364",
+        "created_at": "2025-08-04T14:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952372165707436536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1524680223777648641",
+              "start": 0,
+              "username": "______nii_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952372165707436536",
+        "in_reply_to_user_id": "1524680223777648641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952319142822064364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@______nii_2 你去东京了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524680223777648641",
+        "conversation_id": "1952319142822064364",
+        "created_at": "2025-08-04T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952319142822064364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "二。’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1BdGY…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1BdGYqqodzNGX",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 絵と",
+              "unwound_url": "https://twitter.com/i/spaces/1BdGYqqodzNGX/peek",
+              "url": "https://t.co/ZTjD7ZywGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952319142822064364",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZTjD7ZywGj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5780,
+          "following_count": 878,
+          "like_count": 15353,
+          "listed_count": 13,
+          "media_count": 792,
+          "tweet_count": 11900
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T09:18:01.000Z",
+        "description": " ︎︎︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎︎︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/______nii_2",
+                "end": 23,
+                "expanded_url": "https://note.com/______nii_2",
+                "start": 0,
+                "url": "https://t.co/KyZWz50wGA"
+              }
+            ]
+          }
+        },
+        "id": "1524680223777648641",
+        "name": "二。",
+        "pinned_tweet_id": "1947206298782847443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785650247571853312/8QBbDR7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 215,
+          "like_count": 58601,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/KyZWz50wGA",
+        "username": "______nii_2",
+        "verified": false
+      }
+    ]
+  }
+}

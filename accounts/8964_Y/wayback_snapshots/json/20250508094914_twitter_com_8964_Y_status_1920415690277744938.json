@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920243574353903616"
+      ],
+      "media_source_tweet_id": [
+        "1920243579881922572"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1920415690277744938",
+    "created_at": "2025-05-08T09:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T10:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920415690277744938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1460305322929700864",
+          "start": 3,
+          "username": "kittytampon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jbjfBfzsn",
+          "end": 40,
+          "expanded_url": "https://x.com/kittytampon/status/1920243579881922572/photo/1",
+          "media_key": "3_1920243574353903616",
+          "start": 17,
+          "url": "https://t.co/1jbjfBfzsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920415690277744938",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920243579881922572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kittytampon: https://t.co/1jbjfBfzsn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920415690277744938].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920415690277744938",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920415690277744938"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_1920243574353903616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqYTW2OXQAAZ-xX.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920243574353903616"
+          ]
+        },
+        "author_id": "1460305322929700864",
+        "conversation_id": "1920243579881922572",
+        "created_at": "2025-05-07T22:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T23:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920243579881922572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jbjfBfzsn",
+              "end": 23,
+              "expanded_url": "https://x.com/kittytampon/status/1920243579881922572/photo/1",
+              "media_key": "3_1920243574353903616",
+              "start": 0,
+              "url": "https://t.co/1jbjfBfzsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920243579881922572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 1899,
+          "like_count": 324,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1jbjfBfzsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 983,
+          "like_count": 12778,
+          "listed_count": 8,
+          "media_count": 654,
+          "tweet_count": 9824
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T17:55:12.000Z",
+        "description": "random stuff atp ᛝ  no dni",
+        "id": "1460305322929700864",
+        "location": "she her",
+        "name": "KITTY (҂ `з´) ︻╦̵̵̿╤── ⋅",
+        "pinned_tweet_id": "1906759056976490760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919115038419292161/VzpouCym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4193,
+          "following_count": 2804,
+          "like_count": 2146,
+          "listed_count": 11,
+          "media_count": 183,
+          "tweet_count": 723
+        },
+        "username": "kittytampon",
+        "verified": false
+      }
+    ]
+  }
+}

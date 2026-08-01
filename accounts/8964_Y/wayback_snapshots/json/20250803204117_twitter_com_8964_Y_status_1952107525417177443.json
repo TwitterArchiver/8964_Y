@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1952031305119756566",
+    "created_at": "2025-08-03T20:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T21:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952107525417177443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504582091215982598",
+          "start": 0,
+          "username": "ChainsawShots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952107525417177443",
+    "in_reply_to_user_id": "1504582091215982598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952031305119756566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChainsawShots 这不是malima…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1744,
+        "media_key": "3_1952031302783287296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxcCIKjXQAAYrUQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1952031305119756566",
+        "created_at": "2025-08-03T20:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T21:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952107525417177443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504582091215982598",
+              "start": 0,
+              "username": "ChainsawShots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952107525417177443",
+        "in_reply_to_user_id": "1504582091215982598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952031305119756566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChainsawShots 这不是malima…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952031302783287296"
+          ]
+        },
+        "author_id": "1504582091215982598",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1952031305119756566",
+        "created_at": "2025-08-03T15:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952031305119756566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Makima",
+              "probability": 0.4928,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Power Bunny",
+              "probability": 0.5307,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUyTqgbNgC",
+              "end": 46,
+              "expanded_url": "https://x.com/ChainsawShots/status/1952031305119756566/photo/1",
+              "media_key": "3_1952031302783287296",
+              "start": 23,
+              "url": "https://t.co/WUyTqgbNgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952031305119756566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1064,
+          "impression_count": 48819,
+          "like_count": 6234,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "Makima and Power Bunny https://t.co/WUyTqgbNgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 878,
+          "like_count": 15338,
+          "listed_count": 13,
+          "media_count": 792,
+          "tweet_count": 11898
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T22:15:16.000Z",
+        "description": "The largest site dedicated to Chainsaw Man the manga by Tatsuki Fujimoto. Daily Content and News. Reze Movie September 19 in Japanese cinemas @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "1504582091215982598",
+        "location": "chainsawmanps@gmail.com",
+        "name": "Chainsaw Man Daily Shots",
+        "pinned_tweet_id": "1579939038814797825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799600625165930496/kc6t02qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118426,
+          "following_count": 95,
+          "like_count": 20037,
+          "listed_count": 190,
+          "media_count": 3812,
+          "tweet_count": 5321
+        },
+        "username": "ChainsawShots",
+        "verified": true
+      }
+    ]
+  }
+}

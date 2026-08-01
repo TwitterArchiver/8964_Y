@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970482231190921219"
+      ],
+      "media_source_tweet_id": [
+        "1970482237272662367"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1970503084746178810",
+    "created_at": "2025-09-23T14:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T15:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970503084746178810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1805919469807763456",
+          "start": 3,
+          "username": "Kuso_Gero_Yaro_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FNkZhR5CUd",
+          "end": 44,
+          "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1970482237272662367/photo/1",
+          "media_key": "3_1970482231190921219",
+          "start": 21,
+          "url": "https://t.co/FNkZhR5CUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970503084746178810",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970482237272662367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuso_Gero_Yaro_: https://t.co/FNkZhR5CUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970482231190921219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1iPJjJaoAMRoEz.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970482231190921219"
+          ],
+          "media_source_tweet_id": [
+            "1970482237272662367"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1970503084746178810",
+        "created_at": "2025-09-23T14:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970503084746178810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1805919469807763456",
+              "start": 3,
+              "username": "Kuso_Gero_Yaro_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNkZhR5CUd",
+              "end": 44,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1970482237272662367/photo/1",
+              "media_key": "3_1970482231190921219",
+              "start": 21,
+              "url": "https://t.co/FNkZhR5CUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970503084746178810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970482237272662367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuso_Gero_Yaro_: https://t.co/FNkZhR5CUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970482231190921219"
+          ]
+        },
+        "author_id": "1805919469807763456",
+        "conversation_id": "1970482237272662367",
+        "created_at": "2025-09-23T13:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T14:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970482237272662367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNkZhR5CUd",
+              "end": 23,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1970482237272662367/photo/1",
+              "media_key": "3_1970482231190921219",
+              "start": 0,
+              "url": "https://t.co/FNkZhR5CUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970482237272662367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FNkZhR5CUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜｜🚪100/188/288/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5767,
+          "following_count": 880,
+          "like_count": 16204,
+          "listed_count": 18,
+          "media_count": 858,
+          "tweet_count": 12721
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T11:02:33.000Z",
+        "description": "グロ絵、えろ絵、リスカ、いろいろ￤サブ（Sub Account）→https://t.co/24V2ylcGnK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/a_mo_do_sunda?…",
+                "end": 56,
+                "expanded_url": "https://x.com/a_mo_do_sunda?t=aoIHVMZBAq6zISW-y3s6yg&s=09",
+                "start": 33,
+                "url": "https://t.co/24V2ylcGnK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kuso_Gero_Yar…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Kuso_Gero_Yaro_",
+                "start": 0,
+                "url": "https://t.co/xpm1O1xtl7"
+              }
+            ]
+          }
+        },
+        "id": "1805919469807763456",
+        "location": "お母さんのペット",
+        "name": "糞ゲロ野郎でさ",
+        "pinned_tweet_id": "1969985990107508909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964271285728673792/yCjhALls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 73,
+          "like_count": 4519,
+          "listed_count": 10,
+          "media_count": 349,
+          "tweet_count": 1655
+        },
+        "url": "https://t.co/xpm1O1xtl7",
+        "username": "Kuso_Gero_Yaro_",
+        "verified": false
+      }
+    ]
+  }
+}

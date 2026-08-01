@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2053141217358283078",
+    "created_at": "2026-05-10T05:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053340821169308075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1470151997563314186",
+          "start": 0,
+          "username": "RICARDOTELLOSO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053340821169308075",
+    "in_reply_to_user_id": "1470151997563314186",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053339421349499117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RICARDOTELLOSO1 jajajajaja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2053339337069146114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7tP31XsAIsEYr.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2053141217358283078",
+        "created_at": "2026-05-10T05:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053340821169308075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1470151997563314186",
+              "start": 0,
+              "username": "RICARDOTELLOSO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053340821169308075",
+        "in_reply_to_user_id": "1470151997563314186",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053339421349499117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RICARDOTELLOSO1 jajajajaja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053339337069146114"
+          ]
+        },
+        "author_id": "1470151997563314186",
+        "conversation_id": "2053141217358283078",
+        "created_at": "2026-05-10T05:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053339421349499117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIMsLlJP0x",
+              "end": 100,
+              "expanded_url": "https://x.com/RICARDOTELLOSO1/status/2053339421349499117/photo/1",
+              "media_key": "3_2053339337069146114",
+              "start": 77,
+              "url": "https://t.co/jIMsLlJP0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053339421349499117",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053141217358283078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y Tendremos que identificar el secreto oculto de la imagen, jajajajaja https://t.co/jIMsLlJP0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 739,
+          "like_count": 23091,
+          "listed_count": 19,
+          "media_count": 1103,
+          "tweet_count": 16172
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T22:02:40.000Z",
+        "description": "Creating universes where silence speaks. Chess, ink, and the art of seeing. Simplicity is the ultimate depth of the cosmos.   \nConejitos y dibujos lo más lindo",
+        "id": "1470151997563314186",
+        "location": "Perú 🇵🇪. ",
+        "name": "Ricardo.🇵🇪 Arte",
+        "pinned_tweet_id": "2021971072631873879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027876001280098304/iLwaDgc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 545,
+          "like_count": 5903,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1093
+        },
+        "username": "RICARDOTELLOSO1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955565953443614720"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1955565960670458077",
+    "created_at": "2025-08-13T09:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955565960670458077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d6UFZ7fX7t",
+          "end": 23,
+          "expanded_url": "https://x.com/8964_Y/status/1955565960670458077/photo/1",
+          "media_key": "3_1955565953443614720",
+          "start": 0,
+          "url": "https://t.co/d6UFZ7fX7t"
+        },
+        {
+          "display_url": "x.com/dollllls2/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/dollllls2/status/1938167015921094911",
+          "start": 24,
+          "url": "https://t.co/N4eYOG9nBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955565960670458077",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938167015921094911",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/d6UFZ7fX7t https://t.co/N4eYOG9nBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_1955565953443614720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOQ36Xa0AA3Qfa.jpg",
+        "width": 719
+      },
+      {
+        "height": 1746,
+        "media_key": "3_1938166970182205440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXAly0bAAADbAP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955565953443614720"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955565960670458077",
+        "created_at": "2025-08-13T09:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955565960670458077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6UFZ7fX7t",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/1955565960670458077/photo/1",
+              "media_key": "3_1955565953443614720",
+              "start": 0,
+              "url": "https://t.co/d6UFZ7fX7t"
+            },
+            {
+              "display_url": "x.com/dollllls2/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dollllls2/status/1938167015921094911",
+              "start": 24,
+              "url": "https://t.co/N4eYOG9nBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955565960670458077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938167015921094911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/d6UFZ7fX7t https://t.co/N4eYOG9nBa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938166970182205440"
+          ]
+        },
+        "author_id": "1200578060719779840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1938167015921094911",
+        "created_at": "2025-06-26T09:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T10:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938167015921094911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "chainsawman",
+              "probability": 0.6107,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Melancholy",
+              "probability": 0.4581,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "三鷹アサ"
+            },
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPPtc3hAAx",
+              "end": 64,
+              "expanded_url": "https://x.com/Dollllls2/status/1938167015921094911/photo/1",
+              "media_key": "3_1938166970182205440",
+              "start": 41,
+              "url": "https://t.co/jPPtc3hAAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938167015921094911",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 57921,
+          "like_count": 3724,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 418
+        },
+        "reply_settings": "everyone",
+        "text": "#チェンソーマン #三鷹アサ  #chainsawman \nMelancholy https://t.co/jPPtc3hAAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 880,
+          "like_count": 15307,
+          "listed_count": 13,
+          "media_count": 805,
+          "tweet_count": 11990
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-30T00:51:44.000Z",
+        "description": "🎨‖中文&Eng&日本語勉強中\nDraw till l die\nThank you for your like✨❤\n❌未经授权许可不要用我的图❌\n微博：Dollllls\nBest：@7oy7iger\n个人Q群：675026950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "7oy7iger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16562273",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16562273",
+                "start": 0,
+                "url": "https://t.co/jx9TbC9mat"
+              }
+            ]
+          }
+        },
+        "id": "1200578060719779840",
+        "location": "裏",
+        "name": "Dollllls",
+        "pinned_tweet_id": "1631281487265009664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766336382090510336/oxWOI8LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102653,
+          "following_count": 368,
+          "like_count": 1598,
+          "listed_count": 398,
+          "media_count": 153,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/jx9TbC9mat",
+        "username": "Dollllls2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1988850041331589492",
+    "created_at": "2025-11-13T16:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T17:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989001870862610780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560671619218960384",
+          "start": 0,
+          "username": "silsrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989001870862610780",
+    "in_reply_to_user_id": "1560671619218960384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988850041331589492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silsrc 找到一个爱你的你爱的人，带她看番教她打游戏教她写代码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1988850041331589492",
+        "created_at": "2025-11-13T16:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989001870862610780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560671619218960384",
+              "start": 0,
+              "username": "silsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989001870862610780",
+        "in_reply_to_user_id": "1560671619218960384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988850041331589492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silsrc 找到一个爱你的你爱的人，带她看番教她打游戏教她写代码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560671619218960384",
+        "conversation_id": "1988850041331589492",
+        "created_at": "2025-11-13T06:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988850041331589492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988850041331589492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 57203,
+          "like_count": 253,
+          "quote_count": 14,
+          "reply_count": 112,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "到底如何才能找到一个又打游戏又看番还能一起写代码的女朋友（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 864,
+          "like_count": 16937,
+          "listed_count": 17,
+          "media_count": 917,
+          "tweet_count": 13521
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T16:55:06.000Z",
+        "description": "开源爱好，万能工程师（存疑），现代魔法老中登，Linux Kernel Developer，假装是计算机科学家，黑深残。",
+        "id": "1560671619218960384",
+        "location": "Beijing",
+        "name": "scr.c",
+        "pinned_tweet_id": "1619387209844682753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8461,
+          "following_count": 505,
+          "like_count": 24789,
+          "listed_count": 42,
+          "media_count": 215,
+          "tweet_count": 3347
+        },
+        "username": "silsrc",
+        "verified": false
+      }
+    ]
+  }
+}

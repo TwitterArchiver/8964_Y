@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2027261795644428587",
+    "created_at": "2026-02-27T13:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027373709116506205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878826560645705729",
+          "start": 0,
+          "username": "wdlehizi195476"
+        },
+        {
+          "end": 28,
+          "id": "1895764727365840896",
+          "start": 16,
+          "username": "300beans666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027373709116506205",
+    "in_reply_to_user_id": "1878826560645705729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027372869190349204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlehizi195476 @300beans666 因为这是照着我画的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2027261795644428587",
+        "created_at": "2026-02-27T13:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027373709116506205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878826560645705729",
+              "start": 0,
+              "username": "wdlehizi195476"
+            },
+            {
+              "end": 28,
+              "id": "1895764727365840896",
+              "start": 16,
+              "username": "300beans666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027373709116506205",
+        "in_reply_to_user_id": "1878826560645705729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027372869190349204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlehizi195476 @300beans666 因为这是照着我画的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878826560645705729",
+        "conversation_id": "2027261795644428587",
+        "created_at": "2026-02-27T13:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027372869190349204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 20,
+              "id": "1895764727365840896",
+              "start": 8,
+              "username": "300beans666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027372869190349204",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027261795644428587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @300beans666 和小洇很像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "我的能力仅仅是透支好运罢了｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "QY_art7"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 732,
+          "like_count": 20531,
+          "listed_count": 19,
+          "media_count": 1022,
+          "tweet_count": 14959
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T15:29:04.000Z",
+        "description": "没有什么好说的",
+        "id": "1878826560645705729",
+        "name": "这里什么都没有",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927762813742923776/XHDHId9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 124,
+          "like_count": 2640,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1125
+        },
+        "username": "wdlehizi195476",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T09:15:29.000Z",
+        "description": "职业好人卡，专业非red级别的画图人🇨🇳",
+        "id": "1895764727365840896",
+        "name": "画语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999523801139412993/eCgQeg1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 127,
+          "like_count": 1581,
+          "listed_count": 10,
+          "media_count": 130,
+          "tweet_count": 429
+        },
+        "username": "300beans666",
+        "verified": false
+      }
+    ]
+  }
+}

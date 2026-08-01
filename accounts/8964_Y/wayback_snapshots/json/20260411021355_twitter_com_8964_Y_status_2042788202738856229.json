@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042424043845070848"
+      ],
+      "media_source_tweet_id": [
+        "2042424179065307484"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042788202738856229",
+    "created_at": "2026-04-11T02:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042788202738856229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939799295148138496",
+          "start": 3,
+          "username": "Qiqi7877"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jjLeGHgIr6",
+          "end": 138,
+          "expanded_url": "https://x.com/Qiqi7877/status/2042424179065307484/video/1",
+          "media_key": "13_2042424043845070848",
+          "start": 115,
+          "url": "https://t.co/jjLeGHgIr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042788202738856229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11736
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042424179065307484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qiqi7877: 这个越南爷爷听说孙媳妇怀孕了，就去他家拜访，教他和妻子如何给新生儿洗澡。\n\n有趣的是，他找不到一个娃娃来演示，就用了一只安静得令人难以置信、并且非常配合爷爷指示的猫来进行教学，他讲解了超过两分钟。😂😂 https://t.co/jjLeGHgIr6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 136236,
+        "height": 1280,
+        "media_key": "13_2042424043845070848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042424043845070848/img/5o4dt5ogDHJ1CuXv.jpg",
+        "public_metrics": {
+          "view_count": 1121521
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042424043845070848/vid/avc1/320x568/EY511SmdQcgapqfJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042424043845070848/vid/avc1/480x852/pmbV7P7Ry0NWpCRA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042424043845070848/vid/avc1/720x1280/BrIvjnpJSIBrEVxn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042424043845070848/pl/G6ySP3YjIFupqtcY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042424043845070848"
+          ],
+          "media_source_tweet_id": [
+            "2042424179065307484"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042788202738856229",
+        "created_at": "2026-04-11T02:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042788202738856229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939799295148138496",
+              "start": 3,
+              "username": "Qiqi7877"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjLeGHgIr6",
+              "end": 138,
+              "expanded_url": "https://x.com/Qiqi7877/status/2042424179065307484/video/1",
+              "media_key": "13_2042424043845070848",
+              "start": 115,
+              "url": "https://t.co/jjLeGHgIr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042788202738856229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11736
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042424179065307484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qiqi7877: 这个越南爷爷听说孙媳妇怀孕了，就去他家拜访，教他和妻子如何给新生儿洗澡。\n\n有趣的是，他找不到一个娃娃来演示，就用了一只安静得令人难以置信、并且非常配合爷爷指示的猫来进行教学，他讲解了超过两分钟。😂😂 https://t.co/jjLeGHgIr6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042424043845070848"
+          ]
+        },
+        "author_id": "1939799295148138496",
+        "conversation_id": "2042424179065307484",
+        "created_at": "2026-04-10T02:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042424179065307484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjLeGHgIr6",
+              "end": 124,
+              "expanded_url": "https://x.com/Qiqi7877/status/2042424179065307484/video/1",
+              "media_key": "13_2042424043845070848",
+              "start": 101,
+              "url": "https://t.co/jjLeGHgIr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042424179065307484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12148,
+          "impression_count": 2800712,
+          "like_count": 78404,
+          "quote_count": 811,
+          "reply_count": 433,
+          "retweet_count": 11736
+        },
+        "reply_settings": "everyone",
+        "text": "这个越南爷爷听说孙媳妇怀孕了，就去他家拜访，教他和妻子如何给新生儿洗澡。\n\n有趣的是，他找不到一个娃娃来演示，就用了一只安静得令人难以置信、并且非常配合爷爷指示的猫来进行教学，他讲解了超过两分钟。😂😂 https://t.co/jjLeGHgIr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7  只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2031021234260226112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 733,
+          "like_count": 22418,
+          "listed_count": 20,
+          "media_count": 1071,
+          "tweet_count": 15836
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T21:32:58.000Z",
+        "description": "🇺🇸 独立时事观察者 | 暮山暖叙\n在暮色山顶，用温暖笔触写正义故事与人生小作文\n用人话讲明白历史遗憾、英雄时刻与真实温度\n每篇都是真实情感 + 灵魂轻问\n所有内容独立分析，仅供参考\nWarm stories & soul questions only. No DM spam please.",
+        "id": "1939799295148138496",
+        "location": "Oceania, Paranaguá",
+        "name": "taga | 暮山暖叙",
+        "pinned_tweet_id": "2042424179065307484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040335998937387008/W26nUMMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7473,
+          "following_count": 5966,
+          "like_count": 6823,
+          "listed_count": 26,
+          "media_count": 933,
+          "tweet_count": 7463
+        },
+        "username": "Qiqi7877",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1973235976437952513"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1973236069769552390",
+    "created_at": "2025-10-01T03:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T04:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973236069769552390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOWO6aieAn",
+          "end": 33,
+          "expanded_url": "https://x.com/8964_Y/status/1973236069769552390/video/1",
+          "media_key": "13_1973235976437952513",
+          "start": 10,
+          "url": "https://t.co/YOWO6aieAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973236069769552390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神小伙干嚼愈美片 https://t.co/YOWO6aieAn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28000,
+        "height": 1280,
+        "media_key": "13_1973235976437952513",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1973235976437952513/img/kFEBDkURJg37J_uv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973235976437952513/vid/avc1/320x690/3Nnt90yPJ15-tpwc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973235976437952513/vid/avc1/480x1036/cflTMqX3bfA4NxsM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973235976437952513/vid/avc1/592x1280/v5t_s_CazX91lAIy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1973235976437952513/pl/9g0WXZ6-CcVm8dLh.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973235976437952513"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1973236069769552390",
+        "created_at": "2025-10-01T03:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973236069769552390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOWO6aieAn",
+              "end": 33,
+              "expanded_url": "https://x.com/8964_Y/status/1973236069769552390/video/1",
+              "media_key": "13_1973235976437952513",
+              "start": 10,
+              "url": "https://t.co/YOWO6aieAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973236069769552390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神小伙干嚼愈美片 https://t.co/YOWO6aieAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜｜🚪100/188/288/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5751,
+          "following_count": 876,
+          "like_count": 16047,
+          "listed_count": 18,
+          "media_count": 868,
+          "tweet_count": 12777
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

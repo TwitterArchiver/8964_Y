@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2074682485003391265",
+    "created_at": "2026-07-08T02:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074682485003391265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "828594539925557250",
+          "start": 3,
+          "username": "HuevoPorSopa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074682485003391265",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7026
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074222307363500211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuevoPorSopa: Una gringa Randon enseñando a hacer trenzas, veo la similitud con cierta persona, abro los comentarios y... https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2074222299754979329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkeMSIW4AErGQm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2074682485003391265",
+        "created_at": "2026-07-08T02:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074682485003391265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "828594539925557250",
+              "start": 3,
+              "username": "HuevoPorSopa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074682485003391265",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7026
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074222307363500211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuevoPorSopa: Una gringa Randon enseñando a hacer trenzas, veo la similitud con cierta persona, abro los comentarios y... https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074222299754979329"
+          ]
+        },
+        "author_id": "828594539925557250",
+        "conversation_id": "2074222307363500211",
+        "created_at": "2026-07-06T20:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074222307363500211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aCzA6PlhU",
+              "end": 131,
+              "expanded_url": "https://x.com/HuevoPorSopa/status/2074222307363500211/photo/1",
+              "media_key": "3_2074222299754979329",
+              "start": 108,
+              "url": "https://t.co/6aCzA6PlhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074222307363500211",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3935,
+          "impression_count": 1911298,
+          "like_count": 203097,
+          "quote_count": 327,
+          "reply_count": 170,
+          "retweet_count": 7026
+        },
+        "reply_settings": "everyone",
+        "text": "Una gringa Randon enseñando a hacer trenzas, veo la similitud con cierta persona, abro los comentarios y... https://t.co/6aCzA6PlhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6655,
+          "following_count": 743,
+          "like_count": 24491,
+          "listed_count": 19,
+          "media_count": 1161,
+          "tweet_count": 16779
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-06T13:21:47.000Z",
+        "description": "",
+        "id": "828594539925557250",
+        "location": "La Vega, Cundinamarca",
+        "name": "Gavioto",
+        "pinned_tweet_id": "1895506451898212844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875634972754694144/fZ1YMjbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39462,
+          "following_count": 71,
+          "like_count": 301605,
+          "listed_count": 43,
+          "media_count": 13697,
+          "tweet_count": 103961
+        },
+        "url": "",
+        "username": "HuevoPorSopa",
+        "verified": false
+      }
+    ]
+  }
+}

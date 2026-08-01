@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1992123225510437198",
+    "created_at": "2025-11-22T09:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T10:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992158591839838452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1647414363840720896",
+          "start": 0,
+          "username": "yzdyfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992158591839838452",
+    "in_reply_to_user_id": "1647414363840720896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992155959142256799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzdyfs 哼哼哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1992123225510437198",
+        "created_at": "2025-11-22T09:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992158591839838452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1647414363840720896",
+              "start": 0,
+              "username": "yzdyfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992158591839838452",
+        "in_reply_to_user_id": "1647414363840720896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992155959142256799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzdyfs 哼哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647414363840720896",
+        "conversation_id": "1992123225510437198",
+        "created_at": "2025-11-22T08:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992155959142256799"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "美神降",
+              "probability": 0.5961,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992155959142256799",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992123225510437198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 美神降世"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 862,
+          "like_count": 17099,
+          "listed_count": 17,
+          "media_count": 929,
+          "tweet_count": 13620
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T01:39:31.000Z",
+        "description": "清水推别骚扰我 不喜欢我拉黑我别和我吵架！这是我的日记本 梦想是成为小猫 不线下没原味 入门可以和我聊天做朋友 没有任何福利ovo",
+        "id": "1647414363840720896",
+        "location": "🚪222/333/520/1314/5200纯绿纯许愿嗯",
+        "name": "火灿焱燚",
+        "pinned_tweet_id": "1992075085906387302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984117358613655552/BQ2ql7Sv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 79,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1018
+        },
+        "username": "yzdyfs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1976863566021247398",
+    "created_at": "2025-10-12T10:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977323949198540891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1399632835120488449",
+          "start": 0,
+          "username": "Will_is_at_sea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977323949198540891",
+    "in_reply_to_user_id": "1399632835120488449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976863566021247398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Will_is_at_sea 看起来软软的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976863563693408257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2867_NbwAE4Uie.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1976863566021247398",
+        "created_at": "2025-10-12T10:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977323949198540891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1399632835120488449",
+              "start": 0,
+              "username": "Will_is_at_sea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977323949198540891",
+        "in_reply_to_user_id": "1399632835120488449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976863566021247398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Will_is_at_sea 看起来软软的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976863563693408257"
+          ]
+        },
+        "author_id": "1399632835120488449",
+        "conversation_id": "1976863566021247398",
+        "created_at": "2025-10-11T04:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976863566021247398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5AcUrPZZQ",
+              "end": 44,
+              "expanded_url": "https://x.com/Will_is_at_sea/status/1976863566021247398/photo/1",
+              "media_key": "3_1976863563693408257",
+              "start": 21,
+              "url": "https://t.co/k5AcUrPZZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976863566021247398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2855,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這隻是被吸到我們船上海水機器裡的倒楣螃蟹 https://t.co/k5AcUrPZZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5732,
+          "following_count": 880,
+          "like_count": 16243,
+          "listed_count": 18,
+          "media_count": 887,
+          "tweet_count": 12995
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T07:44:13.000Z",
+        "description": "海派生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=KINfQb…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/watch?v=KINfQbfZwik&feature=shares",
+                "start": 0,
+                "url": "https://t.co/jQeTIRvgD8"
+              }
+            ]
+          }
+        },
+        "id": "1399632835120488449",
+        "location": "高雄市, 台灣",
+        "name": "微悠",
+        "pinned_tweet_id": "1789188905860038951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221448241741824/XKftjA5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 567,
+          "like_count": 42835,
+          "listed_count": 7,
+          "media_count": 3693,
+          "tweet_count": 20164
+        },
+        "url": "https://t.co/jQeTIRvgD8",
+        "username": "Will_is_at_sea",
+        "verified": false
+      }
+    ]
+  }
+}

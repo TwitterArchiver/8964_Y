@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1995478471179391319",
+    "created_at": "2025-12-03T05:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T06:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996083881897066670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996083881897066670",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995478471179391319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange 萌死哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1801,
+        "media_key": "3_1995478466913869824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FdF9lXoAAzhPt.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1995478466951520256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FdF9uWIAA8Juw.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1995478471179391319",
+        "created_at": "2025-12-03T05:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996083881897066670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996083881897066670",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995478471179391319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange 萌死哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995478466913869824",
+            "3_1995478466951520256"
+          ]
+        },
+        "author_id": "1620792340897054720",
+        "conversation_id": "1995478471179391319",
+        "created_at": "2025-12-01T13:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995478471179391319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxmeNQgk9K",
+              "end": 54,
+              "expanded_url": "https://x.com/Orange007Orange/status/1995478471179391319/photo/1",
+              "media_key": "3_1995478466913869824",
+              "start": 31,
+              "url": "https://t.co/NxmeNQgk9K"
+            },
+            {
+              "display_url": "pic.x.com/NxmeNQgk9K",
+              "end": 54,
+              "expanded_url": "https://x.com/Orange007Orange/status/1995478471179391319/photo/1",
+              "media_key": "3_1995478466951520256",
+              "start": 31,
+              "url": "https://t.co/NxmeNQgk9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995478471179391319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 520,
+          "impression_count": 1358567,
+          "like_count": 3265,
+          "quote_count": 4,
+          "reply_count": 55,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "第一眼：凭啥那么贵？？？\n第二眼：草草草懂了懂了买买买汪汪汪 https://t.co/NxmeNQgk9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 834,
+          "like_count": 17468,
+          "listed_count": 17,
+          "media_count": 940,
+          "tweet_count": 13817
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管｜⚠️鉴证滚贴脸飞老冯｜随便发发｜面基请提前预约需要攒精力｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957885981354315776/77t4zYMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 589,
+          "like_count": 48332,
+          "listed_count": 5,
+          "media_count": 576,
+          "tweet_count": 17044
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

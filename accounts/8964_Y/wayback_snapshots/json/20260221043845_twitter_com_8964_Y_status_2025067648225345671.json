@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2024909831543705797",
+    "created_at": "2026-02-21T04:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025067648225345671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766388563627905024",
+          "start": 0,
+          "username": "Note473640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025067648225345671",
+    "in_reply_to_user_id": "1766388563627905024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025019545715687606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Note473640 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2024909831543705797",
+        "created_at": "2026-02-21T04:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025067648225345671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766388563627905024",
+              "start": 0,
+              "username": "Note473640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025067648225345671",
+        "in_reply_to_user_id": "1766388563627905024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025019545715687606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Note473640 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766388563627905024",
+        "conversation_id": "2024909831543705797",
+        "created_at": "2026-02-21T01:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025019545715687606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025019545715687606",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024909831543705797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 很多才华过分厉害的人童年都会被浸泡极致的夸耀或贬低中，事实上他们只是某一方面值得被托举却被全盘托出，导致很多这些人在其他方面发育畸形甚至根本不发展，也很少人会阻碍他们，常有人说“ta在这方面都这么强了别的也无所谓吧”，自然精神发育会出问题；然而一开始有精神问题的只有少数能转化为优势"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "QY_art7"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 733,
+          "like_count": 20020,
+          "listed_count": 19,
+          "media_count": 1007,
+          "tweet_count": 14801
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T09:00:35.000Z",
+        "description": "",
+        "id": "1766388563627905024",
+        "name": "Note",
+        "pinned_tweet_id": "1867578789687177668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852957917034815488/RA1pxzhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 3662,
+          "like_count": 12650,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 12222
+        },
+        "username": "Note473640",
+        "verified": false
+      }
+    ]
+  }
+}

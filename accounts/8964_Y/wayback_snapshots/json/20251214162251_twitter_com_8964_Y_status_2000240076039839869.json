@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2000109222798012788",
+    "created_at": "2025-12-14T16:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000240076039839869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282316537462878208",
+          "start": 0,
+          "username": "QWhyorwhynot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000240076039839869",
+    "in_reply_to_user_id": "1282316537462878208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000224684110139588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWhyorwhynot 很少人打码啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2000109222798012788",
+        "created_at": "2025-12-14T16:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000240076039839869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282316537462878208",
+              "start": 0,
+              "username": "QWhyorwhynot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000240076039839869",
+        "in_reply_to_user_id": "1282316537462878208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000224684110139588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWhyorwhynot 很少人打码啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282316537462878208",
+        "conversation_id": "2000109222798012788",
+        "created_at": "2025-12-14T15:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000224684110139588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000224684110139588",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000109222798012788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 直接複製的話會搞得自己才是原創那樣子吧，打個碼怎樣？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 830,
+          "like_count": 17555,
+          "listed_count": 19,
+          "media_count": 948,
+          "tweet_count": 13963
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-12T14:11:08.000Z",
+        "description": "病み垢   中文🇨🇳 日本語🇯🇵",
+        "id": "1282316537462878208",
+        "name": "クイズ",
+        "pinned_tweet_id": "1298816541538975746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996281439063842816/mJFinSy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 23,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 64
+        },
+        "username": "QWhyorwhynot",
+        "verified": false
+      }
+    ]
+  }
+}

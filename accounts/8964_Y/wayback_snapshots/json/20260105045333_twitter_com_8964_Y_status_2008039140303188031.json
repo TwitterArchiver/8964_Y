@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2007513717274226959",
+    "created_at": "2026-01-05T04:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T05:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008039140303188031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "743908469523226626",
+          "start": 0,
+          "username": "VictorBalgitt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008039140303188031",
+    "in_reply_to_user_id": "743908469523226626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007513717274226959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VictorBalgitt 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1774,
+        "media_key": "3_2007513133724663808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wejxGXAAA5391.jpg",
+        "width": 1587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2007513717274226959",
+        "created_at": "2026-01-05T04:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008039140303188031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "743908469523226626",
+              "start": 0,
+              "username": "VictorBalgitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008039140303188031",
+        "in_reply_to_user_id": "743908469523226626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007513717274226959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VictorBalgitt 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007513133724663808"
+          ]
+        },
+        "author_id": "743908469523226626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2007513717274226959",
+        "created_at": "2026-01-03T18:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T19:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007513717274226959"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "DENJIMAN",
+              "probability": 0.3653,
+              "start": 2,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "chainsawman",
+              "probability": 0.4629,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "asaden",
+              "probability": 0.6973,
+              "start": 56,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "asa",
+              "probability": 0.2989,
+              "start": 64,
+              "type": "Person"
+            },
+            {
+              "end": 73,
+              "normalized_text": "denji",
+              "probability": 0.4732,
+              "start": 69,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "csm"
+            },
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "asaden"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "asa"
+            },
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "denji"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "fanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kylsGRRvyQ",
+              "end": 106,
+              "expanded_url": "https://x.com/VictorBalgitt/status/2007513717274226959/photo/1",
+              "media_key": "3_2007513133724663808",
+              "start": 83,
+              "url": "https://t.co/kylsGRRvyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007513717274226959",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4964,
+          "impression_count": 295227,
+          "like_count": 37593,
+          "quote_count": 18,
+          "reply_count": 41,
+          "retweet_count": 2381
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 DENJIMAN x ASA 🔥\n\nLos pololos 🖤🖤🖤\n#chainsawman #csm  #asaden #asa #denji #fanart https://t.co/kylsGRRvyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不要靠近我我性格超级差有很大的问题很古怪的人滚滚滚｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5854,
+          "following_count": 833,
+          "like_count": 18011,
+          "listed_count": 19,
+          "media_count": 968,
+          "tweet_count": 14149
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-17T20:49:35.000Z",
+        "description": "Un fokin esclavo del seguir dibujando 🔥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/BALGITT",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/BALGITT",
+                "start": 0,
+                "url": "https://t.co/ZMrtIwFgrU"
+              }
+            ]
+          }
+        },
+        "id": "743908469523226626",
+        "location": "Puebla, México ",
+        "name": "Balgitt",
+        "pinned_tweet_id": "1886495124563312708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900263492273283072/R58uHRUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52298,
+          "following_count": 244,
+          "like_count": 31152,
+          "listed_count": 126,
+          "media_count": 990,
+          "tweet_count": 3919
+        },
+        "url": "https://t.co/ZMrtIwFgrU",
+        "username": "VictorBalgitt",
+        "verified": false
+      }
+    ]
+  }
+}

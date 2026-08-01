@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931283889382699008",
+        "3_1931283889378447360"
+      ],
+      "media_source_tweet_id": [
+        "1931283895548313795",
+        "1931283895548313795"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1931301234322919585",
+    "created_at": "2025-06-07T10:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T11:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931301234322919585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1749177360497172480",
+          "start": 3,
+          "username": "AyaseDaily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4zdXi57Jn",
+          "end": 39,
+          "expanded_url": "https://x.com/AyaseDaily/status/1931283895548313795/photo/1",
+          "media_key": "3_1931283889382699008",
+          "start": 16,
+          "url": "https://t.co/p4zdXi57Jn"
+        },
+        {
+          "display_url": "pic.x.com/p4zdXi57Jn",
+          "end": 39,
+          "expanded_url": "https://x.com/AyaseDaily/status/1931283895548313795/photo/1",
+          "media_key": "3_1931283889378447360",
+          "start": 16,
+          "url": "https://t.co/p4zdXi57Jn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931301234322919585",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931283895548313795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AyaseDaily: https://t.co/p4zdXi57Jn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1931283889382699008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1MdwsXMAACxRe.jpg",
+        "width": 720
+      },
+      {
+        "height": 736,
+        "media_key": "3_1931283889378447360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1MdwrWUAAYL7q.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931283889382699008",
+            "3_1931283889378447360"
+          ],
+          "media_source_tweet_id": [
+            "1931283895548313795",
+            "1931283895548313795"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1931301234322919585",
+        "created_at": "2025-06-07T10:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931301234322919585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749177360497172480",
+              "start": 3,
+              "username": "AyaseDaily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4zdXi57Jn",
+              "end": 39,
+              "expanded_url": "https://x.com/AyaseDaily/status/1931283895548313795/photo/1",
+              "media_key": "3_1931283889382699008",
+              "start": 16,
+              "url": "https://t.co/p4zdXi57Jn"
+            },
+            {
+              "display_url": "pic.x.com/p4zdXi57Jn",
+              "end": 39,
+              "expanded_url": "https://x.com/AyaseDaily/status/1931283895548313795/photo/1",
+              "media_key": "3_1931283889378447360",
+              "start": 16,
+              "url": "https://t.co/p4zdXi57Jn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931301234322919585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931283895548313795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AyaseDaily: https://t.co/p4zdXi57Jn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931283889382699008",
+            "3_1931283889378447360"
+          ]
+        },
+        "author_id": "1749177360497172480",
+        "conversation_id": "1931283895548313795",
+        "created_at": "2025-06-07T09:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T10:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931283895548313795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4zdXi57Jn",
+              "end": 23,
+              "expanded_url": "https://x.com/AyaseDaily/status/1931283895548313795/photo/1",
+              "media_key": "3_1931283889382699008",
+              "start": 0,
+              "url": "https://t.co/p4zdXi57Jn"
+            },
+            {
+              "display_url": "pic.x.com/p4zdXi57Jn",
+              "end": 23,
+              "expanded_url": "https://x.com/AyaseDaily/status/1931283895548313795/photo/1",
+              "media_key": "3_1931283889378447360",
+              "start": 0,
+              "url": "https://t.co/p4zdXi57Jn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931283895548313795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 144,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p4zdXi57Jn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5503,
+          "following_count": 939,
+          "like_count": 13455,
+          "listed_count": 8,
+          "media_count": 713,
+          "tweet_count": 10532
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T21:10:29.000Z",
+        "description": "Daily content about Momo Ayase of #Dandadan👻👽",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 34,
+                "tag": "Dandadan"
+              }
+            ]
+          }
+        },
+        "id": "1749177360497172480",
+        "name": "Momo Ayase Daily",
+        "pinned_tweet_id": "1749179115544912330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841505070040453120/Xe57fHUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4008,
+          "following_count": 9,
+          "like_count": 710,
+          "listed_count": 6,
+          "media_count": 534,
+          "tweet_count": 1236
+        },
+        "username": "AyaseDaily",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955941452388950019"
+      ],
+      "media_source_tweet_id": [
+        "1955941485087744413"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1956136717075013801",
+    "created_at": "2025-08-14T23:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T00:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956136717075013801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1155113616913264640",
+          "start": 3,
+          "username": "sakigake_cos"
+        },
+        {
+          "end": 92,
+          "id": "1317114735477706752",
+          "start": 83,
+          "username": "ryo_slss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZoPiQuCLu",
+          "end": 130,
+          "expanded_url": "https://x.com/sakigake_cos/status/1955941485087744413/photo/1",
+          "media_key": "3_1955941452388950019",
+          "start": 107,
+          "url": "https://t.co/1ZoPiQuCLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956136717075013801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955941485087744413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakigake_cos: 𝘾𝙝𝙖𝙞𝙣𝙨𝙖𝙬 𝙢𝙖𝙣 ／チェンソーマン　\n\n　　　　　　Dark   diving\n\n、\ncosplay photo \n▷━(@ryo_slss ◉ꈊ]:̲̅:̲̅:̲̅) https://t.co/1ZoPiQuCLu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1955941452388950019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTmY08a4AMGfbp.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955941452388950019"
+          ],
+          "media_source_tweet_id": [
+            "1955941485087744413"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1956136717075013801",
+        "created_at": "2025-08-14T23:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T00:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956136717075013801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1155113616913264640",
+              "start": 3,
+              "username": "sakigake_cos"
+            },
+            {
+              "end": 92,
+              "id": "1317114735477706752",
+              "start": 83,
+              "username": "ryo_slss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZoPiQuCLu",
+              "end": 130,
+              "expanded_url": "https://x.com/sakigake_cos/status/1955941485087744413/photo/1",
+              "media_key": "3_1955941452388950019",
+              "start": 107,
+              "url": "https://t.co/1ZoPiQuCLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956136717075013801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955941485087744413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakigake_cos: 𝘾𝙝𝙖𝙞𝙣𝙨𝙖𝙬 𝙢𝙖𝙣 ／チェンソーマン　\n\n　　　　　　Dark   diving\n\n、\ncosplay photo \n▷━(@ryo_slss ◉ꈊ]:̲̅:̲̅:̲̅) https://t.co/1ZoPiQuCLu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955941452388950019"
+          ]
+        },
+        "author_id": "1155113616913264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955941485087744413",
+        "created_at": "2025-08-14T10:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955941485087744413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 74,
+              "id": "1317114735477706752",
+              "start": 65,
+              "username": "ryo_slss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZoPiQuCLu",
+              "end": 112,
+              "expanded_url": "https://x.com/sakigake_cos/status/1955941485087744413/photo/1",
+              "media_key": "3_1955941452388950019",
+              "start": 89,
+              "url": "https://t.co/1ZoPiQuCLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955941485087744413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 25259,
+          "like_count": 1641,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "𝘾𝙝𝙖𝙞𝙣𝙨𝙖𝙬 𝙢𝙖𝙣 ／チェンソーマン　\n\n　　　　　　Dark   diving\n\n、\ncosplay photo \n▷━(@ryo_slss ◉ꈊ]:̲̅:̲̅:̲̅) https://t.co/1ZoPiQuCLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5778,
+          "following_count": 878,
+          "like_count": 15337,
+          "listed_count": 13,
+          "media_count": 806,
+          "tweet_count": 12005
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-27T13:52:02.000Z",
+        "description": "カッコイイ が好き■cosplay●成人▲雑多",
+        "id": "1155113616913264640",
+        "location": "JAPAN Hokkaido",
+        "name": "サキガケ",
+        "pinned_tweet_id": "1884897151245005124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774435764245540866/dq4OdLvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12953,
+          "following_count": 1485,
+          "like_count": 221585,
+          "listed_count": 136,
+          "media_count": 2095,
+          "tweet_count": 71036
+        },
+        "username": "sakigake_cos",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-16T14:46:52.000Z",
+        "description": "写真を撮る‼︎ ﾁｪﾝｿｰﾏﾝ大好き‼︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "knotnine.myportfolio.com",
+                "end": 23,
+                "expanded_url": "https://knotnine.myportfolio.com/",
+                "start": 0,
+                "url": "https://t.co/JcZmukDTXd"
+              }
+            ]
+          }
+        },
+        "id": "1317114735477706752",
+        "location": "サークル:KNOT NINE",
+        "name": "りょう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932915112924602368/x96OFnhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 380,
+          "like_count": 18859,
+          "listed_count": 12,
+          "media_count": 355,
+          "tweet_count": 5260
+        },
+        "url": "https://t.co/JcZmukDTXd",
+        "username": "ryo_slss",
+        "verified": false
+      }
+    ]
+  }
+}

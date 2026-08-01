@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898436367862087680"
+      ],
+      "media_source_tweet_id": [
+        "1898436370781364403"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1898625604657774797",
+    "created_at": "2025-03-09T06:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T07:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898625604657774797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879522032783880192",
+          "start": 3,
+          "username": "ooo_nmn_o"
+        },
+        {
+          "end": 37,
+          "id": "1888963751103397888",
+          "start": 23,
+          "username": "nimaigai_2222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2oXGPF4bwG",
+          "end": 63,
+          "expanded_url": "https://x.com/ooo_nmn_o/status/1898436370781364403/photo/1",
+          "media_key": "3_1898436367862087680",
+          "start": 40,
+          "url": "https://t.co/2oXGPF4bwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898625604657774797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898436370781364403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ooo_nmn_o: 絵チャ合作☯️(@nimaigai_2222 ) https://t.co/2oXGPF4bwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_1898436367862087680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GliZ0XcaQAArugH.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898436367862087680"
+          ],
+          "media_source_tweet_id": [
+            "1898436370781364403"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898625604657774797",
+        "created_at": "2025-03-09T06:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898625604657774797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879522032783880192",
+              "start": 3,
+              "username": "ooo_nmn_o"
+            },
+            {
+              "end": 37,
+              "id": "1888963751103397888",
+              "start": 23,
+              "username": "nimaigai_2222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oXGPF4bwG",
+              "end": 63,
+              "expanded_url": "https://x.com/ooo_nmn_o/status/1898436370781364403/photo/1",
+              "media_key": "3_1898436367862087680",
+              "start": 40,
+              "url": "https://t.co/2oXGPF4bwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898625604657774797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898436370781364403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ooo_nmn_o: 絵チャ合作☯️(@nimaigai_2222 ) https://t.co/2oXGPF4bwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898436367862087680"
+          ]
+        },
+        "author_id": "1879522032783880192",
+        "conversation_id": "1898436370781364403",
+        "created_at": "2025-03-08T18:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T19:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898436370781364403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1888963751103397888",
+              "start": 8,
+              "username": "nimaigai_2222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oXGPF4bwG",
+              "end": 48,
+              "expanded_url": "https://x.com/ooo_nmn_o/status/1898436370781364403/photo/1",
+              "media_key": "3_1898436367862087680",
+              "start": 25,
+              "url": "https://t.co/2oXGPF4bwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898436370781364403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 820,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "絵チャ合作☯️(@nimaigai_2222 ) https://t.co/2oXGPF4bwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4887,
+          "following_count": 919,
+          "like_count": 10251,
+          "listed_count": 6,
+          "media_count": 533,
+          "tweet_count": 7908
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T13:32:47.000Z",
+        "description": "HL、BL、GLを食う雑食のバケモノ",
+        "id": "1879522032783880192",
+        "name": "イカ🦀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888991601936244736/WPI7-9Ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 28,
+          "like_count": 1263,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 81
+        },
+        "username": "ooo_nmn_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T14:51:10.000Z",
+        "description": "ddd /⭐️🐱、☯️、👁️🦢",
+        "id": "1888963751103397888",
+        "name": "二枚貝🐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888970496458604544/bMDnynxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 31,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 209
+        },
+        "username": "nimaigai_2222",
+        "verified": false
+      }
+    ]
+  }
+}

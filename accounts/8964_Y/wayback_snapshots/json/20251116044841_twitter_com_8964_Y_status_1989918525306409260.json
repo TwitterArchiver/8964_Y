@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1989918455001485312"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1989918525306409260",
+    "created_at": "2025-11-16T04:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989918525306409260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FS9ESd3sb9",
+          "end": 23,
+          "expanded_url": "https://x.com/8964_Y/status/1989918525306409260/video/1",
+          "media_key": "13_1989918455001485312",
+          "start": 0,
+          "url": "https://t.co/FS9ESd3sb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989918525306409260",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FS9ESd3sb9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9633,
+        "height": 1280,
+        "media_key": "13_1989918455001485312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989918455001485312/img/At2aTzI6rIZgSbTt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989918455001485312/vid/avc1/320x568/Xmm2i5wYZ2OShQu9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989918455001485312/vid/avc1/480x852/SI0U0RYUO_iii664.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989918455001485312/vid/avc1/720x1280/Sq3EAoskcyVCyhQc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989918455001485312/pl/uRkTYkazinISPEX0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989918455001485312"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1989918525306409260",
+        "created_at": "2025-11-16T04:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989918525306409260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FS9ESd3sb9",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/1989918525306409260/video/1",
+              "media_key": "13_1989918455001485312",
+              "start": 0,
+              "url": "https://t.co/FS9ESd3sb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989918525306409260",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FS9ESd3sb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5853,
+          "following_count": 864,
+          "like_count": 17014,
+          "listed_count": 16,
+          "media_count": 922,
+          "tweet_count": 13561
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

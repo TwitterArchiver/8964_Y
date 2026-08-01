@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2077785818069090344",
+    "created_at": "2026-07-16T17:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077805971012006321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746050438666002432",
+          "start": 0,
+          "username": "mitsuki072527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077805971012006321",
+    "in_reply_to_user_id": "1746050438666002432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077785818069090344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki072527 我也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_2077785807726030848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXHLvzbsAA8s0F.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2077785818069090344",
+        "created_at": "2026-07-16T17:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077805971012006321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746050438666002432",
+              "start": 0,
+              "username": "mitsuki072527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077805971012006321",
+        "in_reply_to_user_id": "1746050438666002432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077785818069090344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki072527 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077785807726030848"
+          ]
+        },
+        "author_id": "1746050438666002432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077785818069090344",
+        "created_at": "2026-07-16T16:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077785818069090344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRVOm9de2m",
+              "end": 98,
+              "expanded_url": "https://x.com/mitsuki072527/status/2077785818069090344/photo/1",
+              "media_key": "3_2077785807726030848",
+              "start": 75,
+              "url": "https://t.co/KRVOm9de2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077785818069090344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说我突然刷到那个推文啊然后我说其实本质上就是牙齿不正然后长成这样了之后呢。我右边的一排牙原本也是一样的像鲨鱼牙一样现在全部因为戴过牙套变得平平的了 https://t.co/KRVOm9de2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2076670418442658059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6676,
+          "following_count": 751,
+          "like_count": 24979,
+          "listed_count": 19,
+          "media_count": 1174,
+          "tweet_count": 16928
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-13T06:04:14.000Z",
+        "description": "病み垢 shtwt｜@minato110426｜https://t.co/t9wZ8fSAUv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "minato110426"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ritsu90802",
+                "end": 47,
+                "expanded_url": "https://ngl.link/ritsu90802",
+                "start": 24,
+                "url": "https://t.co/t9wZ8fSAUv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vt.tiktok.com/ZSCX71YNj/",
+                "end": 23,
+                "expanded_url": "https://vt.tiktok.com/ZSCX71YNj/",
+                "start": 0,
+                "url": "https://t.co/A2BVr0Rgqr"
+              }
+            ]
+          }
+        },
+        "id": "1746050438666002432",
+        "location": "天国",
+        "name": "Hear1uls",
+        "pinned_tweet_id": "2077115041602801815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075894088210198528/fAd5Pe3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 124,
+          "like_count": 2323,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 4853
+        },
+        "url": "https://t.co/A2BVr0Rgqr",
+        "username": "mitsuki072527",
+        "verified": false
+      }
+    ]
+  }
+}

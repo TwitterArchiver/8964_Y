@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1984574244001644698",
+    "created_at": "2025-11-02T12:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T13:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984961126686405028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968432835766738944",
+          "start": 0,
+          "username": "somewherewuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984961126686405028",
+    "in_reply_to_user_id": "1968432835766738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984574244001644698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@somewherewuuuu 被骂装松弛belike："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_1984574236871311361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qfwPMbQAEPYhL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1984574244001644698",
+        "created_at": "2025-11-02T12:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984961126686405028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968432835766738944",
+              "start": 0,
+              "username": "somewherewuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984961126686405028",
+        "in_reply_to_user_id": "1968432835766738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984574244001644698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@somewherewuuuu 被骂装松弛belike："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984574236871311361"
+          ]
+        },
+        "author_id": "1968432835766738944",
+        "conversation_id": "1984574244001644698",
+        "created_at": "2025-11-01T10:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984574244001644698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUzGRlKDPu",
+              "end": 92,
+              "expanded_url": "https://x.com/somewherewuuuu/status/1984574244001644698/photo/1",
+              "media_key": "3_1984574236871311361",
+              "start": 69,
+              "url": "https://t.co/DUzGRlKDPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984574244001644698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16628,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "妹子就这样活在自己的世界里 故作轻松实则暗自较劲试图挽回局面 把你的照片发出来安慰安慰我好吗 我看到仇人把日子过成这个b样我都会心疼的！ https://t.co/DUzGRlKDPu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5771,
+          "following_count": 890,
+          "like_count": 16578,
+          "listed_count": 17,
+          "media_count": 910,
+          "tweet_count": 13269
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T21:52:23.000Z",
+        "description": "@sexnothanks 🚪66防傻逼 纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "sexnothanks"
+              }
+            ]
+          }
+        },
+        "id": "1968432835766738944",
+        "location": "猪蹄在此 谁敢造次",
+        "name": "imosang",
+        "pinned_tweet_id": "1976590204468339104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968433978886533120/iMGM80y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 63,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 158
+        },
+        "username": "somewherewuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

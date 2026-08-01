@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2046083300566217043",
+    "created_at": "2026-04-20T04:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046083300566217043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zdnxxc/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/zdnxxc/status/2045866838371045388",
+          "start": 3,
+          "url": "https://t.co/OQs9ReVlPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046083300566217043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045866838371045388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/OQs9ReVlPp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2045866832285032448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRhC2QaYAANmVj.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2046083300566217043",
+        "created_at": "2026-04-20T04:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046083300566217043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zdnxxc/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/zdnxxc/status/2045866838371045388",
+              "start": 3,
+              "url": "https://t.co/OQs9ReVlPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046083300566217043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045866838371045388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/OQs9ReVlPp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045866832285032448"
+          ]
+        },
+        "author_id": "1431510026221350912",
+        "conversation_id": "2045414419635855827",
+        "created_at": "2026-04-19T14:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045866838371045388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lLVrWkTYD",
+              "end": 40,
+              "expanded_url": "https://x.com/ZdnxXc/status/2045866838371045388/photo/1",
+              "media_key": "3_2045866832285032448",
+              "start": 17,
+              "url": "https://t.co/0lLVrWkTYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045866838371045388",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045414419635855827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 https://t.co/0lLVrWkTYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7  只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6173,
+          "following_count": 735,
+          "like_count": 22705,
+          "listed_count": 19,
+          "media_count": 1081,
+          "tweet_count": 15969
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T06:52:50.000Z",
+        "description": "迷幻美学欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xczdnx",
+                "end": 23,
+                "expanded_url": "https://t.me/xczdnx",
+                "start": 0,
+                "url": "https://t.co/ife6M5ChCI"
+              }
+            ]
+          }
+        },
+        "id": "1431510026221350912",
+        "location": "阿姆斯特丹",
+        "name": "xczdnx🍄",
+        "pinned_tweet_id": "2009133793559683578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451477295433240599/hBoKxuEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 103,
+          "like_count": 1115,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/ife6M5ChCI",
+        "username": "ZdnxXc",
+        "verified": false
+      }
+    ]
+  }
+}

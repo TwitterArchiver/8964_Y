@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1959236990487912500",
+    "created_at": "2025-08-25T12:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T13:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959958553223152071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885707904931733504",
+          "start": 0,
+          "username": "dfuyutf123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959958553223152071",
+    "in_reply_to_user_id": "1885707904931733504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959236990487912500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfuyutf123 我最喜欢玩音游"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1959236990487912500",
+        "created_at": "2025-08-25T12:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959958553223152071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885707904931733504",
+              "start": 0,
+              "username": "dfuyutf123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959958553223152071",
+        "in_reply_to_user_id": "1885707904931733504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959236990487912500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfuyutf123 我最喜欢玩音游"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885707904931733504",
+        "conversation_id": "1959236990487912500",
+        "created_at": "2025-08-23T12:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959236990487912500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959236990487912500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 119900,
+          "like_count": 637,
+          "quote_count": 13,
+          "reply_count": 125,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我跟互关一致认为switch是最牛逼的群体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 876,
+          "like_count": 15522,
+          "listed_count": 17,
+          "media_count": 821,
+          "tweet_count": 12112
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T15:13:05.000Z",
+        "description": "🍃叫我十六！石榴！都可以～我没有🚪如果想加你微信我会主动要的！如果可以我要吃一辈子麦当劳",
+        "id": "1885707904931733504",
+        "name": "dfuyutf",
+        "pinned_tweet_id": "1946768042257453273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954870686897336320/RA1qXaZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 213,
+          "like_count": 5989,
+          "listed_count": 5,
+          "media_count": 81,
+          "tweet_count": 2106
+        },
+        "username": "dfuyutf123",
+        "verified": false
+      }
+    ]
+  }
+}

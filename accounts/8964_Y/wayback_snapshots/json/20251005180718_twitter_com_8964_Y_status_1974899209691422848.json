@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974730551861882880"
+      ],
+      "media_source_tweet_id": [
+        "1974730557318926718"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1974899209691422848",
+    "created_at": "2025-10-05T18:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T19:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974899209691422848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291820616576884736",
+          "start": 3,
+          "username": "McChiz76"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBhhqf42Vu",
+          "end": 39,
+          "expanded_url": "https://x.com/McChiz76/status/1974730557318926718/photo/1",
+          "media_key": "3_1974730551861882880",
+          "start": 16,
+          "url": "https://t.co/SBhhqf42Vu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974899209691422848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974730557318926718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @McChiz76: 😔 https://t.co/SBhhqf42Vu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974730551861882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2em-W7WsAAGmj_.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974730551861882880"
+          ],
+          "media_source_tweet_id": [
+            "1974730557318926718"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1974899209691422848",
+        "created_at": "2025-10-05T18:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T19:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974899209691422848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291820616576884736",
+              "start": 3,
+              "username": "McChiz76"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBhhqf42Vu",
+              "end": 39,
+              "expanded_url": "https://x.com/McChiz76/status/1974730557318926718/photo/1",
+              "media_key": "3_1974730551861882880",
+              "start": 16,
+              "url": "https://t.co/SBhhqf42Vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974899209691422848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974730557318926718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @McChiz76: 😔 https://t.co/SBhhqf42Vu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974730551861882880"
+          ]
+        },
+        "author_id": "1291820616576884736",
+        "conversation_id": "1974730557318926718",
+        "created_at": "2025-10-05T06:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974730557318926718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBhhqf42Vu",
+              "end": 25,
+              "expanded_url": "https://x.com/McChiz76/status/1974730557318926718/photo/1",
+              "media_key": "3_1974730551861882880",
+              "start": 2,
+              "url": "https://t.co/SBhhqf42Vu"
+            },
+            {
+              "display_url": "x.com/McChiz76/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/McChiz76/status/1973645935184850960",
+              "start": 26,
+              "url": "https://t.co/wMCHhUktVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974730557318926718",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4154,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973645935184850960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😔 https://t.co/SBhhqf42Vu https://t.co/wMCHhUktVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5748,
+          "following_count": 873,
+          "like_count": 16137,
+          "listed_count": 18,
+          "media_count": 881,
+          "tweet_count": 12878
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T19:37:03.000Z",
+        "description": "Finger artist ✌️ | Feel free to repost my art crediting me | Follow me if you like my work ❤️ | 🇺🇸🇪🇸🇫🇷",
+        "id": "1291820616576884736",
+        "name": "McCheese 🧀 🎃",
+        "pinned_tweet_id": "1912854592527704333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974729789530406912/2eznYk1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6040,
+          "following_count": 292,
+          "like_count": 17675,
+          "listed_count": 23,
+          "media_count": 1232,
+          "tweet_count": 2370
+        },
+        "username": "McChiz76",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906924226529177600"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1906924233189683677",
+    "created_at": "2025-04-01T04:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906924233189683677"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NhRmLPOjrt",
+          "end": 28,
+          "expanded_url": "https://x.com/8964_Y/status/1906924233189683677/photo/1",
+          "media_key": "3_1906924226529177600",
+          "start": 5,
+          "url": "https://t.co/NhRmLPOjrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906924233189683677",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/NhRmLPOjrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1906924226529177600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnbBew_bsAA5mGg.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906924226529177600"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1906924233189683677",
+        "created_at": "2025-04-01T04:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906924233189683677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhRmLPOjrt",
+              "end": 28,
+              "expanded_url": "https://x.com/8964_Y/status/1906924233189683677/photo/1",
+              "media_key": "3_1906924226529177600",
+              "start": 5,
+              "url": "https://t.co/NhRmLPOjrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906924233189683677",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/NhRmLPOjrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "08餐券妹｜如果我的言论让你感到不快那我很荣幸",
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "草莓眠眠枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906923958546681856/tGdYdDOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 958,
+          "like_count": 11523,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 8732
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

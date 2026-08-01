@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046966994625544192",
+        "3_2046966994629763072"
+      ],
+      "media_source_tweet_id": [
+        "2046967006205968630",
+        "2046967006205968630"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2046968387990134928",
+    "created_at": "2026-04-22T15:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046968387990134928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943875332320505856",
+          "start": 3,
+          "username": "QY_art7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AI8RuGQxh9",
+          "end": 36,
+          "expanded_url": "https://x.com/QY_art7/status/2046967006205968630/photo/1",
+          "media_key": "3_2046966994625544192",
+          "start": 13,
+          "url": "https://t.co/AI8RuGQxh9"
+        },
+        {
+          "display_url": "pic.x.com/AI8RuGQxh9",
+          "end": 36,
+          "expanded_url": "https://x.com/QY_art7/status/2046967006205968630/photo/1",
+          "media_key": "3_2046966994629763072",
+          "start": 13,
+          "url": "https://t.co/AI8RuGQxh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046968387990134928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046967006205968630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QY_art7: https://t.co/AI8RuGQxh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046966994625544192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhJouWawAA3tyt.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046966994629763072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhJouXbIAANQvJ.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046966994625544192",
+            "3_2046966994629763072"
+          ],
+          "media_source_tweet_id": [
+            "2046967006205968630",
+            "2046967006205968630"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2046968387990134928",
+        "created_at": "2026-04-22T15:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046968387990134928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943875332320505856",
+              "start": 3,
+              "username": "QY_art7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AI8RuGQxh9",
+              "end": 36,
+              "expanded_url": "https://x.com/QY_art7/status/2046967006205968630/photo/1",
+              "media_key": "3_2046966994625544192",
+              "start": 13,
+              "url": "https://t.co/AI8RuGQxh9"
+            },
+            {
+              "display_url": "pic.x.com/AI8RuGQxh9",
+              "end": 36,
+              "expanded_url": "https://x.com/QY_art7/status/2046967006205968630/photo/1",
+              "media_key": "3_2046966994629763072",
+              "start": 13,
+              "url": "https://t.co/AI8RuGQxh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046968387990134928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046967006205968630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QY_art7: https://t.co/AI8RuGQxh9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046966994625544192",
+            "3_2046966994629763072"
+          ]
+        },
+        "author_id": "1943875332320505856",
+        "conversation_id": "2046967006205968630",
+        "created_at": "2026-04-22T14:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046967006205968630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AI8RuGQxh9",
+              "end": 23,
+              "expanded_url": "https://x.com/QY_art7/status/2046967006205968630/photo/1",
+              "media_key": "3_2046966994625544192",
+              "start": 0,
+              "url": "https://t.co/AI8RuGQxh9"
+            },
+            {
+              "display_url": "pic.x.com/AI8RuGQxh9",
+              "end": 23,
+              "expanded_url": "https://x.com/QY_art7/status/2046967006205968630/photo/1",
+              "media_key": "3_2046966994629763072",
+              "start": 0,
+              "url": "https://t.co/AI8RuGQxh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046967006205968630",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AI8RuGQxh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7  只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6152,
+          "following_count": 733,
+          "like_count": 22766,
+          "listed_count": 19,
+          "media_count": 1079,
+          "tweet_count": 15992
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T03:29:38.000Z",
+        "description": "日常：@8964_Y ｜喜欢画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1943875332320505856",
+        "name": "孙笑川学姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992414201562980353/ueePEzA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 3,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 44
+        },
+        "username": "QY_art7",
+        "verified": false
+      }
+    ]
+  }
+}

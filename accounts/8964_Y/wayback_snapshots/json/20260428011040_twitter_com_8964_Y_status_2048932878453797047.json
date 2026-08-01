@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2048807474820780134",
+    "created_at": "2026-04-28T01:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048932878453797047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032390724940189696",
+          "start": 0,
+          "username": "YukiShuji14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048932878453797047",
+    "in_reply_to_user_id": "2032390724940189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048928275326808363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiShuji14 哎，希望不要有更多人被骗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2048807474820780134",
+        "created_at": "2026-04-28T01:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048932878453797047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032390724940189696",
+              "start": 0,
+              "username": "YukiShuji14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048932878453797047",
+        "in_reply_to_user_id": "2032390724940189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048928275326808363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiShuji14 哎，希望不要有更多人被骗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032390724940189696",
+        "conversation_id": "2048807474820780134",
+        "created_at": "2026-04-28T00:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048928275326808363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048928275326808363",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048807474820780134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 就没给发货过😂真的是全家4️⃣完了，就没要收货地址，我就问怎么打的包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿｜超厉害的使魔：@Misaki11137",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Misaki11137"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 738,
+          "like_count": 22855,
+          "listed_count": 19,
+          "media_count": 1086,
+          "tweet_count": 16054
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T09:39:38.000Z",
+        "description": "夢向oc\n主页男的是我老公，辱追倾向\n三次吐槽\n状态：活着",
+        "id": "2032390724940189696",
+        "name": "Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047630130466742272/4d7YmIdn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 30
+        },
+        "username": "YukiShuji14",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1932068246909501765",
+    "created_at": "2025-06-09T13:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932068246909501765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1821312171923644416",
+          "start": 3,
+          "username": "miomiomio56960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932068246909501765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932062800962351207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miomiomio56960: 我感觉喝点酒我的“喜欢”就会放大，这时候妹子一撒娇我就感觉萌得我心都要炸了。。哦不呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1932068246909501765",
+        "created_at": "2025-06-09T13:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932068246909501765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1821312171923644416",
+              "start": 3,
+              "username": "miomiomio56960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932068246909501765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932062800962351207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miomiomio56960: 我感觉喝点酒我的“喜欢”就会放大，这时候妹子一撒娇我就感觉萌得我心都要炸了。。哦不呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821312171923644416",
+        "conversation_id": "1932062800962351207",
+        "created_at": "2025-06-09T13:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932062800962351207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932062800962351207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉喝点酒我的“喜欢”就会放大，这时候妹子一撒娇我就感觉萌得我心都要炸了。。哦不呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5509,
+          "following_count": 940,
+          "like_count": 13499,
+          "listed_count": 8,
+          "media_count": 713,
+          "tweet_count": 10594
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "我是洋芋，目标是成为洋芋大律师_(:зゝ∠)_",
+        "id": "1821312171923644416",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1850983746792780090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920799424902819842/ALcbB3ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 380,
+          "like_count": 12345,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 3815
+        },
+        "username": "miomiomio56960",
+        "verified": false
+      }
+    ]
+  }
+}

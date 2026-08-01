@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1989125637492338716",
+    "created_at": "2025-11-14T09:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T10:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989264900309545021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "247872672",
+          "start": 0,
+          "username": "Drowsy_sheep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989264900309545021",
+    "in_reply_to_user_id": "247872672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989125637492338716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drowsy_sheep 多花点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1989125560426201088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rLKIragAAscFv.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1989125637492338716",
+        "created_at": "2025-11-14T09:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989264900309545021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "247872672",
+              "start": 0,
+              "username": "Drowsy_sheep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989264900309545021",
+        "in_reply_to_user_id": "247872672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989125637492338716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drowsy_sheep 多花点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989125560426201088"
+          ]
+        },
+        "author_id": "247872672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1989125637492338716",
+        "created_at": "2025-11-14T00:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T01:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989125637492338716"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgbiqSvRxa",
+              "end": 104,
+              "expanded_url": "https://x.com/Drowsy_sheep/status/1989125637492338716/photo/1",
+              "media_key": "3_1989125560426201088",
+              "start": 81,
+              "url": "https://t.co/fgbiqSvRxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989125637492338716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1642,
+          "impression_count": 47412,
+          "like_count": 3669,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "Nayuta / ナユタ（大人Ver.）  \nLiterally just having s*x\n〇ックスしてるだけ\n#chainsawman #チェンソーマン https://t.co/fgbiqSvRxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 863,
+          "like_count": 16944,
+          "listed_count": 17,
+          "media_count": 917,
+          "tweet_count": 13524
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-05T19:11:06.000Z",
+        "description": "Fan Art/Original Art\n🔞🎨: 〇ョナ, Defeated, 無様エ〇, Instant loss\nNAI/CSP✨\n🔞Patreon: https://t.co/4CupXbpjKq\n🔽リンクに支援サイト🔞, Commission, 依頼, 作品をまとめました🔽",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/DozyMoth",
+                "end": 101,
+                "expanded_url": "https://www.patreon.com/c/DozyMoth",
+                "start": 78,
+                "url": "https://t.co/4CupXbpjKq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyangoromochi",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyangoromochi",
+                "start": 0,
+                "url": "https://t.co/vhgecXbFhX"
+              }
+            ]
+          }
+        },
+        "id": "247872672",
+        "location": "Washington, USA",
+        "name": "にゃんごろもち",
+        "pinned_tweet_id": "1955464623102304710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786260237395369984/EdtSOGCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238996,
+          "following_count": 648,
+          "like_count": 8757,
+          "listed_count": 1340,
+          "media_count": 1573,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/vhgecXbFhX",
+        "username": "Drowsy_sheep",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1898043462102269953"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1898043531924848843",
+    "created_at": "2025-03-07T16:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T17:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898043531924848843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iawacABmur",
+          "end": 35,
+          "expanded_url": "https://x.com/8964_Y/status/1898043531924848843/video/1",
+          "media_key": "13_1898043462102269953",
+          "start": 12,
+          "url": "https://t.co/iawacABmur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898043531924848843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像吸毒的人剪出来的视频 https://t.co/iawacABmur"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18343,
+        "height": 720,
+        "media_key": "13_1898043462102269953",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898043462102269953/img/_UxqTiLqKXCJpNe7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898043462102269953/vid/avc1/320x320/x9-L6kSuvXgJPeY4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898043462102269953/vid/avc1/540x540/RdiU8ksixIq08dLU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898043462102269953/vid/avc1/720x720/8cDb0yDSFUEDhPDk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898043462102269953/pl/ZsloFYR3UW5eBB3K.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898043462102269953"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898043531924848843",
+        "created_at": "2025-03-07T16:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898043531924848843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iawacABmur",
+              "end": 35,
+              "expanded_url": "https://x.com/8964_Y/status/1898043531924848843/video/1",
+              "media_key": "13_1898043462102269953",
+              "start": 12,
+              "url": "https://t.co/iawacABmur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898043531924848843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像吸毒的人剪出来的视频 https://t.co/iawacABmur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 905,
+          "like_count": 10015,
+          "listed_count": 5,
+          "media_count": 523,
+          "tweet_count": 7787
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

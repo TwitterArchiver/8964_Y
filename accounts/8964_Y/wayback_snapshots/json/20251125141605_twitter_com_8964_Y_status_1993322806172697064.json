@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992981667707752448",
+        "3_1992981667691048960",
+        "3_1992981667703631872"
+      ],
+      "media_source_tweet_id": [
+        "1992981691389129022",
+        "1992981691389129022",
+        "1992981691389129022"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1993322806172697064",
+    "created_at": "2025-11-25T14:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993322806172697064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1815878828419629056",
+          "start": 3,
+          "username": "qiqi1127520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lm8eFke3BX",
+          "end": 108,
+          "expanded_url": "https://x.com/qiqi1127520/status/1992981691389129022/photo/1",
+          "media_key": "3_1992981667707752448",
+          "start": 85,
+          "url": "https://t.co/lm8eFke3BX"
+        },
+        {
+          "display_url": "pic.x.com/lm8eFke3BX",
+          "end": 108,
+          "expanded_url": "https://x.com/qiqi1127520/status/1992981691389129022/photo/1",
+          "media_key": "3_1992981667691048960",
+          "start": 85,
+          "url": "https://t.co/lm8eFke3BX"
+        },
+        {
+          "display_url": "pic.x.com/lm8eFke3BX",
+          "end": 108,
+          "expanded_url": "https://x.com/qiqi1127520/status/1992981691389129022/photo/1",
+          "media_key": "3_1992981667703631872",
+          "start": 85,
+          "url": "https://t.co/lm8eFke3BX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993322806172697064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992981691389129022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi1127520: 哈喽哈喽哈喽小女孩求资助🥺\n欠了一堆 面临房租问题 小女孩求打赏\n我会唱歌会跳舞性格也好 可以给你表演才艺\n🚪20/66/88/188 https://t.co/lm8eFke3BX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993322806172697064].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993322806172697064",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993322806172697064"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992981667707752448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h-RHuWEAAlFz8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1992981667691048960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h-RHqXMAANy31.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1992981667703631872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h-RHtXMAA0Dm8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992981667707752448",
+            "3_1992981667691048960",
+            "3_1992981667703631872"
+          ]
+        },
+        "author_id": "1815878828419629056",
+        "conversation_id": "1992981691389129022",
+        "created_at": "2025-11-24T15:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992981691389129022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lm8eFke3BX",
+              "end": 91,
+              "expanded_url": "https://x.com/qiqi1127520/status/1992981691389129022/photo/1",
+              "media_key": "3_1992981667707752448",
+              "start": 68,
+              "url": "https://t.co/lm8eFke3BX"
+            },
+            {
+              "display_url": "pic.x.com/lm8eFke3BX",
+              "end": 91,
+              "expanded_url": "https://x.com/qiqi1127520/status/1992981691389129022/photo/1",
+              "media_key": "3_1992981667691048960",
+              "start": 68,
+              "url": "https://t.co/lm8eFke3BX"
+            },
+            {
+              "display_url": "pic.x.com/lm8eFke3BX",
+              "end": 91,
+              "expanded_url": "https://x.com/qiqi1127520/status/1992981691389129022/photo/1",
+              "media_key": "3_1992981667703631872",
+              "start": 68,
+              "url": "https://t.co/lm8eFke3BX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992981691389129022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1008,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽哈喽哈喽小女孩求资助🥺\n欠了一堆 面临房租问题 小女孩求打赏\n我会唱歌会跳舞性格也好 可以给你表演才艺\n🚪20/66/88/188 https://t.co/lm8eFke3BX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 836,
+          "like_count": 17307,
+          "listed_count": 17,
+          "media_count": 931,
+          "tweet_count": 13731
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T22:37:21.000Z",
+        "description": "kiki 双性恋 喜欢我打钱 🚪52/188 过门无其他福利👄 不聊骚不接任何半绿非绿 私信只回口令跟感兴趣的人",
+        "id": "1815878828419629056",
+        "name": "kiro",
+        "pinned_tweet_id": "1979335223918915886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979326890591563776/-Pkr_jIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 103,
+          "like_count": 2338,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 900
+        },
+        "username": "qiqi1127520",
+        "verified": false
+      }
+    ]
+  }
+}

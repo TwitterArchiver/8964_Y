@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2070102439865565615",
+    "created_at": "2026-06-25T14:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070159891189453135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679867613063819265",
+          "start": 0,
+          "username": "pp_retard11_2"
+        },
+        {
+          "end": 25,
+          "id": "1703762928",
+          "start": 15,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070159891189453135",
+    "in_reply_to_user_id": "1679867613063819265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070146318669111483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pp_retard11_2 @1965chich 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2070102439865565615",
+        "created_at": "2026-06-25T14:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070159891189453135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679867613063819265",
+              "start": 0,
+              "username": "pp_retard11_2"
+            },
+            {
+              "end": 25,
+              "id": "1703762928",
+              "start": 15,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070159891189453135",
+        "in_reply_to_user_id": "1679867613063819265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070146318669111483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pp_retard11_2 @1965chich 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679867613063819265",
+        "conversation_id": "2070102439865565615",
+        "created_at": "2026-06-25T14:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070146318669111483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 18,
+              "id": "1703762928",
+              "start": 8,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070146318669111483",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070113136972386316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @1965chich 一个bilibili的up“我不是黄毛”情侣博主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6642,
+          "following_count": 741,
+          "like_count": 24369,
+          "listed_count": 19,
+          "media_count": 1149,
+          "tweet_count": 16658
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T14:57:10.000Z",
+        "description": "",
+        "id": "1679867613063819265",
+        "name": "牙膏的好朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025259159915298819/K5M8N8uK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 98,
+          "like_count": 2794,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "pp_retard11_2",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 非跨/不会尊重人的关小黑屋/敌蜜@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akui1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/pdROfRxwRx"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "location": "Hong Kong",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "2062328284000682134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036915004172296192/eM928-u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9396,
+          "following_count": 1270,
+          "like_count": 27036,
+          "listed_count": 9,
+          "media_count": 417,
+          "tweet_count": 8960
+        },
+        "url": "https://t.co/pdROfRxwRx",
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1960686413638418888",
+    "created_at": "2025-08-27T16:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960737814724927721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766388563627905024",
+          "start": 0,
+          "username": "Note473640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960737814724927721",
+    "in_reply_to_user_id": "1766388563627905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960730542900699616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Note473640 我爱了我好喜欢这个评论😻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1960686413638418888",
+        "created_at": "2025-08-27T16:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960737814724927721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766388563627905024",
+              "start": 0,
+              "username": "Note473640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960737814724927721",
+        "in_reply_to_user_id": "1766388563627905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960730542900699616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Note473640 我爱了我好喜欢这个评论😻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766388563627905024",
+        "conversation_id": "1960686413638418888",
+        "created_at": "2025-08-27T15:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960730542900699616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960730542900699616",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960686413638418888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 这个真的眼前一亮欸？！这个动作这个衣服虔诚但不古板，那双眼睛虽然表达出来的情感不多但是有那种高于这个世界的观测者投下的瞥视一般的感觉，不喜不怒不悲，嘴角的一丝丝上扬更是点睛之笔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 876,
+          "like_count": 15602,
+          "listed_count": 18,
+          "media_count": 827,
+          "tweet_count": 12160
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T09:00:35.000Z",
+        "description": "",
+        "id": "1766388563627905024",
+        "name": "Note",
+        "pinned_tweet_id": "1867578789687177668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852957917034815488/RA1pxzhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 2613,
+          "like_count": 5717,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 7920
+        },
+        "username": "Note473640",
+        "verified": false
+      }
+    ]
+  }
+}

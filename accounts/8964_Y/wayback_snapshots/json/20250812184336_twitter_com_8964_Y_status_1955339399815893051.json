@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1955271616897622441",
+    "created_at": "2025-08-12T18:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T19:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955339399815893051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1619273524300095488",
+          "start": 0,
+          "username": "racoySAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955339399815893051",
+    "in_reply_to_user_id": "1619273524300095488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955311854789726616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@racoySAMA 素晴日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1955271616897622441",
+        "created_at": "2025-08-12T18:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T19:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955339399815893051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619273524300095488",
+              "start": 0,
+              "username": "racoySAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955339399815893051",
+        "in_reply_to_user_id": "1619273524300095488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955311854789726616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@racoySAMA 素晴日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619273524300095488",
+        "conversation_id": "1955271616897622441",
+        "created_at": "2025-08-12T16:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955311854789726616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955311854789726616",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955271616897622441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 哪个水上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 878,
+          "like_count": 15303,
+          "listed_count": 13,
+          "media_count": 803,
+          "tweet_count": 11983
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T09:57:58.000Z",
+        "description": "我说想你和我说话你听不懂吗",
+        "id": "1619273524300095488",
+        "location": "回家的路上",
+        "name": "奶油酒之歌",
+        "pinned_tweet_id": "1917546643941122203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954239579609014272/cM3L1GYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 43,
+          "like_count": 673,
+          "listed_count": 1,
+          "media_count": 631,
+          "tweet_count": 7641
+        },
+        "username": "racoySAMA",
+        "verified": false
+      }
+    ]
+  }
+}

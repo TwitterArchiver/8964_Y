@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2012362603176276273",
+    "created_at": "2026-01-17T13:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T14:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012516698554016234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012516698554016234",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012362603176276273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 能和喜欢的人接触的机会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2012362603176276273",
+        "created_at": "2026-01-17T13:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012516698554016234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012516698554016234",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012362603176276273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 能和喜欢的人接触的机会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "2012362603176276273",
+        "created_at": "2026-01-17T03:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012362603176276273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shubing1612181…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shubing16121816/status/2012106241120874948",
+              "start": 24,
+              "url": "https://t.co/J3oQuZqQog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012362603176276273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 108128,
+          "like_count": 192,
+          "quote_count": 4,
+          "reply_count": 83,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012106241120874948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过门的意义是啥交钱获得上贡资格吗，我真没看懂🙀 https://t.co/J3oQuZqQog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不要靠近我我性格超级差有很大的问题很古怪的人滚滚滚｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5841,
+          "following_count": 835,
+          "like_count": 18139,
+          "listed_count": 19,
+          "media_count": 970,
+          "tweet_count": 14246
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "邪恶的嘎国生物｜可爱美丽郭楠",
+        "id": "1657055349982244865",
+        "location": "嘎拿大",
+        "name": "嘎咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007459506989756416/y42qkWgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 1064,
+          "like_count": 75437,
+          "listed_count": 6,
+          "media_count": 2128,
+          "tweet_count": 25544
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

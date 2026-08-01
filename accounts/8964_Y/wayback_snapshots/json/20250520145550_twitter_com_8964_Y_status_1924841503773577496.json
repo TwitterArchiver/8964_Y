@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1924799230079877189",
+    "created_at": "2025-05-20T14:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T15:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924841503773577496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877247334658224128",
+          "start": 0,
+          "username": "YukikoTeam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924841503773577496",
+    "in_reply_to_user_id": "1877247334658224128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924799230079877189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukikoTeam 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1924799230079877189",
+        "created_at": "2025-05-20T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924841503773577496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877247334658224128",
+              "start": 0,
+              "username": "YukikoTeam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924841503773577496",
+        "in_reply_to_user_id": "1877247334658224128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924799230079877189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukikoTeam 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877247334658224128",
+        "conversation_id": "1924799230079877189",
+        "created_at": "2025-05-20T12:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924799230079877189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924799230079877189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "上次的轉發抽獎活動送出了上百粒優美\n不知道大家是不是還有點意猶未盡呢？\n最近好像沒什麼流量了，所以再來一波\n那麼，還是老樣子\n贊轉評\n這次會在評論區找到一名幸運的粉絲\n送出一盒右美（100t，郵費自理）\n抽三位粉絲可以半價購買本店任意產品（限一件）\n轉發來買藥還可以優惠，快來試試吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 994,
+          "like_count": 13069,
+          "listed_count": 8,
+          "media_count": 679,
+          "tweet_count": 10088
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T06:53:46.000Z",
+        "description": "團隊運營帳號，一般晚上在线，現有優美等多種藥物在售，日本直髮，詳情看置頂",
+        "id": "1877247334658224128",
+        "location": "Washington, DC",
+        "name": "Team-Yukik0（優美藥代版）",
+        "pinned_tweet_id": "1922987579068063814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924803701249835008/RXT2jny4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 38,
+          "like_count": 2212,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 384
+        },
+        "username": "YukikoTeam",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1989286644395147315",
+    "created_at": "2025-11-14T11:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989294433100280060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "FoxKami_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989294433100280060",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989286644395147315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxKami_ 这是你男朋友吗卧槽好甜啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989286630528569344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tdppkW0AA6LEI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989286630482423808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tdppZWsAAe7nq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1989286644395147315",
+        "created_at": "2025-11-14T11:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989294433100280060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "FoxKami_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989294433100280060",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989286644395147315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxKami_ 这是你男朋友吗卧槽好甜啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989286630528569344",
+            "3_1989286630482423808"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1989286644395147315",
+        "created_at": "2025-11-14T10:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989286644395147315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MG7bkshpF",
+              "end": 36,
+              "expanded_url": "https://x.com/FoxKami_/status/1989286644395147315/photo/1",
+              "media_key": "3_1989286630528569344",
+              "start": 13,
+              "url": "https://t.co/8MG7bkshpF"
+            },
+            {
+              "display_url": "pic.x.com/8MG7bkshpF",
+              "end": 36,
+              "expanded_url": "https://x.com/FoxKami_/status/1989286644395147315/photo/1",
+              "media_key": "3_1989286630482423808",
+              "start": 13,
+              "url": "https://t.co/8MG7bkshpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989286644395147315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她还没意识到问题的重要性 https://t.co/8MG7bkshpF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 863,
+          "like_count": 16951,
+          "listed_count": 17,
+          "media_count": 918,
+          "tweet_count": 13532
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "people like you don't deserve to live.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988790525915250688/mi6plSUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 238,
+          "like_count": 31447,
+          "listed_count": 19,
+          "media_count": 181,
+          "tweet_count": 888
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxKami_",
+        "verified": false
+      }
+    ]
+  }
+}

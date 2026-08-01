@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075621310500118529"
+      ],
+      "media_source_tweet_id": [
+        "2075621312962126056"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2075785608069578782",
+    "created_at": "2026-07-11T03:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075785608069578782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432795176825675776",
+          "start": 3,
+          "username": "Chiss_F1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjTnYWFSWX",
+          "end": 61,
+          "expanded_url": "https://x.com/Chiss_F1/status/2075621312962126056/photo/1",
+          "media_key": "3_2075621310500118529",
+          "start": 38,
+          "url": "https://t.co/cjTnYWFSWX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075785608069578782",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 713
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075621312962126056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiss_F1: HOY SE GANA CHAVALEEEES https://t.co/cjTnYWFSWX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075621310500118529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4WlbSXIAEPO_b.jpg",
+        "width": 1605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075621310500118529"
+          ],
+          "media_source_tweet_id": [
+            "2075621312962126056"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2075785608069578782",
+        "created_at": "2026-07-11T03:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075785608069578782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432795176825675776",
+              "start": 3,
+              "username": "Chiss_F1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjTnYWFSWX",
+              "end": 61,
+              "expanded_url": "https://x.com/Chiss_F1/status/2075621312962126056/photo/1",
+              "media_key": "3_2075621310500118529",
+              "start": 38,
+              "url": "https://t.co/cjTnYWFSWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075785608069578782",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 713
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075621312962126056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiss_F1: HOY SE GANA CHAVALEEEES https://t.co/cjTnYWFSWX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075621310500118529"
+          ]
+        },
+        "author_id": "1432795176825675776",
+        "conversation_id": "2075621312962126056",
+        "created_at": "2026-07-10T16:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075621312962126056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjTnYWFSWX",
+              "end": 47,
+              "expanded_url": "https://x.com/Chiss_F1/status/2075621312962126056/photo/1",
+              "media_key": "3_2075621310500118529",
+              "start": 24,
+              "url": "https://t.co/cjTnYWFSWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075621312962126056",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1670,
+          "impression_count": 118051,
+          "like_count": 13653,
+          "quote_count": 21,
+          "reply_count": 51,
+          "retweet_count": 713
+        },
+        "reply_settings": "everyone",
+        "text": "HOY SE GANA CHAVALEEEES https://t.co/cjTnYWFSWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6657,
+          "following_count": 747,
+          "like_count": 24632,
+          "listed_count": 19,
+          "media_count": 1167,
+          "tweet_count": 16850
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-31T19:59:40.000Z",
+        "description": "Anime enjoyer | Estudiando DAW 🖥️ | IE fan ⚡ | Hago fotos 📸 | Bleach 🔪 | Umamusume 🐴 | ✨Chapas🤍✨ #FA14 / #CS55 | Piloto para @JapanRacingTeam 🌸🏍🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "FA14"
+              },
+              {
+                "end": 110,
+                "start": 105,
+                "tag": "CS55"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 125,
+                "username": "JapanRacingTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/ChissF1/",
+                "end": 23,
+                "expanded_url": "http://anilist.co/user/ChissF1/",
+                "start": 0,
+                "url": "https://t.co/0SNITmD3Ua"
+              }
+            ]
+          }
+        },
+        "id": "1432795176825675776",
+        "name": "𝑪𝒉𝒊𝒔𝒔 💚💢",
+        "pinned_tweet_id": "1514603125889404935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065380797427691520/uNVJCyfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 395,
+          "like_count": 25618,
+          "listed_count": 5,
+          "media_count": 4296,
+          "tweet_count": 18052
+        },
+        "url": "https://t.co/0SNITmD3Ua",
+        "username": "Chiss_F1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2012928176553664916",
+    "created_at": "2026-01-19T15:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T16:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013267211486683296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816103328151134210",
+          "start": 0,
+          "username": "wnghu799911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013267211486683296",
+    "in_reply_to_user_id": "1816103328151134210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013251760748368028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnghu799911 我恋爱脑程度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2012928176553664916",
+        "created_at": "2026-01-19T15:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013267211486683296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816103328151134210",
+              "start": 0,
+              "username": "wnghu799911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013267211486683296",
+        "in_reply_to_user_id": "1816103328151134210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013251760748368028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnghu799911 我恋爱脑程度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816103328151134210",
+        "conversation_id": "2012928176553664916",
+        "created_at": "2026-01-19T14:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013251760748368028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013251760748368028",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012928176553664916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 那是不是就意味着所有人都要和我殉情ˊᵒ̴̶̷̤ꇴᵒ̴̶̷̤ˋ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不要靠近我我性格超级差有很大的问题很古怪的人滚滚滚｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5836,
+          "following_count": 833,
+          "like_count": 18175,
+          "listed_count": 19,
+          "media_count": 970,
+          "tweet_count": 14257
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:29:34.000Z",
+        "description": "我好痛苦",
+        "id": "1816103328151134210",
+        "name": "骂我的人死亲爹亲妈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816103629046308866/Txtuu05e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 64,
+          "like_count": 3855,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "wnghu799911",
+        "verified": false
+      }
+    ]
+  }
+}

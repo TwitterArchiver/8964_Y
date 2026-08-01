@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987119176612519936"
+      ],
+      "media_source_tweet_id": [
+        "1987119185907130631"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1987125919392407773",
+    "created_at": "2025-11-08T11:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T12:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987125919392407773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1904517913538932736",
+          "start": 3,
+          "username": "cnmnms666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SJ9TxI8xRu",
+          "end": 38,
+          "expanded_url": "https://x.com/cnmnms666/status/1987119185907130631/photo/1",
+          "media_key": "3_1987119176612519936",
+          "start": 15,
+          "url": "https://t.co/SJ9TxI8xRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987125919392407773",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987119185907130631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cnmnms666: https://t.co/SJ9TxI8xRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987119176612519936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OqXOhbIAAYNnf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987119176612519936"
+          ],
+          "media_source_tweet_id": [
+            "1987119185907130631"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1987125919392407773",
+        "created_at": "2025-11-08T11:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987125919392407773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904517913538932736",
+              "start": 3,
+              "username": "cnmnms666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJ9TxI8xRu",
+              "end": 38,
+              "expanded_url": "https://x.com/cnmnms666/status/1987119185907130631/photo/1",
+              "media_key": "3_1987119176612519936",
+              "start": 15,
+              "url": "https://t.co/SJ9TxI8xRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987125919392407773",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987119185907130631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cnmnms666: https://t.co/SJ9TxI8xRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987119176612519936"
+          ]
+        },
+        "author_id": "1904517913538932736",
+        "conversation_id": "1987119185907130631",
+        "created_at": "2025-11-08T11:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987119185907130631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJ9TxI8xRu",
+              "end": 23,
+              "expanded_url": "https://x.com/cnmnms666/status/1987119185907130631/photo/1",
+              "media_key": "3_1987119176612519936",
+              "start": 0,
+              "url": "https://t.co/SJ9TxI8xRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987119185907130631",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SJ9TxI8xRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 865,
+          "like_count": 16826,
+          "listed_count": 17,
+          "media_count": 916,
+          "tweet_count": 13432
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T12:57:18.000Z",
+        "description": "姐妹@8964_Y ｜叫我夜夜就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1904517913538932736",
+        "name": "草拟吗",
+        "pinned_tweet_id": "1974183172528332802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973782029574807553/nBIDGb1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 172,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 175
+        },
+        "username": "cnmnms666",
+        "verified": false
+      }
+    ]
+  }
+}

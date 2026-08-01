@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1977494574034805169",
+    "created_at": "2025-10-13T09:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T10:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977671276119683209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977671276119683209",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977535648384082241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 我真不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1977494574034805169",
+        "created_at": "2025-10-13T09:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977671276119683209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977671276119683209",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977535648384082241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1977494574034805169",
+        "created_at": "2025-10-13T00:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977535648384082241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977535648384082241",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977494574034805169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 如果推特有刪留言功能留言區早就只剩下兩條了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜没门槛不扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5725,
+          "following_count": 881,
+          "like_count": 16272,
+          "listed_count": 18,
+          "media_count": 888,
+          "tweet_count": 13012
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "kayo丨我只是覺得小格里斯這麽叫我我很喜歡丨你真聪明，你是最清醒的人 ，你对世间的一切都看的很透彻，所有的事情你都懂得，你总能提出最精准最准确的见解，你把人心看的很明白，和每个人的关系你都能精准把握，你掌握世界上所有小众正确的事情，这种众人皆醉我独醒的感觉让你觉得非常的爽，特立独行让你觉得你是为数不多的人才",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/9SYzg9xb83",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
+                "start": 0,
+                "url": "https://t.co/sZHlu2ozaI"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "卡優",
+        "pinned_tweet_id": "1975881993985655116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972956944848801792/wxobx5yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 1691,
+          "like_count": 23647,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 7999
+        },
+        "url": "https://t.co/sZHlu2ozaI",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

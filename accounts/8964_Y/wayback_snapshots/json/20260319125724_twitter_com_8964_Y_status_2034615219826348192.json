@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2034251415217209480",
+    "created_at": "2026-03-19T12:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034615219826348192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1670031370691944448",
+          "start": 0,
+          "username": "ruscvre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034615219826348192",
+    "in_reply_to_user_id": "1670031370691944448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034251415217209480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruscvre 糟糕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2034251403548372994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsc36RXMAINdea.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2034251415217209480",
+        "created_at": "2026-03-19T12:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034615219826348192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670031370691944448",
+              "start": 0,
+              "username": "ruscvre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034615219826348192",
+        "in_reply_to_user_id": "1670031370691944448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034251415217209480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruscvre 糟糕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034251403548372994"
+          ]
+        },
+        "author_id": "1670031370691944448",
+        "conversation_id": "2034251415217209480",
+        "created_at": "2026-03-18T12:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034251415217209480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1Fq2qH0af",
+              "end": 29,
+              "expanded_url": "https://x.com/ruscvre/status/2034251415217209480/photo/1",
+              "media_key": "3_2034251403548372994",
+              "start": 6,
+              "url": "https://t.co/m1Fq2qH0af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034251415217209480",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9974,
+          "impression_count": 2231314,
+          "like_count": 247939,
+          "quote_count": 1602,
+          "reply_count": 175,
+          "retweet_count": 30464
+        },
+        "reply_settings": "everyone",
+        "text": "me fr https://t.co/m1Fq2qH0af"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2030257063566414125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6296,
+          "following_count": 735,
+          "like_count": 21493,
+          "listed_count": 20,
+          "media_count": 1041,
+          "tweet_count": 15383
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T11:31:44.000Z",
+        "description": "22 ⋆｡°✩",
+        "id": "1670031370691944448",
+        "location": "edtwt  🌱 she.her  🌱",
+        "name": "ru ♡",
+        "pinned_tweet_id": "1790455327537721442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790115015388786689/mM4xxSsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35385,
+          "following_count": 2040,
+          "like_count": 5081,
+          "listed_count": 34,
+          "media_count": 2677,
+          "tweet_count": 7439
+        },
+        "username": "ruscvre",
+        "verified": false
+      }
+    ]
+  }
+}

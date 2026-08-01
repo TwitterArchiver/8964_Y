@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025226945613766656"
+      ],
+      "media_source_tweet_id": [
+        "2025226948608504249"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2025266181280858407",
+    "created_at": "2026-02-21T17:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T18:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025266181280858407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1787834344268341248",
+          "start": 3,
+          "username": "osoneosokihappy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/boaRigwp33",
+          "end": 57,
+          "expanded_url": "https://x.com/osoneosokihappy/status/2025226948608504249/photo/1",
+          "media_key": "3_2025226945613766656",
+          "start": 34,
+          "url": "https://t.co/boaRigwp33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025266181280858407",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025226948608504249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @osoneosokihappy: ヨルアサ~🐈‍⬛🐈‍⬛🐾 https://t.co/boaRigwp33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2265,
+        "media_key": "3_2025226945613766656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsNLUrboAAawAh.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025226945613766656"
+          ],
+          "media_source_tweet_id": [
+            "2025226948608504249"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2025266181280858407",
+        "created_at": "2026-02-21T17:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025266181280858407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1787834344268341248",
+              "start": 3,
+              "username": "osoneosokihappy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/boaRigwp33",
+              "end": 57,
+              "expanded_url": "https://x.com/osoneosokihappy/status/2025226948608504249/photo/1",
+              "media_key": "3_2025226945613766656",
+              "start": 34,
+              "url": "https://t.co/boaRigwp33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025266181280858407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025226948608504249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @osoneosokihappy: ヨルアサ~🐈‍⬛🐈‍⬛🐾 https://t.co/boaRigwp33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025226945613766656"
+          ]
+        },
+        "author_id": "1787834344268341248",
+        "conversation_id": "2025226948608504249",
+        "created_at": "2026-02-21T15:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025226948608504249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/boaRigwp33",
+              "end": 36,
+              "expanded_url": "https://x.com/osoneosokihappy/status/2025226948608504249/photo/1",
+              "media_key": "3_2025226945613766656",
+              "start": 13,
+              "url": "https://t.co/boaRigwp33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025226948608504249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 3023,
+          "like_count": 551,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "ヨルアサ~🐈‍⬛🐈‍⬛🐾 https://t.co/boaRigwp33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5927,
+          "following_count": 734,
+          "like_count": 20098,
+          "listed_count": 19,
+          "media_count": 1008,
+          "tweet_count": 14834
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T13:19:29.000Z",
+        "description": "ただのﾂｲ廃。/無言フォロー失礼します🙇成人済/明高/csm🪚🌅/⚠️BLNL女の子ジャンル雑多!!!⚠️/Do not reupload and use my art for AI training.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/9988889/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/9988889/",
+                "start": 0,
+                "url": "https://t.co/fBoxIAjeWE"
+              }
+            ]
+          }
+        },
+        "id": "1787834344268341248",
+        "name": "毎日がエブリデイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944699259917606912/d7IWiIWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 229,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/fBoxIAjeWE",
+        "username": "osoneosokihappy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1956171058010317013",
+    "created_at": "2025-08-15T01:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T02:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956171058010317013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duoduofuo/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/duoduofuo/status/1956167158070960597",
+          "start": 5,
+          "url": "https://t.co/VdYjFzLZVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956171058010317013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956167158070960597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我我我！ https://t.co/VdYjFzLZVy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1956171058010317013",
+        "created_at": "2025-08-15T01:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956171058010317013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duoduofuo/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/duoduofuo/status/1956167158070960597",
+              "start": 5,
+              "url": "https://t.co/VdYjFzLZVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956171058010317013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956167158070960597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我我我！ https://t.co/VdYjFzLZVy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1956167158070960597",
+        "created_at": "2025-08-15T01:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956167158070960597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956167158070960597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大度的魔女洇大人万岁！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5779,
+          "following_count": 880,
+          "like_count": 15344,
+          "listed_count": 13,
+          "media_count": 806,
+          "tweet_count": 12007
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "时行扛200斤麦子十里路不换肩",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952790804960776193/34jAYwCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 247,
+          "like_count": 29663,
+          "listed_count": 14,
+          "media_count": 174,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "duoduofuo",
+        "verified": false
+      }
+    ]
+  }
+}

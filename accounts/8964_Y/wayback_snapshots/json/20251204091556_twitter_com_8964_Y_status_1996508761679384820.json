@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1996488999079440603",
+    "created_at": "2025-12-04T09:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T10:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996508761679384820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963313067753967619",
+          "start": 0,
+          "username": "ArnoldiMon93790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996508761679384820",
+    "in_reply_to_user_id": "1963313067753967619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996488999079440603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArnoldiMon93790 萌萌鱼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14466,
+        "height": 1920,
+        "media_key": "13_1996488624796495872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996488624796495872/img/fe8AWWYyWD5kqOIv.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996488624796495872/vid/avc1/320x568/isj26j-kDK_imdkd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996488624796495872/vid/avc1/480x852/EX5kfEjqElvuf1uE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996488624796495872/vid/avc1/720x1280/Obo6SD15s0yuvaEQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996488624796495872/pl/yAGn-PZeE8t-A3iV.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1996488999079440603",
+        "created_at": "2025-12-04T09:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996508761679384820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963313067753967619",
+              "start": 0,
+              "username": "ArnoldiMon93790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996508761679384820",
+        "in_reply_to_user_id": "1963313067753967619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996488999079440603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArnoldiMon93790 萌萌鱼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996488624796495872"
+          ]
+        },
+        "author_id": "1963313067753967619",
+        "conversation_id": "1996488999079440603",
+        "created_at": "2025-12-04T07:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996488999079440603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1u1B6gDPj",
+              "end": 31,
+              "expanded_url": "https://x.com/ArnoldiMon93790/status/1996488999079440603/video/1",
+              "media_key": "13_1996488624796495872",
+              "start": 8,
+              "url": "https://t.co/i1u1B6gDPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996488999079440603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢这个蓝色 https://t.co/i1u1B6gDPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 834,
+          "like_count": 17475,
+          "listed_count": 17,
+          "media_count": 941,
+          "tweet_count": 13828
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T18:48:20.000Z",
+        "description": "一只鱼 intp 生理性别为女 一个孤僻的BPD患者私信有在看私信但不常回抱歉咩~不接线下不打分不接置顶不调教不被调！请对我耐心一点拜托了额啊啊啊ᐢ⩌⌯⩌ᐢ拒绝压力怪 我或許需要錢 踏入轮回的小鱼啊~\n已重生四次 补药在办我啦!",
+        "id": "1963313067753967619",
+        "location": "🚪 纯绿52 半绿152 纯涩172",
+        "name": "转生成为小鱼鱼鱼鱼💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996169180329164800/Ippiwkiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 18,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "ArnoldiMon93790",
+        "verified": false
+      }
+    ]
+  }
+}

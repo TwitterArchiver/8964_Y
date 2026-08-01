@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992141030326738944"
+      ],
+      "media_source_tweet_id": [
+        "1992141040804151351"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1992428499152625672",
+    "created_at": "2025-11-23T03:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T04:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992428499152625672"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "ナユタ",
+          "probability": 0.6109,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1514092758964662275",
+          "start": 3,
+          "username": "3333iyasy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhz6KecLvd",
+          "end": 52,
+          "expanded_url": "https://x.com/3333iyasy/status/1992141040804151351/photo/1",
+          "media_key": "3_1992141030326738944",
+          "start": 29,
+          "url": "https://t.co/bhz6KecLvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992428499152625672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 878
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992141040804151351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3333iyasy: 最強のパン、ナユタ、悪い子 https://t.co/bhz6KecLvd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1992141030326738944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WBtlcbIAAotY0.jpg",
+        "width": 2481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992141030326738944"
+          ],
+          "media_source_tweet_id": [
+            "1992141040804151351"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1992428499152625672",
+        "created_at": "2025-11-23T03:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992428499152625672"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ナユタ",
+              "probability": 0.6109,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1514092758964662275",
+              "start": 3,
+              "username": "3333iyasy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhz6KecLvd",
+              "end": 52,
+              "expanded_url": "https://x.com/3333iyasy/status/1992141040804151351/photo/1",
+              "media_key": "3_1992141030326738944",
+              "start": 29,
+              "url": "https://t.co/bhz6KecLvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992428499152625672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 878
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992141040804151351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3333iyasy: 最強のパン、ナユタ、悪い子 https://t.co/bhz6KecLvd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992141030326738944"
+          ]
+        },
+        "author_id": "1514092758964662275",
+        "conversation_id": "1992141040804151351",
+        "created_at": "2025-11-22T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992141040804151351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "ナユタ",
+              "probability": 0.5573,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhz6KecLvd",
+              "end": 37,
+              "expanded_url": "https://x.com/3333iyasy/status/1992141040804151351/photo/1",
+              "media_key": "3_1992141030326738944",
+              "start": 14,
+              "url": "https://t.co/bhz6KecLvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992141040804151351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 724,
+          "impression_count": 93431,
+          "like_count": 11431,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 878
+        },
+        "reply_settings": "everyone",
+        "text": "最強のパン、ナユタ、悪い子 https://t.co/bhz6KecLvd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 832,
+          "like_count": 17165,
+          "listed_count": 17,
+          "media_count": 930,
+          "tweet_count": 13660
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T04:07:44.000Z",
+        "description": "お絵描きします 二次創作時々オリジナル",
+        "id": "1514092758964662275",
+        "location": "埼玉県　千葉市",
+        "name": "3iyasy",
+        "pinned_tweet_id": "1912091006859624861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974450893115535360/Nw8KM3X6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 33,
+          "like_count": 3766,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 301
+        },
+        "username": "3333iyasy",
+        "verified": false
+      }
+    ]
+  }
+}

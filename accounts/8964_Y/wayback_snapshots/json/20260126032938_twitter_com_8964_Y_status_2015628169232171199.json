@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2013942319938994183",
+    "created_at": "2026-01-26T03:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T04:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015628169232171199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800144397952319488",
+          "start": 0,
+          "username": "Nanyuxlife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015628169232171199",
+    "in_reply_to_user_id": "1800144397952319488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015504154501013842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanyuxlife 我怎么看不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2013942319938994183",
+        "created_at": "2026-01-26T03:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015628169232171199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800144397952319488",
+              "start": 0,
+              "username": "Nanyuxlife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015628169232171199",
+        "in_reply_to_user_id": "1800144397952319488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015504154501013842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanyuxlife 我怎么看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800144397952319488",
+        "conversation_id": "2013942319938994183",
+        "created_at": "2026-01-25T19:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T20:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015504154501013842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015504154501013842",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013942319938994183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我好像不吃愈创木酚甘油醚的效果😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 833,
+          "like_count": 18327,
+          "listed_count": 19,
+          "media_count": 974,
+          "tweet_count": 14295
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T12:34:22.000Z",
+        "description": "",
+        "id": "1800144397952319488",
+        "name": "碱水|･`)",
+        "pinned_tweet_id": "1800145536408047824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911694458166415360/aez6WW-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 489,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 156
+        },
+        "username": "Nanyuxlife",
+        "verified": false
+      }
+    ]
+  }
+}

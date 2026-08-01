@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1904389301917339659",
+    "created_at": "2025-03-25T04:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T05:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904389763404124258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512296448523583491",
+          "start": 0,
+          "username": "Helm_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904389763404124258",
+    "in_reply_to_user_id": "1512296448523583491",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904389301917339659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Helm_Official 爸爸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904389301917339659].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904389301917339659",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904389301917339659"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1904389301917339659",
+        "created_at": "2025-03-25T04:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T05:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904389763404124258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512296448523583491",
+              "start": 0,
+              "username": "Helm_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904389763404124258",
+        "in_reply_to_user_id": "1512296448523583491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904389301917339659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Helm_Official 爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900745047026638848/lYUe4VUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5280,
+          "following_count": 947,
+          "like_count": 11121,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8450
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T05:09:17.000Z",
+        "description": "东亚人，你们的皇帝回来了！\n大和魂永不滅！\n我是习主席的狗\n我，独裁\n全斗焕铁粉\n朕要东亚人都有烧鸡玩，北上！忠诚！\n荣耀日本人\n跨性别刺身厨师长\n神圣大东亚帝国二次元婊子研究院院长\n李朝政杀手\n我的小……小红酱ᕕ(◠ڼ◠)ᕗ@_ZeroZeroTwo_\n国服宫本，血は牙！大丈夫、俺は最強だから",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "_ZeroZeroTwo_"
+              }
+            ]
+          }
+        },
+        "id": "1512296448523583491",
+        "location": "臭婊子周杨能不能冷静一点",
+        "name": "莆田の虎🇯🇵🇰🇷",
+        "pinned_tweet_id": "1901310356754186560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881842112230268928/KFD-qt-Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 771,
+          "like_count": 16306,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 10844
+        },
+        "username": "Helm_Official",
+        "verified": false
+      }
+    ]
+  }
+}

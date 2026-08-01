@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2078790320352104795",
+    "created_at": "2026-07-19T16:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078880372671267197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834974107577925632",
+          "start": 0,
+          "username": "yuuki_konno__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078880372671267197",
+    "in_reply_to_user_id": "834974107577925632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078800466788696466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_konno__ 就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2078790320352104795",
+        "created_at": "2026-07-19T16:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078880372671267197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834974107577925632",
+              "start": 0,
+              "username": "yuuki_konno__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078880372671267197",
+        "in_reply_to_user_id": "834974107577925632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078800466788696466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_konno__ 就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "834974107577925632",
+        "conversation_id": "2078790320352104795",
+        "created_at": "2026-07-19T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078800466788696466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078800466788696466",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078790320352104795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 压抑完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11｜🚪200好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2076670418442658059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6687,
+          "following_count": 745,
+          "like_count": 25024,
+          "listed_count": 19,
+          "media_count": 1180,
+          "tweet_count": 16967
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-24T03:51:55.000Z",
+        "description": "银梦小鬼，偶尔乳包/希望结识有趣的人/西朝鲜在住/简&繁&En/摄影&日本民俗喜欢/日本语学习中",
+        "id": "834974107577925632",
+        "location": "west koera",
+        "name": "mayu",
+        "pinned_tweet_id": "1272225850004471813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076850315530539009/3bsBXrEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1306,
+          "like_count": 49735,
+          "listed_count": 0,
+          "media_count": 1188,
+          "tweet_count": 3551
+        },
+        "url": "",
+        "username": "yuuki_konno__",
+        "verified": false
+      }
+    ]
+  }
+}

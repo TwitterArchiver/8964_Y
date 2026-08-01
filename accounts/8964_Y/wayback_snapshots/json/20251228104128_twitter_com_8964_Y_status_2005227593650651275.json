@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2005227593650651275",
+    "created_at": "2025-12-28T10:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005227593650651275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thepetsx/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/thepetsx/status/2004935548235108862",
+          "start": 4,
+          "url": "https://t.co/LIkqQyR6fv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005227593650651275",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004935548235108862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "us？ https://t.co/LIkqQyR6fv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5992,
+        "height": 720,
+        "media_key": "7_2004935532720336896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004935532720336896/pu/img/9atp9mSWPnTtnysf.jpg",
+        "public_metrics": {
+          "view_count": 40793
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004935532720336896/pu/vid/avc1/358x270/D_j0F6Qro5yFlhKc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004935532720336896/pu/vid/avc1/478x360/2lZnhBKMgNtYrP7-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004935532720336896/pu/vid/avc1/956x720/FL1eLLaeerEFPQQE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004935532720336896/pu/pl/E7W6o60kfaCWTI8u.m3u8?tag=12"
+          }
+        ],
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2005227593650651275",
+        "created_at": "2025-12-28T10:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005227593650651275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thepetsx/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/thepetsx/status/2004935548235108862",
+              "start": 4,
+              "url": "https://t.co/LIkqQyR6fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005227593650651275",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004935548235108862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "us？ https://t.co/LIkqQyR6fv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2004935532720336896"
+          ]
+        },
+        "author_id": "1410890985538678784",
+        "conversation_id": "2004935548235108862",
+        "created_at": "2025-12-27T15:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004935548235108862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2fGNJ8MrP",
+              "end": 23,
+              "expanded_url": "https://x.com/ThePetsX/status/2004935548235108862/video/1",
+              "media_key": "7_2004935532720336896",
+              "start": 0,
+              "url": "https://t.co/J2fGNJ8MrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004935548235108862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 686,
+          "impression_count": 148438,
+          "like_count": 6395,
+          "quote_count": 106,
+          "reply_count": 28,
+          "retweet_count": 1008
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/J2fGNJ8MrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 835,
+          "like_count": 17819,
+          "listed_count": 19,
+          "media_count": 962,
+          "tweet_count": 14065
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T09:20:30.000Z",
+        "description": "Welcome to the positive side of 𝕏. Posting the most beautiful & Adorable pictures,videos of pets. 🦁🐯🐱🐶🐺🐻🐻‍❄️🐨🐼🦝🦊",
+        "id": "1410890985538678784",
+        "location": "DM FOR CREDIT OR REMOVEL ✉️",
+        "name": "The Pets 𝕏",
+        "pinned_tweet_id": "2004317451170074993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876704343052734464/N6IQSW7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38845,
+          "following_count": 3806,
+          "like_count": 53,
+          "listed_count": 151,
+          "media_count": 5273,
+          "tweet_count": 5293
+        },
+        "username": "ThePetsX",
+        "verified": true
+      }
+    ]
+  }
+}

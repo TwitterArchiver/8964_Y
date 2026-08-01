@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2042701995199623239",
+    "created_at": "2026-04-11T09:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042894283548795172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042894283548795172",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042701995199623239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 我去画画这么好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2042701988409069568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkiosEbUAAWS31.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042701988446732288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkiosNaAAAW45s.jpg",
+        "width": 1592
+      },
+      {
+        "height": 1378,
+        "media_key": "3_2042701988450963459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkiosOakAMZEIV.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2042701995199623239",
+        "created_at": "2026-04-11T09:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042894283548795172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042894283548795172",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042701995199623239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 我去画画这么好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042701988409069568",
+            "3_2042701988446732288",
+            "3_2042701988450963459"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "2042701995199623239",
+        "created_at": "2026-04-10T20:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042701995199623239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h88ITLEfMX",
+              "end": 28,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2042701995199623239/photo/1",
+              "media_key": "3_2042701988409069568",
+              "start": 5,
+              "url": "https://t.co/h88ITLEfMX"
+            },
+            {
+              "display_url": "pic.x.com/h88ITLEfMX",
+              "end": 28,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2042701995199623239/photo/1",
+              "media_key": "3_2042701988446732288",
+              "start": 5,
+              "url": "https://t.co/h88ITLEfMX"
+            },
+            {
+              "display_url": "pic.x.com/h88ITLEfMX",
+              "end": 28,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2042701995199623239/photo/1",
+              "media_key": "3_2042701988450963459",
+              "start": 5,
+              "url": "https://t.co/h88ITLEfMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042701995199623239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本命花🤓 https://t.co/h88ITLEfMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7  只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2031021234260226112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 733,
+          "like_count": 22434,
+          "listed_count": 20,
+          "media_count": 1071,
+          "tweet_count": 15841
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030935804856737792/9BMfJW1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 246,
+          "like_count": 52866,
+          "listed_count": 1,
+          "media_count": 993,
+          "tweet_count": 7497
+        },
+        "username": "jueduizhengyi_A",
+        "verified": false
+      }
+    ]
+  }
+}

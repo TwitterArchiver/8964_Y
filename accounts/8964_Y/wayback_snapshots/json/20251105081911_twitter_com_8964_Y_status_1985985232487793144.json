@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1985985232487793144",
+    "created_at": "2025-11-05T08:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985985232487793144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bvdshinji/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bvdshinji/status/1985780944591339634",
+          "start": 4,
+          "url": "https://t.co/Xijgdw8fqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985985232487793144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985780944591339634",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想干啥 https://t.co/Xijgdw8fqM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_1985780941860515840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47pPtlWMAARW4-.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1985985232487793144",
+        "created_at": "2025-11-05T08:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985985232487793144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bvdshinji/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bvdshinji/status/1985780944591339634",
+              "start": 4,
+              "url": "https://t.co/Xijgdw8fqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985985232487793144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985780944591339634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想干啥 https://t.co/Xijgdw8fqM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985780941860515840"
+          ]
+        },
+        "author_id": "1662922475410280450",
+        "conversation_id": "1985780944591339634",
+        "created_at": "2025-11-04T18:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985780944591339634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yoBNwhWK8",
+              "end": 23,
+              "expanded_url": "https://x.com/bvdshinji/status/1985780944591339634/photo/1",
+              "media_key": "3_1985780941860515840",
+              "start": 0,
+              "url": "https://t.co/5yoBNwhWK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985780944591339634",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1321,
+          "impression_count": 212571,
+          "like_count": 19537,
+          "quote_count": 168,
+          "reply_count": 23,
+          "retweet_count": 1613
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5yoBNwhWK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5822,
+          "following_count": 890,
+          "like_count": 16633,
+          "listed_count": 17,
+          "media_count": 912,
+          "tweet_count": 13323
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T20:43:33.000Z",
+        "description": "um dia nao estarei mais aqui",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@badshinji",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@badshinji",
+                "start": 0,
+                "url": "https://t.co/P7OdlnPV8T"
+              }
+            ]
+          }
+        },
+        "id": "1662922475410280450",
+        "name": "badshinji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946687382415089664/etnvNH4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17310,
+          "following_count": 61,
+          "like_count": 11312,
+          "listed_count": 5,
+          "media_count": 4206,
+          "tweet_count": 19228
+        },
+        "url": "https://t.co/P7OdlnPV8T",
+        "username": "bvdshinji",
+        "verified": false
+      }
+    ]
+  }
+}

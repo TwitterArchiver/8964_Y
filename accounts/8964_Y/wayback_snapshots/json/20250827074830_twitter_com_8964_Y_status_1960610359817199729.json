@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1960586635458044221",
+    "created_at": "2025-08-27T07:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T08:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960610359817199729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796349415650664448",
+          "start": 0,
+          "username": "KawaiiEru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960610359817199729",
+    "in_reply_to_user_id": "1796349415650664448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960586635458044221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiEru_ 再也不看麻豆了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2196,
+        "media_key": "3_1960586608799047683",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVnIhDa4AMHILh.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2204,
+        "media_key": "3_1960586624460554240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVnJbZagAA4l0v.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1960586635458044221",
+        "created_at": "2025-08-27T07:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960610359817199729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796349415650664448",
+              "start": 0,
+              "username": "KawaiiEru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960610359817199729",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960586635458044221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiEru_ 再也不看麻豆了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960586608799047683",
+            "3_1960586624460554240"
+          ]
+        },
+        "author_id": "1796349415650664448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960586635458044221",
+        "created_at": "2025-08-27T06:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T07:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960586635458044221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqZnIeXlgs",
+              "end": 28,
+              "expanded_url": "https://x.com/KawaiiEru_/status/1960586635458044221/photo/1",
+              "media_key": "3_1960586608799047683",
+              "start": 5,
+              "url": "https://t.co/VqZnIeXlgs"
+            },
+            {
+              "display_url": "pic.x.com/VqZnIeXlgs",
+              "end": 28,
+              "expanded_url": "https://x.com/KawaiiEru_/status/1960586635458044221/photo/1",
+              "media_key": "3_1960586624460554240",
+              "start": 5,
+              "url": "https://t.co/VqZnIeXlgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960586635458044221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气得逼疼 https://t.co/VqZnIeXlgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推 用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 877,
+          "like_count": 15586,
+          "listed_count": 17,
+          "media_count": 825,
+          "tweet_count": 12149
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "",
+        "id": "1796349415650664448",
+        "location": "神山高中古典文学部",
+        "name": "坂下える",
+        "pinned_tweet_id": "1948788722897437042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960386295144046592/nteHn_9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 344,
+          "like_count": 25555,
+          "listed_count": 12,
+          "media_count": 2445,
+          "tweet_count": 12009
+        },
+        "username": "KawaiiEru_",
+        "verified": true
+      }
+    ]
+  }
+}

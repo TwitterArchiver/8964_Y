@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1976314747764318406",
+    "created_at": "2025-10-10T04:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976511447070097480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1810472231040065536",
+          "start": 0,
+          "username": "PankePen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976511447070097480",
+    "in_reply_to_user_id": "1810472231040065536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976314747764318406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PankePen 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_1976314742936309760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21HyakWEAAvpzP.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1976314747764318406",
+        "created_at": "2025-10-10T04:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976511447070097480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1810472231040065536",
+              "start": 0,
+              "username": "PankePen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976511447070097480",
+        "in_reply_to_user_id": "1810472231040065536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976314747764318406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PankePen 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976314742936309760"
+          ]
+        },
+        "author_id": "1810472231040065536",
+        "conversation_id": "1976314747764318406",
+        "created_at": "2025-10-09T15:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976314747764318406"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Buncha",
+              "probability": 0.6051,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCclVovwZO",
+              "end": 44,
+              "expanded_url": "https://x.com/PankePen/status/1976314747764318406/photo/1",
+              "media_key": "3_1976314742936309760",
+              "start": 21,
+              "url": "https://t.co/aCclVovwZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976314747764318406",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2631,
+          "impression_count": 125124,
+          "like_count": 14173,
+          "quote_count": 138,
+          "reply_count": 23,
+          "retweet_count": 2002
+        },
+        "reply_settings": "everyone",
+        "text": "Buncha spin requests https://t.co/aCclVovwZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜我闺蜜重生了@cnmnms666｜🚪100/188/288/520没区别｜讨厌爱国猴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5737,
+          "following_count": 879,
+          "like_count": 16205,
+          "listed_count": 18,
+          "media_count": 882,
+          "tweet_count": 12957
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T00:34:40.000Z",
+        "description": "She | ENG/KOR | I draw crusty dusty girlies\nAsk•Req: https://t.co/Ol19sU9116\n커미션/Comm: https://t.co/Hm8H9jGpSg\n✉️ Work Inquiry: soapcherrypie@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/PankePen",
+                "end": 76,
+                "expanded_url": "https://spin-spin.com/PankePen",
+                "start": 53,
+                "url": "https://t.co/Ol19sU9116"
+              },
+              {
+                "display_url": "vgen.co/Pankepen",
+                "end": 110,
+                "expanded_url": "http://vgen.co/Pankepen",
+                "start": 87,
+                "url": "https://t.co/Hm8H9jGpSg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pankep…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pankepen.bsky.social",
+                "start": 0,
+                "url": "https://t.co/XIJxiy9QRU"
+              }
+            ]
+          }
+        },
+        "id": "1810472231040065536",
+        "location": "No AI/Repost",
+        "name": "Panke 팬케",
+        "pinned_tweet_id": "1926303743487701124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969547645577293824/O3oGOta9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29657,
+          "following_count": 38,
+          "like_count": 12576,
+          "listed_count": 120,
+          "media_count": 764,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/XIJxiy9QRU",
+        "username": "PankePen",
+        "verified": false
+      }
+    ]
+  }
+}

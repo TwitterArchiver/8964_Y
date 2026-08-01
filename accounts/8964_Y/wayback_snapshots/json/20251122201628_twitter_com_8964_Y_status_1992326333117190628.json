@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1992326333117190628",
+    "created_at": "2025-11-22T20:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992326333117190628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1913491200046436352",
+          "start": 3,
+          "username": "lmbleedingovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992326333117190628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991630573614559384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lmbleedingovo: 哥哥这两个字到底为什么要写成四个“可”啊？任何要求全部答应，任何事情全部允许，任何感情全部通行，任何可能全部发生。哥哥的意思不就是全都可以、无法拒绝吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1992326333117190628",
+        "created_at": "2025-11-22T20:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992326333117190628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1913491200046436352",
+              "start": 3,
+              "username": "lmbleedingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992326333117190628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991630573614559384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lmbleedingovo: 哥哥这两个字到底为什么要写成四个“可”啊？任何要求全部答应，任何事情全部允许，任何感情全部通行，任何可能全部发生。哥哥的意思不就是全都可以、无法拒绝吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913491200046436352",
+        "conversation_id": "1991630573614559384",
+        "created_at": "2025-11-20T22:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T23:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991630573614559384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991630573614559384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥这两个字到底为什么要写成四个“可”啊？任何要求全部答应，任何事情全部允许，任何感情全部通行，任何可能全部发生。哥哥的意思不就是全都可以、无法拒绝吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5853,
+          "following_count": 865,
+          "like_count": 17146,
+          "listed_count": 17,
+          "media_count": 930,
+          "tweet_count": 13653
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T07:14:33.000Z",
+        "description": "我的日记本",
+        "id": "1913491200046436352",
+        "name": "lmbleeding",
+        "pinned_tweet_id": "1962852419119005837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955316383480451072/NC-l9xHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 295,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1208
+        },
+        "username": "lmbleedingovo",
+        "verified": false
+      }
+    ]
+  }
+}

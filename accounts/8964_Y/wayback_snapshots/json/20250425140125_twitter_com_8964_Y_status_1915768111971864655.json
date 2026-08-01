@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1915768050093379584"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1915768111971864655",
+    "created_at": "2025-04-25T14:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T15:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915768111971864655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uGACKrsXy9",
+          "end": 23,
+          "expanded_url": "https://x.com/8964_Y/status/1915768111971864655/video/1",
+          "media_key": "13_1915768050093379584",
+          "start": 0,
+          "url": "https://t.co/uGACKrsXy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915768111971864655",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/uGACKrsXy9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9566,
+        "height": 960,
+        "media_key": "13_1915768050093379584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915768050093379584/img/cTpU3EnEURrVUhXe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915768050093379584/vid/avc1/320x426/Ym1-r5ynivMFSdJW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915768050093379584/vid/avc1/480x640/Y3Fh05fM4KKnP9wq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915768050093379584/vid/avc1/720x960/lcQodnv55A1tl6Et.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915768050093379584/pl/rdwX09HJPlhreJwH.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915768050093379584"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1915768111971864655",
+        "created_at": "2025-04-25T14:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915768111971864655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGACKrsXy9",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/1915768111971864655/video/1",
+              "media_key": "13_1915768050093379584",
+              "start": 0,
+              "url": "https://t.co/uGACKrsXy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915768111971864655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uGACKrsXy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5449,
+          "following_count": 989,
+          "like_count": 12461,
+          "listed_count": 8,
+          "media_count": 635,
+          "tweet_count": 9555
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

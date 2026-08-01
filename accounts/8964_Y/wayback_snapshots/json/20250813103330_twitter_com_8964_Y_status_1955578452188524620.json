@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1955565960670458077",
+    "created_at": "2025-08-13T10:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T11:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955578452188524620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771129838532759552",
+          "start": 0,
+          "username": "Kuno_kunayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955578452188524620",
+    "in_reply_to_user_id": "1771129838532759552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955576104393310408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuno_kunayo 爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1955565960670458077",
+        "created_at": "2025-08-13T10:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955578452188524620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771129838532759552",
+              "start": 0,
+              "username": "Kuno_kunayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955578452188524620",
+        "in_reply_to_user_id": "1771129838532759552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955576104393310408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuno_kunayo 爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771129838532759552",
+        "conversation_id": "1955565960670458077",
+        "created_at": "2025-08-13T10:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955576104393310408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955576104393310408",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955565960670458077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 这张也太萌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜@LLYY221113｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 880,
+          "like_count": 15311,
+          "listed_count": 13,
+          "media_count": 805,
+          "tweet_count": 11992
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T11:00:44.000Z",
+        "description": "我是kuno/🐯👻/碎碎念账号/我很可爱/不厌男不厌女但是厌傻逼/傻逼不分男女别给我扣帽子/照片在@kuno1014_ku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "kuno1014_ku"
+              }
+            ]
+          }
+        },
+        "id": "1771129838532759552",
+        "location": "China",
+        "name": "幽霊kuno☎︎♪～♬～♫",
+        "pinned_tweet_id": "1942449644639777071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905911318043066368/XO0HPPUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 657,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1051
+        },
+        "username": "Kuno_kunayo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2025759765528498563",
+    "created_at": "2026-02-23T02:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T03:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025759765528498563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deer60868637/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/deer60868637/status/2025294501947035937",
+          "start": 13,
+          "url": "https://t.co/WYVA1oHiHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025759765528498563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025294501947035937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种呆傻的孩子长得都一样 https://t.co/WYVA1oHiHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2025294393381715969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBtKhTMbgAEt4U1.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2025759765528498563",
+        "created_at": "2026-02-23T02:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025759765528498563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deer60868637/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/deer60868637/status/2025294501947035937",
+              "start": 13,
+              "url": "https://t.co/WYVA1oHiHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025759765528498563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025294501947035937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种呆傻的孩子长得都一样 https://t.co/WYVA1oHiHY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025294393381715969"
+          ]
+        },
+        "author_id": "1151340975962198022",
+        "conversation_id": "2025294501947035937",
+        "created_at": "2026-02-21T19:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T20:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025294501947035937"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ヨルちゃん",
+              "probability": 0.8667,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GG4sAG3BLD",
+              "end": 29,
+              "expanded_url": "https://x.com/deer60868637/status/2025294501947035937/photo/1",
+              "media_key": "3_2025294393381715969",
+              "start": 6,
+              "url": "https://t.co/GG4sAG3BLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025294501947035937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 14182,
+          "like_count": 2306,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "ヨルちゃん https://t.co/GG4sAG3BLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5939,
+          "following_count": 731,
+          "like_count": 20199,
+          "listed_count": 19,
+          "media_count": 1010,
+          "tweet_count": 14858
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-17T04:00:54.000Z",
+        "description": "FA　絵\n使用 転載 🙅‍♀️❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25190831",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/25190831",
+                "start": 0,
+                "url": "https://t.co/hzoBfRmaw0"
+              }
+            ]
+          }
+        },
+        "id": "1151340975962198022",
+        "name": "sa",
+        "pinned_tweet_id": "1976364228304101545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1382018170924326914/7yeVMHku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7257,
+          "following_count": 27,
+          "like_count": 11394,
+          "listed_count": 31,
+          "media_count": 1149,
+          "tweet_count": 4936
+        },
+        "url": "https://t.co/hzoBfRmaw0",
+        "username": "deer60868637",
+        "verified": false
+      }
+    ]
+  }
+}

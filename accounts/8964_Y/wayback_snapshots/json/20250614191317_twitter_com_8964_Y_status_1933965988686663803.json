@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1933880110312308872",
+    "created_at": "2025-06-14T19:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T20:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933965988686663803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821494049943035904",
+          "start": 0,
+          "username": "FuckuOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933965988686663803",
+    "in_reply_to_user_id": "1821494049943035904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933880110312308872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckuOvo 丑成啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1933880110312308872",
+        "created_at": "2025-06-14T19:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T20:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933965988686663803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821494049943035904",
+              "start": 0,
+              "username": "FuckuOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933965988686663803",
+        "in_reply_to_user_id": "1821494049943035904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933880110312308872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckuOvo 丑成啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821494049943035904",
+        "conversation_id": "1933880110312308872",
+        "created_at": "2025-06-14T13:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933880110312308872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933880110312308872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次觉得颜文字恶心，༼;´༎ຶ ۝ ༎ຶ༽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5514,
+          "following_count": 936,
+          "like_count": 13666,
+          "listed_count": 8,
+          "media_count": 725,
+          "tweet_count": 10743
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T10:30:20.000Z",
+        "description": "笨人的心境犹如一滩死水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuckuovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuckuovo",
+                "start": 0,
+                "url": "https://t.co/mTojXJKmNP"
+              }
+            ]
+          }
+        },
+        "id": "1821494049943035904",
+        "location": "日本 大阪",
+        "name": "蘑菇酱",
+        "pinned_tweet_id": "1932053833825374632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933861635241955328/hi28JcNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 131,
+          "like_count": 5806,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/mTojXJKmNP",
+        "username": "FuckuOvo",
+        "verified": false
+      }
+    ]
+  }
+}

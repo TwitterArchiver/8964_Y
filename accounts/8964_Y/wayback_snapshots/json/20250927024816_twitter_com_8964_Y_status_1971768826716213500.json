@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1971441043909542133",
+    "created_at": "2025-09-27T02:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T03:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971768826716213500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1507032890168823814",
+          "start": 0,
+          "username": "WeirdSalitoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971768826716213500",
+    "in_reply_to_user_id": "1507032890168823814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971722256423542854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeirdSalitoo 谢谢☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 170,
+        "media_key": "16_1971722247040643072",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G1z27-KXsAAKfkJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G1z27-KXsAAKfkJ.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1971441043909542133",
+        "created_at": "2025-09-27T02:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971768826716213500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1507032890168823814",
+              "start": 0,
+              "username": "WeirdSalitoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971768826716213500",
+        "in_reply_to_user_id": "1507032890168823814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971722256423542854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeirdSalitoo 谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1971722247040643072"
+          ]
+        },
+        "author_id": "1507032890168823814",
+        "conversation_id": "1971441043909542133",
+        "created_at": "2025-09-26T23:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T00:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971722256423542854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbQkSElBVk",
+              "end": 38,
+              "expanded_url": "https://x.com/WeirdSalitoo/status/1971722256423542854/photo/1",
+              "media_key": "16_1971722247040643072",
+              "start": 15,
+              "url": "https://t.co/cbQkSElBVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971722256423542854",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971441043909542133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y CUTEEE https://t.co/cbQkSElBVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜｜🚪100/188/288/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950446099254112526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5762,
+          "following_count": 878,
+          "like_count": 16033,
+          "listed_count": 18,
+          "media_count": 866,
+          "tweet_count": 12737
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T16:33:47.000Z",
+        "description": "────୨ৎ────　\n| INFP | 🇨🇴 | 17 | artist |\n\nCHAINSAW MAN FANGIRL ⋆ ·  *\n \n(˶˃ ᵕ ˂˶)\n　\n⁺　I like literature, music, art and horror movies　 ₊  ◞　\n　˙　　˳　　⁺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "salitooo.straw.page",
+                "end": 23,
+                "expanded_url": "https://salitooo.straw.page/",
+                "start": 0,
+                "url": "https://t.co/FNM9h9dw5p"
+              }
+            ]
+          }
+        },
+        "id": "1507032890168823814",
+        "location": "⋆.  ˚ SHE/HER 𝜗𝜚 ࣪˖ ִ",
+        "name": "— SALITOO ¡★!",
+        "pinned_tweet_id": "1933683824560320904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970512048120360960/iYO5o6Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 915,
+          "like_count": 15278,
+          "listed_count": 4,
+          "media_count": 1529,
+          "tweet_count": 7781
+        },
+        "url": "https://t.co/FNM9h9dw5p",
+        "username": "WeirdSalitoo",
+        "verified": false
+      }
+    ]
+  }
+}
