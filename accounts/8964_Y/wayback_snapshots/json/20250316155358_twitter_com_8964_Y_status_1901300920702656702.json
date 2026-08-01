@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1901196881423663329",
+    "created_at": "2025-03-16T15:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T16:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901300920702656702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889034144270913537",
+          "start": 0,
+          "username": "Jacks_littledog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901300920702656702",
+    "in_reply_to_user_id": "1889034144270913537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901196881423663329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jacks_littledog 好美好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7779,
+        "height": 1264,
+        "media_key": "7_1901196811475329024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901196811475329024/pu/img/Bhft9Y6TA022iJsW.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901196811475329024/pu/vid/avc1/320x722/bGpTyytWVQI4C1Em.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901196811475329024/pu/vid/avc1/480x1082/B6w3GWQlviELcDDu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901196811475329024/pu/vid/avc1/560x1264/ZDapbv9uQwd8cdCf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901196811475329024/pu/pl/xSOfDVRrAigeB1wW.m3u8?tag=12"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1901196881423663329",
+        "created_at": "2025-03-16T15:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901300920702656702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889034144270913537",
+              "start": 0,
+              "username": "Jacks_littledog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901300920702656702",
+        "in_reply_to_user_id": "1889034144270913537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901196881423663329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jacks_littledog 好美好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901196811475329024"
+          ]
+        },
+        "author_id": "1889034144270913537",
+        "conversation_id": "1901196881423663329",
+        "created_at": "2025-03-16T09:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T10:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901196881423663329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amW5gJLL0v",
+              "end": 56,
+              "expanded_url": "https://x.com/Jacks_littledog/status/1901196881423663329/video/1",
+              "media_key": "7_1901196811475329024",
+              "start": 33,
+              "url": "https://t.co/amW5gJLL0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901196881423663329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个不怎么精细的小女孩^_   ̫  _ ̥`但是我还挺喜欢的😋 https://t.co/amW5gJLL0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900745047026638848/lYUe4VUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 930,
+          "like_count": 10813,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 8208
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T19:30:28.000Z",
+        "description": "大家好呀 欢迎来找我交朋友 我喜欢画画 如果有人能教我就好了 我画的很菜🥺\n\n我很喜欢第五人格的杰克 还有闵浩哥真的很可爱 我比较喜欢吃虐虐的剧情\n日记本",
+        "id": "1889034144270913537",
+        "location": "有梦的地方",
+        "name": "杰克小狗",
+        "pinned_tweet_id": "1891991145393144005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889034300340969472/LkrQW4xY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 1136,
+          "like_count": 3058,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 894
+        },
+        "username": "Jacks_littledog",
+        "verified": false
+      }
+    ]
+  }
+}

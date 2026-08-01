@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1897728538020823317",
+    "created_at": "2025-03-06T19:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T20:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897728538020823317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "824492684853129217",
+          "start": 3,
+          "username": "Tracy259988"
+        },
+        {
+          "end": 26,
+          "id": "215939847",
+          "start": 17,
+          "username": "bboczeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897728538020823317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896733002274840867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tracy259988: @bboczeng 你价格出的好，他连梅婆都卖给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1897728538020823317",
+        "created_at": "2025-03-06T19:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T20:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897728538020823317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "824492684853129217",
+              "start": 3,
+              "username": "Tracy259988"
+            },
+            {
+              "end": 26,
+              "id": "215939847",
+              "start": 17,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897728538020823317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896733002274840867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tracy259988: @bboczeng 你价格出的好，他连梅婆都卖给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "824492684853129217",
+        "conversation_id": "1896617063214694904",
+        "created_at": "2025-03-04T01:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T02:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896733002274840867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896733002274840867",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 65564,
+          "like_count": 466,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896617063214694904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 你价格出的好，他连梅婆都卖给你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 此乃暗夜魔女：@00Mio007｜本体是涡虫｜dandadan全员推｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 898,
+          "like_count": 9989,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 7756
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-26T05:42:29.000Z",
+        "description": "无产阶级革命先锋 乌托邦幻想症候群 精神小弟 小妹，你们抬起的杠，我是接不住的，所以出于礼貌和成年人该有的边界感 请勿扰",
+        "id": "824492684853129217",
+        "location": "California, USA",
+        "name": "s-Tracy",
+        "pinned_tweet_id": "1867261393663344747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611828701360164864/_hP9LhgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10062,
+          "following_count": 2736,
+          "like_count": 135280,
+          "listed_count": 25,
+          "media_count": 3535,
+          "tweet_count": 81574
+        },
+        "username": "Tracy259988",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1896540955895107787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171675,
+          "following_count": 645,
+          "like_count": 80874,
+          "listed_count": 920,
+          "media_count": 13465,
+          "tweet_count": 75854
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

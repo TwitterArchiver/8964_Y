@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1949496303588987293",
+    "created_at": "2025-07-27T16:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949506672344682916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1223794078782914560",
+          "start": 0,
+          "username": "LiJiaChaobot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949506672344682916",
+    "in_reply_to_user_id": "1223794078782914560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949500307110830243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiJiaChaobot 爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1949496303588987293",
+        "created_at": "2025-07-27T16:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949506672344682916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1223794078782914560",
+              "start": 0,
+              "username": "LiJiaChaobot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949506672344682916",
+        "in_reply_to_user_id": "1223794078782914560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949500307110830243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiJiaChaobot 爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223794078782914560",
+        "conversation_id": "1949496303588987293",
+        "created_at": "2025-07-27T16:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949500307110830243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949500307110830243",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949496303588987293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5778,
+          "following_count": 874,
+          "like_count": 15277,
+          "listed_count": 13,
+          "media_count": 785,
+          "tweet_count": 11832
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T02:23:48.000Z",
+        "description": "一只萌豚/会屏蔽来路不明或锁推的账户/包学家/打心怪/迫真中立壬🤓/やるんだな 今ここで",
+        "id": "1223794078782914560",
+        "location": "萌豚國",
+        "name": "DUCK萌豚",
+        "pinned_tweet_id": "1225756288912461824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788784174402600960/joPMOZGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2588,
+          "following_count": 1991,
+          "like_count": 639265,
+          "listed_count": 20,
+          "media_count": 7836,
+          "tweet_count": 75312
+        },
+        "username": "LiJiaChaobot",
+        "verified": false
+      }
+    ]
+  }
+}

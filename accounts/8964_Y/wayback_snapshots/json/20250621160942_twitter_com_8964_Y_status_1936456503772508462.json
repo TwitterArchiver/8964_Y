@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1936453552282497218",
+    "created_at": "2025-06-21T16:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T17:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936456503772508462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746884530198523904",
+          "start": 0,
+          "username": "haoduoyuzi_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936456503772508462",
+    "in_reply_to_user_id": "1746884530198523904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936453552282497218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haoduoyuzi_8964 小刘刘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_1936453505377501184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-qNBAWAAAIC3R.jpg",
+        "width": 1078
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936453505394393088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-qNBEXwAA_sck.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936453505394278400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-qNBEWAAAvxmf.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936453505381769216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-qNBBXIAACYU0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1936453552282497218",
+        "created_at": "2025-06-21T16:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T17:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936456503772508462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746884530198523904",
+              "start": 0,
+              "username": "haoduoyuzi_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936456503772508462",
+        "in_reply_to_user_id": "1746884530198523904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936453552282497218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haoduoyuzi_8964 小刘刘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936453505377501184",
+            "3_1936453505394393088",
+            "3_1936453505394278400",
+            "3_1936453505381769216"
+          ]
+        },
+        "author_id": "1746884530198523904",
+        "conversation_id": "1936453552282497218",
+        "created_at": "2025-06-21T15:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936453552282497218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoiRWiWO9M",
+              "end": 48,
+              "expanded_url": "https://x.com/haoduoyuzi_8964/status/1936453552282497218/photo/1",
+              "media_key": "3_1936453505377501184",
+              "start": 25,
+              "url": "https://t.co/HoiRWiWO9M"
+            },
+            {
+              "display_url": "pic.x.com/HoiRWiWO9M",
+              "end": 48,
+              "expanded_url": "https://x.com/haoduoyuzi_8964/status/1936453552282497218/photo/1",
+              "media_key": "3_1936453505394393088",
+              "start": 25,
+              "url": "https://t.co/HoiRWiWO9M"
+            },
+            {
+              "display_url": "pic.x.com/HoiRWiWO9M",
+              "end": 48,
+              "expanded_url": "https://x.com/haoduoyuzi_8964/status/1936453552282497218/photo/1",
+              "media_key": "3_1936453505394278400",
+              "start": 25,
+              "url": "https://t.co/HoiRWiWO9M"
+            },
+            {
+              "display_url": "pic.x.com/HoiRWiWO9M",
+              "end": 48,
+              "expanded_url": "https://x.com/haoduoyuzi_8964/status/1936453552282497218/photo/1",
+              "media_key": "3_1936453505381769216",
+              "start": 25,
+              "url": "https://t.co/HoiRWiWO9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936453552282497218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刘乾元还是以为谁都跟他一样傻逼，图1骂我的人户籍 https://t.co/HoiRWiWO9M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5513,
+          "following_count": 934,
+          "like_count": 13969,
+          "listed_count": 8,
+          "media_count": 732,
+          "tweet_count": 10986
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T13:18:36.000Z",
+        "description": "鱼子酱yuko🐟oc西餐女子 互fo请私信｜❤️世另我全世界最好的闺闺@ninis07QaQ 人生座右铭↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "ninis07QaQ"
+              }
+            ]
+          }
+        },
+        "id": "1746884530198523904",
+        "location": "骂我千刀万剐 我骂的罪有应得",
+        "name": "魚神启动",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936451884094533632/FZk2yHML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 388,
+          "like_count": 5445,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 4328
+        },
+        "username": "haoduoyuzi_8964",
+        "verified": false
+      }
+    ]
+  }
+}

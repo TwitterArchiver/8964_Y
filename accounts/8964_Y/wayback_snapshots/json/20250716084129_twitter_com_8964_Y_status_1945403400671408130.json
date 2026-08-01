@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945091195983605760"
+      ],
+      "media_source_tweet_id": [
+        "1945091645609009572"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1945403400671408130",
+    "created_at": "2025-07-16T08:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T09:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945403400671408130"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "黒木姉",
+          "probability": 0.6842,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "759293760",
+          "start": 3,
+          "username": "nukamochi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MR6Pp5j7F6",
+          "end": 65,
+          "expanded_url": "https://x.com/nukamochi/status/1945091645609009572/photo/1",
+          "media_key": "3_1945091195983605760",
+          "start": 42,
+          "url": "https://t.co/MR6Pp5j7F6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945403400671408130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2723
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945091645609009572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nukamochi: できてる黒木姉弟\n何かちょっかいかけてきたからしめた https://t.co/MR6Pp5j7F6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_1945091195983605760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5aIyBXsAAPLGy.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945091195983605760"
+          ],
+          "media_source_tweet_id": [
+            "1945091645609009572"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1945403400671408130",
+        "created_at": "2025-07-16T08:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T09:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945403400671408130"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "黒木姉",
+              "probability": 0.6842,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "759293760",
+              "start": 3,
+              "username": "nukamochi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MR6Pp5j7F6",
+              "end": 65,
+              "expanded_url": "https://x.com/nukamochi/status/1945091645609009572/photo/1",
+              "media_key": "3_1945091195983605760",
+              "start": 42,
+              "url": "https://t.co/MR6Pp5j7F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945403400671408130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2723
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945091645609009572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nukamochi: できてる黒木姉弟\n何かちょっかいかけてきたからしめた https://t.co/MR6Pp5j7F6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945091195983605760"
+          ]
+        },
+        "author_id": "759293760",
+        "conversation_id": "1945091645609009572",
+        "created_at": "2025-07-15T12:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945091645609009572"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "黒木姉",
+              "probability": 0.6906,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MR6Pp5j7F6",
+              "end": 50,
+              "expanded_url": "https://x.com/nukamochi/status/1945091645609009572/photo/1",
+              "media_key": "3_1945091195983605760",
+              "start": 27,
+              "url": "https://t.co/MR6Pp5j7F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945091645609009572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8732,
+          "impression_count": 781981,
+          "like_count": 40389,
+          "quote_count": 64,
+          "reply_count": 49,
+          "retweet_count": 2723
+        },
+        "reply_settings": "everyone",
+        "text": "できてる黒木姉弟\n何かちょっかいかけてきたからしめた https://t.co/MR6Pp5j7F6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5714,
+          "following_count": 947,
+          "like_count": 14966,
+          "listed_count": 12,
+          "media_count": 767,
+          "tweet_count": 11640
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-15T12:48:41.000Z",
+        "description": "使用・転載禁止 Repost is prohibited. 🥧🍮/兄神/黒木姉弟(⚠️近親カプ表現有)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=1509829",
+                "start": 0,
+                "url": "https://t.co/v1HLYWiwTL"
+              }
+            ]
+          }
+        },
+        "id": "759293760",
+        "location": "CP固定",
+        "name": "ぬか🎐",
+        "pinned_tweet_id": "1935669273701265777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1293517598391300097/fBLzUa1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77369,
+          "following_count": 51,
+          "like_count": 8562,
+          "listed_count": 371,
+          "media_count": 1568,
+          "tweet_count": 28311
+        },
+        "url": "https://t.co/v1HLYWiwTL",
+        "username": "nukamochi",
+        "verified": false
+      }
+    ]
+  }
+}

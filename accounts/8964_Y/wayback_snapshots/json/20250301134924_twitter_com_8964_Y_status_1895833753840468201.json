@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895832561248829505",
+    "created_at": "2025-03-01T13:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895833753840468201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721126083142340611",
+          "start": 0,
+          "username": "Limeixi1223love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895833753840468201",
+    "in_reply_to_user_id": "1721126083142340611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895832561248829505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Limeixi1223love 明明很好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_1895832435234856960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1895832435234856960/img/IJZ3YjxREY0e5K1W.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895832435234856960/vid/avc1/320x568/X5QHFHH4Ij2E4XoA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895832435234856960/vid/avc1/480x852/xRRASL1sdFf9QAqH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895832435234856960/vid/avc1/720x1280/oro6psGmUAM6ySQD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1895832435234856960/pl/FjuC2VGW-YC48_k6.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895832561248829505",
+        "created_at": "2025-03-01T13:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895833753840468201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721126083142340611",
+              "start": 0,
+              "username": "Limeixi1223love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895833753840468201",
+        "in_reply_to_user_id": "1721126083142340611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895832561248829505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Limeixi1223love 明明很好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1895832435234856960"
+          ]
+        },
+        "author_id": "1721126083142340611",
+        "conversation_id": "1895832561248829505",
+        "created_at": "2025-03-01T13:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895832561248829505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bO5wM18VVp",
+              "end": 36,
+              "expanded_url": "https://x.com/Limeixi1223love/status/1895832561248829505/video/1",
+              "media_key": "13_1895832435234856960",
+              "start": 13,
+              "url": "https://t.co/bO5wM18VVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895832561248829505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪了个刘海。好丑好想哭。 https://t.co/bO5wM18VVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 882,
+          "like_count": 9588,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 7456
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T11:23:42.000Z",
+        "description": "赞赏码/🚪80/清水负面批我有对象不接爸爸活了/od/自伤  我们都更幸福一点吧",
+        "id": "1721126083142340611",
+        "name": "失心疯^3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887041254581538817/rRjhNjKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 72,
+          "like_count": 406,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 231
+        },
+        "username": "Limeixi1223love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942608644299685888"
+      ],
+      "media_source_tweet_id": [
+        "1942608649261891853"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1943157945623286265",
+    "created_at": "2025-07-10T03:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T04:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943157945623286265"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "YORU",
+          "probability": 0.3621,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1877706992",
+          "start": 3,
+          "username": "GENCZILLA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0q8VtSz4uY",
+          "end": 63,
+          "expanded_url": "https://x.com/GENCZILLA/status/1942608649261891853/photo/1",
+          "media_key": "3_1942608644299685888",
+          "start": 40,
+          "url": "https://t.co/0q8VtSz4uY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943157945623286265",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942608649261891853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GENCZILLA: YORU BROS WE ARE SO BACK https://t.co/0q8VtSz4uY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1942608644299685888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWIRQUWAAAUIdn.jpg",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942608644299685888"
+          ],
+          "media_source_tweet_id": [
+            "1942608649261891853"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1943157945623286265",
+        "created_at": "2025-07-10T03:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T04:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943157945623286265"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "YORU",
+              "probability": 0.3621,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1877706992",
+              "start": 3,
+              "username": "GENCZILLA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0q8VtSz4uY",
+              "end": 63,
+              "expanded_url": "https://x.com/GENCZILLA/status/1942608649261891853/photo/1",
+              "media_key": "3_1942608644299685888",
+              "start": 40,
+              "url": "https://t.co/0q8VtSz4uY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943157945623286265",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942608649261891853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GENCZILLA: YORU BROS WE ARE SO BACK https://t.co/0q8VtSz4uY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942608644299685888"
+          ]
+        },
+        "author_id": "1877706992",
+        "conversation_id": "1942608649261891853",
+        "created_at": "2025-07-08T15:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942608649261891853"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "YORU",
+              "probability": 0.5732,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0q8VtSz4uY",
+              "end": 48,
+              "expanded_url": "https://x.com/GENCZILLA/status/1942608649261891853/photo/1",
+              "media_key": "3_1942608644299685888",
+              "start": 25,
+              "url": "https://t.co/0q8VtSz4uY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942608649261891853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 19453,
+          "like_count": 2174,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "YORU BROS WE ARE SO BACK https://t.co/0q8VtSz4uY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 939,
+          "like_count": 14618,
+          "listed_count": 10,
+          "media_count": 763,
+          "tweet_count": 11541
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-18T02:19:56.000Z",
+        "description": "https://t.co/UiqAaD4xLo\n\ntips: https://t.co/VzXgcfV5Aw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boxcarcityrush.com",
+                "end": 23,
+                "expanded_url": "http://boxcarcityrush.com",
+                "start": 0,
+                "url": "https://t.co/UiqAaD4xLo"
+              },
+              {
+                "display_url": "ko-fi.com/genc13",
+                "end": 54,
+                "expanded_url": "https://ko-fi.com/genc13",
+                "start": 31,
+                "url": "https://t.co/VzXgcfV5Aw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxcarcityrush.com",
+                "end": 23,
+                "expanded_url": "http://boxcarcityrush.com",
+                "start": 0,
+                "url": "https://t.co/UiqAaD4xLo"
+              }
+            ]
+          }
+        },
+        "id": "1877706992",
+        "location": "business: gencciv@gmail.com",
+        "name": "𝙶 𝙴 𝙽 𝙲",
+        "pinned_tweet_id": "1941612002184397102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853470014495506432/YBfetdE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82245,
+          "following_count": 748,
+          "like_count": 55655,
+          "listed_count": 358,
+          "media_count": 89,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/UiqAaD4xLo",
+        "username": "GENCZILLA",
+        "verified": false
+      }
+    ]
+  }
+}

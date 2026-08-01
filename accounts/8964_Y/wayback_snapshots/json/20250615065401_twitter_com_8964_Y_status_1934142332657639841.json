@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1934094564186325480",
+    "created_at": "2025-06-15T06:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T07:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934142332657639841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771176588505182208",
+          "start": 0,
+          "username": "jaslyn994071"
+        },
+        {
+          "end": 21,
+          "id": "1399677062240247809",
+          "start": 14,
+          "username": "Yacur1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934142332657639841",
+    "in_reply_to_user_id": "1771176588505182208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934094564186325480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaslyn994071 @Yacur1 请问可以委托您制作视频吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8933,
+        "height": 576,
+        "media_key": "13_1934094501246640128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934094501246640128/img/gMCebBR7pAr1RS1u.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934094501246640128/vid/avc1/360x270/uzEVGzYnKlkCFCz-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934094501246640128/vid/avc1/480x360/6HS442ZCDNZcdwcJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934094501246640128/vid/avc1/768x576/aV8yCfMopOxZ1pg_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934094501246640128/pl/1F6C5Jy0DyOGUeaG.m3u8"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1934094564186325480",
+        "created_at": "2025-06-15T06:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T07:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934142332657639841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771176588505182208",
+              "start": 0,
+              "username": "jaslyn994071"
+            },
+            {
+              "end": 21,
+              "id": "1399677062240247809",
+              "start": 14,
+              "username": "Yacur1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934142332657639841",
+        "in_reply_to_user_id": "1771176588505182208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934094564186325480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaslyn994071 @Yacur1 请问可以委托您制作视频吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934094501246640128"
+          ]
+        },
+        "author_id": "1771176588505182208",
+        "conversation_id": "1934094564186325480",
+        "created_at": "2025-06-15T03:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T04:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934094564186325480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1399677062240247809",
+              "start": 23,
+              "username": "Yacur1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3lnQas4yHw",
+              "end": 54,
+              "expanded_url": "https://x.com/jaslyn994071/status/1934094564186325480/video/1",
+              "media_key": "13_1934094501246640128",
+              "start": 31,
+              "url": "https://t.co/3lnQas4yHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934094564186325480",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 176,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Thread of my edits for @Yacur1 https://t.co/3lnQas4yHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 938,
+          "like_count": 13685,
+          "listed_count": 8,
+          "media_count": 726,
+          "tweet_count": 10756
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T14:06:39.000Z",
+        "description": "pfp by @SCHONv_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "SCHONv_"
+              }
+            ]
+          }
+        },
+        "id": "1771176588505182208",
+        "name": "Jaslyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886112836344066049/xJjiAywZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 405,
+          "like_count": 12689,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 12510
+        },
+        "username": "jaslyn994071",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T10:40:00.000Z",
+        "description": "🐁🐭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/luka.curin?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/luka.curin?igshid=ZDdkNTZiNTM=",
+                "start": 0,
+                "url": "https://t.co/aVXHk4B1A4"
+              }
+            ]
+          }
+        },
+        "id": "1399677062240247809",
+        "name": "🍊𝕃𝕦𝕜𝕒 𝕍𝕀𝕀𝕀🍓",
+        "pinned_tweet_id": "1399683805485703172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399686991852228619/-4hcukKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 118,
+          "like_count": 115340,
+          "listed_count": 1,
+          "media_count": 1822,
+          "tweet_count": 54970
+        },
+        "url": "https://t.co/aVXHk4B1A4",
+        "username": "Yacur1",
+        "verified": false
+      }
+    ]
+  }
+}

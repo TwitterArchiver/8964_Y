@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895323118446534656"
+      ],
+      "media_source_tweet_id": [
+        "1895323127863030145"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895725342511546794",
+    "created_at": "2025-03-01T06:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T07:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895725342511546794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885531527863558145",
+          "start": 3,
+          "username": "022O062O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XdJ0uXoNG",
+          "end": 37,
+          "expanded_url": "https://x.com/022O062O/status/1895323127863030145/photo/1",
+          "media_key": "3_1895323118446534656",
+          "start": 14,
+          "url": "https://t.co/5XdJ0uXoNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895725342511546794",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895323127863030145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @022O062O: https://t.co/5XdJ0uXoNG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895725342511546794].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895725342511546794",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895725342511546794"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_1895323118446534656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk2KVZmXYAAOkAM.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895323118446534656"
+          ]
+        },
+        "author_id": "1885531527863558145",
+        "conversation_id": "1895323127863030145",
+        "created_at": "2025-02-28T04:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T05:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895323127863030145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XdJ0uXoNG",
+              "end": 23,
+              "expanded_url": "https://x.com/022O062O/status/1895323127863030145/photo/1",
+              "media_key": "3_1895323118446534656",
+              "start": 0,
+              "url": "https://t.co/5XdJ0uXoNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895323127863030145",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 31020,
+          "like_count": 3734,
+          "quote_count": 17,
+          "reply_count": 12,
+          "retweet_count": 457
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5XdJ0uXoNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4755,
+          "following_count": 880,
+          "like_count": 9528,
+          "listed_count": 4,
+          "media_count": 497,
+          "tweet_count": 7429
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T03:32:20.000Z",
+        "description": "clepto, sh, ed & drugs",
+        "id": "1885531527863558145",
+        "location": "1,69 — 46 kg 🧸",
+        "name": "﹟🦝",
+        "pinned_tweet_id": "1886833471164965311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885677093792395264/8t-ZaOwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 179,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 206
+        },
+        "username": "022O062O",
+        "verified": false
+      }
+    ]
+  }
+}

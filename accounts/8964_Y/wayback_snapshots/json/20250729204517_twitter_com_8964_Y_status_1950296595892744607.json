@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1950250697741705606",
+    "created_at": "2025-07-29T20:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T21:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950296595892744607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554677231485878272",
+          "start": 0,
+          "username": "PDpg233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950296595892744607",
+    "in_reply_to_user_id": "1554677231485878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950265716239921370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PDpg233 你毕业了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1950250697741705606",
+        "created_at": "2025-07-29T20:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T21:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950296595892744607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554677231485878272",
+              "start": 0,
+              "username": "PDpg233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950296595892744607",
+        "in_reply_to_user_id": "1554677231485878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950265716239921370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PDpg233 你毕业了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554677231485878272",
+        "conversation_id": "1950250697741705606",
+        "created_at": "2025-07-29T18:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T19:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950265716239921370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950265716239921370",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950250697741705606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 小洇小洇为什么你照片画质这么差（什）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5781,
+          "following_count": 872,
+          "like_count": 15294,
+          "listed_count": 13,
+          "media_count": 787,
+          "tweet_count": 11842
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T03:55:21.000Z",
+        "description": "苦命高中生 日常碎碎念｜音游/mc/交通/日常｜善意对待每一个人，前提是你得是人｜🚫禁止鉴证｜语言组织能力差｜\nhttps://t.co/r4RoFHkPsN 匿名提问｜快来找我聊天！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7917576",
+                "end": 79,
+                "expanded_url": "https://ngl.link/7917576",
+                "start": 56,
+                "url": "https://t.co/r4RoFHkPsN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/jk5MLZB",
+                "end": 23,
+                "expanded_url": "https://b23.tv/jk5MLZB",
+                "start": 0,
+                "url": "https://t.co/PP1j4E7DBz"
+              }
+            ]
+          }
+        },
+        "id": "1554677231485878272",
+        "location": "距离你 5.20 千米",
+        "name": "染柒Seven",
+        "pinned_tweet_id": "1914696220364431560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945564287612727296/0jmssClu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 473,
+          "like_count": 5252,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/PP1j4E7DBz",
+        "username": "PDpg233",
+        "verified": false
+      }
+    ]
+  }
+}

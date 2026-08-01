@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895495712647065726",
+    "created_at": "2025-02-28T15:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T16:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895498445110341777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812419719691186176",
+          "start": 0,
+          "username": "qweomy10364583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895498445110341777",
+    "in_reply_to_user_id": "1812419719691186176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895498183498932621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qweomy10364583 爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895495712647065726",
+        "created_at": "2025-02-28T15:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895498445110341777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812419719691186176",
+              "start": 0,
+              "username": "qweomy10364583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895498445110341777",
+        "in_reply_to_user_id": "1812419719691186176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895498183498932621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qweomy10364583 爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812419719691186176",
+        "conversation_id": "1895495712647065726",
+        "created_at": "2025-02-28T15:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895498183498932621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895498183498932621",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895495712647065726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 宝宝你真是萌死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891578246174736386/Fncra9Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4746,
+          "following_count": 873,
+          "like_count": 9438,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 7351
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T09:32:04.000Z",
+        "description": "@HotLineMiami888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "HotLineMiami888"
+              }
+            ]
+          }
+        },
+        "id": "1812419719691186176",
+        "location": "支黑，介意请b",
+        "name": "新世纪の雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895168721603149824/PxaYicS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 703,
+          "like_count": 11332,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 5055
+        },
+        "username": "qweomy10364583",
+        "verified": false
+      }
+    ]
+  }
+}

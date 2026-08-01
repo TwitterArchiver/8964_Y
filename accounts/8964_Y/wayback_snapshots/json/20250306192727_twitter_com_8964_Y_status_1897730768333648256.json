@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1897719007077449744",
+    "created_at": "2025-03-06T19:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T20:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897730768333648256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1619273524300095488",
+          "start": 0,
+          "username": "racoySAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897730768333648256",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897730581158674469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@racoySAMA *獭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1897719007077449744",
+        "created_at": "2025-03-06T19:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T20:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897730768333648256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619273524300095488",
+              "start": 0,
+              "username": "racoySAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897730768333648256",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897730581158674469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@racoySAMA *獭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1897719007077449744",
+        "created_at": "2025-03-06T19:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T20:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897730581158674469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619273524300095488",
+              "start": 0,
+              "username": "racoySAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897730581158674469",
+        "in_reply_to_user_id": "1619273524300095488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897719007077449744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@racoySAMA 我抱抱这个水濑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 此乃暗夜魔女：@00Mio007｜本体是涡虫｜dandadan全员推｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4813,
+          "following_count": 898,
+          "like_count": 9992,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 7759
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T09:57:58.000Z",
+        "description": "那只是我梦的延续",
+        "id": "1619273524300095488",
+        "location": "回家的路上",
+        "name": "水獭弟",
+        "pinned_tweet_id": "1887358698034766288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896224686159060992/jT-GqLqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 50,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 5569
+        },
+        "username": "racoySAMA",
+        "verified": false
+      }
+    ]
+  }
+}

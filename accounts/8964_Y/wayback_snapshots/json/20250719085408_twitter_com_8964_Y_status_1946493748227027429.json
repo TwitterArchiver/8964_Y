@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946456150695641096",
+        "3_1946456197277630464",
+        "3_1946456262905905152",
+        "3_1946456530137604097"
+      ],
+      "media_source_tweet_id": [
+        "1946457527979520272",
+        "1946457527979520272",
+        "1946457527979520272",
+        "1946457527979520272"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946493748227027429",
+    "created_at": "2025-07-19T08:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T09:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946493748227027429"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "ダンダダン"
+        },
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "DANDADAN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1760840353614356480",
+          "start": 3,
+          "username": "ts_psi_vczzxvc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gAZUNmzzAW",
+          "end": 65,
+          "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+          "media_key": "3_1946456150695641096",
+          "start": 42,
+          "url": "https://t.co/gAZUNmzzAW"
+        },
+        {
+          "display_url": "pic.x.com/gAZUNmzzAW",
+          "end": 65,
+          "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+          "media_key": "3_1946456197277630464",
+          "start": 42,
+          "url": "https://t.co/gAZUNmzzAW"
+        },
+        {
+          "display_url": "pic.x.com/gAZUNmzzAW",
+          "end": 65,
+          "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+          "media_key": "3_1946456262905905152",
+          "start": 42,
+          "url": "https://t.co/gAZUNmzzAW"
+        },
+        {
+          "display_url": "pic.x.com/gAZUNmzzAW",
+          "end": 65,
+          "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+          "media_key": "3_1946456530137604097",
+          "start": 42,
+          "url": "https://t.co/gAZUNmzzAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946493748227027429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946457527979520272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ts_psi_vczzxvc: 拼4张图 #ダンダダン #DANDADAN https://t.co/gAZUNmzzAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3099,
+        "media_key": "3_1946456150695641096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMzjmkWgAg_l56.jpg",
+        "width": 2324
+      },
+      {
+        "height": 1471,
+        "media_key": "3_1946456197277630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMzmUGXQAAtb3L.jpg",
+        "width": 1109
+      },
+      {
+        "height": 2038,
+        "media_key": "3_1946456262905905152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMzqIlXQAAgD_v.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1716,
+        "media_key": "3_1946456530137604097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMz5sGXYAELJV0.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946456150695641096",
+            "3_1946456197277630464",
+            "3_1946456262905905152",
+            "3_1946456530137604097"
+          ],
+          "media_source_tweet_id": [
+            "1946457527979520272",
+            "1946457527979520272",
+            "1946457527979520272",
+            "1946457527979520272"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946493748227027429",
+        "created_at": "2025-07-19T08:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T09:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946493748227027429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "ダンダダン"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "DANDADAN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1760840353614356480",
+              "start": 3,
+              "username": "ts_psi_vczzxvc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 65,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456150695641096",
+              "start": 42,
+              "url": "https://t.co/gAZUNmzzAW"
+            },
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 65,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456197277630464",
+              "start": 42,
+              "url": "https://t.co/gAZUNmzzAW"
+            },
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 65,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456262905905152",
+              "start": 42,
+              "url": "https://t.co/gAZUNmzzAW"
+            },
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 65,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456530137604097",
+              "start": 42,
+              "url": "https://t.co/gAZUNmzzAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946493748227027429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946457527979520272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ts_psi_vczzxvc: 拼4张图 #ダンダダン #DANDADAN https://t.co/gAZUNmzzAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946456150695641096",
+            "3_1946456197277630464",
+            "3_1946456262905905152",
+            "3_1946456530137604097"
+          ]
+        },
+        "author_id": "1760840353614356480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946457527979520272",
+        "created_at": "2025-07-19T06:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946457527979520272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "ダンダダン"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "DANDADAN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 45,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456150695641096",
+              "start": 22,
+              "url": "https://t.co/gAZUNmzzAW"
+            },
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 45,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456197277630464",
+              "start": 22,
+              "url": "https://t.co/gAZUNmzzAW"
+            },
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 45,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456262905905152",
+              "start": 22,
+              "url": "https://t.co/gAZUNmzzAW"
+            },
+            {
+              "display_url": "pic.x.com/gAZUNmzzAW",
+              "end": 45,
+              "expanded_url": "https://x.com/ts_psi_vczzxvc/status/1946457527979520272/photo/1",
+              "media_key": "3_1946456530137604097",
+              "start": 22,
+              "url": "https://t.co/gAZUNmzzAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946457527979520272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 1793,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "拼4张图 #ダンダダン #DANDADAN https://t.co/gAZUNmzzAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5725,
+          "following_count": 943,
+          "like_count": 15042,
+          "listed_count": 12,
+          "media_count": 774,
+          "tweet_count": 11711
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T01:34:26.000Z",
+        "description": "",
+        "id": "1760840353614356480",
+        "name": "獭",
+        "pinned_tweet_id": "1946457527979520272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782025411565940736/3TLKUwOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3991,
+          "following_count": 60,
+          "like_count": 430,
+          "listed_count": 34,
+          "media_count": 31,
+          "tweet_count": 35
+        },
+        "username": "ts_psi_vczzxvc",
+        "verified": true
+      }
+    ]
+  }
+}

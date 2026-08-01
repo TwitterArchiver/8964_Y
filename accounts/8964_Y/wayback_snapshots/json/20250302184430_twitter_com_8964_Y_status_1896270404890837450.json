@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895801198072221930",
+    "created_at": "2025-03-02T18:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T19:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896270404890837450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1663165254610874369",
+          "start": 0,
+          "username": "IC_7809_3"
+        },
+        {
+          "end": 20,
+          "id": "1523294065063735298",
+          "start": 11,
+          "username": "Daryl336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896270404890837450",
+    "in_reply_to_user_id": "1663165254610874369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896004034869465173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IC_7809_3 @Daryl336 （躲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_1896004025188823040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk_1nY4XMAAZohB.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895801198072221930",
+        "created_at": "2025-03-02T18:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T19:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896270404890837450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1663165254610874369",
+              "start": 0,
+              "username": "IC_7809_3"
+            },
+            {
+              "end": 20,
+              "id": "1523294065063735298",
+              "start": 11,
+              "username": "Daryl336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896270404890837450",
+        "in_reply_to_user_id": "1663165254610874369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896004034869465173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IC_7809_3 @Daryl336 （躲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896004025188823040"
+          ]
+        },
+        "author_id": "1663165254610874369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895801198072221930",
+        "created_at": "2025-03-02T01:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T02:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896004034869465173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523294065063735298",
+              "start": 0,
+              "username": "Daryl336"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvwaVl7TCs",
+              "end": 36,
+              "expanded_url": "https://x.com/IC_7809_3/status/1896004034869465173/photo/1",
+              "media_key": "3_1896004025188823040",
+              "start": 13,
+              "url": "https://t.co/OvwaVl7TCs"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "1896004034869465173",
+        "in_reply_to_user_id": "1523294065063735298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3760,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895801198072221930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daryl336 嘿嘿 https://t.co/OvwaVl7TCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4778,
+          "following_count": 892,
+          "like_count": 9747,
+          "listed_count": 4,
+          "media_count": 509,
+          "tweet_count": 7562
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T12:48:09.000Z",
+        "description": "❤️🇹🇼🇷🇺🇩🇪🇮🇱🇬🇧🇸🇪🇯🇵丨𝐏𝐫𝐨-𝐑𝐎𝐂/𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐬𝐦丨 #micronaitions 👑 #奧斯托尼亞 丨臺北人丨⛿ @IC_7809_4 丨8964丨🤍#GooglePixel 丨🇹🇼 #和平紀念日",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 46,
+                "tag": "micronaitions"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "奧斯托尼亞"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "tag": "GooglePixel"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "和平紀念日"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "IC_7809_4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/pumdzAR…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/pumdzARGyW",
+                "start": 0,
+                "url": "https://t.co/8HOEqEUH8o"
+              }
+            ]
+          }
+        },
+        "id": "1663165254610874369",
+        "location": "Taipei, Republic of China 🇹🇼",
+        "name": "𝐈𝐂🇹🇼𝕏🇮🇱🇷🇺",
+        "pinned_tweet_id": "1838496707593801985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862935318963355648/l2KnSh4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 5625,
+          "like_count": 68710,
+          "listed_count": 3,
+          "media_count": 4315,
+          "tweet_count": 45362
+        },
+        "url": "https://t.co/8HOEqEUH8o",
+        "username": "IC_7809_3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T13:29:58.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/2VU2VE8VPN"
+              }
+            ]
+          }
+        },
+        "id": "1523294065063735298",
+        "location": "二次元世界",
+        "name": "東京の雪蓮い⛩",
+        "pinned_tweet_id": "1795925402092785966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894129673002524673/hTd3xMOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 2774,
+          "like_count": 46744,
+          "listed_count": 13,
+          "media_count": 504,
+          "tweet_count": 3179
+        },
+        "url": "https://t.co/2VU2VE8VPN",
+        "username": "Daryl336",
+        "verified": false
+      }
+    ]
+  }
+}

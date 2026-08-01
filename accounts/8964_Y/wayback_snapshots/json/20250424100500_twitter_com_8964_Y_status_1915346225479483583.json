@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1915346225479483583",
+    "created_at": "2025-04-24T10:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T11:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915346225479483583"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "小狗m"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1879353023451062272",
+          "start": 3,
+          "username": "xiaoyibao_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915346225479483583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915338581956329844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyibao_666: 着急用钱，今天🚪88有没有入的\n#小狗m #反差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1915346225479483583",
+        "created_at": "2025-04-24T10:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T11:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915346225479483583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "小狗m"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "反差"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1879353023451062272",
+              "start": 3,
+              "username": "xiaoyibao_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915346225479483583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915338581956329844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyibao_666: 着急用钱，今天🚪88有没有入的\n#小狗m #反差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879353023451062272",
+        "conversation_id": "1915338581956329844",
+        "created_at": "2025-04-24T09:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T10:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915338581956329844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "小狗m"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "反差"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915338581956329844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "着急用钱，今天🚪88有没有入的\n#小狗m #反差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5442,
+          "following_count": 988,
+          "like_count": 12422,
+          "listed_count": 8,
+          "media_count": 632,
+          "tweet_count": 9514
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T02:21:10.000Z",
+        "description": "再冒充我试试？？匿名消息：https://t.co/E1qtGSeiBy\n猜猜我最喜欢什么\n#ᖰ•͈ ₃ •͈ᖳ\n喜欢我请过🚪  收不了口令 可以赞赏码或者转账\n188纯绿开放朋友圈\n没有其他福利不用问\n单纯爱好喜欢这种感觉\n私聊有上限，不过我蛮爱回私信的，偶尔都会回       不要说讨厌的话",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 46,
+                "tag": "ᖰ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyibao_666",
+                "end": 36,
+                "expanded_url": "https://ngl.link/xiaoyibao_666",
+                "start": 13,
+                "url": "https://t.co/E1qtGSeiBy"
+              }
+            ]
+          }
+        },
+        "id": "1879353023451062272",
+        "name": "小弈宝",
+        "pinned_tweet_id": "1896606977389957166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914207325700915200/LmntAEac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 5,
+          "like_count": 137,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 131
+        },
+        "username": "xiaoyibao_666",
+        "verified": false
+      }
+    ]
+  }
+}

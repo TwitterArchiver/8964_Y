@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1938962075205935149",
+    "created_at": "2025-07-11T20:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T21:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943769233013583977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1810483042882084864",
+          "start": 0,
+          "username": "yang6575"
+        },
+        {
+          "end": 21,
+          "id": "1657679843205730304",
+          "start": 10,
+          "username": "yeye828282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943769233013583977",
+    "in_reply_to_user_id": "1810483042882084864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940482931639963761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yang6575 @yeye828282 跟你妈一个价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1938962075205935149",
+        "created_at": "2025-07-11T20:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T21:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943769233013583977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1810483042882084864",
+              "start": 0,
+              "username": "yang6575"
+            },
+            {
+              "end": 21,
+              "id": "1657679843205730304",
+              "start": 10,
+              "username": "yeye828282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943769233013583977",
+        "in_reply_to_user_id": "1810483042882084864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940482931639963761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang6575 @yeye828282 跟你妈一个价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810483042882084864",
+        "conversation_id": "1938962075205935149",
+        "created_at": "2025-07-02T18:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T19:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940482931639963761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657679843205730304",
+              "start": 0,
+              "username": "yeye828282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940482931639963761",
+        "in_reply_to_user_id": "1657679843205730304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940423103223628126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeye828282 多少钱能操你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5510,
+          "following_count": 942,
+          "like_count": 14641,
+          "listed_count": 11,
+          "media_count": 765,
+          "tweet_count": 11558
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T01:16:46.000Z",
+        "description": "",
+        "id": "1810483042882084864",
+        "name": "刘洋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810483321350283264/HSYQoK6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "yang6575",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T09:30:58.000Z",
+        "description": "=夜夜 @8964_Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "8964_Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yorusama82",
+                "end": 23,
+                "expanded_url": "https://t.me/yorusama82",
+                "start": 0,
+                "url": "https://t.co/jc9poYWLlR"
+              }
+            ]
+          }
+        },
+        "id": "1657679843205730304",
+        "location": "我想去死啊",
+        "name": "КроКровожадный т",
+        "pinned_tweet_id": "1936142039026221432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930285563711762438/JV1uF0he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 460,
+          "like_count": 2838,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/jc9poYWLlR",
+        "username": "yeye828282",
+        "verified": false
+      }
+    ]
+  }
+}

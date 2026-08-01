@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895339275673313282"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895339282874892545",
+    "created_at": "2025-02-28T05:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T06:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895339282874892545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KtWbFboKB9",
+          "end": 23,
+          "expanded_url": "https://x.com/8964_Y/status/1895339282874892545/photo/1",
+          "media_key": "3_1895339275673313282",
+          "start": 0,
+          "url": "https://t.co/KtWbFboKB9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895339282874892545",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/KtWbFboKB9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_1895339275673313282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk2ZB39aoAI4jBe.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895339275673313282"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895339282874892545",
+        "created_at": "2025-02-28T05:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T06:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895339282874892545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtWbFboKB9",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/1895339282874892545/photo/1",
+              "media_key": "3_1895339275673313282",
+              "start": 0,
+              "url": "https://t.co/KtWbFboKB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895339282874892545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KtWbFboKB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891578246174736386/Fncra9Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 872,
+          "like_count": 9387,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 7318
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

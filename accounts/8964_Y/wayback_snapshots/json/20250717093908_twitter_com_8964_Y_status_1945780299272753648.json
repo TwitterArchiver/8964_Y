@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1945780299272753648",
+    "created_at": "2025-07-17T09:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945780299272753648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1251488164822216704",
+          "start": 3,
+          "username": "RikkaUesaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945780299272753648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945779806424961167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RikkaUesaka: 置顶🔝1.0\n这里是kk清水推\n我是冰恋嘿嘿\n08年小女孩  高中生 休学中 \n刚刚回归 之前因为各种原因退推了 想要各位多和我互动 想交朋友 我很好说话\n如果想和我互关互转请私信(´-ω-`)\n🚪88/188/520 无区别\n接伤口定制烟烫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945780299272753648].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945780299272753648",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945780299272753648"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945779791719706624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDMaVCWMAA3Ljv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945779791694540800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDMaU8WMAAfliL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945779791719706624",
+            "3_1945779791694540800"
+          ]
+        },
+        "author_id": "1251488164822216704",
+        "conversation_id": "1945779806424961167",
+        "created_at": "2025-07-17T09:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945779806424961167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqTPhIP1Oq",
+              "end": 157,
+              "expanded_url": "https://x.com/RikkaUesaka/status/1945779806424961167/photo/1",
+              "media_key": "3_1945779791719706624",
+              "start": 134,
+              "url": "https://t.co/WqTPhIP1Oq"
+            },
+            {
+              "display_url": "pic.x.com/WqTPhIP1Oq",
+              "end": 157,
+              "expanded_url": "https://x.com/RikkaUesaka/status/1945779806424961167/photo/1",
+              "media_key": "3_1945779791694540800",
+              "start": 134,
+              "url": "https://t.co/WqTPhIP1Oq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945779806424961167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝1.0\n这里是kk清水推\n我是冰恋嘿嘿\n08年小女孩  高中生 休学中 \n刚刚回归 之前因为各种原因退推了 想要各位多和我互动 想交朋友 我很好说话\n如果想和我互关互转请私信(´-ω-`)\n🚪88/188/520 无区别\n接伤口定制烟烫  不接线下  \n求帮转 https://t.co/WqTPhIP1Oq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5715,
+          "following_count": 947,
+          "like_count": 15028,
+          "listed_count": 12,
+          "media_count": 768,
+          "tweet_count": 11678
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-18T12:30:14.000Z",
+        "description": "对人类不感兴趣",
+        "id": "1251488164822216704",
+        "location": "🚪88",
+        "name": "k",
+        "pinned_tweet_id": "1945779806424961167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945412152006729728/C83BN9qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4208,
+          "following_count": 330,
+          "like_count": 643,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "username": "RikkaUesaka",
+        "verified": true
+      }
+    ]
+  }
+}

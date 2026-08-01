@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1897733121082376375",
+    "created_at": "2025-03-06T19:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T20:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897733121082376375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ume_kuitee/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ume_kuitee/status/1897468121499496777",
+          "start": 3,
+          "url": "https://t.co/N3owcjwzzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897733121082376375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897468121499496777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸妈 https://t.co/N3owcjwzzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1897468113345765378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlUpMiSa4AIaJNt.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1897733121082376375",
+        "created_at": "2025-03-06T19:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T20:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897733121082376375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ume_kuitee/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ume_kuitee/status/1897468121499496777",
+              "start": 3,
+              "url": "https://t.co/N3owcjwzzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897733121082376375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897468121499496777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸妈 https://t.co/N3owcjwzzl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897468113345765378"
+          ]
+        },
+        "author_id": "1883262007199342592",
+        "conversation_id": "1897468121499496777",
+        "created_at": "2025-03-06T02:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T03:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897468121499496777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGB2IyE9vS",
+              "end": 28,
+              "expanded_url": "https://x.com/ume_kuitee/status/1897468121499496777/photo/1",
+              "media_key": "3_1897468113345765378",
+              "start": 5,
+              "url": "https://t.co/JGB2IyE9vS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897468121499496777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 36531,
+          "like_count": 3735,
+          "quote_count": 21,
+          "reply_count": 2,
+          "retweet_count": 349
+        },
+        "reply_settings": "everyone",
+        "text": "良すぎる https://t.co/JGB2IyE9vS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 此乃暗夜魔女：@00Mio007｜本体是涡虫｜dandadan全员推｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4813,
+          "following_count": 899,
+          "like_count": 9996,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 7760
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T21:14:51.000Z",
+        "description": "うめぼち(우메보시)/成人済学生/👓🍑/ツイ廃/イラスト/コスプレ/通知荒らしてすみません/ヘッダー@daldidansul💖💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "daldidansul"
+              }
+            ]
+          }
+        },
+        "id": "1883262007199342592",
+        "name": "うめぼち",
+        "pinned_tweet_id": "1893489591711342666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890756589218574336/VmOczgAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 71,
+          "like_count": 1095,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 580
+        },
+        "username": "ume_kuitee",
+        "verified": false
+      }
+    ]
+  }
+}

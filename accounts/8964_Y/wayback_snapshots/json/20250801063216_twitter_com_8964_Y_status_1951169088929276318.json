@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1940225690999091200"
+      ],
+      "media_source_tweet_id": [
+        "1940225775489458432"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1951169088929276318",
+    "created_at": "2025-08-01T06:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T07:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951169088929276318"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "America",
+          "probability": 0.9313,
+          "start": 50,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1771176588505182208",
+          "start": 3,
+          "username": "jaslyn994071"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h64xdNYmsF",
+          "end": 81,
+          "expanded_url": "https://x.com/jaslyn994071/status/1940225775489458432/video/1",
+          "media_key": "13_1940225690999091200",
+          "start": 58,
+          "url": "https://t.co/h64xdNYmsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951169088929276318",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940225775489458432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaslyn994071: This is your sign to watch team America https://t.co/h64xdNYmsF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102400,
+        "height": 720,
+        "media_key": "13_1940225690999091200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940225690999091200/img/1dexzIFvtBK8QXdr.jpg",
+        "public_metrics": {
+          "view_count": 82
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940225690999091200/vid/avc1/320x320/7IoEzARzSf6SDHhH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940225690999091200/vid/avc1/540x540/ScxbWOJVnYDK-rkt.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940225690999091200/vid/avc1/720x720/mzCCHSCN5esle7LM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940225690999091200/pl/WuqZIcP2roNjyvIQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940225690999091200"
+          ],
+          "media_source_tweet_id": [
+            "1940225775489458432"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1951169088929276318",
+        "created_at": "2025-08-01T06:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951169088929276318"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "America",
+              "probability": 0.9313,
+              "start": 50,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771176588505182208",
+              "start": 3,
+              "username": "jaslyn994071"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h64xdNYmsF",
+              "end": 81,
+              "expanded_url": "https://x.com/jaslyn994071/status/1940225775489458432/video/1",
+              "media_key": "13_1940225690999091200",
+              "start": 58,
+              "url": "https://t.co/h64xdNYmsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951169088929276318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940225775489458432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaslyn994071: This is your sign to watch team America https://t.co/h64xdNYmsF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940225690999091200"
+          ]
+        },
+        "author_id": "1771176588505182208",
+        "conversation_id": "1940225775489458432",
+        "created_at": "2025-07-02T01:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940225775489458432"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "America",
+              "probability": 0.8937,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h64xdNYmsF",
+              "end": 63,
+              "expanded_url": "https://x.com/jaslyn994071/status/1940225775489458432/video/1",
+              "media_key": "13_1940225690999091200",
+              "start": 40,
+              "url": "https://t.co/h64xdNYmsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940225775489458432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 286,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "This is your sign to watch team America https://t.co/h64xdNYmsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5779,
+          "following_count": 873,
+          "like_count": 15338,
+          "listed_count": 13,
+          "media_count": 789,
+          "tweet_count": 11869
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T14:06:39.000Z",
+        "description": "",
+        "id": "1771176588505182208",
+        "name": "Jaslyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940916716927651840/Jjxae2o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 495,
+          "like_count": 15030,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 14833
+        },
+        "username": "jaslyn994071",
+        "verified": false
+      }
+    ]
+  }
+}

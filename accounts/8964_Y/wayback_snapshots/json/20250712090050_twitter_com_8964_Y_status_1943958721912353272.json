@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1943712037659349200",
+    "created_at": "2025-07-12T09:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T10:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943958721912353272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1826321786834944000",
+          "start": 0,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943958721912353272",
+    "in_reply_to_user_id": "1826321786834944000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943712037659349200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds520 为什么我会想到藏尸案"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_1943712026259292160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlzyibXAAA99wd.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1943712037659349200",
+        "created_at": "2025-07-12T09:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T10:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943958721912353272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826321786834944000",
+              "start": 0,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943958721912353272",
+        "in_reply_to_user_id": "1826321786834944000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943712037659349200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds520 为什么我会想到藏尸案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943712026259292160"
+          ]
+        },
+        "author_id": "1826321786834944000",
+        "conversation_id": "1943712037659349200",
+        "created_at": "2025-07-11T16:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943712037659349200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6xWq0baHp",
+              "end": 44,
+              "expanded_url": "https://x.com/hgds520/status/1943712037659349200/photo/1",
+              "media_key": "3_1943712026259292160",
+              "start": 21,
+              "url": "https://t.co/G6xWq0baHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943712037659349200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13396,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "刚把出租屋贴上贴纸 有没有人要来找我玩啊 https://t.co/G6xWq0baHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 943,
+          "like_count": 14671,
+          "listed_count": 11,
+          "media_count": 765,
+          "tweet_count": 11580
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "你读这句话的时候这几秒就没了 因为我是时间掠夺者 专门发无聊的东西来浪费你的时间",
+        "id": "1826321786834944000",
+        "location": "江浙沪",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1930606456522633247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 310,
+          "like_count": 6149,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 347
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

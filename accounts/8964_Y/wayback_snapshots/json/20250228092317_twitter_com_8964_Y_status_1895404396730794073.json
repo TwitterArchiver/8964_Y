@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895404396730794073",
+    "created_at": "2025-02-28T09:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T10:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895404396730794073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1895404396730794073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好，我是來自中國的哈基洇的朋友們大家好！我是喜歡中國的哈基洇。我很高興，因為這個軟件我可以和大家聊天。我喜歡中國文化，所以自己學習了中文，中文真的真的非常困難對我。但是我已經不需要翻譯器，希望大家多多聊天和我～很高興認識你們~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895404396730794073",
+        "created_at": "2025-02-28T09:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895404396730794073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895404396730794073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是來自中國的哈基洇的朋友們大家好！我是喜歡中國的哈基洇。我很高興，因為這個軟件我可以和大家聊天。我喜歡中國文化，所以自己學習了中文，中文真的真的非常困難對我。但是我已經不需要翻譯器，希望大家多多聊天和我～很高興認識你們~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891578246174736386/Fncra9Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 871,
+          "like_count": 9396,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 7326
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

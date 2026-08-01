@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914327532541022208",
+        "3_1914327532520054784"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1914327541529350350",
+    "created_at": "2025-04-21T14:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T15:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914327541529350350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6VkFe8Kfn",
+          "end": 75,
+          "expanded_url": "https://x.com/8964_Y/status/1914327541529350350/photo/1",
+          "media_key": "3_1914327532541022208",
+          "start": 52,
+          "url": "https://t.co/a6VkFe8Kfn"
+        },
+        {
+          "display_url": "pic.x.com/a6VkFe8Kfn",
+          "end": 75,
+          "expanded_url": "https://x.com/8964_Y/status/1914327541529350350/photo/1",
+          "media_key": "3_1914327532520054784",
+          "start": 52,
+          "url": "https://t.co/a6VkFe8Kfn"
+        },
+        {
+          "display_url": "x.com/kanojo_majo/st…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/kanojo_majo/status/1865178541874384974",
+          "start": 76,
+          "url": "https://t.co/0IfW32voYH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914327541529350350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865178541874384974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个人是个皮下男，被我微信删掉后来私信骚扰我，以为自己是病娇太宰治，别被骗过门槛了，它是拿人家图片发的 https://t.co/a6VkFe8Kfn https://t.co/0IfW32voYH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1914327532541022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEOv5DbkAAdR4s.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1914327532520054784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEOv4-boAAgdTE.jpg",
+        "width": 828
+      },
+      {
+        "height": 1610,
+        "media_key": "3_1865178538493784064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeJx_6WasAAvZkZ.jpg",
+        "width": 1171
+      },
+      {
+        "height": 1358,
+        "media_key": "3_1865178538640576514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeJx_65akAIyUpZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914327532541022208",
+            "3_1914327532520054784"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1914327541529350350",
+        "created_at": "2025-04-21T14:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914327541529350350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6VkFe8Kfn",
+              "end": 75,
+              "expanded_url": "https://x.com/8964_Y/status/1914327541529350350/photo/1",
+              "media_key": "3_1914327532541022208",
+              "start": 52,
+              "url": "https://t.co/a6VkFe8Kfn"
+            },
+            {
+              "display_url": "pic.x.com/a6VkFe8Kfn",
+              "end": 75,
+              "expanded_url": "https://x.com/8964_Y/status/1914327541529350350/photo/1",
+              "media_key": "3_1914327532520054784",
+              "start": 52,
+              "url": "https://t.co/a6VkFe8Kfn"
+            },
+            {
+              "display_url": "x.com/kanojo_majo/st…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/kanojo_majo/status/1865178541874384974",
+              "start": 76,
+              "url": "https://t.co/0IfW32voYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914327541529350350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865178541874384974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个人是个皮下男，被我微信删掉后来私信骚扰我，以为自己是病娇太宰治，别被骗过门槛了，它是拿人家图片发的 https://t.co/a6VkFe8Kfn https://t.co/0IfW32voYH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865178538493784064",
+            "3_1865178538640576514"
+          ]
+        },
+        "author_id": "1800065343005868033",
+        "conversation_id": "1865178541874384974",
+        "created_at": "2024-12-06T23:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T00:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865178541874384974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rd0m9wZcWJ",
+              "end": 127,
+              "expanded_url": "https://x.com/Kanojo_majo/status/1865178541874384974/photo/1",
+              "media_key": "3_1865178538493784064",
+              "start": 104,
+              "url": "https://t.co/rd0m9wZcWJ"
+            },
+            {
+              "display_url": "pic.x.com/rd0m9wZcWJ",
+              "end": 127,
+              "expanded_url": "https://x.com/Kanojo_majo/status/1865178541874384974/photo/1",
+              "media_key": "3_1865178538640576514",
+              "start": 104,
+              "url": "https://t.co/rd0m9wZcWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865178541874384974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3476,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ID魚貓狐\n天下最萌，无情无欲！🥀\n喜欢cos穿孔，希望大家都可以多多支持Nya！🐱\n08地雷，紫餐od💊\n🚪98，朋友○开放128！\n已成为天使，温良易相处！🍞\n朋友圈会发很多地雷，一定要多多资助Nya！ https://t.co/rd0m9wZcWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 984,
+          "like_count": 12328,
+          "listed_count": 8,
+          "media_count": 629,
+          "tweet_count": 9426
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T07:20:16.000Z",
+        "description": "推文日常碎碎念/fo是因为喜欢你/私信只回支付宝口令",
+        "id": "1800065343005868033",
+        "name": "超绝最可爱天使酱",
+        "pinned_tweet_id": "1865178541874384974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865174611660541955/FHz0CTkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 25,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 52
+        },
+        "username": "Kanojo_majo",
+        "verified": false
+      }
+    ]
+  }
+}

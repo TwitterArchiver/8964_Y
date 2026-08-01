@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1906890742578172017",
+    "created_at": "2025-04-01T05:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T06:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906947749863727338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682432496171114496",
+          "start": 0,
+          "username": "bitchbaby8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906947749863727338",
+    "in_reply_to_user_id": "1682432496171114496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906890742578172017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchbaby8964 生日快乐～～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906890733283610624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnajBM7akAAyZ6C.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1906890742578172017",
+        "created_at": "2025-04-01T05:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T06:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906947749863727338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682432496171114496",
+              "start": 0,
+              "username": "bitchbaby8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906947749863727338",
+        "in_reply_to_user_id": "1682432496171114496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906890742578172017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchbaby8964 生日快乐～～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906890733283610624"
+          ]
+        },
+        "author_id": "1682432496171114496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1906890742578172017",
+        "created_at": "2025-04-01T02:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906890742578172017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x21T1N52zD",
+              "end": 33,
+              "expanded_url": "https://x.com/bitchbaby8964/status/1906890742578172017/photo/1",
+              "media_key": "3_1906890733283610624",
+              "start": 10,
+              "url": "https://t.co/x21T1N52zD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906890742578172017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯人活到18岁了。 https://t.co/x21T1N52zD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜免费为小女孩提供心理援助",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906947629059342336/l7blremy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 961,
+          "like_count": 11568,
+          "listed_count": 7,
+          "media_count": 593,
+          "tweet_count": 8758
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "🚪88本人可投喂❤️🫰🏻｜恋爱中",
+        "id": "1682432496171114496",
+        "name": "零糖美式",
+        "pinned_tweet_id": "1898324088445370851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905102083604516864/xysmAMZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 517,
+          "like_count": 29306,
+          "listed_count": 11,
+          "media_count": 1196,
+          "tweet_count": 11428
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1950928897144422655",
+    "created_at": "2025-07-31T15:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T16:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950934585904136554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1849371733259960320",
+          "start": 0,
+          "username": "a_mo_do_sunda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950934585904136554",
+    "in_reply_to_user_id": "1849371733259960320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950928897144422655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_mo_do_sunda 做的是什么料理？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1950928897144422655].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1950928897144422655",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1950928897144422655"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1950928897144422655",
+        "created_at": "2025-07-31T15:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950934585904136554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1849371733259960320",
+              "start": 0,
+              "username": "a_mo_do_sunda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950934585904136554",
+        "in_reply_to_user_id": "1849371733259960320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950928897144422655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_mo_do_sunda 做的是什么料理？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5778,
+          "following_count": 872,
+          "like_count": 15314,
+          "listed_count": 13,
+          "media_count": 789,
+          "tweet_count": 11857
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T08:46:06.000Z",
+        "description": "糞ゲロのサブです",
+        "id": "1849371733259960320",
+        "name": "あーもうはむ助",
+        "pinned_tweet_id": "1950829279811662232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886339742197067776/fX6zWwyo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 141,
+          "like_count": 10260,
+          "listed_count": 1,
+          "media_count": 816,
+          "tweet_count": 6577
+        },
+        "username": "a_mo_do_sunda",
+        "verified": false
+      }
+    ]
+  }
+}

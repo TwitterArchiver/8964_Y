@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1951300779144355973",
+    "created_at": "2025-08-02T16:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T17:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951675751033667666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1507032890168823814",
+          "start": 0,
+          "username": "WeirdSalitoo"
+        },
+        {
+          "end": 28,
+          "id": "1892155206743498752",
+          "start": 14,
+          "username": "FluffyAntenna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951675751033667666",
+    "in_reply_to_user_id": "1507032890168823814",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951300779144355973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeirdSalitoo @FluffyAntenna ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1951300779144355973",
+        "created_at": "2025-08-02T16:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T17:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951675751033667666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1507032890168823814",
+              "start": 0,
+              "username": "WeirdSalitoo"
+            },
+            {
+              "end": 28,
+              "id": "1892155206743498752",
+              "start": 14,
+              "username": "FluffyAntenna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951675751033667666",
+        "in_reply_to_user_id": "1507032890168823814",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951300779144355973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeirdSalitoo @FluffyAntenna ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507032890168823814",
+        "conversation_id": "1951300779144355973",
+        "created_at": "2025-08-01T15:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951300779144355973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 104,
+              "id": "1892155206743498752",
+              "start": 90,
+              "username": "FluffyAntenna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951300779144355973",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 449,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "I Made a Csm roleplay Account about My Csm Oc, please support me there ^_^ The account is @FluffyAntenna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 876,
+          "like_count": 15353,
+          "listed_count": 13,
+          "media_count": 791,
+          "tweet_count": 11887
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T16:33:47.000Z",
+        "description": "────୨ৎ────　 SALITO  | INFP | \n\nCHAINSAW MAN FANGIRL⋆ ·  *\n (˶˃ ᵕ ˂˶)\n　\n⁺　I like literature, music, art and horror movies.　 ₊  ◞　\n　˙　　˳　　⁺",
+        "id": "1507032890168823814",
+        "location": "⋆. 𐙚 ˚ She/her  𝜗𝜚 ࣪˖ ִ𐙚 ",
+        "name": "SALITOO ¡★!",
+        "pinned_tweet_id": "1933683824560320904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924130544071081985/T7d017Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 747,
+          "like_count": 12986,
+          "listed_count": 5,
+          "media_count": 1320,
+          "tweet_count": 6912
+        },
+        "username": "WeirdSalitoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T10:12:20.000Z",
+        "description": "˚₊ˑ  Public safety Devil hunter | Infp | Moth fiend | 17 | \n \n    ————————— \nI'm still a rookie so please be patient with me. (⁠╥⁠﹏⁠╥⁠)\n₊ \n  ◞　　˳　　⁺ \n(CSM OC)",
+        "id": "1892155206743498752",
+        "name": "— ⊹ EIKO (MOTH FIEND)",
+        "pinned_tweet_id": "1951299636594893089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951417206031753216/96Sdpgq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 64,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "FluffyAntenna",
+        "verified": false
+      }
+    ]
+  }
+}

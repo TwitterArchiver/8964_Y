@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1904605145419423918",
+    "created_at": "2025-03-25T18:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T19:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904607312364658721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1745786925833986048",
+          "start": 0,
+          "username": "722ysy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904607312364658721",
+    "in_reply_to_user_id": "1745786925833986048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904606650159554641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "@722ysy 是谁啊好难猜啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1904605145419423918",
+        "created_at": "2025-03-25T18:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T19:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904607312364658721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1745786925833986048",
+              "start": 0,
+              "username": "722ysy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904607312364658721",
+        "in_reply_to_user_id": "1745786925833986048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904606650159554641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@722ysy 是谁啊好难猜啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745786925833986048",
+        "conversation_id": "1904605145419423918",
+        "created_at": "2025-03-25T18:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T19:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904606650159554641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904606650159554641",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904605145419423918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@8964_Y 这是什么神人。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900745047026638848/lYUe4VUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5280,
+          "following_count": 948,
+          "like_count": 11182,
+          "listed_count": 8,
+          "media_count": 572,
+          "tweet_count": 8484
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T12:37:00.000Z",
+        "description": "",
+        "id": "1745786925833986048",
+        "name": "降压药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876715384641908736/N6po_DQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 36,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 403
+        },
+        "username": "722ysy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895495446757601428",
+    "created_at": "2025-02-28T15:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T16:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895495888174514679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886734034228973568",
+          "start": 0,
+          "username": "LuoWo37080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895495888174514679",
+    "in_reply_to_user_id": "1886734034228973568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895495446757601428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuoWo37080 她们都是精神小妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895495446757601428",
+        "created_at": "2025-02-28T15:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895495888174514679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886734034228973568",
+              "start": 0,
+              "username": "LuoWo37080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895495888174514679",
+        "in_reply_to_user_id": "1886734034228973568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895495446757601428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoWo37080 她们都是精神小妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886734034228973568",
+        "conversation_id": "1895495446757601428",
+        "created_at": "2025-02-28T15:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T16:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895495446757601428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895495446757601428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本人好可爱啊啊啊啊 中国地雷妹就滚吧身上有脸上钉子的，嘴巴上有钉子的舌头上有钉子的，鼻子上有钉子的，有纹身的，抽烟喝酒的，染发奇奇怪怪的有以上特征的中国地雷妹全都归类成烂货，多瞅一眼算我输🤣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891578246174736386/Fncra9Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4746,
+          "following_count": 873,
+          "like_count": 9436,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 7346
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T11:10:31.000Z",
+        "description": "其实我的命就值15元因为3把4元的刻刀，2把1元的小刀，1把1元的刮眉刀",
+        "id": "1886734034228973568",
+        "location": "朝鲜",
+        "name": "眼睛和我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887816429455720448/Q_Ft2KdL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 398
+        },
+        "username": "LuoWo37080",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938265279068504064"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1938262649802002877",
+    "created_at": "2025-06-26T15:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938265285594911221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805919469807763456",
+          "start": 0,
+          "username": "Kuso_Gero_Yaro_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rynE5qNYhK",
+          "end": 44,
+          "expanded_url": "https://x.com/8964_Y/status/1938265285594911221/photo/1",
+          "media_key": "3_1938265279068504064",
+          "start": 21,
+          "url": "https://t.co/rynE5qNYhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938265285594911221",
+    "in_reply_to_user_id": "1805919469807763456",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938262649802002877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuso_Gero_Yaro_ OK～ https://t.co/rynE5qNYhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938265279068504064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYaAH9aAAAxtbp.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938262646735945728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYXm5wawAA9iYl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938265279068504064"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1938262649802002877",
+        "created_at": "2025-06-26T15:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938265285594911221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805919469807763456",
+              "start": 0,
+              "username": "Kuso_Gero_Yaro_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rynE5qNYhK",
+              "end": 44,
+              "expanded_url": "https://x.com/8964_Y/status/1938265285594911221/photo/1",
+              "media_key": "3_1938265279068504064",
+              "start": 21,
+              "url": "https://t.co/rynE5qNYhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938265285594911221",
+        "in_reply_to_user_id": "1805919469807763456",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938262649802002877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuso_Gero_Yaro_ OK～ https://t.co/rynE5qNYhK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938262646735945728"
+          ]
+        },
+        "author_id": "1805919469807763456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1938262649802002877",
+        "created_at": "2025-06-26T15:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938262649802002877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmhQbLiiR1",
+              "end": 59,
+              "expanded_url": "https://x.com/Kuso_Gero_Yaro_/status/1938262649802002877/photo/1",
+              "media_key": "3_1938262646735945728",
+              "start": 36,
+              "url": "https://t.co/TmhQbLiiR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938262649802002877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200円で良いのでお菓子買うお金ください…\nくれた方にお礼の絵描きます https://t.co/TmhQbLiiR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5505,
+          "following_count": 942,
+          "like_count": 14252,
+          "listed_count": 10,
+          "media_count": 746,
+          "tweet_count": 11192
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T11:02:33.000Z",
+        "description": "グロ絵、えろ絵、リスカ、いろいろ￤サブ（Sub Account）→https://t.co/24V2ylcGnK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/a_mo_do_sunda?…",
+                "end": 56,
+                "expanded_url": "https://x.com/a_mo_do_sunda?t=aoIHVMZBAq6zISW-y3s6yg&s=09",
+                "start": 33,
+                "url": "https://t.co/24V2ylcGnK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kuso_Gero_Yar…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Kuso_Gero_Yaro_",
+                "start": 0,
+                "url": "https://t.co/xpm1O1xtl7"
+              }
+            ]
+          }
+        },
+        "id": "1805919469807763456",
+        "location": "お母さんのペット",
+        "name": "糞ゲロ野郎でさ",
+        "pinned_tweet_id": "1927677212502921301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863521933645750272/W4gZYLTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 74,
+          "like_count": 3648,
+          "listed_count": 9,
+          "media_count": 272,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/xpm1O1xtl7",
+        "username": "Kuso_Gero_Yaro_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1936712798308114780",
+    "created_at": "2025-06-22T16:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T17:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936819606506910163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936819606506910163",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936819488718225680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku (⸝⸝› з ‹⸝⸝)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1936712798308114780",
+        "created_at": "2025-06-22T16:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936819606506910163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936819606506910163",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936819488718225680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku (⸝⸝› з ‹⸝⸝)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "1936712798308114780",
+        "created_at": "2025-06-22T16:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936819488718225680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936819488718225680",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936815277167239177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@8964_Y 对！这个书包超级可爱☺️下次你也可以买来试试看！到时候上身的话拍给你看嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498,
+          "following_count": 934,
+          "like_count": 14020,
+          "listed_count": 8,
+          "media_count": 734,
+          "tweet_count": 11020
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "HELLO とSAKURA4444444444444444444444444444444444444444444X 🚪250/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sakuracute4",
+                "end": 23,
+                "expanded_url": "https://t.me/sakuracute4",
+                "start": 0,
+                "url": "https://t.co/rvlE7EFWKw"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "location": "Daily sharing on telegram↙️",
+        "name": "アヤナྀིྀི 𓉸ྀི",
+        "pinned_tweet_id": "1919240240566325614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936714604026994688/EuVrzZ7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19163,
+          "following_count": 396,
+          "like_count": 16564,
+          "listed_count": 56,
+          "media_count": 671,
+          "tweet_count": 6116
+        },
+        "url": "https://t.co/rvlE7EFWKw",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

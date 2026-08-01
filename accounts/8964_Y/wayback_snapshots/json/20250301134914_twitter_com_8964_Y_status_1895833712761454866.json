@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895833123025535251",
+    "created_at": "2025-03-01T13:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895833712761454866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738949757047803904",
+          "start": 0,
+          "username": "L_s0729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895833712761454866",
+    "in_reply_to_user_id": "1738949757047803904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895833123025535251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_s0729 咋有人美成这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1895833075583479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9aIz-W8AAUqY7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895833123025535251",
+        "created_at": "2025-03-01T13:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895833712761454866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738949757047803904",
+              "start": 0,
+              "username": "L_s0729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895833712761454866",
+        "in_reply_to_user_id": "1738949757047803904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895833123025535251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_s0729 咋有人美成这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895833075583479808"
+          ]
+        },
+        "author_id": "1738949757047803904",
+        "conversation_id": "1895833123025535251",
+        "created_at": "2025-03-01T13:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895833123025535251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNH7qisuqb",
+              "end": 31,
+              "expanded_url": "https://x.com/L_s0729/status/1895833123025535251/photo/1",
+              "media_key": "3_1895833075583479808",
+              "start": 8,
+              "url": "https://t.co/bNH7qisuqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895833123025535251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱上紫光灯了 https://t.co/bNH7qisuqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 882,
+          "like_count": 9588,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 7455
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T15:49:37.000Z",
+        "description": "关于我的一切问题都不可以找我和我的爱人@OnLy_bIues",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "OnLy_bIues"
+              }
+            ]
+          }
+        },
+        "id": "1738949757047803904",
+        "name": "不温良不有爱",
+        "pinned_tweet_id": "1881114646721224900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876611759835856896/R-1gB0Ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4750,
+          "following_count": 171,
+          "like_count": 421,
+          "listed_count": 12,
+          "media_count": 88,
+          "tweet_count": 955
+        },
+        "username": "L_s0729",
+        "verified": false
+      }
+    ]
+  }
+}

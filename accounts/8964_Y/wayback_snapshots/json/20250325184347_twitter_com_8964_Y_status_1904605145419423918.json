@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904605135524999168",
+        "3_1904605135529271296",
+        "3_1904605135525068801"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1904605145419423918",
+    "created_at": "2025-03-25T18:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T19:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904605145419423918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HTvjp7opGR",
+          "end": 65,
+          "expanded_url": "https://x.com/8964_Y/status/1904605145419423918/photo/1",
+          "media_key": "3_1904605135524999168",
+          "start": 42,
+          "url": "https://t.co/HTvjp7opGR"
+        },
+        {
+          "display_url": "pic.x.com/HTvjp7opGR",
+          "end": 65,
+          "expanded_url": "https://x.com/8964_Y/status/1904605145419423918/photo/1",
+          "media_key": "3_1904605135529271296",
+          "start": 42,
+          "url": "https://t.co/HTvjp7opGR"
+        },
+        {
+          "display_url": "pic.x.com/HTvjp7opGR",
+          "end": 65,
+          "expanded_url": "https://x.com/8964_Y/status/1904605145419423918/photo/1",
+          "media_key": "3_1904605135525068801",
+          "start": 42,
+          "url": "https://t.co/HTvjp7opGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904605145419423918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "某个日本ip的人下次投我还是别投这个厕了吧，其实投了也没用因为大部分都是我认识的人 https://t.co/HTvjp7opGR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1904605135524999168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm6ER5xaMAAMzjK.jpg",
+        "width": 474
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1904605135529271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm6ER5ybYAAFQ12.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1904605135525068801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm6ER5xbQAEwaMu.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904605135524999168",
+            "3_1904605135529271296",
+            "3_1904605135525068801"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1904605145419423918",
+        "created_at": "2025-03-25T18:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T19:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904605145419423918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTvjp7opGR",
+              "end": 65,
+              "expanded_url": "https://x.com/8964_Y/status/1904605145419423918/photo/1",
+              "media_key": "3_1904605135524999168",
+              "start": 42,
+              "url": "https://t.co/HTvjp7opGR"
+            },
+            {
+              "display_url": "pic.x.com/HTvjp7opGR",
+              "end": 65,
+              "expanded_url": "https://x.com/8964_Y/status/1904605145419423918/photo/1",
+              "media_key": "3_1904605135529271296",
+              "start": 42,
+              "url": "https://t.co/HTvjp7opGR"
+            },
+            {
+              "display_url": "pic.x.com/HTvjp7opGR",
+              "end": 65,
+              "expanded_url": "https://x.com/8964_Y/status/1904605145419423918/photo/1",
+              "media_key": "3_1904605135525068801",
+              "start": 42,
+              "url": "https://t.co/HTvjp7opGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904605145419423918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某个日本ip的人下次投我还是别投这个厕了吧，其实投了也没用因为大部分都是我认识的人 https://t.co/HTvjp7opGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900745047026638848/lYUe4VUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5280,
+          "following_count": 948,
+          "like_count": 11181,
+          "listed_count": 8,
+          "media_count": 572,
+          "tweet_count": 8483
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

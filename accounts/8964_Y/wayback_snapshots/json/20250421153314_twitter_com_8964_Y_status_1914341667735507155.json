@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1914327541529350350",
+    "created_at": "2025-04-21T15:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T16:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914341667735507155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "300909132",
+          "start": 0,
+          "username": "Mr_Pr0b1em"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914341667735507155",
+    "in_reply_to_user_id": "300909132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914340928271323500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_Pr0b1em 这人太中二了像我的一位故人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1914340928271323500].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1914340928271323500",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1914340928271323500"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1914327541529350350",
+        "created_at": "2025-04-21T15:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914341667735507155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "300909132",
+              "start": 0,
+              "username": "Mr_Pr0b1em"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914341667735507155",
+        "in_reply_to_user_id": "300909132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914340928271323500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_Pr0b1em 这人太中二了像我的一位故人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1911132206539653299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 984,
+          "like_count": 12345,
+          "listed_count": 8,
+          "media_count": 631,
+          "tweet_count": 9446
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-18T15:16:31.000Z",
+        "description": "冰淇淋摧毁停车场！/ 「万」千难题必将迎刃而解，诸「事」百般自然水到渠成—我叫万事。/这是二代目复活号，指路@VanesGundam，如不嫌弃可以接着叫我万事/键政禁止/粉红没妈极端支黑也没有/互fo大欢迎（查成分是键政号的一律不回）/淡推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "VanesGundam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baike.baidu.com/item/%E5%82%BB…",
+                "end": 23,
+                "expanded_url": "https://baike.baidu.com/item/%E5%82%BB%E9%80%BC/977754?fr=ge_ala",
+                "start": 0,
+                "url": "https://t.co/Vxqw0hKuGr"
+              }
+            ]
+          }
+        },
+        "id": "300909132",
+        "location": "Heaven",
+        "name": "帕柏輪先生",
+        "pinned_tweet_id": "1912876372961444115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858835576495263744/pJILTdu__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 183,
+          "like_count": 4752,
+          "listed_count": 1,
+          "media_count": 611,
+          "tweet_count": 4503
+        },
+        "url": "https://t.co/Vxqw0hKuGr",
+        "username": "Mr_Pr0b1em",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1942631347731980583",
+    "created_at": "2025-07-08T17:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T18:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942631347731980583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nek1gg/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nek1gg/status/1942604811163345051",
+          "start": 6,
+          "url": "https://t.co/5MMXUdyk68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942631347731980583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942604811163345051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的难受 https://t.co/5MMXUdyk68"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_1942604799595167744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWExdrWwAANklm.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1942631347731980583",
+        "created_at": "2025-07-08T17:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942631347731980583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nek1gg/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nek1gg/status/1942604811163345051",
+              "start": 6,
+              "url": "https://t.co/5MMXUdyk68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942631347731980583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942604811163345051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的难受 https://t.co/5MMXUdyk68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942604799595167744"
+          ]
+        },
+        "author_id": "1818315659673210880",
+        "conversation_id": "1942604811163345051",
+        "created_at": "2025-07-08T15:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942604811163345051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbgUBCoe0d",
+              "end": 32,
+              "expanded_url": "https://x.com/NeK1GG/status/1942604811163345051/photo/1",
+              "media_key": "3_1942604799595167744",
+              "start": 9,
+              "url": "https://t.co/lbgUBCoe0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942604811163345051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个笑的我肚子疼 https://t.co/lbgUBCoe0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5503,
+          "following_count": 941,
+          "like_count": 14587,
+          "listed_count": 10,
+          "media_count": 763,
+          "tweet_count": 11517
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "我渺于一粒细尘，却又长于永恒。\n「和平主义🕊️/实用主义🌱/人权&平等🤝/LGBT正当权益🏳️‍🌈/反建制🌹/🚫极端主义🚫」淡推鉴政减少中\n逃生舱：@Nek1BOOM 欢迎互fo😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "Nek1BOOM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neki.work",
+                "end": 23,
+                "expanded_url": "http://neki.work",
+                "start": 0,
+                "url": "https://t.co/n61PuIvjOU"
+              }
+            ]
+          }
+        },
+        "id": "1818315659673210880",
+        "location": "Dawntown NightCity, California",
+        "name": "Nek1🇳🇴🦌☕✨",
+        "pinned_tweet_id": "1937896890210898229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940612208703975424/xaikKDDr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1088,
+          "like_count": 24083,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 5367
+        },
+        "url": "https://t.co/n61PuIvjOU",
+        "username": "NeK1GG",
+        "verified": false
+      }
+    ]
+  }
+}

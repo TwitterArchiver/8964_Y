@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1936297323283505211",
+    "created_at": "2025-06-21T15:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T16:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936450528436945337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1556513580186730496",
+          "start": 0,
+          "username": "sy_hallelujah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936450528436945337",
+    "in_reply_to_user_id": "1556513580186730496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936446107124715888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sy_hallelujah 只有中国人很累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1936297323283505211",
+        "created_at": "2025-06-21T15:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936450528436945337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1556513580186730496",
+              "start": 0,
+              "username": "sy_hallelujah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936450528436945337",
+        "in_reply_to_user_id": "1556513580186730496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936446107124715888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sy_hallelujah 只有中国人很累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556513580186730496",
+        "conversation_id": "1936297323283505211",
+        "created_at": "2025-06-21T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936446107124715888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936446107124715888",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936297323283505211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 中文才叫人類"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5513,
+          "following_count": 934,
+          "like_count": 13964,
+          "listed_count": 8,
+          "media_count": 732,
+          "tweet_count": 10983
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T05:32:24.000Z",
+        "description": "反世俗。反普世。反傳統。反規矩。反道德。反正常。六反不良人格。",
+        "id": "1556513580186730496",
+        "name": "Holy Shame",
+        "pinned_tweet_id": "1832126260736332050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871067541038411776/dubKlQbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 106,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 474
+        },
+        "username": "sy_hallelujah",
+        "verified": false
+      }
+    ]
+  }
+}

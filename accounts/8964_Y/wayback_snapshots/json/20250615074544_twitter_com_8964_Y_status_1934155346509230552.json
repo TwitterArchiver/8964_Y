@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1934149769586520486",
+    "created_at": "2025-06-15T07:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T08:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934155346509230552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1769498954591567872",
+          "start": 0,
+          "username": "Touchtheangel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934155346509230552",
+    "in_reply_to_user_id": "1769498954591567872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934153255275442263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Touchtheangel_ 来吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934153255275442263].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934153255275442263",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934153255275442263"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1934149769586520486",
+        "created_at": "2025-06-15T07:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T08:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934155346509230552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769498954591567872",
+              "start": 0,
+              "username": "Touchtheangel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934155346509230552",
+        "in_reply_to_user_id": "1769498954591567872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934153255275442263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Touchtheangel_ 来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 938,
+          "like_count": 13697,
+          "listed_count": 8,
+          "media_count": 726,
+          "tweet_count": 10765
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T23:00:13.000Z",
+        "description": "不要和我说话。尤其是中推的不要关注我",
+        "id": "1769498954591567872",
+        "name": "🥀🥀🥀",
+        "pinned_tweet_id": "1904896775473029603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933064208540971015/7djmayqq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 175,
+          "like_count": 39382,
+          "listed_count": 2,
+          "media_count": 2340,
+          "tweet_count": 23637
+        },
+        "username": "Touchtheangel_",
+        "verified": false
+      }
+    ]
+  }
+}

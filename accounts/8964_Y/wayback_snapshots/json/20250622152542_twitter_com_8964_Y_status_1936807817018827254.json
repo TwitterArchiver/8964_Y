@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1936721404856250578",
+    "created_at": "2025-06-22T15:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T16:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936807817018827254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1838030304227028992",
+          "start": 0,
+          "username": "1967SavingUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936807817018827254",
+    "in_reply_to_user_id": "1838030304227028992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936788222593675533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1967SavingUs 当然是爱啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1936721404856250578",
+        "created_at": "2025-06-22T15:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936807817018827254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1838030304227028992",
+              "start": 0,
+              "username": "1967SavingUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936807817018827254",
+        "in_reply_to_user_id": "1838030304227028992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936788222593675533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1967SavingUs 当然是爱啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838030304227028992",
+        "conversation_id": "1936721404856250578",
+        "created_at": "2025-06-22T14:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936788222593675533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936788222593675533",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936721404856250578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 交友除了od还可以做什么呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5500,
+          "following_count": 935,
+          "like_count": 13997,
+          "listed_count": 8,
+          "media_count": 733,
+          "tweet_count": 11003
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T01:39:26.000Z",
+        "description": "我是玉，很高兴认识你哦。",
+        "id": "1838030304227028992",
+        "location": "玉的小屋",
+        "name": "澄玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928553363572142082/AMIjNu3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 279,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 624
+        },
+        "username": "1967SavingUs",
+        "verified": false
+      }
+    ]
+  }
+}

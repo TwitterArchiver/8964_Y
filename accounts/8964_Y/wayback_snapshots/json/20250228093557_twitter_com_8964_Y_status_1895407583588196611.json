@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895407583588196611",
+    "created_at": "2025-02-28T09:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T10:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895407583588196611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bateaudelavoir…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/bateaudelavoir/status/1895167270277783968",
+          "start": 25,
+          "url": "https://t.co/Kdjjq1sj0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895407583588196611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895167270277783968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最喜欢的吵架翻旧账环节，无聊，我要看到血流成河 https://t.co/Kdjjq1sj0G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895407583588196611",
+        "created_at": "2025-02-28T09:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895407583588196611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bateaudelavoir…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/bateaudelavoir/status/1895167270277783968",
+              "start": 25,
+              "url": "https://t.co/Kdjjq1sj0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895407583588196611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895167270277783968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最喜欢的吵架翻旧账环节，无聊，我要看到血流成河 https://t.co/Kdjjq1sj0G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790795487068700674",
+        "conversation_id": "1895167270277783968",
+        "created_at": "2025-02-27T17:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T18:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895167270277783968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895167270277783968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15606,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉推特中推的某个小圈又要打起来了\n好消息是，周末要来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891578246174736386/Fncra9Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 872,
+          "like_count": 9416,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 7334
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T17:25:02.000Z",
+        "description": "一个身体沉重，精神枯槁，验证自己命运的人。\n\n追求人类学而不得其旨，遂放弃直冲山峰，改走盘山道，借此减少压力和阻力。\n\n我坐一叶小舟，命运是水和风，我手里只有桨。这场旅途只有合作，没有抗争。只需清楚大方向正确，风和水带我去哪里都是一种安排。\n\n喜欢东方project。",
+        "id": "1790795487068700674",
+        "location": "你家隔壁麦当劳",
+        "name": "饱醋生",
+        "pinned_tweet_id": "1836751461776294143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848400256121376770/SL3Amedn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 283,
+          "like_count": 11078,
+          "listed_count": 2,
+          "media_count": 753,
+          "tweet_count": 3928
+        },
+        "username": "BateauDeLavoir",
+        "verified": false
+      }
+    ]
+  }
+}

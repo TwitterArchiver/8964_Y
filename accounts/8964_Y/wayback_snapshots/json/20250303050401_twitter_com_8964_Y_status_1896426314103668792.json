@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1896232851009577386",
+    "created_at": "2025-03-03T05:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T06:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896426314103668792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849619112533819394",
+          "start": 0,
+          "username": "LongLiveGCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896426314103668792",
+    "in_reply_to_user_id": "1849619112533819394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896425930509455446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LongLiveGCU 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1896232851009577386",
+        "created_at": "2025-03-03T05:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896426314103668792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849619112533819394",
+              "start": 0,
+              "username": "LongLiveGCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896426314103668792",
+        "in_reply_to_user_id": "1849619112533819394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896425930509455446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongLiveGCU 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849619112533819394",
+        "conversation_id": "1896232851009577386",
+        "created_at": "2025-03-03T05:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896425930509455446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896425930509455446",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896232851009577386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 怎么感觉是个挺有趣的家伙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜下划观看伟大魔女的日记｜取关请拉黑我｜喜欢互联网☆°⋆✰*°⋆ ⸜(oˊᗜˋo)⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4780,
+          "following_count": 892,
+          "like_count": 9753,
+          "listed_count": 4,
+          "media_count": 509,
+          "tweet_count": 7569
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T01:09:47.000Z",
+        "description": "南岛猴语言能力训练大师，可治膏药，吐口水和乱叫。附赠数据线批发服务，特供鎏金铜头皮带赠品，包治好，若治不好免费换新。目前正在研究如何促进南岛猴脱离吉吉国画报，提升人类语言逻辑内部关联和理解基因的表达。",
+        "id": "1849619112533819394",
+        "location": "爱猴TV拍摄地",
+        "name": "Re:Miklos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853258809441198080/GTUEJZsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 129,
+          "like_count": 10629,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 3297
+        },
+        "username": "LongLiveGCU",
+        "verified": false
+      }
+    ]
+  }
+}

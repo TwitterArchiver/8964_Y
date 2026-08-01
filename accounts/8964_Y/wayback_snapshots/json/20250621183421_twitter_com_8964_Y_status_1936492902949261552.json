@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1936381680929165519",
+    "created_at": "2025-06-21T18:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T19:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936492902949261552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857471601454768128",
+          "start": 0,
+          "username": "ScreamButSilent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936492902949261552",
+    "in_reply_to_user_id": "1857471601454768128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936482045318066569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScreamButSilent 真的啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1936381680929165519",
+        "created_at": "2025-06-21T18:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T19:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936492902949261552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857471601454768128",
+              "start": 0,
+              "username": "ScreamButSilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936492902949261552",
+        "in_reply_to_user_id": "1857471601454768128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936482045318066569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScreamButSilent 真的啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857471601454768128",
+        "conversation_id": "1936381680929165519",
+        "created_at": "2025-06-21T17:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T18:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936482045318066569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936482045318066569",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936381680929165519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y ？什么 这真的假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5512,
+          "following_count": 935,
+          "like_count": 13985,
+          "listed_count": 8,
+          "media_count": 732,
+          "tweet_count": 10992
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:12:16.000Z",
+        "description": "死后务必魂分魄散｜我是小㐾（yuàn）发的都是碎碎念 感到幸福的时候会停笔｜不聊骚不搞黄不线下，🚪88/188加v看我萌萌朋友圈｜⚠️推广自辨｜匿名https://t.co/wyXYrNrSqh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakuragi96935",
+                "end": 97,
+                "expanded_url": "https://ngl.link/sakuragi96935",
+                "start": 74,
+                "url": "https://t.co/wyXYrNrSqh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=R7AK9x7D",
+                "start": 0,
+                "url": "https://t.co/u4HBwQZuoK"
+              }
+            ]
+          }
+        },
+        "id": "1857471601454768128",
+        "location": "自用蜂鸟VPN👉",
+        "name": "梨从",
+        "pinned_tweet_id": "1936477855950721080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934983791627657216/I_ngHNPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 327,
+          "like_count": 740,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 2896
+        },
+        "url": "https://t.co/u4HBwQZuoK",
+        "username": "ScreamButSilent",
+        "verified": false
+      }
+    ]
+  }
+}

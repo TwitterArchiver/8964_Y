@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1906922487222554765",
+    "created_at": "2025-04-01T04:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906925107098067066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512296448523583491",
+          "start": 0,
+          "username": "Helm_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906925107098067066",
+    "in_reply_to_user_id": "1512296448523583491",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906924930450747821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Helm_Official 可以可以"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906924930450747821].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906924930450747821",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906924930450747821"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1906922487222554765",
+        "created_at": "2025-04-01T04:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906925107098067066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512296448523583491",
+              "start": 0,
+              "username": "Helm_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906925107098067066",
+        "in_reply_to_user_id": "1512296448523583491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906924930450747821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Helm_Official 可以可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "08餐券妹｜如果我的言论让你感到不快那我很荣幸",
+        "id": "1732356232290222080",
+        "location": "🚪999",
+        "name": "草莓眠眠枪",
+        "pinned_tweet_id": "1906924221642703042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906923958546681856/tGdYdDOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 958,
+          "like_count": 11526,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 8734
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T05:09:17.000Z",
+        "description": "东亚人，你们的皇帝回来了！\n大和魂永不滅！\n我是习主席的狗\n我，独裁\n全斗焕铁粉\n朕要东亚人都有烧鸡玩，北上！忠诚！\n荣耀日本人\n跨性别刺身厨师长\n神圣大东亚帝国二次元婊子研究院院长\n李朝政杀手\n我的小……小红酱ᕕ(◠ڼ◠)ᕗ@_ZeroZeroTwo_\n国服宫本，血は牙！大丈夫、俺は最強だから、不滅の金剛盾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "_ZeroZeroTwo_"
+              }
+            ]
+          }
+        },
+        "id": "1512296448523583491",
+        "location": "在臭婊子周杨坟头蹦迪",
+        "name": "莆田の虎🇯🇵🇰🇷我是小红酱的狗🤤ᕕ(◠ڼ◠)ᕗ",
+        "pinned_tweet_id": "1901310356754186560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881842112230268928/KFD-qt-Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 808,
+          "like_count": 17265,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 11590
+        },
+        "username": "Helm_Official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895825840891367424"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895759531797594540",
+    "created_at": "2025-03-01T13:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895825850580550142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836344792193863683",
+          "start": 0,
+          "username": "tckw_jiaozhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d22o5rPImY",
+          "end": 44,
+          "expanded_url": "https://x.com/8964_Y/status/1895825850580550142/photo/1",
+          "media_key": "3_1895825840891367424",
+          "start": 21,
+          "url": "https://t.co/d22o5rPImY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895825850580550142",
+    "in_reply_to_user_id": "1836344792193863683",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895759531797594540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tckw_jiaozhi 那我很特殊了 https://t.co/d22o5rPImY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1895825840891367424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9TjspWEAA9pPk.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895759523975184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8XPi4awAAzlq9.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895825840891367424"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895759531797594540",
+        "created_at": "2025-03-01T13:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895825850580550142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1836344792193863683",
+              "start": 0,
+              "username": "tckw_jiaozhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d22o5rPImY",
+              "end": 44,
+              "expanded_url": "https://x.com/8964_Y/status/1895825850580550142/photo/1",
+              "media_key": "3_1895825840891367424",
+              "start": 21,
+              "url": "https://t.co/d22o5rPImY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895825850580550142",
+        "in_reply_to_user_id": "1836344792193863683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895759531797594540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tckw_jiaozhi 那我很特殊了 https://t.co/d22o5rPImY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895759523975184384"
+          ]
+        },
+        "author_id": "1836344792193863683",
+        "conversation_id": "1895759531797594540",
+        "created_at": "2025-03-01T08:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T09:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895759531797594540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpKi6fqvn7",
+              "end": 26,
+              "expanded_url": "https://x.com/tckw_jiaozhi/status/1895759531797594540/photo/1",
+              "media_key": "3_1895759523975184384",
+              "start": 3,
+              "url": "https://t.co/gpKi6fqvn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895759531797594540",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1222,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "✌️ https://t.co/gpKi6fqvn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 ｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4760,
+          "following_count": 881,
+          "like_count": 9585,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 7452
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T10:01:46.000Z",
+        "description": "支那人研究中心的特聘研究员，一个专注于研究中国人的中国人｜接受$Li 基金会的资助，平均每条推文收益0.8964 $Li，由美国cia与日本外务省共同支付｜博士毕业论文：《如何使中国人看上去像人类》｜《中国人每日观察》主持人",
+        "id": "1836344792193863683",
+        "location": "Canada",
+        "name": "Gunkichi Tanaka",
+        "pinned_tweet_id": "1875094842323480866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891396633168080896/O0wdGsHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 437,
+          "like_count": 11593,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 1969
+        },
+        "username": "tckw_jiaozhi",
+        "verified": false
+      }
+    ]
+  }
+}

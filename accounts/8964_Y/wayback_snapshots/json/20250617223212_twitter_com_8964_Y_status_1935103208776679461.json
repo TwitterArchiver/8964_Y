@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1935013793664540992",
+    "created_at": "2025-06-17T22:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T23:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935103208776679461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1593905954575171584",
+          "start": 0,
+          "username": "dsfin1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935103208776679461",
+    "in_reply_to_user_id": "1593905954575171584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935033015815815425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsfin1989 当然是放转转上回收啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1935013793664540992",
+        "created_at": "2025-06-17T22:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T23:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935103208776679461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1593905954575171584",
+              "start": 0,
+              "username": "dsfin1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935103208776679461",
+        "in_reply_to_user_id": "1593905954575171584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935033015815815425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsfin1989 当然是放转转上回收啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593905954575171584",
+        "conversation_id": "1935013793664540992",
+        "created_at": "2025-06-17T17:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935033015815815425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935033015815815425",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935013793664540992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 你换新老公了？那旧老公呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5520,
+          "following_count": 945,
+          "like_count": 13756,
+          "listed_count": 8,
+          "media_count": 728,
+          "tweet_count": 10835
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "一个低俗的人，一个混沌的人，一个无道德的人，一个绑定了低级趣味的人，一个有害于人民的人。\n叫妈妈是我的爱好，介意致歉\n逃生舱 @dengxiaopi86090\n畅联世界！无广告干扰，\n机场节点随便挑，自用蜂鸟VPN：https://t.co/oAYih0FEJA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "dengxiaopi86090"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 131,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=YjN345np",
+                "start": 108,
+                "url": "https://t.co/oAYih0FEJA"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓前",
+        "name": "稻上飞归来之河南人偷井盖偶遇打完老婆的山东人和东北人一起去饺子店吃桌饺被上海人歧视触发连招为河南争光",
+        "pinned_tweet_id": "1903106755288240388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872964552071299072/M0JLGXPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13065,
+          "following_count": 2349,
+          "like_count": 60025,
+          "listed_count": 22,
+          "media_count": 2337,
+          "tweet_count": 24877
+        },
+        "username": "dsfin1989",
+        "verified": false
+      }
+    ]
+  }
+}

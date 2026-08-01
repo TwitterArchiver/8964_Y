@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950651079613440000"
+      ],
+      "media_source_tweet_id": [
+        "1950651084021895294"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1951187333186986277",
+    "created_at": "2025-08-01T07:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T08:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951187333186986277"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 13,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1354498286074400771",
+          "start": 3,
+          "username": "zehater"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x2IPiMQdpt",
+          "end": 49,
+          "expanded_url": "https://x.com/zehater/status/1950651084021895294/photo/1",
+          "media_key": "3_1950651079613440000",
+          "start": 26,
+          "url": "https://t.co/x2IPiMQdpt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951187333186986277",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 652
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950651084021895294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zehater: #chainsawman https://t.co/x2IPiMQdpt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1950651079613440000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxIa0mkXYAAQlb7.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950651079613440000"
+          ],
+          "media_source_tweet_id": [
+            "1950651084021895294"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1951187333186986277",
+        "created_at": "2025-08-01T07:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T08:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951187333186986277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1354498286074400771",
+              "start": 3,
+              "username": "zehater"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2IPiMQdpt",
+              "end": 49,
+              "expanded_url": "https://x.com/zehater/status/1950651084021895294/photo/1",
+              "media_key": "3_1950651079613440000",
+              "start": 26,
+              "url": "https://t.co/x2IPiMQdpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951187333186986277",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 652
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950651084021895294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zehater: #chainsawman https://t.co/x2IPiMQdpt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950651079613440000"
+          ]
+        },
+        "author_id": "1354498286074400771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1950651084021895294",
+        "created_at": "2025-07-30T20:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T21:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950651084021895294"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2IPiMQdpt",
+              "end": 36,
+              "expanded_url": "https://x.com/zehater/status/1950651084021895294/photo/1",
+              "media_key": "3_1950651079613440000",
+              "start": 13,
+              "url": "https://t.co/x2IPiMQdpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950651084021895294",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 60227,
+          "like_count": 7528,
+          "quote_count": 15,
+          "reply_count": 17,
+          "retweet_count": 652
+        },
+        "reply_settings": "everyone",
+        "text": "#chainsawman https://t.co/x2IPiMQdpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 873,
+          "like_count": 15339,
+          "listed_count": 13,
+          "media_count": 789,
+          "tweet_count": 11870
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T18:35:35.000Z",
+        "description": "Hey guys I’m Ze 💯 I draw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zehater.straw.page",
+                "end": 23,
+                "expanded_url": "http://zehater.straw.page",
+                "start": 0,
+                "url": "https://t.co/NAXcT7i0Oz"
+              }
+            ]
+          }
+        },
+        "id": "1354498286074400771",
+        "location": "19",
+        "name": "ZE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889416279175340032/kYrethUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 74,
+          "like_count": 9081,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/NAXcT7i0Oz",
+        "username": "zehater",
+        "verified": false
+      }
+    ]
+  }
+}

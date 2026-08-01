@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1943924023504908643",
+    "created_at": "2025-07-12T07:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T08:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943932465720308067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779006683181940738",
+          "start": 0,
+          "username": "Missouolsian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943932465720308067",
+    "in_reply_to_user_id": "1779006683181940738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943924023504908643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Missouolsian 在哪里搞的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6733,
+        "height": 1280,
+        "media_key": "13_1943923960288292864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943923960288292864/img/s4I8UrTgZn2y7IcP.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943923960288292864/vid/avc1/320x568/D2OM8uwzCaO5vtjg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943923960288292864/vid/avc1/480x852/tQtOdJYPAflCtKmQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943923960288292864/vid/avc1/720x1280/AbzI3LaDBVAhQ6NY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943923960288292864/pl/dC9CQMJj1qAvfuCe.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1943924023504908643",
+        "created_at": "2025-07-12T07:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943932465720308067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779006683181940738",
+              "start": 0,
+              "username": "Missouolsian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943932465720308067",
+        "in_reply_to_user_id": "1779006683181940738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943924023504908643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Missouolsian 在哪里搞的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943923960288292864"
+          ]
+        },
+        "author_id": "1779006683181940738",
+        "conversation_id": "1943924023504908643",
+        "created_at": "2025-07-12T06:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943924023504908643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSnRkwiLow",
+              "end": 28,
+              "expanded_url": "https://x.com/Missouolsian/status/1943924023504908643/video/1",
+              "media_key": "13_1943923960288292864",
+              "start": 5,
+              "url": "https://t.co/WSnRkwiLow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943924023504908643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点意思 https://t.co/WSnRkwiLow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5511,
+          "following_count": 943,
+          "like_count": 14668,
+          "listed_count": 11,
+          "media_count": 765,
+          "tweet_count": 11577
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:40:30.000Z",
+        "description": "08准大一",
+        "id": "1779006683181940738",
+        "location": "🚪100纯绿好友位 ",
+        "name": "白毛红瞳狗狗厨",
+        "pinned_tweet_id": "1862426999001948380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880844150112915456/H9Nlxai0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9959,
+          "following_count": 197,
+          "like_count": 19159,
+          "listed_count": 24,
+          "media_count": 367,
+          "tweet_count": 9175
+        },
+        "username": "Missouolsian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895711074701492236",
+    "created_at": "2025-03-01T05:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T06:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895711074701492236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745774637248823296",
+          "start": 3,
+          "username": "ji_zai97049"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895711074701492236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895704187302035784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_zai97049: ban我的宝宝都没父母喵🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895711074701492236",
+        "created_at": "2025-03-01T05:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T06:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895711074701492236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745774637248823296",
+              "start": 3,
+              "username": "ji_zai97049"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895711074701492236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895704187302035784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_zai97049: ban我的宝宝都没父母喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745774637248823296",
+        "conversation_id": "1895704187302035784",
+        "created_at": "2025-03-01T05:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T06:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895704187302035784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895704187302035784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ban我的宝宝都没父母喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895611670141288449/kWisQucL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4751,
+          "following_count": 874,
+          "like_count": 9473,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 7393
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T11:48:20.000Z",
+        "description": "14亿玉碎",
+        "id": "1745774637248823296",
+        "location": "贝亨社鲁阁",
+        "name": "利贺田🇯🇵",
+        "pinned_tweet_id": "1892267755044225381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890057100753268736/iBEdxJrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 1354,
+          "like_count": 22374,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1123
+        },
+        "username": "ji_zai97049",
+        "verified": false
+      }
+    ]
+  }
+}

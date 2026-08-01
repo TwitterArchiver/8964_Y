@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1936275566870827211",
+    "created_at": "2025-06-21T08:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T09:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936345907274170410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4920371900",
+          "start": 0,
+          "username": "qinqinba"
+        },
+        {
+          "end": 19,
+          "id": "1771513890138132480",
+          "start": 10,
+          "username": "iove3064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936345907274170410",
+    "in_reply_to_user_id": "4920371900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936312833597489164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinqinba @iove3064 我是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1936275566870827211",
+        "created_at": "2025-06-21T08:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936345907274170410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4920371900",
+              "start": 0,
+              "username": "qinqinba"
+            },
+            {
+              "end": 19,
+              "id": "1771513890138132480",
+              "start": 10,
+              "username": "iove3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936345907274170410",
+        "in_reply_to_user_id": "4920371900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936312833597489164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqinba @iove3064 我是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4920371900",
+        "conversation_id": "1936275566870827211",
+        "created_at": "2025-06-21T06:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936312833597489164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771513890138132480",
+              "start": 0,
+              "username": "iove3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936312833597489164",
+        "in_reply_to_user_id": "1771513890138132480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936275566870827211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iove3064 我粉丝都是大鸡吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 931,
+          "like_count": 13932,
+          "listed_count": 8,
+          "media_count": 730,
+          "tweet_count": 10958
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-17T09:56:01.000Z",
+        "description": "上学🎒回消息慢..",
+        "id": "4920371900",
+        "name": "想叫爸爸了",
+        "pinned_tweet_id": "1870097421432434960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927729066318479360/bJeWGpXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12112,
+          "following_count": 972,
+          "like_count": 3364,
+          "listed_count": 38,
+          "media_count": 791,
+          "tweet_count": 7691
+        },
+        "username": "qinqinba",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "enfj ᰔᩚ",
+        "id": "1771513890138132480",
+        "location": "🚪",
+        "name": "湫",
+        "pinned_tweet_id": "1936325038992662944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772665243774464000/eITTTB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34831,
+          "following_count": 62,
+          "like_count": 104,
+          "listed_count": 55,
+          "media_count": 216,
+          "tweet_count": 2760
+        },
+        "username": "iove3064",
+        "verified": false
+      }
+    ]
+  }
+}

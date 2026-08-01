@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1941694380995379669",
+    "created_at": "2025-07-06T04:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941710546580963738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941710546580963738",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941694380995379669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku 太可爱了好像仓鼠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8100,
+        "height": 1084,
+        "media_key": "13_1941694319645294596",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941694319645294596/img/b57o-LlvFH0ptV26.jpg",
+        "public_metrics": {
+          "view_count": 1214
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941694319645294596/vid/avc1/320x568/-rLVtGlv99ZGqLvO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941694319645294596/vid/avc1/480x852/An7COXcqC8ijKW3r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941694319645294596/vid/avc1/610x1084/0sObICuv8ELbibSK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941694319645294596/pl/BTHOUrAz8xTxhH2G.m3u8"
+          }
+        ],
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1941694380995379669",
+        "created_at": "2025-07-06T04:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941710546580963738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941710546580963738",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941694380995379669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku 太可爱了好像仓鼠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941694319645294596"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "1941694380995379669",
+        "created_at": "2025-07-06T03:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941694380995379669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkX9SUMcWG",
+              "end": 23,
+              "expanded_url": "https://x.com/skura_ku/status/1941694380995379669/video/1",
+              "media_key": "13_1941694319645294596",
+              "start": 0,
+              "url": "https://t.co/fkX9SUMcWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941694380995379669",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6494,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/fkX9SUMcWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里垢：@00Mio007｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5501,
+          "following_count": 942,
+          "like_count": 14492,
+          "listed_count": 10,
+          "media_count": 757,
+          "tweet_count": 11402
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "HELLO とSAKURA44444444444444444444444444444444444日常@usersakura4 ⚞ • ⚟ 🚪250/520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "usersakura4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sakuracute4",
+                "end": 23,
+                "expanded_url": "https://t.me/sakuracute4",
+                "start": 0,
+                "url": "https://t.co/rvlE7EFoUY"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "location": "Daily sharing on telegram↙️",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "1919240240566325614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937120347720966144/rEXD_ToH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19130,
+          "following_count": 391,
+          "like_count": 16594,
+          "listed_count": 56,
+          "media_count": 682,
+          "tweet_count": 6177
+        },
+        "url": "https://t.co/rvlE7EFoUY",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

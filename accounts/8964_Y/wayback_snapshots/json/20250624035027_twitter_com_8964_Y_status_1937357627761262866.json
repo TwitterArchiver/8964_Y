@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1937352759591997626",
+    "created_at": "2025-06-24T03:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T04:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937357627761262866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771176588505182208",
+          "start": 0,
+          "username": "jaslyn994071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937357627761262866",
+    "in_reply_to_user_id": "1771176588505182208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937352759591997626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaslyn994071 好可爱啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937352756290834434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLcETtW0AIIKKY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 440,
+        "media_key": "3_1937352756295077890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLcETuXkAIlLkE.jpg",
+        "width": 516
+      },
+      {
+        "height": 440,
+        "media_key": "3_1937352756299214848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLcETvWsAAecBA.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1937352759591997626",
+        "created_at": "2025-06-24T03:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937357627761262866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771176588505182208",
+              "start": 0,
+              "username": "jaslyn994071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937357627761262866",
+        "in_reply_to_user_id": "1771176588505182208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937352759591997626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaslyn994071 好可爱啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937352756290834434",
+            "3_1937352756295077890",
+            "3_1937352756299214848"
+          ]
+        },
+        "author_id": "1771176588505182208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1937352759591997626",
+        "created_at": "2025-06-24T03:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937352759591997626"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Shape",
+              "probability": 0.5129,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 24,
+              "normalized_text": "makima",
+              "probability": 0.6548,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "power",
+              "probability": 0.5013,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0l6g7ADRzS",
+              "end": 64,
+              "expanded_url": "https://x.com/jaslyn994071/status/1937352759591997626/photo/1",
+              "media_key": "3_1937352756290834434",
+              "start": 41,
+              "url": "https://t.co/0l6g7ADRzS"
+            },
+            {
+              "display_url": "pic.x.com/0l6g7ADRzS",
+              "end": 64,
+              "expanded_url": "https://x.com/jaslyn994071/status/1937352759591997626/photo/1",
+              "media_key": "3_1937352756295077890",
+              "start": 41,
+              "url": "https://t.co/0l6g7ADRzS"
+            },
+            {
+              "display_url": "pic.x.com/0l6g7ADRzS",
+              "end": 64,
+              "expanded_url": "https://x.com/jaslyn994071/status/1937352759591997626/photo/1",
+              "media_key": "3_1937352756299214848",
+              "start": 41,
+              "url": "https://t.co/0l6g7ADRzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937352759591997626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Shape practice and makima and power cats https://t.co/0l6g7ADRzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 937,
+          "like_count": 14073,
+          "listed_count": 8,
+          "media_count": 738,
+          "tweet_count": 11049
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T14:06:39.000Z",
+        "description": "pfp by @SCHONv_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "SCHONv_"
+              }
+            ]
+          }
+        },
+        "id": "1771176588505182208",
+        "name": "Jaslyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886112836344066049/xJjiAywZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 422,
+          "like_count": 13020,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 12835
+        },
+        "username": "jaslyn994071",
+        "verified": false
+      }
+    ]
+  }
+}

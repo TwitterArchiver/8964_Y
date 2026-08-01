@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945068355414593536"
+      ],
+      "media_source_tweet_id": [
+        "1945068362180022588"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1945385403697045607",
+    "created_at": "2025-07-16T07:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T08:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945385403697045607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1274007331492130825",
+          "start": 3,
+          "username": "POCHITA_DENJI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjnmKCmMTR",
+          "end": 47,
+          "expanded_url": "https://x.com/POCHITA_DENJI/status/1945068362180022588/photo/1",
+          "media_key": "3_1945068355414593536",
+          "start": 24,
+          "url": "https://t.co/mjnmKCmMTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945385403697045607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945068362180022588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @POCHITA_DENJI: 家族写真 https://t.co/mjnmKCmMTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1945068355414593536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5FXSRXEAAq16h.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945068355414593536"
+          ],
+          "media_source_tweet_id": [
+            "1945068362180022588"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1945385403697045607",
+        "created_at": "2025-07-16T07:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945385403697045607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1274007331492130825",
+              "start": 3,
+              "username": "POCHITA_DENJI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjnmKCmMTR",
+              "end": 47,
+              "expanded_url": "https://x.com/POCHITA_DENJI/status/1945068362180022588/photo/1",
+              "media_key": "3_1945068355414593536",
+              "start": 24,
+              "url": "https://t.co/mjnmKCmMTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945385403697045607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945068362180022588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @POCHITA_DENJI: 家族写真 https://t.co/mjnmKCmMTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945068355414593536"
+          ]
+        },
+        "author_id": "1274007331492130825",
+        "conversation_id": "1945068362180022588",
+        "created_at": "2025-07-15T10:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945068362180022588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjnmKCmMTR",
+              "end": 28,
+              "expanded_url": "https://x.com/POCHITA_DENJI/status/1945068362180022588/photo/1",
+              "media_key": "3_1945068355414593536",
+              "start": 5,
+              "url": "https://t.co/mjnmKCmMTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945068362180022588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 11659,
+          "like_count": 800,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "家族写真 https://t.co/mjnmKCmMTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5714,
+          "following_count": 946,
+          "like_count": 14955,
+          "listed_count": 12,
+          "media_count": 766,
+          "tweet_count": 11628
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-19T15:53:40.000Z",
+        "description": "チェンソーマンなりきり／パロディアカウント",
+        "id": "1274007331492130825",
+        "name": "デンジ🪚パロディ",
+        "pinned_tweet_id": "1931267442539679827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870778294553190400/w5b9DNCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 675,
+          "like_count": 53834,
+          "listed_count": 18,
+          "media_count": 1215,
+          "tweet_count": 27161
+        },
+        "username": "POCHITA_DENJI",
+        "verified": false
+      }
+    ]
+  }
+}

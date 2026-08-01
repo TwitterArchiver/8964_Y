@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1895151569265656176",
+    "created_at": "2025-02-27T16:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T17:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895151569265656176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763915404496293888",
+          "start": 3,
+          "username": "Weep1776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895151569265656176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895107004634669476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Weep1776: 啊真的 那些事情以后再说吧…\n一时的忍耐可以让你拿到更多钱 起码会让你少挨点骂。所以先忍忍吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1895151569265656176",
+        "created_at": "2025-02-27T16:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T17:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895151569265656176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763915404496293888",
+              "start": 3,
+              "username": "Weep1776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895151569265656176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895107004634669476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Weep1776: 啊真的 那些事情以后再说吧…\n一时的忍耐可以让你拿到更多钱 起码会让你少挨点骂。所以先忍忍吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763915404496293888",
+        "conversation_id": "1895107004634669476",
+        "created_at": "2025-02-27T13:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895107004634669476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895107004634669476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "啊真的 那些事情以后再说吧…\n一时的忍耐可以让你拿到更多钱 起码会让你少挨点骂。所以先忍忍吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "不键政 ｜好闺蜜@yeye828282 Eng ok 日本語OK 中文OK｜本体是涡虫｜大爱momo酱｜需要互fo的女孩请私信｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "yeye828282"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891578246174736386/Fncra9Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 871,
+          "like_count": 9355,
+          "listed_count": 4,
+          "media_count": 487,
+          "tweet_count": 7288
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T13:13:11.000Z",
+        "description": "想要钱",
+        "id": "1763915404496293888",
+        "name": "三重白昼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181481263886336/u5i1fWwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 102,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "Weep1776",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "1899903239065149895",
+    "created_at": "2025-03-13T04:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T05:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900041987224453554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781277493636313088",
+          "start": 0,
+          "username": "dandadontcare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900041987224453554",
+    "in_reply_to_user_id": "1781277493636313088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899903239065149895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dandadontcare 这是真的吗？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1899903234031890432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl3P7NwWMAAHIIR.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1899903239065149895",
+        "created_at": "2025-03-13T04:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900041987224453554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781277493636313088",
+              "start": 0,
+              "username": "dandadontcare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900041987224453554",
+        "in_reply_to_user_id": "1781277493636313088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899903239065149895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dandadontcare 这是真的吗？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899903234031890432"
+          ]
+        },
+        "author_id": "1781277493636313088",
+        "conversation_id": "1899903239065149895",
+        "created_at": "2025-03-12T19:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T20:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899903239065149895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "dandadan",
+              "probability": 0.4089,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NjaaznTQr7",
+              "end": 46,
+              "expanded_url": "https://x.com/dandadontcare/status/1899903239065149895/photo/1",
+              "media_key": "3_1899903234031890432",
+              "start": 23,
+              "url": "https://t.co/NjaaznTQr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899903239065149895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 16069,
+          "like_count": 718,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "you were my dandadan 💔 https://t.co/NjaaznTQr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898791193091493888/CTfFpR04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 921,
+          "like_count": 10520,
+          "listed_count": 7,
+          "media_count": 541,
+          "tweet_count": 8077
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T11:03:47.000Z",
+        "description": "ghost & alien enthusiast 👻👽 | daily dandadan content | come for the threads, stay for the laughs | pfp • @therealcjay321 | banner • @exxo_mck",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "therealcjay321"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "exxo_mck"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dandadontcare",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@dandadontcare",
+                "start": 0,
+                "url": "https://t.co/V04dmVUTVx"
+              }
+            ]
+          }
+        },
+        "id": "1781277493636313088",
+        "name": "dandadon’t care 🛸✨",
+        "pinned_tweet_id": "1849142881447002113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885383576507633665/4MFsl0No_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6253,
+          "following_count": 1457,
+          "like_count": 45466,
+          "listed_count": 14,
+          "media_count": 5210,
+          "tweet_count": 15175
+        },
+        "url": "https://t.co/V04dmVUTVx",
+        "username": "dandadontcare",
+        "verified": true
+      }
+    ]
+  }
+}

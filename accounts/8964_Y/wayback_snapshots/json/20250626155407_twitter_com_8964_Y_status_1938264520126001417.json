@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938264510806315008",
+        "3_1938264510810492931"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "1938112849752318036",
+    "created_at": "2025-06-26T15:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938264520126001417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863305908111220736",
+          "start": 0,
+          "username": "GayIsReadinThis"
+        },
+        {
+          "end": 32,
+          "id": "1899104164250062848",
+          "start": 17,
+          "username": "TianqiChen_666"
+        },
+        {
+          "end": 42,
+          "id": "1790370144755351552",
+          "start": 33,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EBKIkaqUh3",
+          "end": 69,
+          "expanded_url": "https://x.com/8964_Y/status/1938264520126001417/photo/1",
+          "media_key": "3_1938264510806315008",
+          "start": 46,
+          "url": "https://t.co/EBKIkaqUh3"
+        },
+        {
+          "display_url": "pic.x.com/EBKIkaqUh3",
+          "end": 69,
+          "expanded_url": "https://x.com/8964_Y/status/1938264520126001417/photo/1",
+          "media_key": "3_1938264510810492931",
+          "start": 46,
+          "url": "https://t.co/EBKIkaqUh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938264520126001417",
+    "in_reply_to_user_id": "1863305908111220736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938249111989518725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GayIsReadinThis @TianqiChen_666 @FurinaDF 🤣👉 https://t.co/EBKIkaqUh3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938264510806315008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYZTZ9bUAA1Y5i.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938264510810492931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYZTZ-bEAMbq8z.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938264510806315008",
+            "3_1938264510810492931"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1938112849752318036",
+        "created_at": "2025-06-26T15:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938264520126001417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863305908111220736",
+              "start": 0,
+              "username": "GayIsReadinThis"
+            },
+            {
+              "end": 32,
+              "id": "1899104164250062848",
+              "start": 17,
+              "username": "TianqiChen_666"
+            },
+            {
+              "end": 42,
+              "id": "1790370144755351552",
+              "start": 33,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBKIkaqUh3",
+              "end": 69,
+              "expanded_url": "https://x.com/8964_Y/status/1938264520126001417/photo/1",
+              "media_key": "3_1938264510806315008",
+              "start": 46,
+              "url": "https://t.co/EBKIkaqUh3"
+            },
+            {
+              "display_url": "pic.x.com/EBKIkaqUh3",
+              "end": 69,
+              "expanded_url": "https://x.com/8964_Y/status/1938264520126001417/photo/1",
+              "media_key": "3_1938264510810492931",
+              "start": 46,
+              "url": "https://t.co/EBKIkaqUh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938264520126001417",
+        "in_reply_to_user_id": "1863305908111220736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938249111989518725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GayIsReadinThis @TianqiChen_666 @FurinaDF 🤣👉 https://t.co/EBKIkaqUh3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863305908111220736",
+        "conversation_id": "1938112849752318036",
+        "created_at": "2025-06-26T14:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938249111989518725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 23,
+              "id": "1899104164250062848",
+              "start": 8,
+              "username": "TianqiChen_666"
+            },
+            {
+              "end": 33,
+              "id": "1790370144755351552",
+              "start": 24,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938249111989518725",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938246143554511262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @TianqiChen_666 @FurinaDF 这明显就是书包本身的印的，怎么做到看成图片水印的？来自大陆的支援物资不是很正常？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜里垢：@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1937635266115830090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5505,
+          "following_count": 942,
+          "like_count": 14251,
+          "listed_count": 10,
+          "media_count": 745,
+          "tweet_count": 11191
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T19:35:48.000Z",
+        "description": "这是一个温柔的人类。(≧ᴗ≦)",
+        "id": "1863305908111220736",
+        "location": "Vancouver, Canada ",
+        "name": "父",
+        "pinned_tweet_id": "1878989606043214008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936478593959518208/xLtfin7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 18,
+          "like_count": 2684,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 2935
+        },
+        "username": "GayIsReadinThis",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T14:25:21.000Z",
+        "description": "我會像めんま的幽靈一樣，默默關注那些封鎖我的用戶\n\n頭上三尺有神明，一定要有敬畏之心",
+        "id": "1899104164250062848",
+        "location": "Chichibu-shi, Saitama ",
+        "name": "めんま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899111964846288896/I7iDBKSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1275
+        },
+        "username": "TianqiChen_666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "心怀良善与智慧，行事正直有担当",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32641,
+          "following_count": 2231,
+          "like_count": 26700,
+          "listed_count": 92,
+          "media_count": 5324,
+          "tweet_count": 9541
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}
