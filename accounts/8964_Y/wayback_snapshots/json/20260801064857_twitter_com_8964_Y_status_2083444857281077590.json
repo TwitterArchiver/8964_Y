@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2083442147509059752",
+    "created_at": "2026-08-01T06:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083444857281077590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1726393948145369088",
+          "start": 0,
+          "username": "MrGoodGuy1914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083444857281077590",
+    "in_reply_to_user_id": "1726393948145369088",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083444608550248837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrGoodGuy1914 yes！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2083442147509059752",
+        "created_at": "2026-08-01T06:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083444857281077590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1726393948145369088",
+              "start": 0,
+              "username": "MrGoodGuy1914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083444857281077590",
+        "in_reply_to_user_id": "1726393948145369088",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083444608550248837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrGoodGuy1914 yes！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726393948145369088",
+        "conversation_id": "2083442147509059752",
+        "created_at": "2026-08-01T06:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083444608550248837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083444608550248837",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083442147509059752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y Perfect...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6732,
+          "following_count": 747,
+          "like_count": 25486,
+          "listed_count": 20,
+          "media_count": 1197,
+          "tweet_count": 17155
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T00:16:16.000Z",
+        "description": "There's nothing we can do.",
+        "id": "1726393948145369088",
+        "location": "My office is by the beach",
+        "name": "Balling",
+        "pinned_tweet_id": "2043958025451393109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921375551664656384/DMxEhyCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 662,
+          "like_count": 167026,
+          "listed_count": 2,
+          "media_count": 1065,
+          "tweet_count": 125172
+        },
+        "url": "",
+        "username": "MrGoodGuy1914",
+        "verified": true
+      }
+    ]
+  }
+}

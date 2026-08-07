@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2084353041734815869",
+    "created_at": "2026-08-04T10:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084584126313836566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758522497291497472",
+          "start": 0,
+          "username": "NEZUMI_sama_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084584126313836566",
+    "in_reply_to_user_id": "1758522497291497472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084353041734815869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEZUMI_sama_ 啊啊啊啊啊啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084353041734815869].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084353041734815869",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084353041734815869"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2084353041734815869",
+        "created_at": "2026-08-04T10:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084584126313836566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758522497291497472",
+              "start": 0,
+              "username": "NEZUMI_sama_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084584126313836566",
+        "in_reply_to_user_id": "1758522497291497472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084353041734815869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEZUMI_sama_ 啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078350301376180727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6730,
+          "following_count": 747,
+          "like_count": 25729,
+          "listed_count": 20,
+          "media_count": 1201,
+          "tweet_count": 17216
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:03:48.000Z",
+        "description": "我是阴暗批 大量吐黑泥和恋爱/心情日记",
+        "id": "1758522497291497472",
+        "location": "森林里",
+        "name": "nezumi",
+        "pinned_tweet_id": "1963253985793458684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081404882591039488/5DRs6tWb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 73,
+          "like_count": 3424,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 4883
+        },
+        "url": "",
+        "username": "NEZUMI_sama_",
+        "verified": false
+      }
+    ]
+  }
+}

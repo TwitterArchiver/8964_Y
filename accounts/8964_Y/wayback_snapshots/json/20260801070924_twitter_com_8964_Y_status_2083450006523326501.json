@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2083442147509059752",
+    "created_at": "2026-08-01T07:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083450006523326501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911458837107732480",
+          "start": 0,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083450006523326501",
+    "in_reply_to_user_id": "1911458837107732480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083448582812885266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameranaswly 估计不成"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2083442147509059752",
+        "created_at": "2026-08-01T07:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083450006523326501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083450006523326501",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083448582812885266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameranaswly 估计不成"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911458837107732480",
+        "conversation_id": "2083442147509059752",
+        "created_at": "2026-08-01T07:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083448582812885266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083448582812885266",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083442147509059752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 不知道还能不能在艾莫号上看到内格夫上车..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6728,
+          "following_count": 746,
+          "like_count": 25490,
+          "listed_count": 20,
+          "media_count": 1197,
+          "tweet_count": 17156
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "04年过气少前指挥官，HK416厨，404小队❤️❤️❤️4I＞1I直男，Sub+Ⓜ️。少谈国事，支持🇺🇦🇮🇱和NATO的德棍🇩🇪，偏混沌善良，来我这刷黄纳肥皂梗的反法西斯德黑小鬼你老冯被孔选仲三通一达😁zz立场是温和建制派民族社会主义者，6分保守威权4分自由，德式法团主义市场经济。CN/EN/JP=OK，GER学习中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heckler-koch.com/en/Products/Mi…",
+                "end": 23,
+                "expanded_url": "https://www.heckler-koch.com/en/Products/Military%20and%20Law%20Enforcement/Assault%20rifles/HK416",
+                "start": 0,
+                "url": "https://t.co/pm34ScBwJb"
+              }
+            ]
+          }
+        },
+        "id": "1911458837107732480",
+        "location": "I.G 法本工业集团法兰克福总部",
+        "name": "✙守望莱茵的乐奈✠ꑭ🇩🇪🇦🇹",
+        "pinned_tweet_id": "2072641230408917150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082912388073058304/geYre4Ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1146,
+          "like_count": 17491,
+          "listed_count": 2,
+          "media_count": 665,
+          "tweet_count": 2440
+        },
+        "url": "https://t.co/pm34ScBwJb",
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

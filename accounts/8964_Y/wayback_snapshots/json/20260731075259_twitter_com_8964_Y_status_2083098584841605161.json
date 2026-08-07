@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2083046612289647044",
+    "created_at": "2026-07-31T07:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083098584841605161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691273370858401792",
+          "start": 0,
+          "username": "ge_qiang1582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083098584841605161",
+    "in_reply_to_user_id": "1691273370858401792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083046612289647044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ge_qiang1582 我小孩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083046601757802496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh32QxbwAAoNS3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2083046612289647044",
+        "created_at": "2026-07-31T07:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083098584841605161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691273370858401792",
+              "start": 0,
+              "username": "ge_qiang1582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083098584841605161",
+        "in_reply_to_user_id": "1691273370858401792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083046612289647044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ge_qiang1582 我小孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083046601757802496"
+          ]
+        },
+        "author_id": "1691273370858401792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083046612289647044",
+        "created_at": "2026-07-31T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083046612289647044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRRyoAKENS",
+              "end": 32,
+              "expanded_url": "https://x.com/ge_qiang1582/status/2083046612289647044/photo/1",
+              "media_key": "3_2083046601757802496",
+              "start": 9,
+              "url": "https://t.co/WRRyoAKENS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083046612289647044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小吉吉真可爱 https://t.co/WRRyoAKENS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6719,
+          "following_count": 743,
+          "like_count": 25423,
+          "listed_count": 20,
+          "media_count": 1191,
+          "tweet_count": 17122
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T02:19:40.000Z",
+        "description": "我猜有个小可爱正在看鸽鸽的简介♡=•ㅅ＜=)欢迎光临鸽鸽的日记（其实还是更喜欢你们叫我小强），应用心理学在读，没有脑子，想到什么说什么(｡•﹃•｡)私信找我互fo喵，爱你们～❤️ 美好人格@gg45174157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "gg45174157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xiaoqiangxyq?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xiaoqiangxyq?_r=1&_t=ZT-9658g93CtGY",
+                "start": 0,
+                "url": "https://t.co/ga6Tqj6vlk"
+              }
+            ]
+          }
+        },
+        "id": "1691273370858401792",
+        "location": "啊",
+        "name": "鸽鸽（小强邪恶版）",
+        "pinned_tweet_id": "2028130382369976413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028379780253646848/YFtLQRiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 236,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/ga6Tqj6vlk",
+        "username": "ge_qiang1582",
+        "verified": false
+      }
+    ]
+  }
+}

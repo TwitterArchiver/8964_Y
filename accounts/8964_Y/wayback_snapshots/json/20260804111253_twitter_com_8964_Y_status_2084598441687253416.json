@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042426788136288257"
+      ],
+      "media_source_tweet_id": [
+        "2042426938749223073"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2084598441687253416",
+    "created_at": "2026-08-04T11:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084598441687253416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1129655215618007040",
+          "start": 3,
+          "username": "Antinomies_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oSWuw3Bu36",
+          "end": 57,
+          "expanded_url": "https://x.com/Antinomies_/status/2042426938749223073/video/1",
+          "media_key": "13_2042426788136288257",
+          "start": 34,
+          "url": "https://t.co/oSWuw3Bu36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084598441687253416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042426938749223073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antinomies_: 修女会用杠杆步枪是很正常的事情吧 https://t.co/oSWuw3Bu36"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7465,
+        "height": 1080,
+        "media_key": "13_2042426788136288257",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042426788136288257/img/ndLGEjtRC2m9OYuo.jpg",
+        "public_metrics": {
+          "view_count": 4700
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042426788136288257/pl/XD4YV6S-EKCrHRmK.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042426788136288257/vid/avc1/312x270/fu1ETzXIAtecttNL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042426788136288257/vid/avc1/416x360/kJowPMLT4ITfmQDc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042426788136288257/vid/avc1/1248x1080/i5Srv9ZUkJclQTvr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042426788136288257/vid/avc1/832x720/k0hM1a8M4Kma6wFR.mp4"
+          }
+        ],
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042426788136288257"
+          ]
+        },
+        "author_id": "1129655215618007040",
+        "conversation_id": "2042426938749223073",
+        "created_at": "2026-04-10T02:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042426938749223073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSWuw3Bu36",
+              "end": 40,
+              "expanded_url": "https://x.com/Antinomies_/status/2042426938749223073/video/1",
+              "media_key": "13_2042426788136288257",
+              "start": 17,
+              "url": "https://t.co/oSWuw3Bu36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042426938749223073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 13868,
+          "like_count": 241,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "修女会用杠杆步枪是很正常的事情吧 https://t.co/oSWuw3Bu36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042426788136288257"
+          ],
+          "media_source_tweet_id": [
+            "2042426938749223073"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2084598441687253416",
+        "created_at": "2026-08-04T11:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084598441687253416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1129655215618007040",
+              "start": 3,
+              "username": "Antinomies_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSWuw3Bu36",
+              "end": 57,
+              "expanded_url": "https://x.com/Antinomies_/status/2042426938749223073/video/1",
+              "media_key": "13_2042426788136288257",
+              "start": 34,
+              "url": "https://t.co/oSWuw3Bu36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084598441687253416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042426938749223073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antinomies_: 修女会用杠杆步枪是很正常的事情吧 https://t.co/oSWuw3Bu36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078350301376180727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6732,
+          "following_count": 748,
+          "like_count": 25731,
+          "listed_count": 20,
+          "media_count": 1201,
+          "tweet_count": 17217
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-18T07:49:26.000Z",
+        "description": "春を告げ 踊りだすsunshine、夏を見る宇治  野原唐草乾くわ、秋の月 登った まん丸さ  お祝い、冬を 過ぎ また月日を数える",
+        "id": "1129655215618007040",
+        "location": "距离你500m",
+        "name": "Velasco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039311364758646784/o8YmfZe8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 994,
+          "like_count": 85739,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 9887
+        },
+        "url": "",
+        "username": "Antinomies_",
+        "verified": true
+      }
+    ]
+  }
+}

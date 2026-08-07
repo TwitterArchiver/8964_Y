@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2083992185515467049",
+    "created_at": "2026-08-03T00:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084075177693106419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1470151997563314186",
+          "start": 0,
+          "username": "RICARDOTELLOSO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084075177693106419",
+    "in_reply_to_user_id": "1470151997563314186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083992185515467049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RICARDOTELLOSO1 肥肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_2083992146390970368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvT0NBWcAAPhoW.jpg",
+        "width": 3124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2083992185515467049",
+        "created_at": "2026-08-03T00:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084075177693106419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1470151997563314186",
+              "start": 0,
+              "username": "RICARDOTELLOSO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084075177693106419",
+        "in_reply_to_user_id": "1470151997563314186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083992185515467049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RICARDOTELLOSO1 肥肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083992146390970368"
+          ]
+        },
+        "author_id": "1470151997563314186",
+        "conversation_id": "2083992185515467049",
+        "created_at": "2026-08-02T19:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083992185515467049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyyX9wdMiK",
+              "end": 49,
+              "expanded_url": "https://x.com/RICARDOTELLOSO1/status/2083992185515467049/photo/1",
+              "media_key": "3_2083992146390970368",
+              "start": 26,
+              "url": "https://t.co/iyyX9wdMiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083992185515467049",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Un animalito muy adorable https://t.co/iyyX9wdMiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078350301376180727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6735,
+          "following_count": 747,
+          "like_count": 25695,
+          "listed_count": 20,
+          "media_count": 1200,
+          "tweet_count": 17203
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T22:02:40.000Z",
+        "description": "Creating universes where silence speaks. Chess, ink, and the art of seeing. Simplicity is the ultimate depth of the cosmos.   \nConejitos y dibujos lo más lindo",
+        "id": "1470151997563314186",
+        "location": "Perú 🇵🇪. ",
+        "name": "Ricardo.🇵🇪 Arte",
+        "pinned_tweet_id": "2021971072631873879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027876001280098304/iLwaDgc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 697,
+          "like_count": 8376,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 1366
+        },
+        "url": "",
+        "username": "RICARDOTELLOSO1",
+        "verified": false
+      }
+    ]
+  }
+}

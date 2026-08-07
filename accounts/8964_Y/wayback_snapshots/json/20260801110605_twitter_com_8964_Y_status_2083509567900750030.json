@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081719117766447104",
+        "3_2081719117791518720"
+      ],
+      "media_source_tweet_id": [
+        "2081719127400657032",
+        "2081719127400657032"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2083509567900750030",
+    "created_at": "2026-08-01T11:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083509567900750030"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "さよならを教えて"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939914447017119744",
+          "start": 3,
+          "username": "HEIMAO529"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0IsRRBB9xZ",
+          "end": 48,
+          "expanded_url": "https://x.com/HEIMAO529/status/2081719127400657032/photo/1",
+          "media_key": "3_2081719117766447104",
+          "start": 25,
+          "url": "https://t.co/0IsRRBB9xZ"
+        },
+        {
+          "display_url": "pic.x.com/0IsRRBB9xZ",
+          "end": 48,
+          "expanded_url": "https://x.com/HEIMAO529/status/2081719127400657032/photo/1",
+          "media_key": "3_2081719117791518720",
+          "start": 25,
+          "url": "https://t.co/0IsRRBB9xZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083509567900750030",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081719127400657032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HEIMAO529: #さよならを教えて https://t.co/0IsRRBB9xZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1934,
+        "media_key": "3_2081719117766447104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPAghib0AAGOxi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081719117791518720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPAghoaYAAJTMI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081719117766447104",
+            "3_2081719117791518720"
+          ]
+        },
+        "author_id": "1939914447017119744",
+        "conversation_id": "2081719127400657032",
+        "created_at": "2026-07-27T12:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081719127400657032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよならを教えて"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IsRRBB9xZ",
+              "end": 33,
+              "expanded_url": "https://x.com/HEIMAO529/status/2081719127400657032/photo/1",
+              "media_key": "3_2081719117766447104",
+              "start": 10,
+              "url": "https://t.co/0IsRRBB9xZ"
+            },
+            {
+              "display_url": "pic.x.com/0IsRRBB9xZ",
+              "end": 33,
+              "expanded_url": "https://x.com/HEIMAO529/status/2081719127400657032/photo/1",
+              "media_key": "3_2081719117791518720",
+              "start": 10,
+              "url": "https://t.co/0IsRRBB9xZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081719127400657032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1290,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#さよならを教えて https://t.co/0IsRRBB9xZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081719117766447104",
+            "3_2081719117791518720"
+          ],
+          "media_source_tweet_id": [
+            "2081719127400657032",
+            "2081719127400657032"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2083509567900750030",
+        "created_at": "2026-08-01T11:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083509567900750030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "さよならを教えて"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939914447017119744",
+              "start": 3,
+              "username": "HEIMAO529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IsRRBB9xZ",
+              "end": 48,
+              "expanded_url": "https://x.com/HEIMAO529/status/2081719127400657032/photo/1",
+              "media_key": "3_2081719117766447104",
+              "start": 25,
+              "url": "https://t.co/0IsRRBB9xZ"
+            },
+            {
+              "display_url": "pic.x.com/0IsRRBB9xZ",
+              "end": 48,
+              "expanded_url": "https://x.com/HEIMAO529/status/2081719127400657032/photo/1",
+              "media_key": "3_2081719117791518720",
+              "start": 25,
+              "url": "https://t.co/0IsRRBB9xZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083509567900750030",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081719127400657032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HEIMAO529: #さよならを教えて https://t.co/0IsRRBB9xZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6729,
+          "following_count": 748,
+          "like_count": 25511,
+          "listed_count": 20,
+          "media_count": 1199,
+          "tweet_count": 17163
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T05:10:41.000Z",
+        "description": "名字是黑貓\n互fo擴列小窗就行\n剩下忘了",
+        "id": "1939914447017119744",
+        "location": "北校c栋",
+        "name": "ころんば",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057070025056628736/JgR553_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 259,
+          "like_count": 4846,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "HEIMAO529",
+        "verified": false
+      }
+    ]
+  }
+}
