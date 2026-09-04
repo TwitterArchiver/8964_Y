@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2090857597947826528",
+    "created_at": "2026-08-22T02:37:28.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090991717910729059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090991717910729059",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090857597947826528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild 破绷了\n自我感动型"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2090857293550432256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQ3oXIbsAAd0NW.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2090857597947826528",
+        "created_at": "2026-08-22T02:37:28.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090991717910729059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090991717910729059",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090857597947826528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild 破绷了\n自我感动型"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090857293550432256"
+          ]
+        },
+        "author_id": "1581478431274983424",
+        "conversation_id": "2090857597947826528",
+        "created_at": "2026-08-21T17:44:32.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090857597947826528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8AcalFQAX",
+              "end": 41,
+              "expanded_url": "https://x.com/yoyobewild/status/2090857597947826528/photo/1",
+              "media_key": "3_2090857293550432256",
+              "start": 18,
+              "url": "https://t.co/c8AcalFQAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090857597947826528",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090857293550432256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 29127,
+          "like_count": 639,
+          "quote_count": 7,
+          "reply_count": 52,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我绷了一天的笑点看到这段话全毁了。 https://t.co/c8AcalFQAX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2090991717910729059",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1787245451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6728,
+          "following_count": 742,
+          "like_count": 26117,
+          "listed_count": 20,
+          "media_count": 1214,
+          "tweet_count": 17374
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，倡导社会契约论，保障公民权利。",
+        "id": "1581478431274983424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090857597947826528",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581478431274983424/1777271267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5187,
+          "following_count": 186,
+          "like_count": 41587,
+          "listed_count": 16,
+          "media_count": 413,
+          "tweet_count": 8632
+        },
+        "url": "",
+        "username": "yoyobewild",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

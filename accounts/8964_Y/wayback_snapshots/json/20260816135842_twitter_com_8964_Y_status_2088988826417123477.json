@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2088968155226136885",
+    "created_at": "2026-08-16T13:58:42.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088988826417123477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088988826417123477",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088985003250311417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2088968155226136885",
+        "created_at": "2026-08-16T13:58:42.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088988826417123477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088988826417123477",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088985003250311417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2088968155226136885",
+        "created_at": "2026-08-16T13:43:30.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088985003250311417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088985003250311417",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088968155226136885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 天呐太可爱了…………"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2088988826417123477",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1756230509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6732,
+          "following_count": 742,
+          "like_count": 25986,
+          "listed_count": 20,
+          "media_count": 1212,
+          "tweet_count": 17323
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/VoZt7mGsY1"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088986380072636805",
+        "name": "朔云",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635516217200099328/1765711606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075399307688366080/HunfxYzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 581,
+          "like_count": 31140,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 9972
+        },
+        "url": "https://t.co/VoZt7mGsY1",
+        "username": "ywxqz_sy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

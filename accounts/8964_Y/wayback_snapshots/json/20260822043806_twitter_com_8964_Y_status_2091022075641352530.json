@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2091021702214074663",
+    "created_at": "2026-08-22T04:38:06.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091022075641352530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577359525606211605",
+          "start": 0,
+          "username": "R0astducker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091022075641352530",
+    "in_reply_to_user_id": "1577359525606211605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091021961824813553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0astducker 对啊开门的那一瞬间特别吓人😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2091021702214074663",
+        "created_at": "2026-08-22T04:38:06.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091022075641352530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577359525606211605",
+              "start": 0,
+              "username": "R0astducker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091022075641352530",
+        "in_reply_to_user_id": "1577359525606211605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091021961824813553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0astducker 对啊开门的那一瞬间特别吓人😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577359525606211605",
+        "conversation_id": "2091021702214074663",
+        "created_at": "2026-08-22T04:37:39.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091021961824813553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091021961824813553",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091021702214074663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我去啊有时候害怕电梯门一开会突然有个拿刀的精神病来捅我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2091022075641352530",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1787245451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6728,
+          "following_count": 743,
+          "like_count": 26122,
+          "listed_count": 20,
+          "media_count": 1214,
+          "tweet_count": 17378
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-04T18:06:45.000Z",
+        "description": "是阿呆/喜欢跟朋友打游戏/摇滚/欢迎互fo/看黄的跟incel男全家死了 小号@R0ASTDONK\nhttps://t.co/YVJv1E109W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "R0ASTDONK"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/r0astduck",
+                "end": 73,
+                "expanded_url": "https://ngl.link/r0astduck",
+                "start": 50,
+                "url": "https://t.co/YVJv1E109W"
+              }
+            ]
+          }
+        },
+        "id": "1577359525606211605",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091021961824813553",
+        "name": "呆是本",
+        "pinned_tweet_id": "2030307196999975247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577359525606211605/1672561854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090531902717657089/7zzTK4pX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 538,
+          "like_count": 31343,
+          "listed_count": 2,
+          "media_count": 1414,
+          "tweet_count": 11896
+        },
+        "url": "",
+        "username": "R0astducker",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

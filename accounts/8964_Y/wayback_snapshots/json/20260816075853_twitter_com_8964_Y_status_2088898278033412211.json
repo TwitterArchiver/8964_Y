@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2088856117690683502",
+    "created_at": "2026-08-16T07:58:53.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088898278033412211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1002944579191091200",
+          "start": 0,
+          "username": "aq68684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088898278033412211",
+    "in_reply_to_user_id": "1002944579191091200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088879349902766495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aq68684 钱多哦这些傻子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2088856117690683502",
+        "created_at": "2026-08-16T07:58:53.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088898278033412211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1002944579191091200",
+              "start": 0,
+              "username": "aq68684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088898278033412211",
+        "in_reply_to_user_id": "1002944579191091200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088879349902766495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aq68684 钱多哦这些傻子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1002944579191091200",
+        "conversation_id": "2088856117690683502",
+        "created_at": "2026-08-16T06:43:41.000Z",
+        "display_text_range": [
+          8,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088879349902766495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088879349902766495",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088856117690683502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 因为抽象火了，一坨石有热度了一堆人争先恐后尝咸淡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2088898278033412211",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078350301376180727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1756230509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6729,
+          "following_count": 745,
+          "like_count": 25977,
+          "listed_count": 20,
+          "media_count": 1210,
+          "tweet_count": 17316
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-02T16:06:36.000Z",
+        "description": "不知道，随便吧，就这样吧",
+        "id": "1002944579191091200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088879441938469028",
+        "name": "二狗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1002944579191091200/1732085346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000411536402284544/-gnui8WO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 3350,
+          "like_count": 22468,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 1075
+        },
+        "url": "",
+        "username": "aq68684",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

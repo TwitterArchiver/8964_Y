@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2089201732211597634",
+    "created_at": "2026-08-18T04:52:57.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089576261643575376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089576261643575376",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089201732211597634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 小孩好可怜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_2089201721461682177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5V5YfbsAE_W3O.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2089201732211597634",
+        "created_at": "2026-08-18T04:52:57.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089576261643575376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089576261643575376",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089201732211597634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 小孩好可怜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089201721461682177"
+          ]
+        },
+        "author_id": "1841626911228780545",
+        "conversation_id": "2089201732211597634",
+        "created_at": "2026-08-17T04:04:43.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T05:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089201732211597634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rikqvvaew7",
+              "end": 52,
+              "expanded_url": "https://x.com/kujou_king/status/2089201732211597634/photo/1",
+              "media_key": "3_2089201721461682177",
+              "start": 29,
+              "url": "https://t.co/rikqvvaew7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089201732211597634",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089201721461682177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 1072939,
+          "like_count": 2017,
+          "quote_count": 12,
+          "reply_count": 577,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "这孩子的老母大脑褶皱是有多平滑才能想出这么逆天的傻逼标题 https://t.co/rikqvvaew7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2089576261643575376",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1756230509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6729,
+          "following_count": 744,
+          "like_count": 26051,
+          "listed_count": 20,
+          "media_count": 1213,
+          "tweet_count": 17350
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "我爱说啥说啥，看我不顺眼就滚，我活着又不是为了取悦你",
+        "id": "1841626911228780545",
+        "is_identity_verified": false,
+        "location": "没有🚪不加V不扩列不要问了",
+        "most_recent_tweet_id": "2089385994881769854",
+        "name": "🧸愛莉莎大爱中国猪🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841626911228780545/1786201030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086828429949984768/8VNGjJ71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 348,
+          "like_count": 5795,
+          "listed_count": 20,
+          "media_count": 77,
+          "tweet_count": 2488
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

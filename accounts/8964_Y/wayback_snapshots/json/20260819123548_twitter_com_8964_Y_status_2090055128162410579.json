@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2089844239303647497",
+    "created_at": "2026-08-19T12:35:48.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090055128162410579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086838732741885952",
+          "start": 0,
+          "username": "Ididnothinglqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090055128162410579",
+    "in_reply_to_user_id": "2086838732741885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089844239303647497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ididnothinglqz 这种老了以后在饭桌上谈论美国完蛋了最狠了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93136,
+        "height": 1280,
+        "media_key": "13_2089761854797340672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089761854797340672/img/ZTTPgfLamzGK-w93.jpg",
+        "public_metrics": {
+          "view_count": 42761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089761854797340672/vid/avc1/320x568/EV7iKhQR0YPpTELv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089761854797340672/vid/avc1/480x852/GKlxmPjPXkt3jgBt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089761854797340672/vid/avc1/720x1280/HUnEEu7Tm88C3WMb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089761854797340672/pl/pd7i0f7IeitsNyyM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2089844239303647497",
+        "created_at": "2026-08-19T12:35:48.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090055128162410579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086838732741885952",
+              "start": 0,
+              "username": "Ididnothinglqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090055128162410579",
+        "in_reply_to_user_id": "2086838732741885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089844239303647497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ididnothinglqz 这种老了以后在饭桌上谈论美国完蛋了最狠了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089761854797340672"
+          ],
+          "media_source_tweet_id": [
+            "2089761896744517892"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2089844239303647497",
+        "created_at": "2026-08-18T22:37:48.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089844239303647497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUDsAy3rGP",
+              "end": 34,
+              "expanded_url": "https://x.com/lengshanshipin/status/2089761896744517892/video/1",
+              "media_key": "13_2089761854797340672",
+              "start": 11,
+              "url": "https://t.co/CUDsAy3rGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089844239303647497",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089761854797340672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3684,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中职小帅：人民万岁！ https://t.co/CUDsAy3rGP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2090055128162410579",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1756230509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6727,
+          "following_count": 745,
+          "like_count": 26075,
+          "listed_count": 20,
+          "media_count": 1214,
+          "tweet_count": 17357
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元  无取向\n友左友右友跨友同友非二元，你包容我我包容你，原则上不ban少ban，新注册号除外看黄男除外魔人除外\n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2090054627849105605",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 240,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

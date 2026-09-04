@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2089999516728746204",
+    "created_at": "2026-08-19T12:00:17.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090046190054494545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086838732741885952",
+          "start": 0,
+          "username": "Ididnothinglqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090046190054494545",
+    "in_reply_to_user_id": "2086838732741885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089999516728746204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ididnothinglqz 这些男的举个旗以为自己很爱国😂嘉豪行为"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 722,
+        "media_key": "13_2089999474177503232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089999474177503232/img/axng2OFjfU9o5rMx.jpg",
+        "public_metrics": {
+          "view_count": 14046
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/vid/avc1/320x402/gx_VX-qPMkXIHKJI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/vid/avc1/480x602/oVqhVjoa8VbD0e7u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/vid/avc1/574x722/77M1GTUleqZo1NcM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/pl/ALGBuiNNvML1exK7.m3u8?v=cfc"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2089999516728746204",
+        "created_at": "2026-08-19T12:00:17.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090046190054494545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086838732741885952",
+              "start": 0,
+              "username": "Ididnothinglqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090046190054494545",
+        "in_reply_to_user_id": "2086838732741885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089999516728746204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ididnothinglqz 这些男的举个旗以为自己很爱国😂嘉豪行为"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089999474177503232"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2089999516728746204",
+        "created_at": "2026-08-19T08:54:49.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089999516728746204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOQoZGBcsg",
+              "end": 91,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2089999516728746204/video/1",
+              "media_key": "13_2089999474177503232",
+              "start": 68,
+              "url": "https://t.co/NOQoZGBcsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089999516728746204",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089999474177503232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 20080,
+          "like_count": 322,
+          "quote_count": 8,
+          "reply_count": 60,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "工作时长14小时，我忍，\n欠我工资拖我工资，我忍，\n工厂兄弟姐妹跳楼，我忍，\n冻我银行卡改我健康码，我忍，\n\n娘们欠打了？妈的上街！！ https://t.co/NOQoZGBcsg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2090046190054494545",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1756230509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6727,
+          "following_count": 745,
+          "like_count": 26074,
+          "listed_count": 20,
+          "media_count": 1214,
+          "tweet_count": 17356
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元  无取向\n友左友右友跨友同友非二元，你包容我我包容你，原则上不ban少ban，新注册号除外看黄男除外魔人除外\n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2090043105621967158",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 238,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1169
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

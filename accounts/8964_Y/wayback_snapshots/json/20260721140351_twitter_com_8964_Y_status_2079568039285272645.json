@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2079473222756794482",
+    "created_at": "2026-07-21T14:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079568039285272645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844155684276854786",
+          "start": 0,
+          "username": "Marcosfimosinha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079568039285272645",
+    "in_reply_to_user_id": "1844155684276854786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079544568760983635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marcosfimosinha 这下够小众了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2079473222756794482",
+        "created_at": "2026-07-21T14:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079568039285272645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844155684276854786",
+              "start": 0,
+              "username": "Marcosfimosinha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079568039285272645",
+        "in_reply_to_user_id": "1844155684276854786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079544568760983635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marcosfimosinha 这下够小众了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844155684276854786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226182390157312",
+              "name": "Vasco da Gama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226182390157312",
+              "name": "Vasco da Gama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2079473222756794482",
+        "created_at": "2026-07-21T12:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079544568760983635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079544568760983635",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079473222756794482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y Karai do nada o Vasco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11｜🚪200好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078205908832891000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6706,
+          "following_count": 743,
+          "like_count": 25081,
+          "listed_count": 19,
+          "media_count": 1180,
+          "tweet_count": 16990
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T23:19:29.000Z",
+        "description": "",
+        "id": "1844155684276854786",
+        "name": "Marcos",
+        "pinned_tweet_id": "2015638533508055045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925522938289135616/BqaxJxBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 248,
+          "like_count": 39581,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3711
+        },
+        "url": "",
+        "username": "Marcosfimosinha",
+        "verified": false
+      }
+    ]
+  }
+}

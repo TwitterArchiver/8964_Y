@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2091544059328565493",
+    "created_at": "2026-08-23T15:12:17.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091544059328565493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2089070055372042240",
+          "start": 3,
+          "username": "ShiRoNeKo_Reiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091544059328565493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091232474307379355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShiRoNeKo_Reiii: 我发什么东西别人都懒得理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2091544059328565493",
+        "created_at": "2026-08-23T15:12:17.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091544059328565493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2089070055372042240",
+              "start": 3,
+              "username": "ShiRoNeKo_Reiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091544059328565493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091232474307379355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShiRoNeKo_Reiii: 我发什么东西别人都懒得理我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089070055372042240",
+        "conversation_id": "2091232474307379355",
+        "created_at": "2026-08-22T18:34:09.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091232474307379355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091232474307379355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发什么东西别人都懒得理我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2091544059328565493",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1787245451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6735,
+          "following_count": 744,
+          "like_count": 26163,
+          "listed_count": 20,
+          "media_count": 1214,
+          "tweet_count": 17401
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T19:34:04.000Z",
+        "description": "tg｜https://t.co/UmyeUKZ8l8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.org/dl",
+                "end": 26,
+                "expanded_url": "https://telegram.org/dl",
+                "start": 3,
+                "url": "https://t.co/UmyeUKZ8l8"
+              }
+            ]
+          }
+        },
+        "id": "2089070055372042240",
+        "is_identity_verified": false,
+        "location": "🚪128/256/520",
+        "most_recent_tweet_id": "2091491965099712972",
+        "name": "最害怕萝莉了",
+        "pinned_tweet_id": "2089145466156134680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089070055372042240/1786909103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091241067807219712/rI-NXLOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 22,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "ShiRoNeKo_Reiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
