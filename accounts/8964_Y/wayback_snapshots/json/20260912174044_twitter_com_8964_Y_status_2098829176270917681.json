@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2098405044341416175",
+    "created_at": "2026-09-12T17:40:44.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098829176270917681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1703935761589182464",
+          "start": 0,
+          "username": "zhouyire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098829176270917681",
+    "in_reply_to_user_id": "1703935761589182464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098788239372845249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouyire 嘘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2098405044341416175",
+        "created_at": "2026-09-12T17:40:44.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098829176270917681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1703935761589182464",
+              "start": 0,
+              "username": "zhouyire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098829176270917681",
+        "in_reply_to_user_id": "1703935761589182464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098788239372845249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouyire 嘘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703935761589182464",
+        "conversation_id": "2098405044341416175",
+        "created_at": "2026-09-12T14:58:04.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098788239372845249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098788239372845249",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098405044341416175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 你是抖音上的那个无能神啊😱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2098829176270917681",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2098813855640211603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6770,
+          "following_count": 736,
+          "like_count": 26507,
+          "listed_count": 20,
+          "media_count": 1229,
+          "tweet_count": 17596
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-19T00:55:38.000Z",
+        "description": "无人",
+        "id": "1703935761589182464",
+        "is_identity_verified": false,
+        "location": "Southern District, Hong Kong",
+        "most_recent_tweet_id": "2098800958302195768",
+        "name": "E.Meyer",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703935761589182464/1755366932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077903819086921728/BWm9e-ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 39,
+          "like_count": 9917,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "zhouyire",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

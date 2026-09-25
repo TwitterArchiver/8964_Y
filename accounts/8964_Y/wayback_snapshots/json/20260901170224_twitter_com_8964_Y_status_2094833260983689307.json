@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094743147700158464"
+      ],
+      "media_source_tweet_id": [
+        "2094743161231098341"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2094833260983689307",
+    "created_at": "2026-09-01T17:02:24.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T18:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094833260983689307"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2094022263301640192",
+          "start": 3,
+          "username": "UwU_Miyoki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kSL01r3Whr",
+          "end": 55,
+          "expanded_url": "https://x.com/UwU_Miyoki/status/2094743161231098341/photo/1",
+          "media_key": "3_2094743147700158464",
+          "start": 32,
+          "url": "https://t.co/kSL01r3Whr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094833260983689307",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094743147700158464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094743161231098341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UwU_Miyoki: ？！拉拉？！\n#cosplay https://t.co/kSL01r3Whr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094743147700158464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIFy15aAAAcMMd.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094743147700158464"
+          ],
+          "media_source_tweet_id": [
+            "2094743161231098341"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2094833260983689307",
+        "created_at": "2026-09-01T17:02:24.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094833260983689307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2094022263301640192",
+              "start": 3,
+              "username": "UwU_Miyoki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSL01r3Whr",
+              "end": 55,
+              "expanded_url": "https://x.com/UwU_Miyoki/status/2094743161231098341/photo/1",
+              "media_key": "3_2094743147700158464",
+              "start": 32,
+              "url": "https://t.co/kSL01r3Whr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094833260983689307",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094743147700158464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094743161231098341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UwU_Miyoki: ？！拉拉？！\n#cosplay https://t.co/kSL01r3Whr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094743147700158464"
+          ]
+        },
+        "author_id": "2094022263301640192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2094743161231098341",
+        "created_at": "2026-09-01T11:04:22.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094743161231098341"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSL01r3Whr",
+              "end": 39,
+              "expanded_url": "https://x.com/UwU_Miyoki/status/2094743161231098341/photo/1",
+              "media_key": "3_2094743147700158464",
+              "start": 16,
+              "url": "https://t.co/kSL01r3Whr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094743161231098341",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094743147700158464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 841,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？！拉拉？！\n#cosplay https://t.co/kSL01r3Whr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2094833260983689307",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1787245451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6729,
+          "following_count": 738,
+          "like_count": 26229,
+          "listed_count": 20,
+          "media_count": 1217,
+          "tweet_count": 17459
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T11:24:30.000Z",
+        "description": "我是Miyoki｜173cm｜D｜接线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovemiyoki",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovemiyoki",
+                "start": 0,
+                "url": "https://t.co/B10c6fP70Z"
+              }
+            ]
+          }
+        },
+        "id": "2094022263301640192",
+        "is_identity_verified": false,
+        "location": "🤍",
+        "most_recent_tweet_id": "2094819277408997559",
+        "name": "Miyoki",
+        "pinned_tweet_id": "2094749244452470912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094022263301640192/1788255593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094023701494902784/VS3zg9XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 11,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/B10c6fP70Z",
+        "username": "UwU_Miyoki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

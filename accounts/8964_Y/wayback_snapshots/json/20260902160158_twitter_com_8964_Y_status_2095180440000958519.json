@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094605329128632320"
+      ],
+      "media_source_tweet_id": [
+        "2094605341128569096"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2095180440000958519",
+    "created_at": "2026-09-02T16:01:58.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095180440000958519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1956567270739828736",
+          "start": 3,
+          "username": "Truffaut897456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/le2DX82xNd",
+          "end": 55,
+          "expanded_url": "https://x.com/Truffaut897456/status/2094605341128569096/photo/1",
+          "media_key": "3_2094605329128632320",
+          "start": 32,
+          "url": "https://t.co/le2DX82xNd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095180440000958519",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094605329128632320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094605341128569096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Truffaut897456: 没睡好，特别困，特别😪 https://t.co/le2DX82xNd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094605329128632320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGIcvtaMAALBYi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094605329128632320"
+          ],
+          "media_source_tweet_id": [
+            "2094605341128569096"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2095180440000958519",
+        "created_at": "2026-09-02T16:01:58.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095180440000958519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1956567270739828736",
+              "start": 3,
+              "username": "Truffaut897456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/le2DX82xNd",
+              "end": 55,
+              "expanded_url": "https://x.com/Truffaut897456/status/2094605341128569096/photo/1",
+              "media_key": "3_2094605329128632320",
+              "start": 32,
+              "url": "https://t.co/le2DX82xNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095180440000958519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094605329128632320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094605341128569096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Truffaut897456: 没睡好，特别困，特别😪 https://t.co/le2DX82xNd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094605329128632320"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "2094605341128569096",
+        "created_at": "2026-09-01T01:56:43.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094605341128569096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/le2DX82xNd",
+              "end": 35,
+              "expanded_url": "https://x.com/Truffaut897456/status/2094605341128569096/photo/1",
+              "media_key": "3_2094605329128632320",
+              "start": 12,
+              "url": "https://t.co/le2DX82xNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094605341128569096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094605329128632320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 8720,
+          "like_count": 1015,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "没睡好，特别困，特别😪 https://t.co/le2DX82xNd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2095180440000958519",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6734,
+          "following_count": 737,
+          "like_count": 26265,
+          "listed_count": 20,
+          "media_count": 1219,
+          "tweet_count": 17478
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "喜欢电影🎦 喜欢标豆瓣，玩豆瓣的可以私信来互关一下豆瓣，最喜欢恐怖片（意大利铅黄 好莱坞和各种欧美b恐 香港恐怖 日恐），对烂片有瘾，我品味烂爆，各类电影也都会看一点，还有二次元少女乐队特摄古早动画，平时喜欢拍cos和各种拍衣服，照片纯高p，线下丑蛆查无此人，如果撞上请不要骂我呜呜。",
+        "id": "1956567270739828736",
+        "is_identity_verified": false,
+        "location": "我想吃薯条",
+        "most_recent_tweet_id": "2095180419541147769",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956567270739828736/1773969451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093923994756091904/CCZPcilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23730,
+          "following_count": 1540,
+          "like_count": 13024,
+          "listed_count": 68,
+          "media_count": 364,
+          "tweet_count": 5325
+        },
+        "url": "",
+        "username": "Truffaut897456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

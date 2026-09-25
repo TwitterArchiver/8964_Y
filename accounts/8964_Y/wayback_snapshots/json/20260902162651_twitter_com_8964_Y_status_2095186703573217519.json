@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095185593538068480"
+      ],
+      "media_source_tweet_id": [
+        "2095185600660099303"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2095186703573217519",
+    "created_at": "2026-09-02T16:26:51.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095186703573217519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943875332320505856",
+          "start": 3,
+          "username": "QY_art7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3wAQOd59w",
+          "end": 41,
+          "expanded_url": "https://x.com/QY_art7/status/2095185600660099303/photo/1",
+          "media_key": "3_2095185593538068480",
+          "start": 18,
+          "url": "https://t.co/d3wAQOd59w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095186703573217519",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095185593538068480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095185600660099303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QY_art7: 画了朋友 https://t.co/d3wAQOd59w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2095185593538068480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROYMlFaQAAUn0O.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095185593538068480"
+          ],
+          "media_source_tweet_id": [
+            "2095185600660099303"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2095186703573217519",
+        "created_at": "2026-09-02T16:26:51.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095186703573217519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943875332320505856",
+              "start": 3,
+              "username": "QY_art7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3wAQOd59w",
+              "end": 41,
+              "expanded_url": "https://x.com/QY_art7/status/2095185600660099303/photo/1",
+              "media_key": "3_2095185593538068480",
+              "start": 18,
+              "url": "https://t.co/d3wAQOd59w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095186703573217519",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095185593538068480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095185600660099303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QY_art7: 画了朋友 https://t.co/d3wAQOd59w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095185593538068480"
+          ]
+        },
+        "author_id": "1943875332320505856",
+        "conversation_id": "2095185600660099303",
+        "created_at": "2026-09-02T16:22:28.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095185600660099303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3wAQOd59w",
+              "end": 28,
+              "expanded_url": "https://x.com/QY_art7/status/2095185600660099303/photo/1",
+              "media_key": "3_2095185593538068480",
+              "start": 5,
+              "url": "https://t.co/d3wAQOd59w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095185600660099303",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095185593538068480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "画了朋友 https://t.co/d3wAQOd59w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2095186703573217519",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6735,
+          "following_count": 737,
+          "like_count": 26269,
+          "listed_count": 20,
+          "media_count": 1219,
+          "tweet_count": 17479
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-12T03:29:38.000Z",
+        "description": "日常：@8964_Y ｜喜欢画画｜绘画委托请DM！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "1943875332320505856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095185600660099303",
+        "name": "生门一号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943875332320505856/1752291130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992414201562980353/ueePEzA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 4,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "QY_art7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

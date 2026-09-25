@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2098368804581724324",
+    "created_at": "2026-09-13T06:15:12.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T07:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099019041637888314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2038748247754162176",
+          "start": 0,
+          "username": "0xA672"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099019041637888314",
+    "in_reply_to_user_id": "2038748247754162176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099010229698728101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xA672 无差别攻击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2098368804581724324",
+        "created_at": "2026-09-13T06:15:12.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099019041637888314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2038748247754162176",
+              "start": 0,
+              "username": "0xA672"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099019041637888314",
+        "in_reply_to_user_id": "2038748247754162176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099010229698728101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xA672 无差别攻击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038748247754162176",
+        "conversation_id": "2098368804581724324",
+        "created_at": "2026-09-13T05:40:11.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099010229698728101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099010229698728101",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098368804581724324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 為什麼要給非二元特權"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2099019041637888314",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2098844822882975879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6785,
+          "following_count": 735,
+          "like_count": 26527,
+          "listed_count": 20,
+          "media_count": 1230,
+          "tweet_count": 17608
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T22:40:45.000Z",
+        "description": "Type-checking failure only means the program isn’t typable in that system—it may be a real type error or a limitation of the system’s expressiveness/proof power",
+        "id": "2038748247754162176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099018194350731641",
+        "name": "0xA672🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038748247754162176/1788612978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096220873003065344/uGCFC8X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 428,
+          "like_count": 2508,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "0xA672",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

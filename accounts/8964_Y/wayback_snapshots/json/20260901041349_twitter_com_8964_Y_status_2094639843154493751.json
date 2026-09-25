@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2094639843154493751",
+    "created_at": "2026-09-01T04:13:49.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094639843154493751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2900565097",
+          "start": 3,
+          "username": "johnny_onpuchan"
+        },
+        {
+          "end": 37,
+          "id": "1534522067017605120",
+          "start": 21,
+          "username": "7d8A2zCUqxIOB8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094639843154493751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094090241410023642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnny_onpuchan: @7d8A2zCUqxIOB8Y 不要诅咒他人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2094639843154493751",
+        "created_at": "2026-09-01T04:13:49.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094639843154493751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2900565097",
+              "start": 3,
+              "username": "johnny_onpuchan"
+            },
+            {
+              "end": 37,
+              "id": "1534522067017605120",
+              "start": 21,
+              "username": "7d8A2zCUqxIOB8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094639843154493751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094090241410023642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johnny_onpuchan: @7d8A2zCUqxIOB8Y 不要诅咒他人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2900565097",
+        "conversation_id": "2094037629880922119",
+        "created_at": "2026-08-30T15:49:54.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094090241410023642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1534522067017605120",
+              "start": 0,
+              "username": "7d8A2zCUqxIOB8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094090241410023642",
+        "in_reply_to_user_id": "1534522067017605120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63914,
+          "like_count": 584,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094079849828892921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7d8A2zCUqxIOB8Y 不要诅咒他人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2094639843154493751",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1787245451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6730,
+          "following_count": 737,
+          "like_count": 26219,
+          "listed_count": 20,
+          "media_count": 1217,
+          "tweet_count": 17445
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/学习中文/包蜜",
+        "id": "2900565097",
+        "is_identity_verified": true,
+        "location": "福冈反革命根据地",
+        "most_recent_tweet_id": "2094629848933146691",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2900565097/1458917216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18048,
+          "following_count": 1445,
+          "like_count": 140075,
+          "listed_count": 110,
+          "media_count": 7760,
+          "tweet_count": 140511
+        },
+        "url": "",
+        "username": "johnny_onpuchan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-08T13:05:57.000Z",
+        "description": "怕什么天道轮回",
+        "id": "1534522067017605120",
+        "is_identity_verified": false,
+        "location": "Itabashi-ku, Tokyo",
+        "most_recent_tweet_id": "2094313079559598380",
+        "name": "夏海晴風",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056283330040221697/zw2mu10t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 154,
+          "like_count": 620,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1889
+        },
+        "url": "",
+        "username": "7d8A2zCUqxIOB8Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

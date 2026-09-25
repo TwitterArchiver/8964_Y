@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2096426002797002879",
+    "created_at": "2026-09-06T02:31:23.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096426002797002879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zutomayo/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/zutomayo/status/2077008943944229171",
+          "start": 7,
+          "url": "https://t.co/se7fisoPvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096426002797002879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077008943944229171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每套都好萌😻 https://t.co/se7fisoPvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13816,
+        "height": 478,
+        "media_key": "13_2076657125837930496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076657125837930496/img/qiE_xxgecys8Cwet.jpg",
+        "public_metrics": {
+          "view_count": 56758
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076657125837930496/vid/avc1/294x270/pc_ihJgugNlylGp4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076657125837930496/vid/avc1/522x478/wwJ2VKdnJ2vVbXE_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076657125837930496/pl/TyrVLvPrguHLCaxr.m3u8?v=cfc"
+          }
+        ],
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2096426002797002879",
+        "created_at": "2026-09-06T02:31:23.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096426002797002879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zutomayo/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zutomayo/status/2077008943944229171",
+              "start": 7,
+              "url": "https://t.co/se7fisoPvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096426002797002879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077008943944229171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每套都好萌😻 https://t.co/se7fisoPvZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076657125837930496"
+          ],
+          "media_source_tweet_id": [
+            "2076657184575017114"
+          ]
+        },
+        "author_id": "986275202030907392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2077008943944229171",
+        "created_at": "2026-07-14T12:34:55.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077008943944229171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Bmago7OvM",
+              "end": 23,
+              "expanded_url": "https://x.com/mero_kotopoyu/status/2076657184575017114/video/1",
+              "media_key": "13_2076657125837930496",
+              "start": 0,
+              "url": "https://t.co/2Bmago7OvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008943944229171",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2076657125837930496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 411,
+          "impression_count": 218677,
+          "like_count": 7199,
+          "quote_count": 23,
+          "reply_count": 24,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Bmago7OvM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2096426002797002879",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2096218930990002343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6738,
+          "following_count": 736,
+          "like_count": 26327,
+          "listed_count": 20,
+          "media_count": 1220,
+          "tweet_count": 17502
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-17T16:08:27.000Z",
+        "description": "https://t.co/9MiAS9i79m ううううう 人工甘味料に溺れた地球のレスキュー隊としてやってきました\nスパイシーズ/アカネーンです",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lnk.to/ZUTOMAYO_YT",
+                "end": 23,
+                "expanded_url": "https://lnk.to/ZUTOMAYO_YT",
+                "start": 0,
+                "url": "https://t.co/9MiAS9i79m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/zutomayo/",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/zutomayo/",
+                "start": 0,
+                "url": "https://t.co/ZMjuEbK5Xz"
+              }
+            ]
+          }
+        },
+        "id": "986275202030907392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095557902333612361",
+        "name": "ACAねこスキル (ずっと真夜中でいいのに。)",
+        "pinned_tweet_id": "2074102778914607422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/986275202030907392/1676790018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409459829316284419/nrIiFKWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682975,
+          "following_count": 6,
+          "like_count": 8459,
+          "listed_count": 2920,
+          "media_count": 1822,
+          "tweet_count": 8529
+        },
+        "url": "https://t.co/ZMjuEbK5Xz",
+        "username": "zutomayo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

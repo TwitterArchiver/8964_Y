@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2094443951294132589",
+    "created_at": "2026-09-01T10:20:04.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094732011860824089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724267127031672832",
+          "start": 0,
+          "username": "aliebwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094732011860824089",
+    "in_reply_to_user_id": "1724267127031672832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094443951294132589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliebwa 接接接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2094443941831835648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD1qxLbAAAnfr3.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2094443951294132589",
+        "created_at": "2026-09-01T10:20:04.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094732011860824089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724267127031672832",
+              "start": 0,
+              "username": "aliebwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094732011860824089",
+        "in_reply_to_user_id": "1724267127031672832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094443951294132589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliebwa 接接接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094443941831835648"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "2094443951294132589",
+        "created_at": "2026-08-31T15:15:25.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094443951294132589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjIYehctok",
+              "end": 72,
+              "expanded_url": "https://x.com/aliebwa/status/2094443951294132589/photo/1",
+              "media_key": "3_2094443941831835648",
+              "start": 49,
+              "url": "https://t.co/HjIYehctok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094443951294132589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094443941831835648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2835,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "愈美30/24颗 可以扩列！喜欢长发男！喜欢mtf！转帖子点赞评论抽十位幸运粉丝赠送三盒右美沙芬 https://t.co/HjIYehctok"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2094732020144554401",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2088968155226136885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1787245451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6727,
+          "following_count": 736,
+          "like_count": 26220,
+          "listed_count": 20,
+          "media_count": 1217,
+          "tweet_count": 17447
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "🚪66 努力活着努力活下去/喜欢长发男/讨论哲学/od",
+        "id": "1724267127031672832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094668157806104576",
+        "name": "idi/愈美30米24t",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724267127031672832/1699933762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1190,
+          "like_count": 1211,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "aliebwa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

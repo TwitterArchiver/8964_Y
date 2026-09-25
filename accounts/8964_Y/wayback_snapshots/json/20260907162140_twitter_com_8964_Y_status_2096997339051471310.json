@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096871010171543554",
+        "3_2096871010297647104"
+      ],
+      "media_source_tweet_id": [
+        "2096871032527229280",
+        "2096871032527229280"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2096997339051471310",
+    "created_at": "2026-09-07T16:21:40.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096997339051471310"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "门槛"
+        },
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "地雷系"
+        },
+        {
+          "end": 39,
+          "start": 33,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822286835210457088",
+          "start": 3,
+          "username": "shangyuwiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFb0VaVvOI",
+          "end": 87,
+          "expanded_url": "https://x.com/shangyuwiii/status/2096871032527229280/photo/1",
+          "media_key": "3_2096871010171543554",
+          "start": 64,
+          "url": "https://t.co/cFb0VaVvOI"
+        },
+        {
+          "display_url": "pic.x.com/cFb0VaVvOI",
+          "end": 87,
+          "expanded_url": "https://x.com/shangyuwiii/status/2096871032527229280/photo/1",
+          "media_key": "3_2096871010297647104",
+          "start": 64,
+          "url": "https://t.co/cFb0VaVvOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096997339051471310",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096871010171543554"
+      },
+      {
+        "media_key": "3_2096871010297647104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096871032527229280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shangyuwiii: #门槛 #地雷系女子 #地雷系 #自撮り界隈 生病了求过门求救济…唉实在不行我接点线下纯绿吧 https://t.co/cFb0VaVvOI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096871010171543554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmVEvUW4AIiymx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096871010297647104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmVEvybEAAZ5uJ.jpg",
+        "width": 1556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096871010171543554",
+            "3_2096871010297647104"
+          ],
+          "media_source_tweet_id": [
+            "2096871032527229280",
+            "2096871032527229280"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2096997339051471310",
+        "created_at": "2026-09-07T16:21:40.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096997339051471310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "门槛"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "地雷系"
+            },
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822286835210457088",
+              "start": 3,
+              "username": "shangyuwiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFb0VaVvOI",
+              "end": 87,
+              "expanded_url": "https://x.com/shangyuwiii/status/2096871032527229280/photo/1",
+              "media_key": "3_2096871010171543554",
+              "start": 64,
+              "url": "https://t.co/cFb0VaVvOI"
+            },
+            {
+              "display_url": "pic.x.com/cFb0VaVvOI",
+              "end": 87,
+              "expanded_url": "https://x.com/shangyuwiii/status/2096871032527229280/photo/1",
+              "media_key": "3_2096871010297647104",
+              "start": 64,
+              "url": "https://t.co/cFb0VaVvOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096997339051471310",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096871010171543554"
+          },
+          {
+            "media_key": "3_2096871010297647104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096871032527229280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shangyuwiii: #门槛 #地雷系女子 #地雷系 #自撮り界隈 生病了求过门求救济…唉实在不行我接点线下纯绿吧 https://t.co/cFb0VaVvOI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096871010171543554",
+            "3_2096871010297647104"
+          ]
+        },
+        "author_id": "1822286835210457088",
+        "conversation_id": "2096871032527229280",
+        "created_at": "2026-09-07T07:59:46.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096871032527229280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            },
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "地雷系"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFb0VaVvOI",
+              "end": 70,
+              "expanded_url": "https://x.com/shangyuwiii/status/2096871032527229280/photo/1",
+              "media_key": "3_2096871010171543554",
+              "start": 47,
+              "url": "https://t.co/cFb0VaVvOI"
+            },
+            {
+              "display_url": "pic.x.com/cFb0VaVvOI",
+              "end": 70,
+              "expanded_url": "https://x.com/shangyuwiii/status/2096871032527229280/photo/1",
+              "media_key": "3_2096871010297647104",
+              "start": 47,
+              "url": "https://t.co/cFb0VaVvOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096871032527229280",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096871010171543554"
+          },
+          {
+            "media_key": "3_2096871010297647104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 661,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 #地雷系女子 #地雷系 #自撮り界隈 生病了求过门求救济…唉实在不行我接点线下纯绿吧 https://t.co/cFb0VaVvOI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2096997339051471310",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2096218930990002343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6743,
+          "following_count": 736,
+          "like_count": 26397,
+          "listed_count": 20,
+          "media_count": 1224,
+          "tweet_count": 17529
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T15:00:36.000Z",
+        "description": "=临川/小雨/Rain\n主坑lovelive 东方project\nll缪=水＞星＞虹=莲\n双鱼座 生理女 心理女\n坑多且杂没事还玩点galgame 搞点地雷系\n推特成分多为日常 cos照 废话 \n很好相处 欢迎小美女找我约计划\n不键政 不开黄腔 不性别对立",
+        "id": "1822286835210457088",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2096990058557456677",
+        "name": "Rain",
+        "pinned_tweet_id": "2084027696657404106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822286835210457088/1723302514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855525542373830656/1h40j_sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 118,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "shangyuwiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

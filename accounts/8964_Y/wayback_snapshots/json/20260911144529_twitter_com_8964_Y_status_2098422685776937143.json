@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2098422685776937143",
+    "created_at": "2026-09-11T14:45:29.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098422685776937143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1400005947213324288",
+          "start": 3,
+          "username": "KuroSankaku3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098422685776937143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11380
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097433619451265224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KuroSankaku3: うちの犬、叩かれたことがないので、叩くふりで手を振り上げたら嬉しそうにニコニコで耳をたたむ。ナデナデ待ち。\nそれで良い。怖いことなんか何も知らなくていい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2098422685776937143",
+        "created_at": "2026-09-11T14:45:29.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098422685776937143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1400005947213324288",
+              "start": 3,
+              "username": "KuroSankaku3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098422685776937143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097433619451265224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KuroSankaku3: うちの犬、叩かれたことがないので、叩くふりで手を振り上げたら嬉しそうにニコニコで耳をたたむ。ナデナデ待ち。\nそれで良い。怖いことなんか何も知らなくていい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400005947213324288",
+        "conversation_id": "2097433619451265224",
+        "created_at": "2026-09-08T21:15:17.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097433619451265224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097433619451265224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5029,
+          "impression_count": 9075165,
+          "like_count": 196506,
+          "quote_count": 830,
+          "reply_count": 101,
+          "retweet_count": 11380
+        },
+        "reply_settings": "everyone",
+        "text": "うちの犬、叩かれたことがないので、叩くふりで手を振り上げたら嬉しそうにニコニコで耳をたたむ。ナデナデ待ち。\nそれで良い。怖いことなんか何も知らなくていい。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99IGiMC1n1O",
+                "start": 0,
+                "url": "https://t.co/22SrhQzaYF"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2098422685776937143",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2096822811172184073",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6741,
+          "following_count": 737,
+          "like_count": 26463,
+          "listed_count": 20,
+          "media_count": 1227,
+          "tweet_count": 17568
+        },
+        "url": "https://t.co/22SrhQzaYF",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-02T08:27:21.000Z",
+        "description": "NZ在住/広島出身/洋書も和書も好き/ミステリー、ファンタジー、ホラーなど/図書館LOVE/ 英語のあれこれも/パンも焼く/十二国記を愛しています/クラフト、料理、本棚、植物、犬猫モフなどの写真大好き",
+        "id": "1400005947213324288",
+        "is_identity_verified": false,
+        "location": "時々広島弁が出ます",
+        "most_recent_tweet_id": "2098380708091932771",
+        "name": "さんかく｜洋書＋和書｜",
+        "pinned_tweet_id": "2087720263190532493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1400005947213324288/1780961750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625014293988261888/kpJkKxsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1147,
+          "like_count": 115236,
+          "listed_count": 11,
+          "media_count": 1511,
+          "tweet_count": 17887
+        },
+        "url": "",
+        "username": "KuroSankaku3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
