@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2108121563866468579",
+    "created_at": "2026-10-08T10:35:07.000Z",
+    "display_text_range": [
+      13,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T11:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108144151997136983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774268197304164352",
+          "start": 0,
+          "username": "dzsdh261302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108144151997136983",
+    "in_reply_to_user_id": "1774268197304164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108131285655020020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzsdh261302 我焦虑不是因为我想要焦虑才焦虑，是因为我焦虑才会焦虑\n这不是我可以控制的，我也知道焦虑没有用啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2108121563866468579",
+        "created_at": "2026-10-08T10:35:07.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T11:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108144151997136983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774268197304164352",
+              "start": 0,
+              "username": "dzsdh261302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108144151997136983",
+        "in_reply_to_user_id": "1774268197304164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108131285655020020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzsdh261302 我焦虑不是因为我想要焦虑才焦虑，是因为我焦虑才会焦虑\n这不是我可以控制的，我也知道焦虑没有用啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774268197304164352",
+        "conversation_id": "2108121563866468579",
+        "created_at": "2026-10-08T09:44:00.000Z",
+        "display_text_range": [
+          8,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108131285655020020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108131285655020020",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108121563866468579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 个人经验，焦虑了几年，发现焦虑也没用，就不焦虑了😤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11｜https://t.co/CzctPN7Qvn：https://t.co/sd3VS9D0iN｜🚪188好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chess.com",
+                "end": 64,
+                "expanded_url": "http://chess.com",
+                "start": 41,
+                "url": "https://t.co/CzctPN7Qvn"
+              },
+              {
+                "display_url": "chess.com/member/munouka…",
+                "end": 88,
+                "expanded_url": "https://www.chess.com/member/munoukami",
+                "start": 65,
+                "url": "https://t.co/sd3VS9D0iN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2108144151997136983",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2106608408413757881",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6963,
+          "following_count": 719,
+          "like_count": 26835,
+          "listed_count": 20,
+          "media_count": 1253,
+          "tweet_count": 17769
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T02:51:38.000Z",
+        "description": "",
+        "id": "1774268197304164352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108131285655020020",
+        "name": "VHV",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774268622929543168/F6qqp4CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 69,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "dzsdh261302",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

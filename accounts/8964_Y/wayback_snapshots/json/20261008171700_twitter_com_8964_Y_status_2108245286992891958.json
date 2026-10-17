@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2108179371156717816",
+    "created_at": "2026-10-08T17:17:00.000Z",
+    "display_text_range": [
+      17,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T18:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108245286992891958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394652640894611465",
+          "start": 0,
+          "username": "yeahyeahyeahiei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108245286992891958",
+    "in_reply_to_user_id": "1394652640894611465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108179371156717816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeahyeahyeahiei 是的是的！我也觉得acane新歌非常有这首歌的感觉！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2778,
+        "media_key": "3_2108179337619058688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUHB8B2aMAACOId.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2108179371156717816",
+        "created_at": "2026-10-08T17:17:00.000Z",
+        "display_text_range": [
+          17,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T18:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108245286992891958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394652640894611465",
+              "start": 0,
+              "username": "yeahyeahyeahiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108245286992891958",
+        "in_reply_to_user_id": "1394652640894611465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108179371156717816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeahyeahyeahiei 是的是的！我也觉得acane新歌非常有这首歌的感觉！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108179337619058688"
+          ]
+        },
+        "author_id": "1394652640894611465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2108179371156717816",
+        "created_at": "2026-10-08T12:55:04.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T13:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108179371156717816"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "ずとまよ"
+            },
+            {
+              "end": 128,
+              "start": 121,
+              "tag": "あかねさす頃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHuqUGmczj",
+              "end": 152,
+              "expanded_url": "https://x.com/yeahyeahyeahiei/status/2108179371156717816/photo/1",
+              "media_key": "3_2108179337619058688",
+              "start": 129,
+              "url": "https://t.co/OHuqUGmczj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108179371156717816",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108179337619058688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歌い方がいつもと違うのに何か懐かしい気がして、フロントメモリーのカバーを聞きかえしたらどちらも夏の歌を歌うACAねちゃんは茹だりながらも肩で風切って進んでくイメージで解釈一致すぎた◎なんかフロントメモリーの世界の10年後って感じ\n#ずとまよ\n#あかねさす頃 https://t.co/OHuqUGmczj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11｜https://t.co/CzctPN7Qvn：https://t.co/sd3VS9D0iN｜🚪188好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chess.com",
+                "end": 64,
+                "expanded_url": "http://chess.com",
+                "start": 41,
+                "url": "https://t.co/CzctPN7Qvn"
+              },
+              {
+                "display_url": "chess.com/member/munouka…",
+                "end": 88,
+                "expanded_url": "https://www.chess.com/member/munoukami",
+                "start": 65,
+                "url": "https://t.co/sd3VS9D0iN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2108245286992891958",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2106608408413757881",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6965,
+          "following_count": 721,
+          "like_count": 26860,
+          "listed_count": 20,
+          "media_count": 1255,
+          "tweet_count": 17785
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-18T13:54:52.000Z",
+        "description": "ずとまよ時々ほか │ ⚡️伝雷両日 │ 🧟‍♂️ｿﾞﾝｸﾗ：🇯🇵🇰🇷🇸🇬🇹🇭🇹🇼🇭🇰全6ヶ国19公演完走 │ 🪐ｺｽﾞ団：全公演完走 │ 🇯🇵名巧ｵﾓﾃ+ｳﾗ：全公演完走 │ 🏗スナネコ建設：21/36完走 │ CLANSプロフはリンクから",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/yeahyeahyeahiei",
+                "end": 23,
+                "expanded_url": "https://potofu.me/yeahyeahyeahiei",
+                "start": 0,
+                "url": "https://t.co/zo5AwjYqPc"
+              }
+            ]
+          }
+        },
+        "id": "1394652640894611465",
+        "is_identity_verified": false,
+        "location": "いつもゲラゲラ道を塞ぐ民よ",
+        "most_recent_tweet_id": "2108234951791689950",
+        "name": "べっ！",
+        "pinned_tweet_id": "1786020940066996544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394652640894611465/1621352663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108192644031782913/w869QsE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 1036,
+          "like_count": 119559,
+          "listed_count": 80,
+          "media_count": 6472,
+          "tweet_count": 70944
+        },
+        "url": "https://t.co/zo5AwjYqPc",
+        "username": "yeahyeahyeahiei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

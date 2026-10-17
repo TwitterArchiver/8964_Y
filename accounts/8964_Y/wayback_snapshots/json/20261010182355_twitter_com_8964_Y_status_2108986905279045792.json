@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2108986828435148800"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2108986905279045792",
+    "created_at": "2026-10-10T18:23:55.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T19:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108986905279045792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "csm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUxB9TYk81",
+          "end": 34,
+          "expanded_url": "https://x.com/8964_Y/status/2108986905279045792/video/1",
+          "media_key": "13_2108986828435148800",
+          "start": 11,
+          "url": "https://t.co/WUxB9TYk81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108986905279045792",
+    "lang": "cs",
+    "media_metadata": [
+      {
+        "media_key": "13_2108986828435148800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "majic #csm https://t.co/WUxB9TYk81"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24266,
+        "height": 1920,
+        "media_key": "13_2108986828435148800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108986828435148800/img/7Lsv530f0aPk6sYw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108986828435148800/vid/avc1/720x1280/oDzHeUnlk8NBIi5g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108986828435148800/vid/avc1/480x852/hzKNXXjVrLWCFssL.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108986828435148800/vid/avc1/320x568/lAdlyvGng6tiqpNT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108986828435148800/vid/avc1/1080x1920/sHp0gmDS0EMm0Mo2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108986828435148800/pl/09m4W1Ss0e0UlZ5F.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108986828435148800"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2108986905279045792",
+        "created_at": "2026-10-10T18:23:55.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T19:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108986905279045792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "csm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUxB9TYk81",
+              "end": 34,
+              "expanded_url": "https://x.com/8964_Y/status/2108986905279045792/video/1",
+              "media_key": "13_2108986828435148800",
+              "start": 11,
+              "url": "https://t.co/WUxB9TYk81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108986905279045792",
+        "lang": "cs",
+        "media_metadata": [
+          {
+            "media_key": "13_2108986828435148800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "majic #csm https://t.co/WUxB9TYk81"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11｜https://t.co/CzctPN7Qvn：https://t.co/sd3VS9D0iN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chess.com",
+                "end": 64,
+                "expanded_url": "http://chess.com",
+                "start": 41,
+                "url": "https://t.co/CzctPN7Qvn"
+              },
+              {
+                "display_url": "chess.com/member/munouka…",
+                "end": 88,
+                "expanded_url": "https://www.chess.com/member/munoukami",
+                "start": 65,
+                "url": "https://t.co/sd3VS9D0iN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2108986905279045792",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2106608408413757881",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6956,
+          "following_count": 721,
+          "like_count": 26891,
+          "listed_count": 20,
+          "media_count": 1260,
+          "tweet_count": 17801
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

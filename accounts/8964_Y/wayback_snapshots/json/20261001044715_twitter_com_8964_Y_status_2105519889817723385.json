@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2105519889817723385",
+    "created_at": "2026-10-01T04:47:15.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T05:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105519889817723385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "467164764",
+          "start": 3,
+          "username": "Mikheeva_Elena_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105519889817723385",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104989891054755983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mikheeva_Elena_: У китайцев очень ядовитый рот. Я думаю, хорошо, что мы раньше не понимали их, был смысл в построении стены, не только…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2105519889817723385",
+        "created_at": "2026-10-01T04:47:15.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105519889817723385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "467164764",
+              "start": 3,
+              "username": "Mikheeva_Elena_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105519889817723385",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104989891054755983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mikheeva_Elena_: У китайцев очень ядовитый рот. Я думаю, хорошо, что мы раньше не понимали их, был смысл в построении стены, не только…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467164764",
+        "conversation_id": "2104989891054755983",
+        "created_at": "2026-09-29T17:41:13.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104989891054755983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104989891054755983",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 694,
+          "impression_count": 1554176,
+          "like_count": 10073,
+          "quote_count": 55,
+          "reply_count": 857,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "У китайцев очень ядовитый рот. Я думаю, хорошо, что мы раньше не понимали их, был смысл в построении стены, не только Великой Китайской, но в инете, ну и пока в Х не было автоперевода. Мой русский семиэтажный мат - это жалкая пародия под шестнадцатью этажной руганью китайцев.🙄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11｜https://t.co/CzctPN7Qvn：https://t.co/sd3VS9D0iN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chess.com",
+                "end": 64,
+                "expanded_url": "http://chess.com",
+                "start": 41,
+                "url": "https://t.co/CzctPN7Qvn"
+              },
+              {
+                "display_url": "chess.com/member/munouka…",
+                "end": 88,
+                "expanded_url": "https://www.chess.com/member/munoukami",
+                "start": 65,
+                "url": "https://t.co/sd3VS9D0iN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2105519889817723385",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2101222728644874502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6851,
+          "following_count": 723,
+          "like_count": 26751,
+          "listed_count": 20,
+          "media_count": 1244,
+          "tweet_count": 17727
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T05:36:40.000Z",
+        "description": "Ломастер интересных твитов, сладкозвучных речей и краткого слога.",
+        "id": "467164764",
+        "is_identity_verified": false,
+        "location": "Russia, Moscow",
+        "most_recent_tweet_id": "2105394421038477346",
+        "name": "Elena Mikheeva",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467164764/1525947394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594043129044271105/ITkDSH3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5950,
+          "following_count": 2930,
+          "like_count": 82116,
+          "listed_count": 14,
+          "media_count": 6046,
+          "tweet_count": 69569
+        },
+        "url": "",
+        "username": "Mikheeva_Elena_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107699009058172928"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2107699029417263165",
+    "created_at": "2026-10-07T05:06:22.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107699029417263165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/raJx31JVCC",
+          "end": 23,
+          "expanded_url": "https://x.com/8964_Y/status/2107699029417263165/video/1",
+          "media_key": "13_2107699009058172928",
+          "start": 0,
+          "url": "https://t.co/raJx31JVCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107699029417263165",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2107699009058172928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/raJx31JVCC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10006,
+        "height": 960,
+        "media_key": "13_2107699009058172928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107699009058172928/img/gias9nOB9KLUyGEd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107699009058172928/vid/avc1/320x426/6VGz5oxyDxTVOzjO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107699009058172928/vid/avc1/480x640/cbte6REZVbGNP9DZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107699009058172928/vid/avc1/720x960/88O3vEEPIsCB6-oW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107699009058172928/pl/3B9xrab1y3kSeF0b.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107699009058172928"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2107699029417263165",
+        "created_at": "2026-10-07T05:06:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107699029417263165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/raJx31JVCC",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/2107699029417263165/video/1",
+              "media_key": "13_2107699009058172928",
+              "start": 0,
+              "url": "https://t.co/raJx31JVCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107699029417263165",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2107699009058172928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/raJx31JVCC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11｜https://t.co/CzctPN7Qvn：https://t.co/sd3VS9D0iN｜🚪188好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chess.com",
+                "end": 64,
+                "expanded_url": "http://chess.com",
+                "start": 41,
+                "url": "https://t.co/CzctPN7Qvn"
+              },
+              {
+                "display_url": "chess.com/member/munouka…",
+                "end": 88,
+                "expanded_url": "https://www.chess.com/member/munoukami",
+                "start": 65,
+                "url": "https://t.co/sd3VS9D0iN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2107699029417263165",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2106608408413757881",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6967,
+          "following_count": 720,
+          "like_count": 26848,
+          "listed_count": 20,
+          "media_count": 1254,
+          "tweet_count": 17768
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

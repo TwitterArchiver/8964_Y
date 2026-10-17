@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732356232290222080",
+    "conversation_id": "2104570361539158130",
+    "created_at": "2026-09-28T13:54:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104570361539158130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2870513395",
+          "start": 3,
+          "username": "DongBeiYuZaiLXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104570361539158130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103512018267582565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DongBeiYuZaiLXF: 【中文字幕】地雷酱对部分中国网友的回复。\n\n感觉这妹子要火啊。\n\n不过她搞错了，中国上X是不违法的，但是通过VPN是违法的。\n\n所以理论上海外的中国人上X也不违法，因为没有翻墙。\n\n中国人也会在X上说政府有问题，这可能会涉嫌违反中国法律…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83289,
+        "height": 1920,
+        "media_key": "13_2103511766328348672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103511766328348672/img/OYhFN_vLDeG-zBzI.jpg",
+        "public_metrics": {
+          "view_count": 169687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/480x852/8TMYH7FaBI2mbB0o.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/320x568/lccbaKQORZzEppnR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/720x1280/N0lNZCSP6VqQfBHm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/1080x1920/C1OqiIet-L23ctSs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/pl/iaemCAEEOrCeyzWR.m3u8?v=e2f"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2104570361539158130",
+        "created_at": "2026-09-28T13:54:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104570361539158130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2870513395",
+              "start": 3,
+              "username": "DongBeiYuZaiLXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104570361539158130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103512018267582565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DongBeiYuZaiLXF: 【中文字幕】地雷酱对部分中国网友的回复。\n\n感觉这妹子要火啊。\n\n不过她搞错了，中国上X是不违法的，但是通过VPN是违法的。\n\n所以理论上海外的中国人上X也不违法，因为没有翻墙。\n\n中国人也会在X上说政府有问题，这可能会涉嫌违反中国法律…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103511766328348672"
+          ]
+        },
+        "author_id": "2870513395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2103512018267582565",
+        "created_at": "2026-09-25T15:48:41.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103512018267582565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gfoksbxOD",
+              "end": 167,
+              "expanded_url": "https://x.com/DongBeiYuZaiLXF/status/2103512018267582565/video/1",
+              "media_key": "13_2103511766328348672",
+              "start": 144,
+              "url": "https://t.co/8gfoksbxOD"
+            },
+            {
+              "display_url": "x.com/amatsuuni/stat…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/amatsuuni/status/2103262990019768563",
+              "start": 168,
+              "url": "https://t.co/9pyRGbXXlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103512018267582565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103511766328348672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 307,
+          "impression_count": 245245,
+          "like_count": 1007,
+          "quote_count": 9,
+          "reply_count": 238,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103262990019768563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【中文字幕】地雷酱对部分中国网友的回复。\n\n感觉这妹子要火啊。\n\n不过她搞错了，中国上X是不违法的，但是通过VPN是违法的。\n\n所以理论上海外的中国人上X也不违法，因为没有翻墙。\n\n中国人也会在X上说政府有问题，这可能会涉嫌违反中国法律，但这部分中国人是没问题的，恰好是正常的那一部分。 https://t.co/8gfoksbxOD https://t.co/9pyRGbXXlR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2104570361539158130",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2101222728644874502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6856,
+          "following_count": 721,
+          "like_count": 26730,
+          "listed_count": 20,
+          "media_count": 1243,
+          "tweet_count": 17718
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-22T08:20:51.000Z",
+        "description": "精日流脱支派：以日本和日本人为参照物，认清反省并清除自身残留的支性，致力达成精神上同步现代文明社会价值观，现实中融入日本社会的自我改造。\n\nAI歌曲、视屏收录频道：\nhttps://t.co/UiQYLAE77S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dongbeiyuzhai…",
+                "end": 106,
+                "expanded_url": "https://youtube.com/@dongbeiyuzhailxf?si=bQkYvYOG90bZT4yN",
+                "start": 83,
+                "url": "https://t.co/UiQYLAE77S"
+              }
+            ]
+          }
+        },
+        "id": "2870513395",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104554638439862619",
+        "name": "东北御厨💙💛",
+        "pinned_tweet_id": "2083768169253224528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2870513395/1707791690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096227613014642688/a1KMKkPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18188,
+          "following_count": 2582,
+          "like_count": 128611,
+          "listed_count": 111,
+          "media_count": 4504,
+          "tweet_count": 54353
+        },
+        "url": "",
+        "username": "DongBeiYuZaiLXF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

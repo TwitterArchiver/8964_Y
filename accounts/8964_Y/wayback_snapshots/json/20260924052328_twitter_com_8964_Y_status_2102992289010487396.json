@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102794479484952576"
+      ],
+      "media_source_tweet_id": [
+        "2102794534824632731"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "conversation_id": "2102992289010487396",
+    "created_at": "2026-09-24T05:23:28.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T06:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102992289010487396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1323554856464867328",
+          "start": 3,
+          "username": "Riva_k86"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ActvxTHche",
+          "end": 45,
+          "expanded_url": "https://x.com/Riva_k86/status/2102794534824632731/video/1",
+          "media_key": "13_2102794479484952576",
+          "start": 22,
+          "url": "https://t.co/ActvxTHche"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102992289010487396",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2102794479484952576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 466
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102794534824632731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riva_k86: The two https://t.co/ActvxTHche"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18853,
+        "height": 1280,
+        "media_key": "13_2102794479484952576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102794479484952576/img/E45VNEGiYIwH_4Yg.jpg",
+        "public_metrics": {
+          "view_count": 10252
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102794479484952576/vid/avc1/320x568/hlDr3QB5XVISa2uo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102794479484952576/vid/avc1/480x852/UztN_AigIEs7p2is.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102794479484952576/vid/avc1/720x1280/lr_fJqUdpGuG6KwL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102794479484952576/pl/a8IUX0k9S-7AhmM9.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102794479484952576"
+          ],
+          "media_source_tweet_id": [
+            "2102794534824632731"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2102992289010487396",
+        "created_at": "2026-09-24T05:23:28.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102992289010487396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1323554856464867328",
+              "start": 3,
+              "username": "Riva_k86"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ActvxTHche",
+              "end": 45,
+              "expanded_url": "https://x.com/Riva_k86/status/2102794534824632731/video/1",
+              "media_key": "13_2102794479484952576",
+              "start": 22,
+              "url": "https://t.co/ActvxTHche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102992289010487396",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102794479484952576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 466
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102794534824632731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riva_k86: The two https://t.co/ActvxTHche"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102794479484952576"
+          ]
+        },
+        "author_id": "1323554856464867328",
+        "conversation_id": "2102794534824632731",
+        "created_at": "2026-09-23T16:17:39.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102794534824632731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ActvxTHche",
+              "end": 31,
+              "expanded_url": "https://x.com/Riva_k86/status/2102794534824632731/video/1",
+              "media_key": "13_2102794479484952576",
+              "start": 8,
+              "url": "https://t.co/ActvxTHche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102794534824632731",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102794479484952576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 380,
+          "impression_count": 36729,
+          "like_count": 2930,
+          "quote_count": 28,
+          "reply_count": 5,
+          "retweet_count": 466
+        },
+        "reply_settings": "everyone",
+        "text": "The two https://t.co/ActvxTHche"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2102992289010487396",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2101222728644874502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6858,
+          "following_count": 724,
+          "like_count": 26723,
+          "listed_count": 20,
+          "media_count": 1240,
+          "tweet_count": 17702
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-03T09:17:43.000Z",
+        "description": "World's one of the greatest #rabbit lover! \nOn https://t.co/Afsbo0IYIP 👇 Available Domains\nhttps://t.co/nIolA3nxIl",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "rabbit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Sedo.com",
+                "end": 70,
+                "expanded_url": "http://Sedo.com",
+                "start": 47,
+                "url": "https://t.co/Afsbo0IYIP"
+              },
+              {
+                "display_url": "bookingjapan.com",
+                "end": 114,
+                "expanded_url": "http://bookingjapan.com",
+                "start": 91,
+                "url": "https://t.co/nIolA3nxIl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaarashop.com/collections/bu…",
+                "end": 23,
+                "expanded_url": "https://jaarashop.com/collections/bunny-callection",
+                "start": 0,
+                "url": "https://t.co/lXr1hgh7tM"
+              }
+            ]
+          }
+        },
+        "id": "1323554856464867328",
+        "is_identity_verified": false,
+        "location": "United State",
+        "most_recent_tweet_id": "2102915421083160804",
+        "name": "Riva",
+        "pinned_tweet_id": "2102795023633019364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1323554856464867328/1656983417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628937856461979648/etsZkN_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19459,
+          "following_count": 6158,
+          "like_count": 5177,
+          "listed_count": 51,
+          "media_count": 2925,
+          "tweet_count": 4559
+        },
+        "url": "https://t.co/lXr1hgh7tM",
+        "username": "Riva_k86",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103995825554620416"
+      ],
+      "media_source_tweet_id": [
+        "2103995832622039508"
+      ]
+    },
+    "author_id": "1732356232290222080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041843402",
+          "name": "化物語"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      }
+    ],
+    "conversation_id": "2108193848065450474",
+    "created_at": "2026-10-08T13:52:36.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T14:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108193848065450474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 21,
+          "tag": "bakemonogatari"
+        },
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "ougioshino"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2041134651696095232",
+          "start": 3,
+          "username": "arcarcarcarcar6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a7uWRaGyCu",
+          "end": 113,
+          "expanded_url": "https://x.com/arcarcarcarcar6/status/2103995832622039508/photo/1",
+          "media_key": "3_2103995825554620416",
+          "start": 90,
+          "url": "https://t.co/a7uWRaGyCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108193848065450474",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103995825554620416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103995832622039508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arcarcarcarcar6: #bakemonogatari #ougioshino you’re the one who knows Araragi senpai~ https://t.co/a7uWRaGyCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1965,
+        "media_key": "3_2103995825554620416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLlDk8WgAAee9v.jpg",
+        "width": 2015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103995825554620416"
+          ],
+          "media_source_tweet_id": [
+            "2103995832622039508"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2108193848065450474",
+        "created_at": "2026-10-08T13:52:36.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108193848065450474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 21,
+              "tag": "bakemonogatari"
+            },
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "ougioshino"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2041134651696095232",
+              "start": 3,
+              "username": "arcarcarcarcar6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7uWRaGyCu",
+              "end": 113,
+              "expanded_url": "https://x.com/arcarcarcarcar6/status/2103995832622039508/photo/1",
+              "media_key": "3_2103995825554620416",
+              "start": 90,
+              "url": "https://t.co/a7uWRaGyCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108193848065450474",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103995825554620416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103995832622039508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arcarcarcarcar6: #bakemonogatari #ougioshino you’re the one who knows Araragi senpai~ https://t.co/a7uWRaGyCu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103995825554620416"
+          ]
+        },
+        "author_id": "2041134651696095232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2103995832622039508",
+        "created_at": "2026-09-26T23:51:11.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T00:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103995832622039508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "bakemonogatari"
+            },
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "ougioshino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7uWRaGyCu",
+              "end": 92,
+              "expanded_url": "https://x.com/arcarcarcarcar6/status/2103995832622039508/photo/1",
+              "media_key": "3_2103995825554620416",
+              "start": 69,
+              "url": "https://t.co/a7uWRaGyCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103995832622039508",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103995825554620416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#bakemonogatari #ougioshino you’re the one who knows Araragi senpai~ https://t.co/a7uWRaGyCu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11｜https://t.co/CzctPN7Qvn：https://t.co/sd3VS9D0iN｜🚪188好处只有认识我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chess.com",
+                "end": 64,
+                "expanded_url": "http://chess.com",
+                "start": 41,
+                "url": "https://t.co/CzctPN7Qvn"
+              },
+              {
+                "display_url": "chess.com/member/munouka…",
+                "end": 88,
+                "expanded_url": "https://www.chess.com/member/munoukami",
+                "start": 65,
+                "url": "https://t.co/sd3VS9D0iN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-99hByKxts93",
+                "start": 0,
+                "url": "https://t.co/3zBH9Ogb7q"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "is_identity_verified": false,
+        "location": "神域市",
+        "most_recent_tweet_id": "2108193848065450474",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2106608408413757881",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732356232290222080/1788326871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6963,
+          "following_count": 719,
+          "like_count": 26846,
+          "listed_count": 20,
+          "media_count": 1254,
+          "tweet_count": 17776
+        },
+        "url": "https://t.co/3zBH9Ogb7q",
+        "username": "8964_Y",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T12:44:16.000Z",
+        "description": "",
+        "id": "2041134651696095232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108178920139018562",
+        "name": "arc",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041134651696095232/1790466963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103996789611282432/zPrvIFf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 35,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "arcarcarcarcar6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
